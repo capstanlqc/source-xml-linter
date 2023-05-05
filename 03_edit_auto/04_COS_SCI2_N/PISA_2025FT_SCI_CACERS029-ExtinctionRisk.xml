@@ -1,0 +1,282 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6343905d374f3/passage NEW.xml">
+            <label key="27f85a4ce0cedf38cde6fff33e7fa2ef">
+                <text>Extinction Risk </text>
+            </label>
+            <label key="48d33a14032d9c43b0228be46a25fef6">
+                <text>Extinction risk is not as well studied in reptiles as it is within other animal groups, such as many bird and mammal species.  </text>
+            </label>
+            <label key="c4d5820bcd587d1884ab5a28a23c8501">
+                <text>The graph shows the extinction risk in some major groups of vertebrates.</text>
+            </label>
+            <label key="c86b24652ba9291f6a66de9c11ce9ebf">
+                <text>Some species are described as ‘data deficient’. Even if an organism is well known, the International Union for Conservation of Nature (IUCN) defines a species as being data deficient ‘when there is inadequate information to make a direct, or indirect, assessment of its risk of extinction based on its distribution and/or population status’.</text>
+            </label>
+            <label key="cb48aaa1162f7b1f4c027dc83a9b88c8">
+                <text>
+                    <strong>‌Extinction risk in major animal groups‌</strong>
+                </text>
+            </label>
+            <label key="26df571d4126209e0559b8b2064d5c9f">
+                <text>
+                    <strong>‌Percentage of total species in animal group‌</strong>
+                </text>
+            </label>
+            <label key="afd2f7890b705ce037a10be4b3d3907c">
+                <text>
+                    <strong>‌Birds‌</strong>
+                </text>
+            </label>
+            <label key="e8fa6ef59a11bde5bf4c97003418c5b5">
+                <text>Neoaves</text>
+            </label>
+            <label key="2b4e5e944dabbf41930904d59ab8feb3">
+                <text>Paleognathae</text>
+            </label>
+            <label key="2254bed264260450e172e4c89f1aa8e6">
+                <text>Galloanserae</text>
+            </label>
+            <label key="7560d1272ccf69f43ba6a0f7ed26e20c">
+                <text>
+                    <strong>‌Amphibians‌</strong>
+                </text>
+            </label>
+            <label key="f3a67f018c3f6ca13a5c27de3d3c9be5">
+                <text>Gymnophiona</text>
+            </label>
+            <label key="5b89a58b8b0681e2d0077014409bcbdc">
+                <text>Anura</text>
+            </label>
+            <label key="ba75dd3805a41b69f62b72cf582cb88d">
+                <text>Caudata</text>
+            </label>
+            <label key="1045f030bc2b668d7512a395414829cd">
+                <text>
+                    <strong>‌Mammals‌</strong>
+                </text>
+            </label>
+            <label key="4c5d4899968726909d08d74063d568ce">
+                <text>Placentalia</text>
+            </label>
+            <label key="170210dd2378abe268df765a4102a5c7">
+                <text>Marsupialia</text>
+            </label>
+            <label key="542cc27de7f616ca9656150b33f15307">
+                <text>Monotremata</text>
+            </label>
+            <label key="414c014d54284af8df285adbfaa58334">
+                <text>
+                    <strong>‌Reptiles‌</strong>
+                </text>
+            </label>
+            <label key="0d4291c55a71f87965b48e64c48e78e7">
+                <text>Rhynchocephalia</text>
+            </label>
+            <label key="fb9859640e0203b20ee65768ca097a97">
+                <text>Serpentes</text>
+            </label>
+            <label key="0726f973054075dae770b250c1297bfe">
+                <text>Lacertoidea</text>
+            </label>
+            <label key="a7601bd4b2809168da1be7393183c371">
+                <text>Scinciformata</text>
+            </label>
+            <label key="6dafa61a1f227dbf8652947c18aed523">
+                <text>Gekkota</text>
+            </label>
+            <label key="b2153847b64d212608c3efac3bc4cce5">
+                <text>Dibamia</text>
+            </label>
+            <label key="9aca2c1c83afa232ea89c05d1a0ae492">
+                <text>Anguimorpha</text>
+            </label>
+            <label key="91022ead2e74d45ada1a6eb46b0c2ec5">
+                <text>Crocodilia</text>
+            </label>
+            <label key="19d189b12e9fce84ad31484c92ece1cb">
+                <text>Testudines</text>
+            </label>
+            <label key="3271de5a140c5388038f167f9b110739">
+                <text>Near threatened/least concern</text>
+            </label>
+            <label key="829910c821997e9dcaa4e05761f4bfb3">
+                <text>Data deficient</text>
+            </label>
+            <label key="6e74fabc72b6a52f62aa423bd2d81a48">
+                <text>Critically endangered/endangered/vulnerable</text>
+            </label>
+            <label key="cf0e60c55574b2f1761af2ac27d24457">
+                <text>Extinct/extinct in the wild</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63439186488101964aab5105bee6b9cfe">
+            <label key="6d89c448b520c254a039bf6caad6e21f">
+                <text>Which of these are reasons scientists classify organisms?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="fa10a764d551873052fceb963c5ac18f">
+                <text>to allow clear communication between scientists </text>
+            </label>
+            <label key="bd0b29c7e69a1df6aa5b1a3ea822fdca">
+                <text>to ensure that related organisms have the same species names</text>
+            </label>
+            <label key="e549b8823f8bf25bcdc46eca3035752e">
+                <text>to make decisions about which organisms are useful to humans</text>
+            </label>
+            <label key="c9c39e45eca5a078a714b6922ec8b899">
+                <text>to better understand evolutionary relationships between organisms</text>
+            </label>
+        </item>
+        <item id="i6343921e68bad130379f7745b82e4f78c1">
+            <label key="70b6d7d13e38fac9e7678da46b6501db">
+                <text>Scientists can use the graph to predict the overall extinction risk for each group.</text>
+            </label>
+            <label key="78a52656c509a700f4ba345152f928c6">
+                <text><br/>Which group can scientists be most certain of its overall extinction risk?</text>
+            </label>
+            <label key="75c73f175a85cee384f32a5608eb67d1">
+                <text>birds</text>
+            </label>
+            <label key="c4a317a734a700eb6f767bdc511c1588">
+                <text>amphibians</text>
+            </label>
+            <label key="09674ef751063afe5935ca6f70ea08f1">
+                <text>mammals</text>
+            </label>
+            <label key="45053265723f59bd84cf4af2b15def8e">
+                <text>reptiles</text>
+            </label>
+        </item>
+        <item id="i634392875f83f11365068caaaa9b1d6240">
+            <label key="374f2dbc3ad2e6c628ff67beee5d8281">
+                <text>For each animal group, the graph gives the percentage of species that are at extinction risk.</text>
+            </label>
+            <label key="1cd8541f0b0cf8688619ac180646011d">
+                <text>Which one of these four groups has the highest estimated extinction risk?</text>
+            </label>
+            <label key="fb9859640e0203b20ee65768ca097a97">
+                <text>Serpentes</text>
+            </label>
+            <label key="19d189b12e9fce84ad31484c92ece1cb">
+                <text>Testudines</text>
+            </label>
+            <label key="6dafa61a1f227dbf8652947c18aed523">
+                <text>Gekkota</text>
+            </label>
+            <label key="5baa202cf4bc925cb85d80a06a7b4d53">
+                <text>Dibamidae</text>
+            </label>
+        </item>
+        <item id="i6343936baf54d113573a6b428756da7ea2">
+            <label key="cb436674a9c2c31a776f259ac32a9dec">
+                <text>Of the groups listed in the graph, which one could contain only one species?</text>
+            </label>
+            <label key="e1fa7d1723546c6fc53041d9478e6fe5">
+                <text>Write the name of the group in the box.</text>
+            </label>
+            <label key="85d04479232f85a912677edcffb88f98">
+                <text>Explain your reasoning.</text>
+            </label>
+        </item>
+        <item id="i63439431eed5e25867f260445b49f58cc">
+            <label key="3bfdb8f697fb2aaa39c6caf26ad8f8b1">
+                <text>There are only a few species of Monotremata compared to hundreds of species of Caudata.</text>
+            </label>
+            <label key="2400cbb90cbdff94a4d9d5ffa77f5248">
+                <text>Suppose that conservation efforts succeed in changing the status of one species of Monotremata and one species of Caudata from critically endangered/endangered/vulnerable to near threatened/least concern.</text>
+            </label>
+            <label key="8f70f08191520eacd66e4718188bc4e1">
+                <text>What impact would this change in status have on the predicted overall extinction risk for these two groups?</text>
+            </label>
+            <label key="99f10c8e71a432baea3e24b53bf51186">
+                <text>increase in Monotremata, negligible change in Caudata</text>
+            </label>
+            <label key="17f692f6138bafe0b77f7c91117e47b1">
+                <text>negligible change in Monotremata, increase in Caudata</text>
+            </label>
+            <label key="b5c1680480d1d69346e0134afc3bd698">
+                <text>decrease in Monotremata, negligible change in Caudata</text>
+            </label>
+            <label key="08b92806a875e40431f38016be13482e">
+                <text>negligible change in Monotremata, decrease in Caudata</text>
+            </label>
+        </item>
+        <item id="i6343a756c6f6d1136204ccbcf9dd082e64">
+            <label key="44a5f59d8304dc70e36195f8dc8b3749">
+                <text>Efforts to conserve non-reptile species are often also effective in conserving reptile species.</text>
+            </label>
+            <label key="414c577c18325305118fb4c5a0f448b0">
+                <text>Which one of the following conservation efforts is most likely to benefit reptile species?</text>
+            </label>
+            <label key="38fbb0dcc5875efa849386779d53fb78">
+                <text>genetic studies of rainforest birds</text>
+            </label>
+            <label key="5fea24bad85ae1872fd74ead74762828">
+                <text>conserving habitat of small mammals</text>
+            </label>
+            <label key="29894712e7758b272d7524d9294d42e3">
+                <text>captive breeding programs for frogs that live in snowy mountainous regions</text>
+            </label>
+            <label key="1ea2daaba9a374b9ba9a9fa38cd3977e">
+                <text>conserving breeding habitat of Antarctic penguins</text>
+            </label>
+        </item>
+        <item id="i6343a7fd48c9d17917f04d5c73a26c4287">
+            <label key="0f84471cbb9811a2710801017f3fac84">
+                <text>Which one of the following categories of reptiles is least likely to benefit from conservation strategies aimed at other vertebrates?</text>
+            </label>
+            <label key="02ccfd2ceb68ac203e6aef12f544e56d">
+                <text>herbivorous reptiles</text>
+            </label>
+            <label key="aecf050cf144ff82358a25d23c33ac30">
+                <text>reptiles whose habitat area overlaps that of endangered birds</text>
+            </label>
+            <label key="e503a035cfa6ae2581d916966f904469">
+                <text>reptiles with the smallest habitat area</text>
+            </label>
+            <label key="3246676a35312a6c727acf95297b4825">
+                <text>reptiles whose habitat has been destroyed by urban development</text>
+            </label>
+        </item>
+        <item id="i6343a87a1660f11364147c39effff2c952">
+            <label key="84377284dbf652b5434249ab41420bb6">
+                <text>A news article presents alternative data that suggests that extinction risk for the vertebrates in the graph is much lower than that presented in this graph.</text>
+            </label>
+            <label key="8e0f3275bdf4f8e8368b50d217368568">
+                <text>Maria thinks that the article is unreliable, biased, irrelevant, and invalid. Her reasons include the following:</text>
+            </label>
+            <label key="477ceebb65d0b97951a890b2d35ba513">
+                <text>The article was published in a magazine on economics.</text>
+            </label>
+            <label key="d2ec54ff82f527aef6f96b69709a2106">
+                <text>The author did not ask a scientist to review the article.</text>
+            </label>
+            <label key="48a15a299d76be02ce9d3f8f13f4370f">
+                <text>The article referenced data from a study funded by a mining company.</text>
+            </label>
+            <label key="adbf3ea3ba8e8d8918eff7b0d79637e5">
+                <text>The article used data that was collected over 30 years ago.</text>
+            </label>
+            <label key="d936ed449837b65889d555851e0dd634">
+                <text> Which one of the following statements about this article is correct?</text>
+            </label>
+            <label key="2b86dfb79f742d9c7352a26012126d83">
+                <text>Points 2 and 3 make the article irrelevant to the topic of extinction risk.</text>
+            </label>
+            <label key="f1bb440f528147b11b637d92e10e51a2">
+                <text>Points 1 and 3 make the data invalid.</text>
+            </label>
+            <label key="c34eb9af5d4f4fbed2ce706d28c7e0ec">
+                <text>Points 1, 2 and 4 make the article biased.</text>
+            </label>
+            <label key="fdb0fad7beac866ce2d1254ba15fc8f8">
+                <text>Points 2 and 4 make the article less reliable.</text>
+            </label>
+        </item>
+    </items>
+</file>

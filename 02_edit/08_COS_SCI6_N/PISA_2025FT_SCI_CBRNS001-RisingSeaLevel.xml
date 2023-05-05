@@ -1,0 +1,117 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6355ede9dc42d/passage NEW.xml">
+            <label key="c521aaacaf8ef7b19acb63fb02871673">
+                <text>Rising Sea Level</text>
+            </label>
+            <label key="7a03ec9386d1b512b0e2a1e864127014">
+                <text>The rate of sea level rise has doubled in the past 30 years. Sea levels are predicted to continue to rise, with some predictions estimating sea levels could rise up to 63 centimetres by 2100. Such sea level rises will have global impacts.</text>
+            </label>
+            <label key="5851eaa179c1211f6e1ccdc200ae7933">
+                <text>The maps below show the location of Jakarta, the capital of Indonesia, and the amount of land predicted to be submerged in Jakarta if sea levels continue to rise. The environmental and overpopulation issues facing Jakarta, including the risk of building collapse, are considered to be so severe that the city will soon be replaced as Indonesia’s capital by Nusantara, a city being built on the island of Borneo.</text>
+            </label>
+            <label key="3327c25743dbd3986a533b0eae4d7550">
+                <text><img src="" alt="CBRNS001S1_rising-sea-levels.svg" width="100%"/> ‌Map of Jakarta, Indonesia (top) and the amount of land in Jakarta predicted to be submerged by 2025 and 2050 (bottom).</text>
+            </label>
+            <label key="912d59cdf1d3f551fae21f6f0062258f">
+                <text>Europe</text>
+            </label>
+            <label key="154a67340e8c14dd5253dc4ff6120197">
+                <text>Asia</text>
+            </label>
+            <label key="f5cd262901883dff68d06b215fb0f28e">
+                <text>Africa</text>
+            </label>
+            <label key="4442e4af0916f53a07fb8ca9a49b98ed">
+                <text>Australia</text>
+            </label>
+            <label key="f3a693cf1392030d179eaa94d226f0ea">
+                <text>Jakarta</text>
+            </label>
+            <label key="4647d00cf81f8fb0ab80f753320d0fc9">
+                <text>Indonesia</text>
+            </label>
+            <label key="5ffec2d87ab548202f8b549af380913a">
+                <text>North America</text>
+            </label>
+            <label key="aab422acb3d2334a6deca0e1495745c2">
+                <text>South America</text>
+            </label>
+            <label key="269dd1e9cf66596864d5456b8ef7318b">
+                <text>10 km</text>
+            </label>
+            <label key="22d34ca91b1d200bca67ea54f21bc93d">
+                <text>18.8% submerged</text>
+            </label>
+            <label key="3d493489b2a3496df359693a7bcb85b9">
+                <text>26.9% submerged</text>
+            </label>
+            <label key="7048294c38210549596c926d31df0069">
+                <text>35.6% submerged</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6355eedf5c27b2284ab0be555e5d85690">
+            <label key="4098e3bd98c858065b13d074786c50ad">
+                <text>Which of the following factors contribute to rising sea levels?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="4e2dbe30359d5d5c0144c57beb4191b5">
+                <text>an increase in rain falling in coastal regions and running into the sea</text>
+            </label>
+            <label key="ddebc13771c601542a2ace200384e3b4">
+                <text>an increase in the volume of seawater caused by an increase in average global temperature</text>
+            </label>
+            <label key="895cbce43dcb3cc0edceab493e6d962e">
+                <text>an increase in the amount of rubbish being dumped into the sea</text>
+            </label>
+            <label key="aad5c0c964dcc7eedacc83c132a6a8a7">
+                <text>an increase in the volume of seawater from melting ice sheets and glaciers</text>
+            </label>
+        </item>
+        <item id="i6355ef96be1fd22826bfaccb9ba3ba6c3">
+            <label key="f1f709af0acd8fcf4ec8eac11903deca">
+                <text>People have made a number of predictions about the impact of global warming.</text>
+            </label>
+            <label key="616aa625a7647149011da691c4ee7c86">
+                <text>Are the following impacts consequences of rising sea levels?</text>
+            </label>
+            <label key="b7df90e0098b720593bff5d539e679cb">
+                <text>Select ‘Yes’ or ‘No’ for each prediction.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>Yes</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>No</strong>
+                </text>
+            </label>
+            <label key="34fb22bd8fa6ff9fb19070582ff2c9b1">
+                <text>Coastal communities will experience more flooding from high tides and storm surges.</text>
+            </label>
+            <label key="29377066f4fc5ea33cbc9d7407644366">
+                <text>The extent of sea ice in polar regions will be greatly reduced.</text>
+            </label>
+            <label key="c1826b1cd2f50cd04cee3a63783b7493">
+                <text>More people will move inland, requiring construction of new homes and facilities.</text>
+            </label>
+        </item>
+        <item id="i635604a9511c818490ad66d9094b53b9af">
+            <label key="dbdad76521bd3c1fc943a4a780a4b3a3">
+                <text>The capital city of Indonesia is being replaced for several reasons, including the risk of rising sea levels.</text>
+            </label>
+            <label key="754d60b26449e3548e47b88cc6027319">
+                <text>For many places that will be affected by rising sea levels, relocation may not be possible.</text>
+            </label>
+            <label key="baf654b592e98d02a58e85350c403777">
+                <text>What is one action that a city could take to prevent the damage caused by rising sea levels?</text>
+            </label>
+        </item>
+    </items>
+</file>

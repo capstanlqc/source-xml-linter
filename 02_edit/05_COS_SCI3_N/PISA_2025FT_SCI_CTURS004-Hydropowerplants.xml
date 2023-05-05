@@ -1,0 +1,213 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/85eae80363a10e1cdefc5/passage NEW 1.xml">
+            <label key="dd9c1201c53ffcd7f84fa004bcdd97b6">
+                <text>Hydroelectric Power Plants</text>
+            </label>
+            <label key="1bf92738a56c306237a379128035017b">
+                <text>Hydroelectric power plants can use water flow in rivers to generate electricity. One type of hydroelectric plant uses turbine generators installed in the river.</text>
+            </label>
+            <label key="f6e73e2bd723e395ced17da9f4617d57">
+                <text>The picture shows turbine generators at three places in a river. The table shows the amount of electrical energy produced at each of these locations when different numbers of turbines are in operation.</text>
+            </label>
+            <label key="158c79df2e047ac1fd2f088519ce8692">
+                <text>Slope (°)</text>
+            </label>
+            <label key="fff988f2841ab7492e4de8bedef42430">
+                <text>Number of turbines</text>
+            </label>
+            <label key="993a5e384ad39e94cdf91a51b0ead4d6">
+                <text>Energy produced (MWh)</text>
+            </label>
+            <label key="c6bf55910ac5e31ea46adf22c14e64e8">
+                <text>  2</text>
+            </label>
+            <label key="21a1dad013c42130b7c3e9761873cec4">
+                <text>  3.22</text>
+            </label>
+            <label key="c6bf55910ac5e31ea46adf22c14e64e8">
+                <text>  2</text>
+            </label>
+            <label key="c3c609f4da8aaa152da6df2998e51da2">
+                <text>  6.44</text>
+            </label>
+            <label key="c6bf55910ac5e31ea46adf22c14e64e8">
+                <text>  2</text>
+            </label>
+            <label key="e6ac75368c5e54d04fbf4eba04f332fa">
+                <text>  9.66</text>
+            </label>
+            <label key="4929b2ee66aa2f6fcae2dba19a2c8cc6">
+                <text>  5</text>
+            </label>
+            <label key="4add494079b4dd9c971ea79c703fd166">
+                <text>  4.64</text>
+            </label>
+            <label key="4929b2ee66aa2f6fcae2dba19a2c8cc6">
+                <text>  5</text>
+            </label>
+            <label key="35b96a0f2debf6bcc9e9431933523cba">
+                <text>  9.27</text>
+            </label>
+            <label key="4929b2ee66aa2f6fcae2dba19a2c8cc6">
+                <text>  5</text>
+            </label>
+            <label key="d9a7db75ee6e4ddd455cb8704df70c59">
+                <text>  6.17</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a10fc0006a228128c6b9a4ea7c9403f">
+            <label key="d5f31e5eaa271b66ef2a318939de5eee">
+                <text>What is the relationship between the amount of electrical energy produced and the number of turbines in operation?</text>
+            </label>
+            <label key="93b3221462f2ec84f82727954750d8bb">
+                <text>Select the correct option.</text>
+            </label>
+            <label key="461309b7ebc9b46d663a46b86260f436">
+                <text>As the number of turbines increases, the amount of energy increases.</text>
+            </label>
+            <label key="ff6a94da9a27e6bd5cbca940d69d1292">
+                <text>As the number of turbines increases, the amount of energy decreases.</text>
+            </label>
+            <label key="59a4d94bc39a21092a82ac9016ee9773">
+                <text>Select two rows of data in the table to support your answer.</text>
+            </label>
+        </item>
+        <item id="i63a10fd6db2822380cb0214db38edc207">
+            <label key="225fa6b85c3b6d45807b28c37a333d26">
+                <text>Which features of a river are important for turbines to generate electricity?</text>
+            </label>
+            <label key="1c94799ec3c7c8515acb805ab282c285">
+                <text>Select all that apply.</text>
+            </label>
+            <label key="c2c497d333ec00d011b115970985ce5d">
+                <text>the flow rate of the water</text>
+            </label>
+            <label key="1881c2fc02c9e821fb2996207467e4a8">
+                <text>the slope of the river</text>
+            </label>
+            <label key="7d0b08c6f8283523de8547d883d24737">
+                <text>the steepness of the river banks</text>
+            </label>
+            <label key="e0df3341619c4785ed0bc5b5c4cdc5e5">
+                <text>the annual rainfall in the river catchment</text>
+            </label>
+            <label key="f716044da6a1844086c48b08b347de81">
+                <text>the type of stone on the river bottom</text>
+            </label>
+        </item>
+        <item id="i63a11003be43b14322fe1897d59aa611e7">
+            <label key="b6d0a9f50ed316d7d4f1cc518fc9f775">
+                <text>More electricity generation is needed. To achieve this, it has been suggested that more turbines should be added to <strong>one </strong>site on the river.</text>
+            </label>
+            <label key="18f7aa80f1634a4a73cf0c4f9903e925">
+                <text>Person A</text>
+            </label>
+            <label key="e9245836b3877cc8dcfb5a0078224bea">
+                <text>I think we should add <strong>two</strong> more turbines at the<strong> 2°</strong> site.</text>
+            </label>
+            <label key="a40ee2bb4eb68dc5ac76aac857a92c24">
+                <text>Person B</text>
+            </label>
+            <label key="f8473689f2ca3fe7bd721ea8c9396f64">
+                <text>I think we should add <strong>one </strong>more turbine at the <strong>5°</strong> site. </text>
+            </label>
+            <label key="a88a3bbaf94f7edae0289d48f22e536b">
+                <text>The suggestion of which person is best supported by the data in the table?</text>
+            </label>
+            <label key="18f7aa80f1634a4a73cf0c4f9903e925">
+                <text>Person A</text>
+            </label>
+            <label key="a40ee2bb4eb68dc5ac76aac857a92c24">
+                <text>Person B</text>
+            </label>
+            <label key="5aee686fd1579af4ffaff013da3726c4">
+                <text>Explain how the data supports this person’s suggestion.</text>
+            </label>
+        </item>
+        <item id="i63a11022119c828093f7ab55dd36b826f">
+            <label key="1413156c7d572f2ba4af60ca39cd3a90">
+                <text>Give one advantage and one disadvantage of using hydroelectric power plants to generate electrical energy instead of using fossil fuel.</text>
+            </label>
+            <label key="50df7ea7635c6ed8d611f3aa1d2cdbf6">
+                <text>
+                    <strong>Advantage:</strong>
+                </text>
+            </label>
+            <label key="c8590bfb0aef8cd28c78574b61f02b7f">
+                <text>
+                    <strong>Disadvantage:</strong>
+                </text>
+            </label>
+        </item>
+        <item id="i63a1103f3e5a12787b88dbee3ee82bdf2">
+            <label key="ac11873e28e2fbc192e695d2b0328396">
+                <text>Energy is converted from one form to another in a hydroelectric power plant. </text>
+            </label>
+            <label key="0f89aa3d3fc6d26a27ced090d33fb772">
+                <text>Which of these energy transformations occurs?</text>
+            </label>
+            <label key="ff0947cf1a4fd3a9357d053a61a85d6a">
+                <text>Kinetic energy is transformed into chemical energy.</text>
+            </label>
+            <label key="4c9fbbcc0b0bce840ac0da1c9908b4da">
+                <text>Electrical energy is transformed into kinetic energy.</text>
+            </label>
+            <label key="ca0c13480a89839bb83de0f3a5a70a6a">
+                <text>Chemical energy is transformed into electrical energy.</text>
+            </label>
+            <label key="6c7dc3a778dba805a5c3125577d2014f">
+                <text>Kinetic energy is transformed into electrical energy.</text>
+            </label>
+        </item>
+        <item id="i64127740c50a6490029509e592a2547">
+            <label key="5446d446997089af7f05aad4e86b5cea">
+                <text>Four new sites are being considered for turbines.</text>
+            </label>
+            <label key="3dcbe77bdc966fc6eac7afeba0cb7735">
+                <text>The slope at each of these four sites is shown in the table below:</text>
+            </label>
+            <label key="a7d6475ec8993b7224d6facc8cb0ead6">
+                <text>Site</text>
+            </label>
+            <label key="7fc56270e7a70fa81a5935b72eacbe29">
+                <text>A</text>
+            </label>
+            <label key="9d5ed678fe57bcca610140957afab571">
+                <text>B</text>
+            </label>
+            <label key="0d61f8370cad1d412f80b84d143e1257">
+                <text>C</text>
+            </label>
+            <label key="f623e75af30e62bbd73d6df5b50bb7b5">
+                <text>D</text>
+            </label>
+            <label key="0e62b9593b53f80bd96565a2c7b797c6">
+                <text>Slope (°)</text>
+            </label>
+            <label key="685969d5ee6a06012a75dff55732fb64">
+                <text>The data from the three existing sites is used to estimate the amount of electricity that could be generated by turbines at each of these four new sites.</text>
+            </label>
+            <label key="926f997be337908eacdbc183420c6af2">
+                <text>The estimate for which site would be the <strong>least reliable</strong>?</text>
+            </label>
+            <label key="564a95e2696af68aa1c3a4953ecd1ce9">
+                <text>Site A</text>
+            </label>
+            <label key="bb713afeab82bcb45a45d3cc1411e3eb">
+                <text>Site B</text>
+            </label>
+            <label key="2b7cd6a0278783cfaa972ecd49ba8dad">
+                <text>Site C</text>
+            </label>
+            <label key="5b353d8afb64b3c17e6d536e2a9fb743">
+                <text>Site D</text>
+            </label>
+            <label key="14a742a5c8a85e7bdbb23e8e791c910b">
+                <text>Explain your choice.</text>
+            </label>
+        </item>
+    </items>
+</file>

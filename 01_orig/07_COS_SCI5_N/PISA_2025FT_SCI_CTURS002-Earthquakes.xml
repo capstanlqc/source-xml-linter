@@ -1,0 +1,144 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638545fa51830/passage NEW.xml">
+            <label key="90146b8f4c6eb5e1c3bb64e643cacda4">
+                <text>Earthquakes</text>
+            </label>
+            <label key="c8e20cbc488308eda848d234fb5fe90e">
+                <text>An earthquake is the passage of seismic waves through an environment when energy is released from within Earth’s crust.</text>
+            </label>
+            <label key="58fd70a330e8170d52b849f07870eaa2">
+                <text>The point where an earthquake originates is called the hypocentre. The point on Earth’s surface directly above a hypocentre is called the epicentre. </text>
+            </label>
+            <label key="e84455a89a40947b2ecb2df18c1a3bb5">
+                <text>The epicentre<em></em>is where the greatest intensity from an earthquake is felt.</text>
+            </label>
+            <label key="eb31c1853abf876ff04ad1b52f42a8f0">
+                <text>A fault is a fracture or series of fractures between two blocks of rock. </text>
+            </label>
+            <label key="c268fba781759fac3e7915571c1766cb">
+                <text>Earthquake risk is generally high in areas where faults occur.</text>
+            </label>
+            <label key="6174f1e718692d9e2054dd11f46a8703">
+                <text>epicentre</text>
+            </label>
+            <label key="f69146e7af0c152a790e11fd4847230f">
+                <text>hypocentre</text>
+            </label>
+            <label key="3881bfd1571f85c6562ddfac94ea80ba">
+                <text>fault</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638546cdb361740071ae20415011ec154d">
+            <label key="e37ac06b04122d8491350cac5babed8e">
+                <text>Are the following statements about earthquakes correct?</text>
+            </label>
+            <label key="a8c38cd5723dd799a00d4ac84d71561e">
+                <text>Select ‘Yes’ or ‘No’ for each statement.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>Yes</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>No</strong>
+                </text>
+            </label>
+            <label key="5a22ee05c832850cc1f25fbebf0f3ba3">
+                <text>As the energy of an earthquake increases, the intensity of the earthquake decreases.</text>
+            </label>
+            <label key="4606aca56b5bc0423921d043c1027908">
+                <text>As the distance between the hypocentre and the epicentre increases, the intensity of the earthquake decreases.</text>
+            </label>
+            <label key="f447713471b83d6d481ef91805c9b902">
+                <text>An earthquake’s destructiveness is lower in areas of sandy soil than in areas of granite.</text>
+            </label>
+            <label key="7334538ce703640c66a02425a913e0bc">
+                <text>Earthquakes are often caused by  movements of tectonic plates.</text>
+            </label>
+        </item>
+        <item id="i638546f06ebfc4007329fdf6e86bf76c02">
+            <label key="9c4e0fbdb31b58b4c3a31dfa065fb70b">
+                <text>The diagram below shows a geological cross-section of the ground below four cities.</text>
+            </label>
+            <label key="d8d6ea4a4a80593aa41ecf53d432c33e">
+                <text>The relative locations of the four cities and their distances from the hypocentre of an earthquake are shown.</text>
+            </label>
+            <label key="44e4d85c880d751f8f830832a85ce377">
+                <text>The diagram is not drawn to scale.</text>
+            </label>
+            <label key="ea7aa55fa4c7d68bcd867f12aec2fdbe">
+                <text>City K</text>
+            </label>
+            <label key="17bf0054b2cddac96c9940948f18da05">
+                <text>City L</text>
+            </label>
+            <label key="105dbe5c61ee375894d44e212c9ecf6b">
+                <text>City M</text>
+            </label>
+            <label key="a9310f71514736fdc45ce3dc923f2c5d">
+                <text>City N</text>
+            </label>
+            <label key="36ecd436e6358f616dbac32c46ead791">
+                <text>150 km</text>
+            </label>
+            <label key="5c4febcbd7b91d9567fa3769f771cf2e">
+                <text>70 km</text>
+            </label>
+            <label key="44c3cf90844712ca5bfc0a22307ab91b">
+                <text>40 km</text>
+            </label>
+            <label key="5a073f77758953dd0303fff85f01b4da">
+                <text>50 km</text>
+            </label>
+            <label key="f69146e7af0c152a790e11fd4847230f">
+                <text>hypocentre</text>
+            </label>
+            <label key="87e5153577e87fb95bc005643fd2068e">
+                <text>According to the diagram above, which one of the following statements is correct?</text>
+            </label>
+            <label key="2061b5a5ee9ae851b0b89ff7ad8fee44">
+                <text>The epicentre of the earthquake is at City M.</text>
+            </label>
+            <label key="f9eda2b155c6865d37c39fd293ec31e0">
+                <text>The earthquake will be felt with equal intensity in City L and City N.</text>
+            </label>
+            <label key="68d1afedf31dd70854601def16d92fcc">
+                <text>The seismic waves originated at City K.</text>
+            </label>
+            <label key="f2aea58106a9bec9c600f5e2d9e16b25">
+                <text>The earthquake will be felt with the lowest intensity in City M.</text>
+            </label>
+        </item>
+        <item id="i63854701d1ed01396907e3a5a8e5603eee">
+            <label key="540cc94324e408ecbb458b9e58d6542c">
+                <text>The map shows the distribution of volcanoes on Earth. Four locations on the map are shown by <strong>1</strong>, <strong>2</strong>, <strong>3</strong> and <strong>4</strong>.</text>
+            </label>
+            <label key="313774236ecdbc09d1c3ef565e4fe933">
+                <text>volcanoes</text>
+            </label>
+            <label key="ee4341d94585aed2492de8f96fa1d64e">
+                <text>underwater volcanoes</text>
+            </label>
+            <label key="4d8f3b316d1e0a1a4c44d623c58e8a50">
+                <text>Which one of the following statements is <strong>not </strong>supported by the map?</text>
+            </label>
+            <label key="5cc5d9d76b2e614d546312e738bbf496">
+                <text>There are faults at <strong>1</strong>.</text>
+            </label>
+            <label key="549e9f9fd082b856097307b2a6d43059">
+                <text>Earthquakes are likely to be more frequent at <strong>2</strong> than at the other locations.</text>
+            </label>
+            <label key="1168a4c9144259782172dcfa0500c0d2">
+                <text>There are likely to be hot springs at <strong>3</strong>.</text>
+            </label>
+            <label key="9518bd1c7ff192c6e178bb74c780b192">
+                <text>Gold mines are more likely to be found at <strong>4<strong></strong></strong>than at <strong>2</strong>.</text>
+            </label>
+        </item>
+    </items>
+</file>

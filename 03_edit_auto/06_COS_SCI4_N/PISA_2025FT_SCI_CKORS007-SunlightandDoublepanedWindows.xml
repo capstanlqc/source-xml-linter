@@ -1,0 +1,109 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63a1021105f93/passage NEW.xml">
+            <label key="eb0577f0e53adf7d6a877a3b552cb1a8">
+                <text>Sunlight and Double-paned Windows</text>
+            </label>
+            <label key="cc280b8203cede648ad39ce198083e09">
+                <text>Double-paned windows are used to minimise heat loss in winter and to reduce heat gain in summer. Different types of glass allow for different amounts of transmitted light. In the diagram below, the roof meets the edge of the windows with no overhang.</text>
+            </label>
+            <label key="201db4895cee2470cc512c368bf295a9">
+                <text>sun light</text>
+            </label>
+            <label key="dc761383d49526ef90534192b402e37a">
+                <text>transmitted light</text>
+            </label>
+            <label key="90e1a06b2b12434eaa3d7105de8af9b5">
+                <text>reflected light</text>
+            </label>
+            <label key="9bc1ebd9b987abe797d062f8da6d40d0">
+                <text>inner glass</text>
+            </label>
+            <label key="c6f79a20698b629ba3dfe834b5ddd765">
+                <text>outer glass</text>
+            </label>
+            <label key="67c2cf46d5181a70315ac324521f1234">
+                <text>An investigation is done on double-paned windows to test combinations of three types of glass, A, B and C. Over several tests, the transmission of ultraviolet light, visible light and infrared light is recorded.</text>
+            </label>
+            <label key="2f72262daa5cfb258482ccd6f1b136db">
+                <text>The results of the tests are shown in the table. The position of the glass type as inner or outer was found to have no effect on the results – for example, the results for AB and BA are the same – so not every combination is shown in the table.</text>
+            </label>
+            <label key="c542b6964279914504420e4753de3525">
+                <text>Outer glass</text>
+            </label>
+            <label key="f6fa4a8a75a373c7b42b4984a1afb6b8">
+                <text>Inner glass</text>
+            </label>
+            <label key="01591c81dcc4f9f182c1ae924626ce60">
+                <text>Transmission of ultraviolet light (%)</text>
+            </label>
+            <label key="068a2fc3a7b19e9470adf24169ad91de">
+                <text>Transmission of visible light (%)</text>
+            </label>
+            <label key="8fc1c1886d828c770ef4a89b02bc2cb9">
+                <text>Transmission of infrared light (%)</text>
+            </label>
+            <label key="7fc56270e7a70fa81a5935b72eacbe29">
+                <text>A</text>
+            </label>
+            <label key="334c4a4c42fdb79d7ebc3e73b517e6f8">
+                <text>none</text>
+            </label>
+            <label key="9d5ed678fe57bcca610140957afab571">
+                <text>B</text>
+            </label>
+            <label key="0d61f8370cad1d412f80b84d143e1257">
+                <text>C</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a1031fa65071434412dce69004d46cd5">
+            <label key="02be637a09c7334ca110c1d17cb4fcb6">
+                <text>Which of these statements are supported by the data from the investigation?</text>
+            </label>
+            <label key="a8c38cd5723dd799a00d4ac84d71561e">
+                <text>Select ‘Yes’ or ‘No’ for each statement.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>‌Yes‌</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>‌No‌</strong>
+                </text>
+            </label>
+            <label key="d5e26519b6b266d223fb04879aaddacf">
+                <text>Glass A is more effective than either glass B or C in blocking ultraviolet light.</text>
+            </label>
+            <label key="72730c996a0e7b7f937ebe387e283144">
+                <text>Glass B blocks infrared light less than glass A.</text>
+            </label>
+            <label key="f29073413b59b35c8e4389ecb7c43eb9">
+                <text>Any combination of two glasses blocks more visible light than one glass A blocks alone.</text>
+            </label>
+        </item>
+        <item id="i63a103be096e859777327854454206e29e">
+            <label key="6a2622e5cc0fe86f31a5cec76966e9f6">
+                <text>An architect is asked to design a house that keeps the inside of the house bright while blocking ultraviolet light and infrared light that comes from outside.</text>
+            </label>
+            <label key="6b139443a2cb61617f4cf4eec7c4ee22">
+                <text>Using information from the investigation, which one of the following combinations of glass panes would be the best for the architect to use?</text>
+            </label>
+            <label key="676eaae084b7660b1d9626be109c1a32">
+                <text>A and B</text>
+            </label>
+            <label key="93b3952488f09420ff5184c3bc53d0f1">
+                <text>A and C</text>
+            </label>
+            <label key="ba612eaf115d4f53740796fdd1d15bf8">
+                <text>B and C</text>
+            </label>
+            <label key="5379c0cfc3119a5c3a2b2ca58cbbe36c">
+                <text>B and B</text>
+            </label>
+        </item>
+    </items>
+</file>

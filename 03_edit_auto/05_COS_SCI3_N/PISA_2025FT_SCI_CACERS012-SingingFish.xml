@@ -1,0 +1,178 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63324939bf968/passage NEW.xml">
+            <label key="83444fe2b4c36fb54fe2ed687262236f">
+                <text>Singing Fish</text>
+            </label>
+            <label key="55a81e77e021d86574e7f6be9638d48f">
+                <text>Many animals make sounds. For example, birds sing. These sounds can be heard by other animals.</text>
+            </label>
+            <label key="bc2941634e160dafb35f76702dd5ae9b">
+                <text>Some species of fish can make sounds. These fish produce sounds from their swim bladder. Swim bladders are gas-filled organs that help fish float or sink.</text>
+            </label>
+            <label key="07a260db9fa269bbd557cb49f3c8d84e">
+                <text>Sonic muscles squash or expand the swim bladder to make sound.</text>
+            </label>
+            <label key="688c8c615ac7d271490341602981c642">
+                <text>The diagram below shows the sonic muscles surrounding the swim bladder of a fish in cross-section (left). The swim bladder of a fish is also shown in side view (right).</text>
+            </label>
+            <label key="627d8ad51b851b09106fafaca38353df">
+                <text>sonic muscles</text>
+            </label>
+            <label key="e1596ec5b22caf514d641eb916a2c3bf">
+                <text>swim bladder</text>
+            </label>
+            <label key="a35ecf344c66770b2ba0f0e913747072">
+                <text>spine</text>
+            </label>
+            <label key="6a19adaf8b48d5db4b49aef2b7e46ade">
+                <text>fins</text>
+            </label>
+            <label key="55b21d516f228de90ebc33c5068fe26e">
+                <text>gills</text>
+            </label>
+            <label key="e809cc608db249eaf1b13d564503dbca">
+                <text>intestines</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae8036332531c2a90d/passage NEW 1.xml">
+            <label key="83444fe2b4c36fb54fe2ed687262236f">
+                <text>Singing Fish</text>
+            </label>
+            <label key="5149141ee969d0974dcb082fad6beaa3">
+                <text>Scientists are studying if the noise made by passing ships affects the sounds made by fish.  </text>
+            </label>
+            <label key="1ce11e6e40a85ad5fae18ff21a00bcc2">
+                <text>To do this they will use two underwater microphones to record the sounds made by fish.</text>
+            </label>
+            <label key="4e91373c47576d43bf884e4afe941f33">
+                <text>The map shows the route that ships take through the ocean to a port. The ships only travel along the lane to and from the port.</text>
+            </label>
+            <label key="cf214d166c946558875aacc8004853e8">
+                <text>shipping lane</text>
+            </label>
+            <label key="7036e5a9b3adaa6afbcf89e5699dc115">
+                <text>deep water</text>
+            </label>
+            <label key="30f881ee77fdcfe55cfa9c37c25b1326">
+                <text>shallow water</text>
+            </label>
+            <label key="87cf962b35146c21d0dd7f84594662b6">
+                <text>land</text>
+            </label>
+            <label key="901555fb06e346cb065ceb9808dcfc25">
+                <text>port</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63324b4070d3513977e992efc6ee5d76a">
+            <label key="e11ef13bdc66ebc39cc9a81cffb4988a">
+                <text>Which of these is a reason fish make sounds that can be heard by other animals?<div><div>Select all correct answers.</div></div></text>
+            </label>
+            <label key="fe6898850e1e5055269016b645dcd421">
+                <text>to sleep at night</text>
+            </label>
+            <label key="5fd65ae6262cc8d8df637f9e43aa31c9">
+                <text>to communicate with other fish</text>
+            </label>
+            <label key="537569dcef3a18d58206a6496ece180a">
+                <text>to stay hidden from predators</text>
+            </label>
+            <label key="8ca948d55148bb865bf2a6fb079024bb">
+                <text>to attract a mate for reproduction</text>
+            </label>
+        </item>
+        <item id="i6332501324bba1923f6b5a0bac5183ae7">
+            <label key="ddb26811d67da6d4280f1594379e2dab">
+                <text>A particular fish species only makes sounds at night and in muddy water during daylight.</text>
+            </label>
+            <label key="a7b5f5073af934184af841e6ce627301">
+                <text>What does this suggest about this fish species?</text>
+            </label>
+            <label key="4b3e6cb70a889418bf45bcb43594faac">
+                <text>Select the correct answer.</text>
+            </label>
+            <label key="918424aa42ed9e4de9611028272684bc">
+                <text>It has poor vision.</text>
+            </label>
+            <label key="f6f83710406d55a5b63bb58329e67af8">
+                <text>It is only active at night.</text>
+            </label>
+            <label key="61ca1cabadbc0bf3e488335660cbc136">
+                <text>It does not use sounds if it can see.</text>
+            </label>
+            <label key="175b4a84c7a822edf0626101d96a3490">
+                <text>It cannot hear sounds during daylight.</text>
+            </label>
+        </item>
+        <item id="i6332538a764a715600a153521a4b517fc6">
+            <label key="9cc45719809271fcd5ffa3fe9596f0d9">
+                <text>The scientists only record the sounds made by the fish.</text>
+            </label>
+            <label key="98d6582f0435e273093dc5a3e53ad000">
+                <text>Which one of the following questions could <strong>not</strong> be answered <strong>only</strong> with a recording of the sounds made by the fish?</text>
+            </label>
+            <label key="4abb1cc96270c2f70395666d2ada260b">
+                <text>What types of sounds are made by the fish?</text>
+            </label>
+            <label key="75c4364f1e161a5d3aa8bbb3ec93c53f">
+                <text>How loud are the sounds made by the fish?</text>
+            </label>
+            <label key="3efb3977dc922df635ef4a940e39b9b1">
+                <text>Why do fish make sounds?</text>
+            </label>
+            <label key="770b0a19b97b74373bf1d2566be71c2c">
+                <text>Do the sounds made by the fish change during the day?</text>
+            </label>
+        </item>
+        <item id="i633257e77438d1922d312042f190a1062">
+            <label key="b2432f8b909b68ead9f5a398eb97c611">
+                <text>
+                    Five possible recording locations are marked on the map to the right.
+                </text>
+            </label>
+            <label key="1264738321ad6e21488a57ba5bedfaa2">
+                <text>The scientists must pick two locations that will allow them to determine if passing ships affect the sounds made by the fish.</text>
+            </label>
+            <label key="1d6669919a2e0db4be5ba093eb5a1ae5">
+                <text>Select the <strong>two</strong> locations where the scientists should place their microphones.</text>
+            </label>
+            <label key="7fc56270e7a70fa81a5935b72eacbe29">
+                <text>A</text>
+            </label>
+            <label key="9d5ed678fe57bcca610140957afab571">
+                <text>B</text>
+            </label>
+            <label key="0d61f8370cad1d412f80b84d143e1257">
+                <text>C</text>
+            </label>
+            <label key="f623e75af30e62bbd73d6df5b50bb7b5">
+                <text>D</text>
+            </label>
+            <label key="3a3ea00cfc35332cedf6e5e9a32e94da">
+                <text>E</text>
+            </label>
+            <label key="371020cbedc17354e73e26cceef0795e">
+                <text>Explain why you chose these locations for the underwater microphones.</text>
+            </label>
+        </item>
+        <item id="i6332589dcaf3716266e99ac4eb5738720">
+            <label key="ab9e76ea511c1f10219400cba0b76071">
+                <text>For the investigation to produce a conclusion about the effect of sound on fish behaviour, which one of these conditions must occur?</text>
+            </label>
+            <label key="cb4b7f18bfa50e929bd8e83a6bebda20">
+                <text>The species of fish at each recording location should be the same.</text>
+            </label>
+            <label key="bc8c95da750f609e3223f82012079ff0">
+                <text>All the species of fish near the recording locations should make sounds.</text>
+            </label>
+            <label key="6f4e45718fa90db44ed7b67e3b483872">
+                <text>The recordings should be made at the same time of each day throughout the study.</text>
+            </label>
+            <label key="cde82fefba4aa0ae071310888345473d">
+                <text>The same number of ships should travel along the shipping lane on each day of the study.</text>
+            </label>
+        </item>
+    </items>
+</file>

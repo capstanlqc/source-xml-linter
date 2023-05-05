@@ -1,0 +1,100 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638566af057cc/passage NEW.xml">
+            <label key="f05d20456557c096dde6b4ec65f9a7ad">
+                <text>Vertical Farms</text>
+            </label>
+            <label key="3be78d97d855fbe30e0192ed3a1e42c6">
+                <text>By 2050, the world’s population could increase to about 10 billion people. Scientists estimate that food production will have to increase by 30% to feed this population.</text>
+            </label>
+            <label key="403470ba7edfc6f20dc66d729be621f2">
+                <text>Currently, most food is grown outdoors on farms. However, this method is unlikely to meet the increasing demand for food.</text>
+            </label>
+            <label key="477bd266c1e04716907bf860cceeb1fe">
+                <text>Vertical farms may provide a solution to this challenge. In vertical farms, crops are grown in vertically stacked layers within closed buildings powered by solar panels.</text>
+            </label>
+            <label key="bc45c0e8e8e967b3c425352ac8a0a274">
+                <text>Technology is used to control conditions so that:</text>
+            </label>
+            <label key="5171e78e48c7a6d18bcbb68f777150c1">
+                <text>water flows from top to bottom and is recycled</text>
+            </label>
+            <label key="a1f1e45529e0aa37829927ca044bdc46">
+                <text>optimal light, nutrient and temperature levels are maintained.</text>
+            </label>
+            <label key="0f02f40c4ffb3bfad5a0a7917f377bd5">
+                <text>water tank</text>
+            </label>
+            <label key="e562e839d2f88b9e9e53751d0c7df830">
+                <text>power source (solar panels)</text>
+            </label>
+            <label key="abac83435858c33190a090825015e3f1">
+                <text>light source</text>
+            </label>
+            <label key="4510c81f0181e2f8192c2f4c83b57965">
+                <text>nutrient source</text>
+            </label>
+            <label key="21d1ead1b95cbcda865e3d810dd76908">
+                <text>climate control</text>
+            </label>
+            <label key="4f5ad46737b01bf45da5de0e4868c468">
+                <text>control system</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63856765c4a8f251603bce18a6e664ca8">
+            <label key="d832986d168fb7f0ecae80cd00b349bc">
+                <text>Describe one environmental advantage of locating vertical farms in urban areas rather than rural areas.</text>
+            </label>
+        </item>
+        <item id="i6385677da9a17139699010a2d0d79fc809">
+            <label key="ea465ca4c9a97158a3f61905a943deee">
+                <text>The following are true statements about vertical farming.</text>
+            </label>
+            <label key="24ade08a16f7fb57b490ff59d6e1cd8d">
+                <text>Which of the statements describe an advantage of vertical farming compared to outdoor farming?</text>
+            </label>
+            <label key="0d6ca4cdda4411da38b038868b60eaf0">
+                <text>
+                    <span>Select all correct answers.</span>
+                </text>
+            </label>
+            <label key="c746a037417e36e0f89d16476e5a0bc2">
+                <text>Water is used more efficiently.</text>
+            </label>
+            <label key="b3dea97fde6a1780ec9e64b841f60cb3">
+                <text>Only small, leafy crops can be grown.</text>
+            </label>
+            <label key="a5d054c8c57a8eaa7537504acdec7a06">
+                <text>Human workers are needed to pollinate the plants.</text>
+            </label>
+            <label key="a6f325cd79e7c907fc07ff4fe56aa26b">
+                <text>Seasonal crops can be grown at any time of the year.</text>
+            </label>
+            <label key="2cf5366f912a1cbc86e0ed816fbe723b">
+                <text>Crops are protected from extreme weather.</text>
+            </label>
+            <label key="3b4177ab025ff351e97d2212f8066052">
+                <text>Crops grow faster.</text>
+            </label>
+            <label key="0d58dcd54a1a182c026c7388b0292322">
+                <text>Vertical farms are are more expensive to build and maintain than outdoor farms.</text>
+            </label>
+        </item>
+        <item id="i638567eb52ed025107bed1ba5048ce2b2">
+            <label key="9d7c6795bf359fb43e910651759fb480">
+                <text>The diagram below shows how water is recycled through the different layers in a vertical farm.</text>
+            </label>
+            <label key="aa74d1ddd087b4d6d58401af91a830a8">
+                <text>water and nutrients</text>
+            </label>
+            <label key="b60968a0ce68eb6cfe33598a72ca6ac5">
+                <text>top layer</text>
+            </label>
+            <label key="ff95bf9c754ca26a4ccbb9e61e74c9e0">
+                <text>The presence of even one diseased plant in a vertical farm is a greater problem than one diseased plant on an outdoor farm.<div><div><div><p></p><div>Explain why one diseased plant is a greater problem in a vertical farm than on an outdoor farm.</div></div></div></div></text>
+            </label>
+        </item>
+    </items>
+</file>

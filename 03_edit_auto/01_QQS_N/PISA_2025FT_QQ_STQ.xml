@@ -1,0 +1,1365 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli></sharedstimuli>
+    <items>
+        <item id="i635f1beb7e40924178d814340828ab20ed">
+            <label key="b5cb1ab8773d801bab35a7f56eebf57f">
+                <text>
+                    <strong>‌On what date were you born? ‌</strong>
+                </text>
+            </label>
+            <label key="38b463f7d6223477fd819aaa8473dc35">
+                <text>
+                    <em>‌(Please select the day, month, and year from the drop-down menus to answer the question.)‌</em>
+                </text>
+            </label>
+            <label key="624c2bbcd62b17fdde0ff7ecf7a8165c">
+                <text>Day  <inlineChoiceInteraction responseIdentifier="ST003Q01TA" shuffle="false" required="false"><inlineChoice identifier="d1" fixed="false" showHide="show">1</inlineChoice><inlineChoice identifier="d2" fixed="false" showHide="show">2</inlineChoice><inlineChoice identifier="d3" fixed="false" showHide="show">3</inlineChoice><inlineChoice identifier="d4" fixed="false" showHide="show">4</inlineChoice><inlineChoice identifier="d5" fixed="false" showHide="show">5</inlineChoice><inlineChoice identifier="d6" fixed="false" showHide="show">6</inlineChoice><inlineChoice identifier="d7" fixed="false" showHide="show">7</inlineChoice><inlineChoice identifier="d8" fixed="false" showHide="show">8</inlineChoice><inlineChoice identifier="d9" fixed="false" showHide="show">9</inlineChoice><inlineChoice identifier="d10" fixed="false" showHide="show">10</inlineChoice><inlineChoice identifier="d11" fixed="false" showHide="show">11</inlineChoice><inlineChoice identifier="d12" fixed="false" showHide="show">12</inlineChoice><inlineChoice identifier="d13" fixed="false" showHide="show">13</inlineChoice><inlineChoice identifier="d14" fixed="false" showHide="show">14</inlineChoice><inlineChoice identifier="d15" fixed="false" showHide="show">15</inlineChoice><inlineChoice identifier="d16" fixed="false" showHide="show">16</inlineChoice><inlineChoice identifier="d17" fixed="false" showHide="show">17</inlineChoice><inlineChoice identifier="d18" fixed="false" showHide="show">18</inlineChoice><inlineChoice identifier="d19" fixed="false" showHide="show">19</inlineChoice><inlineChoice identifier="d20" fixed="false" showHide="show">20</inlineChoice><inlineChoice identifier="d21" fixed="false" showHide="show">21</inlineChoice><inlineChoice identifier="d22" fixed="false" showHide="show">22</inlineChoice><inlineChoice identifier="d23" fixed="false" showHide="show">23</inlineChoice><inlineChoice identifier="d24" fixed="false" showHide="show">24</inlineChoice><inlineChoice identifier="d25" fixed="false" showHide="show">25</inlineChoice><inlineChoice identifier="d26" fixed="false" showHide="show">26</inlineChoice><inlineChoice identifier="d27" fixed="false" showHide="show">27</inlineChoice><inlineChoice identifier="d28" fixed="false" showHide="show">28</inlineChoice><inlineChoice identifier="d29" fixed="false" showHide="show">29</inlineChoice><inlineChoice identifier="d30" fixed="false" showHide="show">30</inlineChoice><inlineChoice identifier="d31" fixed="false" showHide="show">31</inlineChoice></inlineChoiceInteraction></text>
+            </label>
+            <label key="0774ca7a7c39b1a845bc7ca01ed07ea1">
+                <text>Month   <inlineChoiceInteraction responseIdentifier="ST003Q02TA" shuffle="false" required="false"><inlineChoice identifier="jan" fixed="false" showHide="show">January</inlineChoice><inlineChoice identifier="feb" fixed="false" showHide="show">February</inlineChoice><inlineChoice identifier="mar" fixed="false" showHide="show">March</inlineChoice><inlineChoice identifier="apr" fixed="false" showHide="show">April</inlineChoice><inlineChoice identifier="may" fixed="false" showHide="show">May</inlineChoice><inlineChoice identifier="jun" fixed="false" showHide="show">June</inlineChoice><inlineChoice identifier="jul" fixed="false" showHide="show">July</inlineChoice><inlineChoice identifier="aug" fixed="false" showHide="show">August</inlineChoice><inlineChoice identifier="sep" fixed="false" showHide="show">September</inlineChoice><inlineChoice identifier="oct" fixed="false" showHide="show">October</inlineChoice><inlineChoice identifier="nov" fixed="false" showHide="show">November</inlineChoice><inlineChoice identifier="dec" fixed="false" showHide="show">December</inlineChoice></inlineChoiceInteraction></text>
+            </label>
+            <label key="b58602d233512fe60571b356e07bf360">
+                <text>Year  <inlineChoiceInteraction responseIdentifier="ST003Q03TA" shuffle="false" required="false"><inlineChoice identifier="y2004" fixed="false" showHide="show">2004</inlineChoice><inlineChoice identifier="y2005" fixed="false" showHide="show">2005</inlineChoice><inlineChoice identifier="y2006" fixed="false" showHide="show">2006</inlineChoice><inlineChoice identifier="y2007" fixed="false" showHide="show">2007</inlineChoice></inlineChoiceInteraction></text>
+            </label>
+        </item>
+        <item id="i635f3ec611b0623689c3d9ce71dcfe7">
+            <label key="aff24fd036f02ccca438bf68d8e1e737">
+                <text>
+                    <strong>‌What &lt;grade&gt; are you in? ‌</strong>
+                </text>
+            </label>
+            <label key="c2cf5da5a7d6d3646c23f89ce210e2db">
+                <text>
+                    <em>‌(Please select from the drop-down menu to answer the question.)‌</em>
+                </text>
+            </label>
+            <label key="beba350df094c84681f4a59918e08a54">
+                <text>&lt;ISCED 0&gt;</text>
+            </label>
+            <label key="58c5e44cefa86b344872902d82867220">
+                <text>&lt;ISCED 1&gt;</text>
+            </label>
+            <label key="a3e6fc5f6b253254f470a64788419dcf">
+                <text>&lt;ISCED 2&gt;</text>
+            </label>
+            <label key="f3e653bbc9317e70e7e6d394f8234aa0">
+                <text>&lt;ISCED 3&gt;</text>
+            </label>
+            <label key="55105099b42b1b298b407d9d4fb309e3">
+                <text>&lt;ISCED 4&gt;</text>
+            </label>
+            <label key="9151f2ea0abed5b3d55eda42f78e6add">
+                <text>&lt;ISCED 5&gt;</text>
+            </label>
+            <label key="5fdd6e3824fb410f7abd62cd8d0291a0">
+                <text>&lt;ISCED 6&gt;</text>
+            </label>
+            <label key="48be748ce0a790fc6fac444136fa6a54">
+                <text>&lt;ISCED 7&gt;</text>
+            </label>
+            <label key="8be1af3154f25355d3f3b087a9e1878a">
+                <text>&lt;ISCED 8&gt;</text>
+            </label>
+            <label key="c4980983ac8b4671ef6209fa57c0d7bc">
+                <text>&lt;ISCED 9&gt;</text>
+            </label>
+            <label key="90b3d32235c60a4d06ea41e02acda269">
+                <text>&lt;ISCED 10&gt;</text>
+            </label>
+            <label key="6e6d3707c7a8ddb0e42fe1776411cb1c">
+                <text>&lt;ISCED 11&gt;</text>
+            </label>
+            <label key="5b3c91f3546b1c5f96dea157961db3da">
+                <text>&lt;ISCED 12&gt;</text>
+            </label>
+        </item>
+        <item id="i635f4a2d9eee223699024dd99dc4536ee">
+            <label key="7ae2391916d8d582caff54504303e565">
+                <text>
+                    <strong>‌How old were you when you started &lt;ISCED 0&gt;? ‌</strong>
+                </text>
+            </label>
+            <label key="8a5f3adac33edf13afe0a5be6275bb12">
+                <text>
+                    <em>‌(Please choose from the drop-down menu to answer the question.) ‌</em>
+                </text>
+            </label>
+            <label key="d0f836887aeb69a0966fce97973c3c2c">
+                <text>Years  <inlineChoiceInteraction responseIdentifier="ST125Q01NA" shuffle="false" required="false"><inlineChoice identifier="_01" fixed="false" showHide="show">1 year or younger</inlineChoice><inlineChoice identifier="_02" fixed="false" showHide="show">2 years</inlineChoice><inlineChoice identifier="_03" fixed="false" showHide="show">3 years</inlineChoice><inlineChoice identifier="_04" fixed="false" showHide="show">4 years</inlineChoice><inlineChoice identifier="_05" fixed="false" showHide="show">5 years</inlineChoice><inlineChoice identifier="_06" fixed="false" showHide="show">6 years or older</inlineChoice><inlineChoice identifier="_07" fixed="false" showHide="show">Idid not attend</inlineChoice><inlineChoice identifier="_08" fixed="false" showHide="show">Ido not remember</inlineChoice></inlineChoiceInteraction></text>
+            </label>
+        </item>
+        <item id="i635f4b82e80f020215f2e20777e7f0d0c">
+            <label key="e61cd646313b6112127fcfbe2fb50e25">
+                <text>
+                    <strong>‌How long have you been enrolled at this school?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="72195f62fd1d81edb2b544dc856ab9bf">
+                <text>Three or more school years, not including this school year</text>
+            </label>
+            <label key="8a71c4106b8f5faa10092dbe6ad5b900">
+                <text>Two school years, not including this school year</text>
+            </label>
+            <label key="79643c872315c0681c75a0138c375c4e">
+                <text>One school year, not including this school year</text>
+            </label>
+            <label key="a505fa420ad85dc12b12d40fc7e40447">
+                <text>I came to this school at the start of this school year.</text>
+            </label>
+            <label key="711d281c06999ba1c89d663954181d1c">
+                <text>I came to this school <span class="txt-underline">after</span> the start of this school year.</text>
+            </label>
+        </item>
+        <item id="i635f4ce74d3a324193a9be34d756eb1643">
+            <label key="fc83118db992f96f4502d70b886f1789">
+                <text>
+                    <strong>‌Which one of the following &lt;programmes&gt; are you in?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="5861bdedecaf83d1ab331fd7713c1dd5">
+                <text>&lt;Programme 1&gt;</text>
+            </label>
+            <label key="3820d35e11e986a0eb5dd8ce20ae07ac">
+                <text>&lt;Programme 2&gt;</text>
+            </label>
+            <label key="11076c3fbb6c2cbf5a667b6aa027338e">
+                <text>&lt;Programme 3&gt;</text>
+            </label>
+            <label key="cbbd42ce9cdd702e65a4c327dd288685">
+                <text>&lt;Programme 4&gt;</text>
+            </label>
+            <label key="c37d92d06a8aab2197e2ac04f222fc96">
+                <text>&lt;Programme 5&gt;</text>
+            </label>
+            <label key="d148ea7976d5633534ba2875ecdc3117">
+                <text>&lt;Programme 6&gt;</text>
+            </label>
+        </item>
+        <item id="i635f4dad4e8f83094d3a4d047b4e3a69a">
+            <label key="dc6adb0675c0603db42f067ef109dca5">
+                <text>
+                    <strong>‌Have you ever repeated a &lt;grade&gt;? ‌</strong>
+                </text>
+            </label>
+            <label key="66afaba8c95c53fdeeee98e2b84a585d">
+                <text>
+                    <em>‌(Please select one response in each row.) ‌</em>
+                </text>
+            </label>
+            <label key="9589e14851541d4e40417ebcb6a6c9c7">
+                <text>
+                    <em>‌No, never‌</em>
+                </text>
+            </label>
+            <label key="5661a5767828683f4011bad41f2e63ef">
+                <text>
+                    <em>‌Yes, once‌</em>
+                </text>
+            </label>
+            <label key="90dd3c7cb3a483d24941bec61295495e">
+                <text>
+                    <em>‌Yes, twice or more‌</em>
+                </text>
+            </label>
+            <label key="12aa747b6b725ccf4c9ba5fa939dd869">
+                <text>At &lt;ISCED 1&gt;</text>
+            </label>
+            <label key="173ab6f47991293d9323b192fefc9858">
+                <text>At &lt;ISCED 2&gt;</text>
+            </label>
+            <label key="870074d9919df1810ac97bb84401ffd7">
+                <text>At &lt;ISCED 3&gt;</text>
+            </label>
+        </item>
+        <item id="i635f4ef17dbb72367c454694c56b3c356">
+            <label key="2c064bcb45ca03ab50506319a285fec5">
+                <text>
+                    <strong>‌What language do you speak at home most of the time?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="3b6b88b2f639bbf98381a2aea774e129">
+                <text>&lt;Language 1&gt;</text>
+            </label>
+            <label key="a6a3c815e8e0930c1d7bc1094352cc67">
+                <text>&lt;Language 2&gt;</text>
+            </label>
+            <label key="a9e44d26056216dd8dedffcaa82378eb">
+                <text>&lt;Language 3&gt;</text>
+            </label>
+            <label key="934cac7fd5e7efb0900dae76603221a3">
+                <text>&lt; …etc. &gt;</text>
+            </label>
+            <label key="7fc17ec927a73775fd1712498f4892d9">
+                <text>Other language</text>
+            </label>
+        </item>
+        <item id="i635f4fd133b13202119ca580d4aa0d865">
+            <label key="d912b4dc49499d09330bff24da25f596">
+                <text>
+                    <strong>‌How many languages in total do you speak with people at home?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="06c2cea18679d64399783748fa367bdd">
+                <text>One</text>
+            </label>
+            <label key="aada29daee1d64ed0fe907043855cb7e">
+                <text>Two</text>
+            </label>
+            <label key="ca8a2087e5557e317599344687a57391">
+                <text>Three</text>
+            </label>
+            <label key="191ab82fec44faa8a2f126aeb2ff1b24">
+                <text>Four or more</text>
+            </label>
+        </item>
+        <item id="i635f509993e932019d1524d8286537333">
+            <label key="311bae22367c038ce144ea53fab832b3">
+                <text>
+                    <strong>‌In what country were you and your parents born? ‌</strong>
+                </text>
+            </label>
+            <label key="68fe07fe01f1a432d94a305db130ff2f">
+                <text>
+                    <em>‌(Please select one response in each column.) ‌</em>
+                </text>
+            </label>
+            <label key="d0bc1a6c2a0bbcbffb89d2b4b936c119">
+                <text>
+                    <em>‌You‌</em>
+                </text>
+            </label>
+            <label key="b53769b141b72f21dca6e472315946fe">
+                <text>
+                    <em>‌Parent or guardian #1‌</em>
+                </text>
+            </label>
+            <label key="bc432de11bc7419838e5b8faf3811aab">
+                <text>
+                    <em>‌Parent or guardian #2‌</em>
+                </text>
+            </label>
+            <label key="5da0dd0fd73f6d73254a568ee0a17f15">
+                <text>
+                    <em>‌Parent or guardian #3‌</em>
+                </text>
+            </label>
+            <label key="077cd6068572c4c06bb09241dd14b2ef">
+                <text>&lt;Country A&gt;</text>
+            </label>
+            <label key="429a2a26f452f5ec32889f7520189be0">
+                <text>&lt;Country B&gt;</text>
+            </label>
+            <label key="321b6f5218468fb0728a30cec55fb7fd">
+                <text>&lt;Country C&gt;</text>
+            </label>
+            <label key="3d2abd02c3c61a2e1f21dc19288e8909">
+                <text>&lt;Country D&gt;</text>
+            </label>
+            <label key="771bd4b3f840d29f4574850d645e1d8a">
+                <text>&lt;…etc.&gt;</text>
+            </label>
+            <label key="d4880e5817f5de643180801e5fc9e45a">
+                <text>Other country</text>
+            </label>
+            <label key="53850fe5e86febec710f2af76c61d833">
+                <text>I don’t know.</text>
+            </label>
+        </item>
+        <item id="i635f52da17ca329624d1630b5aac7161b6">
+            <label key="127539a7b106a7f00ba1a29c849b3c8a">
+                <text>
+                    <strong>‌How old were you when you arrived in &lt;country of test&gt;? ‌</strong>
+                </text>
+            </label>
+            <label key="77f90d0253460b7450f3f3835e2101ef">
+                <text>
+                    <em>‌(Please select from the drop-down menu to answer the question. If you were less than 12 months old, please select “age 0-1” (age zero to one).) ‌</em>
+                </text>
+            </label>
+            <label key="7d6c3167156daeccfcb22fddb90e6fd0">
+                <text>age 0-1</text>
+            </label>
+            <label key="5416cd39cc8a073413e0302d5371a409">
+                <text>age 1</text>
+            </label>
+            <label key="5407d946a81ff3a5cd9f6e46d9c344cd">
+                <text>age 2</text>
+            </label>
+            <label key="446581e5041cf0126fca84bc48dfe7f2">
+                <text>age 3</text>
+            </label>
+            <label key="ba392902cd4bb05d99058a2a8c638f52">
+                <text>age 4</text>
+            </label>
+            <label key="865b6b242879b794dc685a4d41fa3d6b">
+                <text>age 5</text>
+            </label>
+            <label key="be24bcf21b8c6de2b9e2a31bda610af6">
+                <text>age 6</text>
+            </label>
+            <label key="92e48b6a54d5c80cb7489523873066c7">
+                <text>age 7</text>
+            </label>
+            <label key="97f5c99a38b0908a0c7e12f868e19f75">
+                <text>age 8</text>
+            </label>
+            <label key="f75a84a7610dfee297d5781b43e1916c">
+                <text>age 9</text>
+            </label>
+            <label key="fcddb81d382ed3819e55baf46f34d33c">
+                <text>age 10</text>
+            </label>
+            <label key="e13148f565a7d40df56fba41114e6ef9">
+                <text>age 11</text>
+            </label>
+            <label key="513ba4535cae5a136aa843627f70c1ee">
+                <text>age 12</text>
+            </label>
+            <label key="f8ddb7469ec576197c707a362d17d9da">
+                <text>age 13</text>
+            </label>
+            <label key="d9ab103298b0b5672965c358b79f63be">
+                <text>age 14</text>
+            </label>
+            <label key="d7507181bc476a7f00849e61713eff6b">
+                <text>age 15</text>
+            </label>
+            <label key="2e04268729cc3885789dec4d404d39ad">
+                <text>age 16</text>
+            </label>
+        </item>
+        <item id="i6361b415db39540413bc3843eb9063ccf3">
+            <label key="a1fb2df5eb954c579daa3b3e88c01d28">
+                <text>
+                    <em>‌Imagine a 10-point scale that represents how much effort you invest in something.‌</em>
+                </text>
+            </label>
+            <label key="c82d083e6d71684ed081f566b91c6492">
+                <text>
+                    <em>‌The highest value (10) marks a situation where you tried your very best and put as much effort as possible to do well.‌</em>
+                </text>
+            </label>
+            <label key="def1c6ee1b36fec03e6f292db6433d0f">
+                <text>
+                    <em>‌The lowest value (1) marks a situation where you did not try hard at all and put the lowest possible effort to do well.‌</em>
+                </text>
+            </label>
+            <label key="794e976883a0e2cde0b22dff00e016be">
+                <text>
+                    <strong>‌Now think about the effort you put into completing the PISA test and questionnaire.‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="e30c08829ebcce851cf4bbb794508813">
+                <text>How much effort did you put into doing well on the <span class="txt-underline">PISA test?</span></text>
+            </label>
+            <label key="72367c9aa9c03ca159ca28a31c8b9cba">
+                <text>How much effort would you have invested if your results from the PISA test were going to be counted in your &lt;school marks&gt;?</text>
+            </label>
+            <label key="0f30c54cb4b05460a61162b29923f5a8">
+                <text>Now think about the <span class="txt-underline">PISA questionnaire</span> you just answered. How much effort did you put into giving accurate answers?</text>
+            </label>
+        </item>
+        <item id="i6361ba65d6f1017303b4e9521087d3eebc">
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="6d39d965c062fa23ba1715ff225e59e9">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="fa29da17b15a947769596de3eaa8fed5">
+                <text>
+                    <em>‌Strongly Disagree‌</em>
+                </text>
+            </label>
+            <label key="48e64e7c2a4411ffa38ae92334f58b27">
+                <text>I feel safe on my way to school.</text>
+            </label>
+            <label key="051d5133cb896429ef4d484913e18cf9">
+                <text>I feel safe on my way home from school.</text>
+            </label>
+            <label key="14b916beb87ce3ff8f2b13bc2d45e0e1">
+                <text>I feel safe in my classrooms at school.</text>
+            </label>
+            <label key="5262d975a39622d179ad54e9c4a291b8">
+                <text>I feel safe at other places at school (e.g. hallway, cafeteria, restroom).</text>
+            </label>
+        </item>
+        <item id="i6361c17256c7117314f7e1e18b83959d15">
+            <label key="0f277c18cf13d1b24516f1cba8c27ebe">
+                <text>
+                    <strong>‌During the past four weeks, did any of the following events occur?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="39ba81d5ac8ff2878c036761aacc7801">
+                <text>Our school was vandalised.</text>
+            </label>
+            <label key="c6e7b0087a98e04a367c9456238649a1">
+                <text>I witnessed a fight on school property in which someone got hurt.</text>
+            </label>
+            <label key="f4693597607138b2b5b414a060e74121">
+                <text>I saw gangs in school.</text>
+            </label>
+            <label key="41f5f553ef336f16841ad2946eedbdfd">
+                <text>I heard a student threaten to hurt another student.</text>
+            </label>
+            <label key="233e50921468f44ff6e40544ed7e30e8">
+                <text>I saw a student carrying a gun or knife at school.</text>
+            </label>
+        </item>
+        <item id="i6361c69f791c5210624955aa851596106">
+            <label key="f5ff93bb383eef1ce8e6a44c29f76327">
+                <text>
+                    <strong>‌Thinking about your school: to what extent do you agree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="6d39d965c062fa23ba1715ff225e59e9">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="b168d50ede806ad88ac4e41cb610f1b5">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="96869860212187f43c82c29966d9e8b7">
+                <text>I feel like an outsider (or left out of things) at school.</text>
+            </label>
+            <label key="bd8c5e3355c3eaa9e0e73507396cb132">
+                <text>I make friends easily at school.</text>
+            </label>
+            <label key="e6f5216266cfa1b093a4847a6dce315b">
+                <text>I feel like I belong at school.</text>
+            </label>
+            <label key="7b7907f2edc0b3caa5d7aa39502b5a44">
+                <text>I feel awkward and out of place in my school.</text>
+            </label>
+            <label key="0b8a0ec40bfffc88acd1211f43769be7">
+                <text>Other students seem to like me.</text>
+            </label>
+            <label key="37c7ac7f6f8a757b4ced576c86aa02d7">
+                <text>I feel lonely at school.</text>
+            </label>
+        </item>
+        <item id="i6361c9c26b2b023989fa758fe75f4c8b8">
+            <label key="d59ef09704a01ec01d581ce05ecc9239">
+                <text>
+                    <strong>‌During the past 12 months, how often have you had the following experiences in school?‌</strong>
+                </text>
+            </label>
+            <label key="8960f7814d4f817faf44628bc0efb065">
+                <text>
+                    <em>‌(Some experiences can also happen in social media.)‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="03ca1b65d43aeb6ab911a0f0c848e3b2">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="d95a752592c50e5c7b57ac100d330406">
+                <text>
+                    <em>‌A few times a year‌</em>
+                </text>
+            </label>
+            <label key="4f137eded9af78a456ad99fce8dcde33">
+                <text>
+                    <em>‌A few times a month‌</em>
+                </text>
+            </label>
+            <label key="8c1acb0f5e923a88e00e630209d87ee4">
+                <text>
+                    <em>‌Once a week or more‌</em>
+                </text>
+            </label>
+            <label key="a1448c36bcbc2ac95ce36e11cad746c2">
+                <text>Other students left me out of things on purpose.</text>
+            </label>
+            <label key="172e005977888f40d052f0d1e3ef9f81">
+                <text>Other students made fun of me.</text>
+            </label>
+            <label key="e1e18b67e6d16fdc85dd921dca65c112">
+                <text>I was threatened by other students.</text>
+            </label>
+            <label key="874b7e381202304dfa45daa14e6e5df8">
+                <text>Other students took away or destroyed things that belonged to me.</text>
+            </label>
+            <label key="402f834220056ddfe18f07a87dcf0554">
+                <text>I got hit or pushed around by other students.</text>
+            </label>
+            <label key="572612b3912cc443feb6cfa144e2ea88">
+                <text>Other students spread nasty rumours about me.</text>
+            </label>
+            <label key="a504438774ba799e47574e1d2553f549">
+                <text>Information about me was published online without my consent.</text>
+            </label>
+        </item>
+        <item id="i6361cb0f3047c2101f6035b31ed59afb3">
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="b168d50ede806ad88ac4e41cb610f1b5">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="6d39d965c062fa23ba1715ff225e59e9">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="56dcb1563c7f21644b0b615ab2fafd17">
+                <text>The teachers at my school are respectful towards me.</text>
+            </label>
+            <label key="53f7a4f4be402156f0ddef6f5da6c61e">
+                <text>If I walked into my classes upset, my teachers would be concerned about me.</text>
+            </label>
+            <label key="2a15642c92fd7dd4d00f1c3532299e72">
+                <text>If I came back to visit my school three years from now, my teachers would be excited to see me.</text>
+            </label>
+            <label key="6afa644a0bab110ae62c1d7afe76371b">
+                <text>I feel intimidated by the teachers at my school.</text>
+            </label>
+            <label key="79881ab5a4486175201b8956ccdf8cf0">
+                <text>When my teachers ask how I am doing, they are really interested in my answer.</text>
+            </label>
+            <label key="e06343b8a333f895c51915f90fa9fdae">
+                <text>The teachers at my school are friendly to me.</text>
+            </label>
+            <label key="c3766bf6d60f445583df1d5bd1169495">
+                <text>The teachers at my school are interested in students’ well-being.</text>
+            </label>
+            <label key="9cb0e9722820dab4570bff0d592376d7">
+                <text>The teachers at my school are mean to me.</text>
+            </label>
+        </item>
+        <item id="i6361cb1f9add82879f0dcb9573f225dd6">
+            <label key="1e562212f14a2478495771bea2be2ddc">
+                <text>
+                    <strong>‌In the last two full weeks of school, how often did the following things occur?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="c8966fa2072a886db8725fd4b6a245d8">
+                <text>
+                    <em>‌Never‌</em>
+                </text>
+            </label>
+            <label key="92a9e815d83afb3777bdbeec4a8baea1">
+                <text>
+                    <em>‌One or two times‌</em>
+                </text>
+            </label>
+            <label key="70eee443f624eb3b15691718d4a57d98">
+                <text>
+                    <em>‌Three or four times‌</em>
+                </text>
+            </label>
+            <label key="e00b2d37829204cda7daa158d88534f3">
+                <text>
+                    <em>‌Five or more times‌</em>
+                </text>
+            </label>
+            <label key="8b9b5a97b078690bf16efb3cfdd5ad60">
+                <text>I &lt;skipped&gt; a whole school day.</text>
+            </label>
+            <label key="f8d411821169eb3a5b1d4b40020565ea">
+                <text>I &lt;skipped&gt; some classes.</text>
+            </label>
+            <label key="998152549379ccf81a295e2b3e7d0e10">
+                <text>I arrived late for school.</text>
+            </label>
+        </item>
+        <item id="i6362edf69e099843462fe6e36f18db14e">
+            <label key="6b2407414b2c9c16a6a51ae2c615ed71">
+                <text>
+                    <strong>‌This school year, about how many hours a day do you usually use &lt;digital resources&gt; in the following situations?‌</strong>
+                </text>
+            </label>
+            <label key="f2356cb189a111881fa38eaecfcfbdca">
+                <text>
+                    <em>‌(Please think of different kinds of &lt;digital resources&gt; such as desktop computers, laptops and tablets as well as educational software and other digital learning tools.)‌</em>
+                </text>
+            </label>
+            <label key="08375de2d43b1e547455e4ff57b6b572">
+                <text>
+                    <em>‌(Please select one response from the drop-down menus to answer the questions.)‌</em>
+                </text>
+            </label>
+            <label key="c4b5d3b9c5a65a7eb4692830e73514af">
+                <text>For learning activities at school</text>
+            </label>
+            <label key="a23c7a02e5251a41276a5d3d9d8ebd68">
+                <text>choice #1</text>
+            </label>
+            <label key="24623cd704d88b1009f7c8411b176210">
+                <text>choice #2</text>
+            </label>
+            <label key="33c433f58277a184d8f25c358caf7e2b">
+                <text>choice #3</text>
+            </label>
+            <label key="d13f77ec06a48915a9d159389773135a">
+                <text>For learning activities before and after school</text>
+            </label>
+            <label key="1745dcfb7ff6eb6d079b9c40fa5c5478">
+                <text>For learning activities on weekends</text>
+            </label>
+            <label key="1174dac0674f6afdbf1823a518601fd4">
+                <text>For leisure at school</text>
+            </label>
+            <label key="60917712bb8dad652ac8dbf772bd8ac8">
+                <text>For leisure before and after school</text>
+            </label>
+            <label key="135f644ae693881b6d76717b4560993d">
+                <text>For leisure on weekends</text>
+            </label>
+        </item>
+        <item id="i6362ee04916dd160367cf34f18f333ec37">
+            <label key="4be0b7557777ea9b6510722533bff25f">
+                <text>
+                    <strong>‌Think about your use of &lt;digital devices&gt;. How often do you feel or act the following ways?‌</strong>
+                </text>
+            </label>
+            <label key="316bd9c74edce4dfe116dfe5cb701dd8">
+                <text>
+                    <em>‌If you don’t have or use a &lt;digital device&gt;, please select “not applicable”.‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="03ca1b65d43aeb6ab911a0f0c848e3b2">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="eedeeecde2704297542ad82a0330c433">
+                <text>
+                    <em>‌Less than half of the time‌</em>
+                </text>
+            </label>
+            <label key="73e3373d9089fbae0cd880eb1d17b425">
+                <text>
+                    <em>‌About half of the time‌</em>
+                </text>
+            </label>
+            <label key="169025522d54271263c8287c1cf4569c">
+                <text>
+                    <em>‌More than half of the time‌</em>
+                </text>
+            </label>
+            <label key="0860d14eccd9206e3c3460c3130af630">
+                <text>
+                    <em>‌All or almost all of the time‌</em>
+                </text>
+            </label>
+            <label key="46676b0ba3fbe46431cfc942b5f6462f">
+                <text>
+                    <em>‌Not applicable‌</em>
+                </text>
+            </label>
+            <label key="b825270813fe1766490a0f59d900efc4">
+                <text>I turn off notifications from social networks and apps on my &lt;digital devices&gt; during class.</text>
+            </label>
+            <label key="0c172bcb3b4c0fb5f9c21540a8c078b6">
+                <text>I turn off notifications from social networks and apps on my &lt;digital devices&gt; when I go to sleep.</text>
+            </label>
+            <label key="c790b11844db83cd35d5bc63320402ba">
+                <text>I keep my &lt;digital device&gt; near me to answer messages when I am home.</text>
+            </label>
+            <label key="d477b256de65f267043770919c46ca4f">
+                <text>I have my &lt;digital device&gt; open in class so I can take notes or search for information.</text>
+            </label>
+            <label key="3e14ea40c171053a2883d99dc0e42d93">
+                <text>I feel pressured to be online and answer messages when I am in class.</text>
+            </label>
+            <label key="5edc1a56a8fef4eb081aa49e605eff0b">
+                <text>I feel nervous/anxious when I don’t have my &lt;digital device&gt; near me.</text>
+            </label>
+        </item>
+        <item id="i636315dd688c017002d20eec0fbee6b654">
+            <label key="3301ef22e245a0399d1f32403d5e00c7">
+                <text>
+                    <strong>‌How often do your parents or someone in your family do the following things with you?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="4f76188f7ed8b86216bd9c03968550c4">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="d6d161ab7b203f0bcdfcec41fd4c7c79">
+                <text>
+                    <em>‌About once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="5a2c83370ba5d7bee35afba5b87971d3">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="accfe5f8a2fed9b5fac1facea5a44774">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="2c721e029e123982a3ecdbf962023215">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="75b9f8ffe3a029f3988449b355808d76">
+                <text>Discuss how well you are doing at school.</text>
+            </label>
+            <label key="39426f4d7309993a0d9cc76f2d709072">
+                <text>Eat &lt;the main meal&gt; with you.</text>
+            </label>
+            <label key="ea8d5669c4cc0836aa3784be3c95d0ac">
+                <text>Spend time just talking with you.</text>
+            </label>
+            <label key="c41d93b15be16009005d73f9e715b1e5">
+                <text>Talk to you about the importance of &lt;completing ISCED 3&gt;</text>
+            </label>
+            <label key="824497150e9f0021bab9e4628373e2cd">
+                <text>Talk to you about any problems you might have at school.</text>
+            </label>
+            <label key="cadb40000b88911765a8755571ec3d2a">
+                <text>Ask you about how well you are getting along with other students at school.</text>
+            </label>
+            <label key="71065f7fb3cfb68b30ca3ed9fd4a941f">
+                <text>Encourage you to get good &lt;marks&gt;</text>
+            </label>
+            <label key="1dc418d80fda5bc40c19acd044b4567d">
+                <text>Take an interest in what you are learning at school.</text>
+            </label>
+            <label key="5513788e8ca1890495ca62e9e61d5bf2">
+                <text>Talk to you about your future education.</text>
+            </label>
+            <label key="bfdbf7beb7c80f4e0f5e39eb18d0d2e2">
+                <text>Ask you what you did in school that day.</text>
+            </label>
+            <label key="766df32b543399c51f9d08f0d47efecf">
+                <text>Help you with your homework</text>
+            </label>
+            <label key="a30473983b286c1648b3c3a50dddc73f">
+                <text>Talk to you about everyday science-related topics.</text>
+            </label>
+        </item>
+        <item id="i63631f7e5bc2123861adf607718544de13">
+            <label key="51bb5478b69abc22f66b86676d0b19b1">
+                <text>
+                    <strong>‌Which of the following &lt;school science&gt; courses did you attend this school year or last school year?‌</strong>
+                </text>
+            </label>
+            <label key="0e018d5ee0d58a1114eba66a3b401110">
+                <text>
+                    <em>‌(Please select all that apply.)‌</em>
+                </text>
+            </label>
+            <label key="82a7a942e887f412e82d8d0d57b854a4">
+                <text>
+                    <em>‌This year‌</em>
+                </text>
+            </label>
+            <label key="e7e1612c253a9b35463cbffa069aaf91">
+                <text>
+                    <em>‌Last year‌</em>
+                </text>
+            </label>
+            <label key="50ae99e9c35446c2580e4b540b0fd104">
+                <text>Physics</text>
+            </label>
+            <label key="84cf6008945c9b558ed7c0869557b70d">
+                <text>Chemistry</text>
+            </label>
+            <label key="9470ddec893781ea65f1a2b71ae5e01c">
+                <text>Biology</text>
+            </label>
+            <label key="119c3239e75883dc23a913a870f5d26f">
+                <text>Earth sciences (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+            <label key="a435f8f4ad1c770186e4cd0b1d905d90">
+                <text>Environmental science (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+            <label key="d32d1ca8b7f20700ad7fdda6afb11376">
+                <text>Specialized Science (e.g., &lt;Forensic science, Medical Science, Marine biology&gt;</text>
+            </label>
+            <label key="bf162e6f9b05214cbf844ee601c2ca48">
+                <text>Applied sciences and technology (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+            <label key="3fbda8a4262b9f666dc5b3e355bbbce8">
+                <text>&lt;General, integrated, or comprehensive science&gt; course (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+        </item>
+        <item id="i636330249ba602515494728dcfd20e80c1">
+            <label key="a621366c1df251d5003197ae72a2bc1a">
+                <text>
+                    <strong>‌Environmental issues are varied and include climate change, loss of biodiversity, water, and food shortages, pollution, and waste management.‌</strong>
+                </text>
+            </label>
+            <label key="f06c64358701e53da38e2adfc309fc08">
+                <text>
+                    <strong>‌How much do you agree with the following statements about environmental issues?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="e846defcce896ace57aa8f6f761bd133">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="08c5c83b3456e258d031df38973003df">
+                <text>I believe that humans are taking important steps to fix environmental issues</text>
+            </label>
+            <label key="0160b55459642397323d7a3a656dbf07">
+                <text>Scientists have solutions to fix environment issues</text>
+            </label>
+            <label key="700a52fd4b58c0ce2faa0e2278d66993">
+                <text>I am making changes in my behaviour (e.g., walking rather than driving in a car) that will help solve environmental issues</text>
+            </label>
+            <label key="b5cd212bdbb79b9a67aef22180af33ec">
+                <text>I know that there are things that I can do to help solve environmental issues</text>
+            </label>
+            <label key="9047b8135089d9cdecc4ef24b56034a5">
+                <text>If people work together, we can solve environmental issues</text>
+            </label>
+            <label key="7e497b262980ae3106b39ab7ad78aab4">
+                <text>Even though I take action to help solve environmental issues, they are too much for me alone to fix</text>
+            </label>
+            <label key="e3155385f84803e498ce92101e4684f6">
+                <text>The environmental issues caused by humans are too big and complex to be fixed</text>
+            </label>
+        </item>
+        <item id="i6363302b3052a17002449c1f48a92300e8">
+            <label key="95acb104cb0a11eab68856b1e5998a01">
+                <text>
+                    <strong>‌The following question asks about your experience in learning &lt;school science&gt; topics.‌</strong>
+                </text>
+            </label>
+            <label key="e662dfb168732168f83e729f43d33828">
+                <text>
+                    <strong>‌How much do you agree with the statements below?‌</strong>
+                </text>
+            </label>
+            <label key="e795bb315b0ad8d679f0fddca4113dba">
+                <text>
+                    <em>‌(Please tick only one box in each row)‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="088c1442946377590d0e88eebb93e0a1">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="b0245681ab4196967e136e319f1d1084">
+                <text>Learning advanced school science topics would be easy for me</text>
+            </label>
+            <label key="10ac4efa17633b5524e1d89167e2d196">
+                <text><p>I can usually give good answers to test</p>questions on school science topics</text>
+            </label>
+            <label key="1a7746bd940886a91ade9fb87691226e">
+                <text>I learn school science topics quickly</text>
+            </label>
+            <label key="6e8d68a63446a8a03911d5cc046d4648">
+                <text>School science topics are easy for me</text>
+            </label>
+            <label key="946a45ca9a225d2196edbc2fd3cfc1ec">
+                <text>When I am being taught school science, I can understand the concepts very well</text>
+            </label>
+            <label key="833a7ef52147450ae47286e4b5b9a931">
+                <text><p>I can easily understand new ideas in school</p>science</text>
+            </label>
+            <label key="6b5f121600a0f78861f96e2f474d529b">
+                <text>I get higher grades in School Science than my peers do</text>
+            </label>
+            <label key="2435ce27f4f06001278819977d13edce">
+                <text>I consistently get good grades in School Science</text>
+            </label>
+            <label key="d5621300bf44194bf26fe7f13d972027">
+                <text>I get higher grades in School Science than I do in other subjects</text>
+            </label>
+        </item>
+        <item id="i6363302e2b3a62869bcd195732775628b">
+            <label key="eaf1bdb3522e3761b6033d886b896c68">
+                <text>
+                    <strong>‌How much do you disagree or agree with the statements about yourself below?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="095d9f7f50011f5bd3c65c274a67d6b0">
+                <text>
+                    <em>‌Disagree ‌</em>
+                </text>
+            </label>
+            <label key="8f0e6e3c74797bf5c48770776fdf0b1d">
+                <text>
+                    <em>‌Agree ‌</em>
+                </text>
+            </label>
+            <label key="0775f627657ec95f3b466a614d309296">
+                <text>
+                    <em>‌Strongly agree ‌</em>
+                </text>
+            </label>
+            <label key="8b204798f27d1fd813b994fc1cf7d23b">
+                <text>I generally have fun when I am learning &lt;broad science&gt; topics.</text>
+            </label>
+            <label key="05ddc2ebadafc64aea6909295e544a23">
+                <text>I like reading about &lt;broad science&gt;.</text>
+            </label>
+            <label key="664650ffbc644b94f168844c0b008e53">
+                <text>I am happy working on &lt;broad science&gt; topics.</text>
+            </label>
+            <label key="395f9432abb586ae8110f85dbec7e15d">
+                <text>I enjoy acquiring new knowledge in &lt;broad science&gt;.</text>
+            </label>
+            <label key="4199b7ed2612619232de12aef65df95c">
+                <text>I am interested in learning about &lt;broad science&gt;.</text>
+            </label>
+        </item>
+        <item id="i63633ebabe97924983aa9da8cd65105304">
+            <label key="9339a3df934346435df6143d87b26dbf">
+                <text>
+                    <strong>‌Which of the following qualifications do you expect to complete?‌</strong>
+                </text>
+            </label>
+            <label key="c166671fc7f12bde6e248e17a7ed1709">
+                <text>
+                    <em>‌ (Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="90c04093572b6ae2c90c48d4f2f4b94f">
+                <text>
+                    <em>‌I don’t know.‌</em>
+                </text>
+            </label>
+            <label key="41226d25f260bc8494bfe55050b14de9">
+                <text>&lt;ISCED level 2&gt;</text>
+            </label>
+            <label key="722b0308e79d13de9dfb41bb9efda077">
+                <text>&lt;ISCED level 3.3&gt;</text>
+            </label>
+            <label key="610d63c729200059ac4955b75ca4dc14">
+                <text>&lt;ISCED level 3.4&gt;</text>
+            </label>
+            <label key="27b1c14d039b18ba78365469f517727e">
+                <text>&lt;ISCED level 4&gt;</text>
+            </label>
+            <label key="80674452771368daac76e0a46bef82e3">
+                <text>&lt;ISCED level 5&gt;</text>
+            </label>
+            <label key="907bef6858a31dcbbb186fa661d68e30">
+                <text>&lt;ISCED level 6&gt;</text>
+            </label>
+            <label key="4992d78753d7a0ea6f7856af4d324fbf">
+                <text>&lt;ISCED level 7&gt;</text>
+            </label>
+            <label key="fe9f61258f4281fc84df3647e3d56244">
+                <text>&lt;ISCED level 8&gt;</text>
+            </label>
+        </item>
+        <item id="i636341c00afc8160545df9e98bf9446b5b">
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="c166671fc7f12bde6e248e17a7ed1709">
+                <text>
+                    <em>‌ (Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="e846defcce896ace57aa8f6f761bd133">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="4c270ad3f73c6817993ecb6e50c3f8e1">
+                <text>I worry that I am not prepared for life after &lt;the final year of compulsory education&gt;.</text>
+            </label>
+            <label key="3bd28ea6f8162b0111614b354c9586f1">
+                <text>I feel well-informed about possible paths for me after &lt;the final year of compulsory education&gt;.</text>
+            </label>
+            <label key="c6afad0e7ead7173aa23ee9345750369">
+                <text>I feel pressure from my family to follow a specific path (e.g. go to college, work in the family business, learn a trade) after &lt;the final year of compulsory education&gt;.</text>
+            </label>
+            <label key="0a102b6cf0b4a18d25fe204f852d22f2">
+                <text>I worry that I won’t have enough money to do what I’d like to do after &lt;the final year of compulsory education&gt;.</text>
+            </label>
+            <label key="98c7b5fc3bff848ad3f661570abe00a8">
+                <text>School has done little to prepare me for adult life when I leave school.</text>
+            </label>
+            <label key="fdbb4c10b6ae989434cbfbe3072defb2">
+                <text>School has been a waste of time.</text>
+            </label>
+            <label key="6d24665884ecc67bccb05453b3c4c7b5">
+                <text>School has helped give me confidence to make decisions.</text>
+            </label>
+            <label key="7adfbf909738c02367f48ff3b5d57271">
+                <text>School has taught me things which could be useful in a job.</text>
+            </label>
+            <label key="733fc41be6a207a8ecdf6d33c0c0649d">
+                <text>I feel well-prepared for my future path after &lt;the final year of compulsory education&gt;.</text>
+            </label>
+        </item>
+        <item id="i636342fb5a359210250b2ebe2d5b9881e9">
+            <label key="5a6d95b63b73d18716257501a6d3d2a5">
+                <text>
+                    <strong>‌Which of the following skills have you acquired?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="5272cd75b75e92dc4261517432fafbe0">
+                <text>
+                    <em>‌Yes, once‌</em>
+                </text>
+            </label>
+            <label key="2a09d70ce5997f851c79c10c08b35650">
+                <text>
+                    <em>‌Yes, two or more times‌</em>
+                </text>
+            </label>
+            <label key="89aeb3bd8bcdd6a9a7ac5dab3617979b">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="978a50687c3121129797c369780e2af5">
+                <text>How to find information on jobs I am interested in.</text>
+            </label>
+            <label key="eb9cebeebd63bf2a1e7acfe0f27574c8">
+                <text>How to search for a job.</text>
+            </label>
+            <label key="12bd2bde3d3361e51ca684624f38af2b">
+                <text>How to write a &lt;resume&gt; or a summary of my qualifications and/or experience.</text>
+            </label>
+            <label key="eb8bb52eb44562b3ccedcae4ac51af5c">
+                <text>How to prepare for a job interview.</text>
+            </label>
+            <label key="b6d3fa5fe9ffe117c06d94a3b7033213">
+                <text>How to find information on student financing (e.g. student loans or grants).</text>
+            </label>
+        </item>
+        <item id="i6363430a1c8d723947e3726f51ddbefec">
+            <label key="f1d32167f1e08eef0434bae4a383b19a">
+                <text>
+                    <strong>‌Have you done any of the following to find out about future study or types of work?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="5272cd75b75e92dc4261517432fafbe0">
+                <text>
+                    <em>‌Yes, once‌</em>
+                </text>
+            </label>
+            <label key="2a09d70ce5997f851c79c10c08b35650">
+                <text>
+                    <em>‌Yes, two or more times‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="c841c16ba9ea7279eaa0dcd48d7c279f">
+                <text>I did an internship.</text>
+            </label>
+            <label key="22cf8dbef57c6322953f75918940f9f6">
+                <text>I attended &lt;job shadowing or work-site visits&gt;.</text>
+            </label>
+            <label key="b01a2e1ebf869817c524ca00ec0143fb">
+                <text>I visited a &lt;job fair&gt;.</text>
+            </label>
+            <label key="69d85bdf6dcaa5d3138df1b023eae2b1">
+                <text>I spoke to a &lt;career advisor&gt; at my school.</text>
+            </label>
+            <label key="2516eda689735e370bec559457febc02">
+                <text>I spoke to a &lt;career advisor&gt; outside of my school.</text>
+            </label>
+            <label key="41926e76ccf9a436067c3b4df4972020">
+                <text>I completed a questionnaire to find out about my interests and abilities.</text>
+            </label>
+            <label key="4379f03195c2c3e27d56bd22e15aac87">
+                <text>I researched the internet for information about careers.</text>
+            </label>
+            <label key="7dc2327029ab8c0113bcade528c86a24">
+                <text>I went to an organised tour in an &lt;ISCED 3-7&gt; institution.</text>
+            </label>
+            <label key="0a2ff53e22477000feb5a5d4736c1447">
+                <text>I researched the internet for information about &lt;ISCED 3-7&gt; programmes.</text>
+            </label>
+            <label key="928804cee212d2fdd048752bd3bd7974">
+                <text>I researched information on student financing (e.g. student loans or grants).</text>
+            </label>
+            <label key="27e738b5c5f078eae31689c4c1f0dc8c">
+                <text>&lt;country specific item&gt;</text>
+            </label>
+        </item>
+        <item id="i636343312858b2099afcac9bef7d24b55">
+            <label key="3c794b3e487cf896c3d4afd4471d6fc8">
+                <text>
+                    <strong>‌Which of the following qualifications do you think your &lt;parents/guardians&gt; expect or want you to complete?‌</strong>
+                </text>
+            </label>
+            <label key="d7c177df387a1e4148bb72b66913ad48">
+                <text>(Please select one response.)</text>
+            </label>
+            <label key="41226d25f260bc8494bfe55050b14de9">
+                <text>&lt;ISCED level 2&gt;</text>
+            </label>
+            <label key="722b0308e79d13de9dfb41bb9efda077">
+                <text>&lt;ISCED level 3.3&gt;</text>
+            </label>
+            <label key="610d63c729200059ac4955b75ca4dc14">
+                <text>&lt;ISCED level 3.4&gt;</text>
+            </label>
+            <label key="27b1c14d039b18ba78365469f517727e">
+                <text>&lt;ISCED level 4&gt;</text>
+            </label>
+            <label key="80674452771368daac76e0a46bef82e3">
+                <text>&lt;ISCED level 5&gt;</text>
+            </label>
+            <label key="907bef6858a31dcbbb186fa661d68e30">
+                <text>&lt;ISCED level 6&gt;</text>
+            </label>
+            <label key="4992d78753d7a0ea6f7856af4d324fbf">
+                <text>&lt;ISCED level 7&gt;</text>
+            </label>
+            <label key="fe9f61258f4281fc84df3647e3d56244">
+                <text>&lt;ISCED level 8&gt;</text>
+            </label>
+        </item>
+        <item id="i636343358ebd216056aae6741fd9941a68">
+            <label key="33af37d6b9b0b62964c330c3231976b9">
+                <text>
+                    <strong>‌In your opinion, which level of education do most of your schoolmates expect to complete?‌</strong>
+                </text>
+            </label>
+            <label key="604b1b242f0f0789a5e662344bb62069">
+                <text>
+                    <em>‌ (Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="41226d25f260bc8494bfe55050b14de9">
+                <text>&lt;ISCED level 2&gt;</text>
+            </label>
+            <label key="722b0308e79d13de9dfb41bb9efda077">
+                <text>&lt;ISCED level 3.3&gt;</text>
+            </label>
+            <label key="610d63c729200059ac4955b75ca4dc14">
+                <text>&lt;ISCED level 3.4&gt;</text>
+            </label>
+            <label key="27b1c14d039b18ba78365469f517727e">
+                <text>&lt;ISCED level 4&gt;</text>
+            </label>
+            <label key="80674452771368daac76e0a46bef82e3">
+                <text>&lt;ISCED level 5&gt;</text>
+            </label>
+            <label key="907bef6858a31dcbbb186fa661d68e30">
+                <text>&lt;ISCED level 6&gt;</text>
+            </label>
+            <label key="4992d78753d7a0ea6f7856af4d324fbf">
+                <text>&lt;ISCED level 7&gt;</text>
+            </label>
+            <label key="fe9f61258f4281fc84df3647e3d56244">
+                <text>&lt;ISCED level 8&gt;</text>
+            </label>
+        </item>
+        <item id="i63634aabcd25e20988fcf9d3fe53919ab">
+            <label key="d5bbb073dca2181e5eaf45a4ca3d1d3c">
+                <text>
+                    <strong>‌What kind of job do you expect to have when you are about 30 years old?‌</strong>
+                </text>
+            </label>
+            <label key="d6bbb8eb54e1bf1abe4e940b012e6369">
+                <text>
+                    <em>‌(Please type in the job title or describe the kind of work you expect to do in that job.)‌</em>
+                </text>
+            </label>
+        </item>
+    </items>
+</file>

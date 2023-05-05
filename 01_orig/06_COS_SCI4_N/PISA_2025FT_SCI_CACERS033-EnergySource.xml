@@ -1,0 +1,222 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc639281f612c63/passage NEW.xml">
+            <label key="ed04be673499adfd248620b73107b340">
+                <text>Energy Sources</text>
+            </label>
+            <label key="1a364980dca58099ba9c706268f3f5bf">
+                <text>You are the mayor of a remote town in Zedland that generates its own electricity using a diesel-powered generator. The generator is now very old and you need to choose another power source.</text>
+            </label>
+            <label key="4285d5b94c34754679862f12588fd2f9">
+                <text>The town considers four alternative options for providing electricity to the town: use of wind turbines (wind), use of photovoltaic cells (solar), use of moving water (hydroelectric dam) and combustion of gas from fossil fuels (gas). The graphs below show the average 24-hour power generation in megawatts (MW) expected from each source.</text>
+            </label>
+            <label key="4639261984efc3c38641e7425534f49d">
+                <text>The graphs also indicate the cost in Zeds, the currency of Zedland, per megawatt hour (MWh) of energy produced.</text>
+            </label>
+            <label key="7b376d5f76b6833817251378c2b42732">
+                <text>Wind (4 Zeds per MWh)</text>
+            </label>
+            <label key="c84fd509544828f809e06e43f369423f">
+                <text>Time of day</text>
+            </label>
+            <label key="27c1d56a7b82d2b8088c86fc4196dc53">
+                <text>Power (MW)</text>
+            </label>
+            <label key="b25d01f851e3ad56697024b92f72fb1d">
+                <text>Solar (5 Zeds per MWh)</text>
+            </label>
+            <label key="ca486cd53e99505ea82a28fc9a5f2752">
+                <text>Hydroelectric (3 Zeds per MWh)</text>
+            </label>
+            <label key="dcf3f482d99bac39ed9ea34b76bfa8a8">
+                <text>Gas (8 Zeds per MWh)</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63928f18b0f1623329b4984831abf942c">
+            <label key="138b95f32f77e7311f118b18ce69d96b">
+                <text>The graph below shows average daily power use in the Zedland.</text>
+            </label>
+            <label key="143b840c367b1ecdd4e8a3bdfcdbf9a7">
+                <text>Which <b>single</b> alternative energy source could meet the town's daily power requirements at all times of the day?</text>
+            </label>
+            <label key="7e25b972e192b01004b62346ee9975a5">
+                <text>wind</text>
+            </label>
+            <label key="e2cf1817f9bb7713307949ada414cb68">
+                <text>solar</text>
+            </label>
+            <label key="76c71cf6763aece3cc9e89761c9a7244">
+                <text>hydroelectric</text>
+            </label>
+            <label key="fee74eac0728a1bb5ff7d4666f8c4a88">
+                <text>gas</text>
+            </label>
+            <label key="27c1d56a7b82d2b8088c86fc4196dc53">
+                <text>Power (MW)</text>
+            </label>
+            <label key="c84fd509544828f809e06e43f369423f">
+                <text>Time of day</text>
+            </label>
+        </item>
+        <item id="i63928f39a32af233134615ab0d0efba5f">
+            <label key="6996d94da533bce6e7c0f25ff02546fb">
+                <text>The government adds a new tax, known as a carbon tax, on the amount of carbon dioxide emitted by generating power. </text>
+            </label>
+            <label key="2771dc2425bde9d1c0a5e27a23a01aba">
+                <text>The carbon tax is <strong>five zeds </strong>for each tonne of carbon dioxide emitted.</text>
+            </label>
+            <label key="81891f990d344cbf640a8ebabbe37508">
+                <text>The cost of which power source would increase the most through the addition of a carbon tax?</text>
+            </label>
+            <label key="7e25b972e192b01004b62346ee9975a5">
+                <text>wind</text>
+            </label>
+            <label key="e2cf1817f9bb7713307949ada414cb68">
+                <text>solar</text>
+            </label>
+            <label key="76c71cf6763aece3cc9e89761c9a7244">
+                <text>hydroelectric</text>
+            </label>
+            <label key="fee74eac0728a1bb5ff7d4666f8c4a88">
+                <text>gas</text>
+            </label>
+            <label key="06fdda954c438f9a88e6923131281b1e">
+                <text>Which of the following are reasons that a government could consider introducing a carbon tax?<div><div>Select all correct answers.</div></div></text>
+            </label>
+            <label key="99f935dabd37aa8ba716a0ba8ad05293">
+                <text>to ensure the town has a constant supply of power</text>
+            </label>
+            <label key="9ba22d06b277797e40dd5d1a22ba9a38">
+                <text>to increase energy consumption during peak usage times</text>
+            </label>
+            <label key="45b19f4fb65efc3ebba7af9b3a72331d">
+                <text>to generate funding for research into clean energy innovations</text>
+            </label>
+            <label key="64e30c44351b9239da00badfe429198d">
+                <text>to encourage the use of energy sources that cause less environmental damage</text>
+            </label>
+        </item>
+        <item id="i63928f97126f32710f78a8c48de3d7c27">
+            <label key="7bc8e3630173847ead13b1009a02fb26">
+                <text>What is one problem the town would face if there was not enough power?</text>
+            </label>
+            <label key="27c1d56a7b82d2b8088c86fc4196dc53">
+                <text>Power (MW)</text>
+            </label>
+            <label key="69ac429aab4a0e0c893b407f0ccd24a9">
+                <text>Time of Day</text>
+            </label>
+        </item>
+        <item id="i6392903fe722d27105b07f25c66a85c0e">
+            <label key="53e601420634e0cdd983fb91a87a5c79">
+                <text>The graph below shows average daily power use in the town.</text>
+            </label>
+            <label key="125ea73f272e2c2b0a86c6d9861122d6">
+                <text>
+                    <span>Consider a day of average power use (shown above) and the expected power generated by the alternative souces (shown to the right).</span>
+                </text>
+            </label>
+            <label key="433c2b3d502b5d4ae091568e7e7124be">
+                <text>
+                    <span>Which one of the following combinations would provide enough power for the town at the lowest price?</span>
+                </text>
+            </label>
+            <label key="27c1d56a7b82d2b8088c86fc4196dc53">
+                <text>Power (MW)</text>
+            </label>
+            <label key="c84fd509544828f809e06e43f369423f">
+                <text>Time of day</text>
+            </label>
+            <label key="f7608bc734e9e9ed4c3b0347f748d3c4">
+                <text><strong>First Source</strong> Use all available power | <strong>Second source</strong> Only use when first source is insufficient</text>
+            </label>
+            <label key="8d28a331849aa7b2154ab309d2bf1aca">
+                <text>wind | gas</text>
+            </label>
+            <label key="d1b96b6cfa0de73209257e9e9c0b950e">
+                <text>hydroelectric | wind</text>
+            </label>
+            <label key="f0ed6cbdd330b1dda18fd306bf4ac047">
+                <text>wind | solar</text>
+            </label>
+            <label key="5137e0af459d309d6c8be84757c1a015">
+                <text>hydroelectric | gas</text>
+            </label>
+            <label key="b306f6f6423c72b8b5fc5c578a0856ca">
+                <text>What is one risk to the town of the combination you have chosen?</text>
+            </label>
+        </item>
+        <item id="i639293ec8be4f232935b2c8587851bd62">
+            <label key="53e601420634e0cdd983fb91a87a5c79">
+                <text>The graph below shows average daily power use in the town.</text>
+            </label>
+            <label key="747154647ebf35b39fc7faa5b96155f9">
+                <text> The town considers using only hydroelectricity to generate power and wants to buy a battery that will be charged with any energy that is not immediately used.</text>
+            </label>
+            <label key="821ff779508bedfa35cf3c0e6d338a6c">
+                <text>Would using the combination of hydroelectricity and the battery ensure the town is able to meet its power requirements at all times of the day? </text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="27c1d56a7b82d2b8088c86fc4196dc53">
+                <text>Power (MW)</text>
+            </label>
+            <label key="c84fd509544828f809e06e43f369423f">
+                <text>Time of day</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i640fb803528ee609217d01154c893f2a46">
+            <label key="85f7a26fc1b0937cb35aedc18d8f194e">
+                <text>Each of the four available energy options has a limitation.</text>
+            </label>
+            <label key="9100a89ecc931c583892e9a75eb6cdda">
+                <text>Draw a line to match each energy option to its limitation.</text>
+            </label>
+            <label key="f08cb6c29ae253f6043cb5318e29cb25">
+                <text>Match boxes by selecting one box in each column.</text>
+            </label>
+            <label key="4fd6443aa40323c1355b592abc7d5cdc">
+                <text>You can remove a match by selecting the line and then selecting ‘x’.</text>
+            </label>
+            <label key="054b4f3ea543c990f6b125f41af6ebf7">
+                <text>Option</text>
+            </label>
+            <label key="f3d9abb903127694db460aa9c7f4d7be">
+                <text>Limitation</text>
+            </label>
+            <label key="a42ea07b8e0bfdaf21c4eb861c0f43d2">
+                <text>wind </text>
+            </label>
+            <label key="941c9a65edc0c72b3ecdab1d08d9f4ee">
+                <text>continues reliance on fossil fuels</text>
+            </label>
+            <label key="e2cf1817f9bb7713307949ada414cb68">
+                <text>solar</text>
+            </label>
+            <label key="aca42ef511fe29ec3b4a2a032a15559c">
+                <text>difficult to reliably predict energy generation</text>
+            </label>
+            <label key="76c71cf6763aece3cc9e89761c9a7244">
+                <text>hydroelectric</text>
+            </label>
+            <label key="2794ca5be39bc4bcaa0a633f6cbc106e">
+                <text>results in long-term landscape change</text>
+            </label>
+            <label key="fee74eac0728a1bb5ff7d4666f8c4a88">
+                <text>gas</text>
+            </label>
+            <label key="73e23318bbc3e2c24c0b9650f0d55fe5">
+                <text>greatest daily variation in energy generation</text>
+            </label>
+        </item>
+    </items>
+</file>

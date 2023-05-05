@@ -1,0 +1,146 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63717199144d4/passage NEW.xml">
+            <label key="5143a0acadb54ccf178031e530f7e833">
+                <text>Earthquake</text>
+            </label>
+            <label key="b833fb8843fa87dd9cfa06a1ba446382">
+                <text>A seismic zone is an area where earthquakes are likely to occur.</text>
+            </label>
+            <label key="580c99b84bc94ded15db98203c1279b1">
+                <text>A country can have different seismic zones depending on the frequency and intensity of past earthquakes. Intensity is a measure of the strength of shaking at a particular location.</text>
+            </label>
+            <label key="106f17ba89d402a06b8ca2723fbfc219">
+                <text>The map shows the distribution of these seismic zones in India.</text>
+            </label>
+            <label key="80d48a142d3cc660f0424180b56b6b71">
+                <text>The lines of latitude (horizontal) and longitude (vertical) are shown on the map. They are used to describe the location of places on Earth.</text>
+            </label>
+            <label key="4d5be56126c0d1b4dd85e56d5b61291b">
+                <text>Four locations marked on the map are at the following heights above sea level: </text>
+            </label>
+            <label key="f548d082e7e1ab700ed8a445c2ca64e5">
+                <text>P is 3500 m above sea level.</text>
+            </label>
+            <label key="0083746c4967f7ef4260eb042231a1b3">
+                <text>R and S are between 500 and 1000 m above sea level.</text>
+            </label>
+            <label key="a4a7f9303be7c6605e3c53d9ab69d0cb">
+                <text>Q is 100 m below sea level.</text>
+            </label>
+            <label key="812d9a568f87e750eb44f27e3b7a235c">
+                <text>30°N<br/>latitude</text>
+            </label>
+            <label key="d9e6d34af968b782b931fde877d63618">
+                <text>20°N</text>
+            </label>
+            <label key="b5a9a650557c327bc571ed4c8f66088f">
+                <text>10°N</text>
+            </label>
+            <label key="9e04dcb13e36d8ea0d7cc25ac82e8c40">
+                <text>Arabian Sea</text>
+            </label>
+            <label key="030eabf34091c8523365fbdce52be4fe">
+                <text>Bay of Bengal</text>
+            </label>
+            <label key="4158d5d55fec5eb386b8de0add9f474c">
+                <text>70°E</text>
+            </label>
+            <label key="d2113867fe9ecd10091c718b05f061a7">
+                <text>80°E</text>
+            </label>
+            <label key="d2085b070e2b9b3c6f7e4f2d5d463022">
+                <text>90°E<br/>longitude</text>
+            </label>
+            <label key="6b5f9752b60710f3f3eaa686c28347f2">
+                <text>
+                    <strong>‌Zone‌</strong>
+                </text>
+            </label>
+            <label key="0288378e05a887968ffc0f508a051ac8">
+                <text>
+                    <strong>‌Intensity‌</strong>
+                </text>
+            </label>
+            <label key="b7940d5c6b5f602d63f3094d579978e4">
+                <text>Very high risk</text>
+            </label>
+            <label key="741fee4006e9a588dfcb6625b1379321">
+                <text>High risk</text>
+            </label>
+            <label key="9934455b9e4f8718ce3528a8ea900819">
+                <text>Moderate risk</text>
+            </label>
+            <label key="a5f59ae30e8cbfc2f8b3f32428ea0446">
+                <text>Low risk</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/0e8a0c0b63f6ea2a431ef/passage NEW 8.xml">
+            <label key="5143a0acadb54ccf178031e530f7e833">
+                <text>Earthquake</text>
+            </label>
+            <label key="4f4d49c310e8fdd6398a6d2fe5d7deb8">
+                <text>A seismograph measures the intensity of an earthquake.</text>
+            </label>
+            <label key="f00a6638e580bcca4ffed0a3cb3d6a35">
+                <text>The diagram shows how a seismograph works.</text>
+            </label>
+            <label key="d16671f09c81df8fea5e98c03724996e">
+                <text>paper (moves in direction of arrow)</text>
+            </label>
+            <label key="d90ccffa01275a7a7795fb6d1274e75f">
+                <text>mass</text>
+            </label>
+            <label key="03f00e8e9d0d0847bb10a3a22334274a">
+                <text>pen</text>
+            </label>
+            <label key="9f59e862d84d738799d9945161c87d56">
+                <text>graph on paper (seismogram)</text>
+            </label>
+            <label key="c5930b3ee4ed1b9c9ddccca041d18047">
+                <text>Earth’s motion due to earthquake</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6371724acfc40405799d347da93896e91e">
+            <label key="ae4b6809d6904868ffca440bed0abcd6">
+                <text>Which one of the following statements about the intensity of earthquakes in India is best supported by the data in the map?</text>
+            </label>
+            <label key="256a7e9bf395b06bc1d0b659d8cb2af4">
+                <text>Intensity tends to increase with increasing latitude.</text>
+            </label>
+            <label key="e17383fc2f56819a549b4cce72be4c43">
+                <text>Intensity tends to decrease with increasing longitude.</text>
+            </label>
+            <label key="5b02b8212f98524603fe019f9975532c">
+                <text>Intensity tends to increase with decreasing height above sea level.</text>
+            </label>
+            <label key="8cc11113b0f0366cf3ac17cf5bcec278">
+                <text>Intensity tends to decrease with increasing distance from the ocean.</text>
+            </label>
+        </item>
+        <item id="i63717288799ec40579823c48ca4711600d">
+            <label key="44d46d47c37d7eae8991126e62481d5e">
+                <text>The pen of the seismograph is attached to a mass.</text>
+            </label>
+            <label key="bdacb66ec45de6bcde645194da897540">
+                <text>One function of the mass is to press the pen down onto the paper.</text>
+            </label>
+            <label key="fda515ca8c05058570018ff49f9b719e">
+                <text>What is another function of the mass?</text>
+            </label>
+        </item>
+        <item id="i63745d9aaed2625895584507ca2fe5f">
+            <label key="36df419741d8f84bc87c9942d3698edc">
+                <text>The intensity of an earthquake is a measure of the strength of shaking at a particular location.</text>
+            </label>
+            <label key="8990328aa8326138409cb01f6016f6b9">
+                <text>The following seismograms recorded the shaking caused by different earthquakes that occurred at the same location.</text>
+            </label>
+            <label key="3c7cee78a94b0c700e0ac1493b3120e8">
+                <text>Select the seismogram that shows the lowest intensity earthquake.</text>
+            </label>
+        </item>
+    </items>    
+</file>

@@ -1,0 +1,108 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6327f303c87ce/passage NEW.xml">
+            <label key="13dac68220f1c8b7541fa2bd99859234">
+                <text>Food Chain</text>
+            </label>
+            <label key="a08932450b2a571cfb686c791477e52b">
+                <text>Living things must gain energy to survive.</text>
+            </label>
+            <label key="830d82f95fdceef066c5dc76dee4b518">
+                <text>Food chains are models that represent the flow of matter and energy in nature.</text>
+            </label>
+            <label key="99f97b97e56a0f7aa67d796e302e5e9f">
+                <text>This diagram shows the flow of energy in a food chain. </text>
+            </label>
+            <label key="d6dbdd89dc49c68a1881e1c1a711a198">
+                <text>For example, in this food chain, the bird gets its energy by eating frogs.</text>
+            </label>
+            <label key="94d16117af60a25d222bb459b88e406e">
+                <text>(The organisms are not drawn to scale.)</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i632816a963c4615517e6fd75d084b21">
+            <label key="662f78442062bbef5f4d2544a64096e3">
+                <text>What provides the initial energy for the pond plants to grow?</text>
+            </label>
+            <label key="9460370bb0ca1c98a779b1bcc6861c2c">
+                <text>water</text>
+            </label>
+            <label key="6124d98749365e3db2c9e5b27ca04db6">
+                <text>oxygen</text>
+            </label>
+            <label key="6ee3d2bff78cc5c543a5096822c3df69">
+                <text>sunlight</text>
+            </label>
+            <label key="698b5c7a7c9bab08425d48a039b6af93">
+                <text>minerals</text>
+            </label>
+        </item>
+        <item id="i6328194908c131849fa4e40c3620b4a">
+            <label key="60a7942a9ddc5ea51e2c02f9390dea49">
+                <text>Which term correctly describes the frog’s role in this food chain?</text>
+            </label>
+            <label key="f18122ddebc4341b4ed758b3f0817da8">
+                <text>producer</text>
+            </label>
+            <label key="1005b14bd29466723ace30d26f602f5b">
+                <text>consumer</text>
+            </label>
+            <label key="cb30cc351cf12e5acceb218e8ea673ab">
+                <text>decomposer</text>
+            </label>
+        </item>
+        <item id="i63281a3a4572e155171ad567b2d5616">
+            <label key="51b39c7bded261bfdc64a900d9d83636">
+                <text>Which one of the following changes will occur first if the number of birds decreases?</text>
+            </label>
+            <label key="60e0bceac32db5ed84b1d1618bd0dc95">
+                <text>number of lizards will increase</text>
+            </label>
+            <label key="8b55b35cfe8bf2f72d4085193596f334">
+                <text>number of frogs will increase</text>
+            </label>
+            <label key="9ad82a94ffd960b23484a120335aa227">
+                <text>number of mosquito larvae will increase</text>
+            </label>
+            <label key="8d82d06f31951bb5f5b2a1cbb6cde5f2">
+                <text>number of plants will decrease</text>
+            </label>
+        </item>
+        <item id="i63281afe92211155270777be8741967">
+            <label key="c9e2b71fd489ccf5f6bae613078ef14b">
+                <text>Which of the following types of organism is not shown in this food chain?</text>
+            </label>
+            <label key="f18122ddebc4341b4ed758b3f0817da8">
+                <text>producer</text>
+            </label>
+            <label key="1005b14bd29466723ace30d26f602f5b">
+                <text>consumer</text>
+            </label>
+            <label key="cb30cc351cf12e5acceb218e8ea673ab">
+                <text>decomposer</text>
+            </label>
+            <label key="a573f12ada396d2ff2f87ce41764427c">
+                <text>predator</text>
+            </label>
+        </item>
+        <item id="i63281c070370a15546701e21f78d546">
+            <label key="15844bd4bb8b01ff209dc500e7eebc10">
+                <text>Which animal in this food chain lives both in water and on land?</text>
+            </label>
+            <label key="eaf9a775476bd68d146b828d0617e787">
+                <text>mosquito larva</text>
+            </label>
+            <label key="938c2cc0dcc05f2b68c4287040cfcf71">
+                <text>frog</text>
+            </label>
+            <label key="abaecf8ca3f98dc13eeecbac263cd3ed">
+                <text>bird</text>
+            </label>
+            <label key="d077f244def8a70e5ea758bd8352fcd8">
+                <text>cat</text>
+            </label>
+        </item>
+    </items>
+</file>

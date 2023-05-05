@@ -1,0 +1,176 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63a1035f026a8/passage NEW.xml">
+            <label key="776a33749f612e75e77bfd14514d2c86">
+                <text>Ballast Water</text>
+            </label>
+            <label key="5842db56fd1e7c004efca3b3bf847eef">
+                <text>Anchovies are small ocean fish, often used in food products. The mass of anchovies caught in the Black Sea (Europe) decreased each year between 1988 and 1991.</text>
+            </label>
+            <label key="d7800e4635dc09c4c78011b9b411f5f8">
+                <text>Scientists have proposed this hypothesis:</text>
+            </label>
+            <label key="94fb49d161200ec7c81214d37d0ab2b0">
+                <text>‘The decrease in the mass of anchovies caught is connected to the appearance of the invasive comb sea jelly, <em>Mnemiopsis leidyi </em>(a type of sea jelly that lives in coastal waters), which has been introduced to the Black Sea in ballast water from the Atlantic Ocean.’</text>
+            </label>
+            <label key="a4ee3133eca9d103f7521b3a95972be7">
+                <text>School of anchovies</text>
+            </label>
+            <label key="1063c5dad4e6b157f1534a2567b6ee83">
+                <text>Comb sea jelly <em>Mnemiopsis leidyi</em></text>
+            </label>
+            <label key="497118f58cd91a6eb0a4351120797461">
+                <text>Ballast water is used to stabilise large ships when they are not carrying enough cargo.</text>
+            </label>
+            <label key="af12d2e70d7ef1c6cd3bd457c02f01ee">
+                <text>Ships take in ballast water into a tank when the cargo hold is empty, and they release ballast water when the cargo hold is full.</text>
+            </label>
+            <label key="605aff5ca3b89ac520dd005eccf2757a">
+                <text>Each year, up to 12 billion tonnes of ballast water is transported around the world. Organisms including marine plants and animals, toxic algae, bacteria and viruses can be found in ballast water.</text>
+            </label>
+            <label key="982575ede3090d4f51131101fd8edd88">
+                <text>Comb sea jelly Mnemiopsis leidyi</text>
+            </label>
+            <label key="891d7c41978a596e25de7e9d63cf2d1b">
+                <text>Ballast water</text>
+            </label>
+            <label key="0b07292d08adb0f8b203682a91fe743e">
+                <text>Cargo hold empty</text>
+            </label>
+            <label key="f11bf94006d63f26bdcea58467c8113d">
+                <text>Cargo hold full</text>
+            </label>
+            <label key="ebf8b3a740ae8f8eff9fd799b4de18d7">
+                <text>Ballast tanks</text>
+            </label>
+            <label key="ee2413b6f93c676c1d6e76cafe65786a">
+                <text>Ballast tanks full</text>
+            </label>
+            <label key="d380b41bbf88d16d0782bfb660cdf9be">
+                <text>Ballast tanks empty</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a103e3e329414300404cb954f3be2312">
+            <label key="91dd84a0e53932a0eca711fc8e08d308">
+                <text>This graph shows the biomass (grams per square metre, g/m²) of <em>Mnemiopsis leidyi</em> and the mass (tonnes) of anchovies caught in the Black Sea between 1988 and 2000.</text>
+            </label>
+            <label key="5130df2939187c9ef2f69d00a7257388">
+                <text><img src="" alt="CACERS059Q01_ballast-water_Graph.svg" width="100%" type="image/svg+xml"/>‌‌<img src="assets/9dedca8164082b6685497.svg" alt="CACERS059Q01_ballast-water_Grey rectangle.svg" width="6%" type="image/svg+xml"/>‌‌<em>Mnemiopsis leidyi </em><img src="assets/c5be3ad964264eebeb17b.svg" alt="CACERS059Q01_ballast-water_black square.svg" width="6%" type="image/svg+xml"/>‌‌Anchovies </text>
+            </label>
+            <label key="992c5cbad228b2b4270739d903621742">
+                <text>Are the following statements supported by the information in the graph?</text>
+            </label>
+            <label key="a8c38cd5723dd799a00d4ac84d71561e">
+                <text>Select ‘Yes’ or ‘No’ for each statement.</text>
+            </label>
+            <label key="d385175f643c160b541b53601316c587">
+                <text>
+                    <strong>‌Yes‌</strong>
+                </text>
+            </label>
+            <label key="640a42d9dd99460d2d4f4eba8e4b7ccf">
+                <text>
+                    <strong>‌No‌</strong>
+                </text>
+            </label>
+            <label key="f9278dfe62ff173c0a87e8260f3bafb8">
+                <text>The largest increase in biomass of <em>Mnemiopsis leidyi</em> occurred at the same time as a decrease in the mass of anchovies caught.</text>
+            </label>
+            <label key="d5fe99c8f34ae3058fd20523e11cca3e">
+                <text>The biomass of <em>Mnemiopsis leidyi</em> increased overall between 1988 and 2000.</text>
+            </label>
+            <label key="05c9c68f927e8e1823043bd16efab06a">
+                <text>A decrease in the biomass of <em>Mnemiopsis leidyi</em> always occurred in the same year as in an increase in the mass of anchovies caught.</text>
+            </label>
+        </item>
+        <item id="i63a103f57ca61597537711a19a842f60a1">
+            <label key="9be8fe2ba7fd6d5e710b7bb947edd892">
+                <text>Read the scientists’ hypothesis (at right).</text>
+            </label>
+            <label key="81fa071310cdbda5cc25975df613fa40">
+                <text>Which of the following actions could help support the scientists’ hypothesis?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="15732689ecf761e4550852de652fb5ca">
+                <text>Determine if <em>Mnemiopsis leidyi</em> eat anchovies.</text>
+            </label>
+            <label key="048863064c05111ab641c893e768b7b9">
+                <text>Study how <em>Mnemiopsis leidyi</em> digest food.</text>
+            </label>
+            <label key="5e899a002f1b163e67a70361ae69eed2">
+                <text>Determine if <em>Mnemiopsis leidyi</em> and anchovies eat the same food.</text>
+            </label>
+            <label key="9607d4ee19c38db8caec697868504c02">
+                <text>Examine the ballast water of ships that have sailed from the Atlantic Ocean to the Black Sea.</text>
+            </label>
+            <label key="9b914c9145feaceebbb349baa4b2e1cd">
+                <text>Examine the ballast water of ships that have sailed from the Black Sea to the Atlantic Ocean.</text>
+            </label>
+        </item>
+        <item id="i63a10409446ce16514f0ca81002600b491">
+            <label key="67bc77bfd66d43fe38c91dd98a5ac245">
+                <text>Ballast water can be treated to reduce the number of organisms transported.</text>
+            </label>
+            <label key="b5951770dd8ce5905652980ba1302844">
+                <text>One method of treating ballast water involves exposing the water to ultraviolet (UV) light in a special chamber before it passes into the ballast tanks of the ship.</text>
+            </label>
+            <label key="caf2a0f2ce8ccb9618b642fe47d43782">
+                <text>The UV light kills organisms or damages them so that they cannot reproduce.</text>
+            </label>
+            <label key="ca1d51394b5133d617396a9c2caec684">
+                <text>Which of the following factors are important in controlling the effectiveness of UV light treatment?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="1310ee9697b33a596e26f194954f0d44">
+                <text>volume of the ballast tanks in the ship</text>
+            </label>
+            <label key="dd682910cce263874e5576a55d6afb90">
+                <text>energy source used to generate the UV light</text>
+            </label>
+            <label key="0e5105133673c233ad26493f31a4747b">
+                <text>intensity of the UV light applied to the ballast water</text>
+            </label>
+            <label key="8c02e27240eb6715973e1c59229202cd">
+                <text>length of time the ballast water is exposed to the UV light</text>
+            </label>
+        </item>
+        <item id="i6423933d93d011837650e10c6be34ffbd">
+            <label key="91dd84a0e53932a0eca711fc8e08d308">
+                <text>This graph shows the biomass (grams per square metre, g/m²) of <em>Mnemiopsis leidyi</em> and the mass (tonnes) of anchovies caught in the Black Sea between 1988 and 2000.</text>
+            </label>
+            <label key="6c7faeb02f0e54fb998bfd4e50c27674">
+                <text><img src="" alt="CACERS059Q01_ballast-water_Grey rectangle.svg" width="5%" type="image/svg+xml"/>‌‌<em>Mnemiopsis leidyi </em><img src="assets/c5be3ad964264eebeb17b.svg" alt="CACERS059Q01_ballast-water_black square.svg" width="5%" type="image/svg+xml"/>‌‌Anchovies</text>
+            </label>
+            <label key="a4cc56bcaa9d80c76f4ee4eabe021eec">
+                <text>Use the information in the graph to answer the following questions.</text>
+            </label>
+            <label key="60cd7ae26b48b55c76d4bcbf7d5d0d40">
+                <text>In which year was the greatest mass of anchovies caught? <textEntryInteraction responseIdentifier="CACERS059Q01AS1" base="10" expectedLength="6" patternMask="" placeholderText=""/></text>
+            </label>
+            <label key="3775945d8029dbe66a23d309390697c6">
+                <text>What was the biomass of <em>Mnemiopsis leidyi</em> in 1989 (to the closest hundred)?<textEntryInteraction responseIdentifier="CACERS059Q01AS2" base="10" expectedLength="8" placeholderText=""/> g/m² </text>
+            </label>
+            <label key="60152624ddd0ee67d2bfeeda7ca2f0e4">
+                <text>In how many of the years were more than 300 tonnes of anchovies caught? <textEntryInteraction responseIdentifier="CACERS059Q01AS3" base="10" expectedLength="8" placeholderText=""/></text>
+            </label>
+            <label key="6b1d69b0686a33990acecf8c49f73c7b">
+                <text>Mnemiopsis leidyi (g/m²)</text>
+            </label>
+            <label key="3fb476cc3b61823b374b8b05392463a0">
+                <text>Anchovies (tonnes)</text>
+            </label>
+            <label key="95668829f3f9b98c3f03d776cc705a85">
+                <text>Mnemiopsis leidyi (</text>
+            </label>
+            <label key="033ec4debf002dedd045aa00b44663f5">
+                <text>Anchovies</text>
+            </label>
+        </item>
+    </items>
+</file>

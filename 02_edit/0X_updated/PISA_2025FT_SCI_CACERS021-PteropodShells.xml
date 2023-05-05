@@ -1,0 +1,153 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6344bc83bc944/passage NEW.xml">
+            <label key="44a2ac2cea1c35cba06d4f943dcc024c">
+                <text>Pteropod Shells</text>
+            </label>
+            <label key="beb61ab02e212a1cf0e47ff977604978">
+                <text>Carbon dioxide (CO₂) dissolves in seawater to form carbonic acid. This process is known as ocean acidification.</text>
+            </label>
+            <label key="00abaa6ea08ff543a1b8f4201d135903">
+                <text>In an ocean field study, scientists investigated the effect of ocean acidification on the shells of pteropods (planktonic snails). The snails use calcium carbonate from water to form their shells.</text>
+            </label>
+            <label key="2bb4f5267a8b34e61974c7a81e419ab1">
+                <text>The scientists collected pteropods and several water samples from different sites. They then examined the shells for small holes called pits.</text>
+            </label>
+            <label key="6305820b49dd5abc741ed2af0688b6e2">
+                <text>pits</text>
+            </label>
+            <label key="3fcc6b1959be5cc3a12c531923280ee1">
+                <text>pteropod shell</text>
+            </label>
+            <label key="9a298cafb432bddcda00f731c2bca85d">
+                <text>The scientists collected water samples from each site and determined if the sample was saturated or undersaturated with calcium carbonate (the solute). </text>
+            </label>
+            <label key="67271eeec37262a6d9558c9770ceb7a5">
+                <text>Water is ‘saturated’ if the maximum amount of a solute is dissolved in it. Water is 'undersaturated' if it contains less than the maximum amount of dissolved solute.</text>
+            </label>
+            <label key="d91c9fa106d133dba1d7e020e0dffd1a">
+                <text>The graph plots the percentage of shells with severe pitting as a function of the percentage of water samples that were undersaturated with calcium carbonate at each site. Each cross represents a different site.</text>
+            </label>
+            <label key="8eea824ed7b47ed66d8f04bde00db570">
+                <text>
+                    <strong>Percentage of shells with severe pitting at each site</strong>
+                </text>
+            </label>
+            <label key="070f05a9f6327a67a072c7bd4ccc5036">
+                <text>
+                    <strong>Percentage of water samples that were undersaturated at each site</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6344be8540fa7203227465bd5f73077a73">
+            <label key="8aa3a4070fe68def8f1bf7dcd0e7b1e1">
+                <text>The scientists think that more pitting occurred in more acidic seawater.</text>
+            </label>
+            <label key="0892f18081299f29b9094b6b11541052">
+                <text>If the scientists are correct, which of the following statements must be true?</text>
+            </label>
+            <label key="89f0709b9bef19fb4c63a265e23aca41">
+                <text>Use the graph to answer the question.</text>
+            </label>
+            <label key="a8b2dc9af1b646bddfd1b3e3e2d31c41">
+                <text>The undersaturated water samples were more acidic than the saturated water samples.</text>
+            </label>
+            <label key="9bd9c65e6a10f8bd223b2b1c26d52cab">
+                <text>Carbonic acid causes shells to dissolve but other acids do not.</text>
+            </label>
+            <label key="3bf286f251af3bb37ce4d4231f404261">
+                <text>Pitting of the shells has only occurred since CO₂ levels have increased.</text>
+            </label>
+            <label key="71d4682935993ff48fb0b2c7865ab29e">
+                <text>Mechanical damage does not cause shells to become pitted.</text>
+            </label>
+        </item>
+        <item id="i6344bf2264e074128873a014ffdf4ed612">
+            <label key="e99575c7b7e1c52ac03fea3e4ea2ad03">
+                <text>A website author claimed that the results of this study showed that, “Ocean acidification causes changes to pteropod shells.”</text>
+            </label>
+            <label key="cd9a6185e8e30d700f98f60c72867936">
+                <text>Is this claim supported by the data from the graph?</text>
+            </label>
+            <label key="33a4910e5c5dc9b5b9b61c8c52e00765">
+                <text>Select ‘Yes’ or ‘No’.</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="738689bf8237f9f13800d4b334dc4f78">
+                <text>Explain your answer by referring to the graph.</text>
+            </label>
+        </item>
+        <item id="i6344c35f0da4224699b6eb9691269b5">
+            <label key="c00cadcd4c6a9c0a05b01eca4fa9b098">
+                <text>Scientists collected undamaged pteropod shells.</text>
+            </label>
+            <label key="ec560924f65c6018d988dcdcdcbf85a7">
+                <text>They placed half of them in a tank containing a saturated water solution, and the other half in a tank containing an undersaturated water solution. All other variables were kept constant.</text>
+            </label>
+            <label key="84504df8366ed45c6c6de9b58dec4909">
+                <text>They prepared the laboratory experiment according to the figure below.</text>
+            </label>
+            <label key="e64c4a7ad2bf04fd97f27b25f60957f2">
+                <text>Apart from differing calcium carbonate saturation, the tanks contained equal amounts of other salts so that the water resembled seawater.</text>
+            </label>
+            <label key="942a09f18e23f0e88d33de8c040d413b">
+                <text>tank containing water saturated with calcium carbonate</text>
+            </label>
+            <label key="68dac8ff6c9130125ce84b192f72845a">
+                <text>pteropods</text>
+            </label>
+            <label key="2e43a658741a887f325cb1c7a8b28e71">
+                <text>tank containing water undersaturated with calcium carbonate</text>
+            </label>
+            <label key="7fd726088338d3b362470041c2235533">
+                <text>distilled water with calcium carbonate and other salts</text>
+            </label>
+            <label key="30745a8dacb16e78181f9a3003039780">
+                <text>After some time, they examined the shells of the pteropods in the tanks.</text>
+            </label>
+            <label key="56252c1730ff65d6b9dcf25547a1886d">
+                <text>
+                    <strong>Can the following questions be answered by this laboratory experiment, or by the ocean field study, or both?</strong>
+                </text>
+            </label>
+            <label key="edc58d8ca9eb3f8d12bcb74c03fd6135">
+                <text>Select ‘Yes’ or ‘No’ for each dropdown menu.</text>
+            </label>
+            <label key="a97ea56b0e00b2379736ae60869ff66a">
+                <text>Question</text>
+            </label>
+            <label key="75ee17258f6afc7006a3391162d3a46b">
+                <text>Laboratory experiment</text>
+            </label>
+            <label key="947ae7defc61622f18aaaece5ef0edf4">
+                <text>Ocean field study</text>
+            </label>
+            <label key="d4ddcd187da8ce72158e9223b3a190e1">
+                <text>Do pteropod shells dissolve in seawater?</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="20100647a9aaebdcc59a98ef277f35d1">
+                <text>Do pteropod shells dissolve in undersaturated water?</text>
+            </label>
+            <label key="8738701a46e00b80f039672d6aacc4b9">
+                <text>Does undersaturated water cause shells to dissolve?</text>
+            </label>
+            <label key="ae2adfa5213c25e3cbe0bf482d5ae67d">
+                <text>Does temperature affect the rate that shells dissolve?</text>
+            </label>
+        </item>
+        <item id="i634de075204ef40278920f8bad9f1c4"></item>
+    </items>
+</file>

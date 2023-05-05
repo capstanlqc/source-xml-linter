@@ -1,0 +1,59 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638591bfdd7ef/passage NEW.xml">
+            <label key="6b637d395416bbd36edfed7e10c55675">
+                <text>City and Its Environment</text>
+            </label>
+            <label key="632816b2800cc27e55ed06e0ea50620a">
+                <text>A path with short grass has been mown in this meadow. The soil beneath the grass is cooler in the places where the grass is tall, and warmer where the grass has been cut short.  </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6385931cc51e32208c67aed9a30746ffa">
+            <label key="98b9e3d33f381aeeb3da51b19d893452">
+                <text>Apart from the tall grass, what other landscape feature would make the soil cooler than being in full sun? </text>
+            </label>
+        </item>
+        <item id="i6385933f947d7241688450ff7216ac2265">
+            <label key="469ec2433e2c5b2c14237c136e613e69">
+                <text>Explain how the taller grass keeps the temperature of the soil beneath the grass cooler than where the grass is short.</text>
+            </label>
+        </item>
+        <item id="i6385937436a37251031babca0f81ac02d">
+            <label key="3489d634b1ff91ced891429cb157da97">
+                <text>Scientists want to find out if mowing lawns in patches supports a higher diversity of insect pollinators in a city.</text>
+            </label>
+            <label key="80f03d8e70975b567a6f44126da5f40d">
+                <text>They include two areas with long grass in the study.</text>
+            </label>
+            <label key="5267d4b17a4d9b47b86538993c74808d">
+                <text>Area 1 contains only long grass.</text>
+            </label>
+            <label key="9a88b3646a911d6201a964c6253fddb6">
+                <text>Area 2 has a pattern of long grass and grass that has been cut short, as shown below.</text>
+            </label>
+            <label key="9d6b4067974e7cc0aa11a8a0cd1ef0e5">
+                <text>grass cut short</text>
+            </label>
+            <label key="2f35b1a40ff549a415a861ec4cd75664">
+                <text>long grass</text>
+            </label>
+            <label key="6859b2044b4d16705963ff4671b624a0">
+                <text>Which of these methods is the <strong>best</strong> for the scientists to use for this study?</text>
+            </label>
+            <label key="7fccaed1e517ff000a3eb3a498967bd6">
+                <text>Count the insect types present only in Area 2 for two years to give the insects time to pollinate the grass.</text>
+            </label>
+            <label key="4c14c8dd155872f3a65ff07aae0f1547">
+                <text>Count the insect types present for four years in Area 1 and in Area 2 before mowing the long grass into patches.</text>
+            </label>
+            <label key="adf317214595c01b309f4215f743cbac">
+                <text>Count the insect types present in Area 1 and in Area 2 for two years before and for two years after mowing the long grass into patches.</text>
+            </label>
+            <label key="adeb55d8eea6eecbd86c1e5d8d86e0e8">
+                <text>Count the insect types present only in Area 1 to determine how many different insect pollinators live in the long grass.</text>
+            </label>
+        </item>
+    </items>
+</file>

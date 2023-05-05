@@ -1,0 +1,206 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638e88879a311/passage NEW.xml">
+            <label key="59b56f13ae9c9c8196c6a663d6df262a">
+                <text>Acid Rain</text>
+            </label>
+            <label key="e46338b77ae3b688d328632020fd8edf">
+                <text>The acidity and alkalinity of chemicals can be measured using a pH scale. A pH scale includes values that range from 0 (strongly acidic) to 14 (strongly basic or alkaline). A substance that is neither acidic or basic is described as neutral and has a pH of 7.</text>
+            </label>
+            <label key="8745a7a15ca1c7e446bf3409f2bd7a9d">
+                <text>Acid deposition is when any form of acid pollution falls from the atmosphere onto Earth’s surface. The deposition can be wet (such as acid rain, sleet, snow and fog) or dry (such as acidic gases and dust particles). Acid deposition corrodes buildings and causes environmental problems.</text>
+            </label>
+            <label key="972bf6259517ba439e81fef9da8649f5">
+                <text>pH scale</text>
+            </label>
+            <label key="985679536bf2de0c75dffcef84333f10">
+                <text>acidic</text>
+            </label>
+            <label key="f17aaabc20bfe045075927934fed52d2">
+                <text>basic</text>
+            </label>
+            <label key="5da248ea6840aca1ae2b417b17982a89">
+                <text>neutral</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae803638e9b9094d3d/passage NEW 1.xml">
+            <label key="59b56f13ae9c9c8196c6a663d6df262a">
+                <text>Acid Rain</text>
+            </label>
+            <label key="c64199c5cc79cbc7da29e58e0f5c382a">
+                <text>Power plants emit sulfur dioxide (SO₂) and nitrogen dioxide (NO₂) when they burn fossil fuels to generate electricity. Vehicle exhaust emissions also contain these two gases.</text>
+            </label>
+            <label key="1d64b29fe62ce74513b3010a840c3973">
+                <text>The image shows how acid rain is formed when sulfur dioxide and nitrogen dioxide react with other chemicals in the atmosphere. These reactions produce acidic pollutants, which fall to the ground as acid rain.</text>
+            </label>
+            <label key="b78821dc448ffa0869bc274e2a3e553c">
+                <text>
+                    <strong>‌H₂SO₄‌</strong>
+                </text>
+            </label>
+            <label key="c528f53941651ce18a5a0153770aaccb">
+                <text>
+                    <strong>‌HNO₃‌</strong>
+                </text>
+            </label>
+            <label key="0d30061cdae52edbb71db76018a1563c">
+                <text>
+                    <strong>‌Acid rain‌</strong>
+                </text>
+            </label>
+            <label key="7e25b972e192b01004b62346ee9975a5">
+                <text>wind</text>
+            </label>
+            <label key="d37a8f385b5b0366dffd1fe0dd65a5c0">
+                <text>pollution</text>
+            </label>
+            <label key="ed21687560e169aaafdad239e52b8d08">
+                <text>plants die</text>
+            </label>
+            <label key="811445975ed440d0717eb7dca03ab3e5">
+                <text>
+                    <strong>‌NO₂‌</strong>
+                </text>
+            </label>
+            <label key="ec3ecaaef0c2e6388f62fe80c554cc26">
+                <text>
+                    <strong>‌SO₂‌</strong>
+                </text>
+            </label>
+            <label key="0af24ccd65fbc5202a17887fc65d57bb">
+                <text>evaporation</text>
+            </label>
+            <label key="45d20b1d2cc2d52e74b3cbf1750a2e31">
+                <text>ocean</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd8638e9c7ceeedf/passage NEW 2.xml">
+            <label key="59b56f13ae9c9c8196c6a663d6df262a">
+                <text>Acid Rain</text>
+            </label>
+            <label key="be56901a885f1319255f79265cccc56b">
+                <text>Some species of plants and animals are able to tolerate a range of pH conditions. The graph shows the impact of pH on the number of each of four different species found in a freshwater lake.</text>
+            </label>
+            <label key="b386e160fba058afe5ddb83ff7f4155d">
+                <text>
+                    <strong>‌Number of individuals/L‌</strong>
+                </text>
+            </label>
+            <label key="d9a231abc68dffc4f9abc8ad20ae8c53">
+                <text>
+                    <strong>‌pH of water‌</strong>
+                </text>
+            </label>
+            <label key="61ffe99541fed8ca6fcf9091d954fb03">
+                <text>Species A</text>
+            </label>
+            <label key="3d35fcfcf87261cc962a880fa47667ff">
+                <text>Species B</text>
+            </label>
+            <label key="4d57f2c66dfbccc43c4bb25af8546f6b">
+                <text>Species C</text>
+            </label>
+            <label key="efdf2c3f194bd694f89edeff75ec5b3e">
+                <text>Species D</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638e89c5977ff127665a80c06896ac95cf">
+            <label key="95f3d56f43a57d5b992b0f5e9704bcef">
+                <text>The pH of normal rainwater is about 5.6.</text>
+            </label>
+            <label key="13f49ca0f04e21f245602c1ccd88f557">
+                <text><strong>Acid</strong> rain would most likely have which one of the following pH values?</text>
+            </label>
+            <label key="9110a7803abee686fdb3eb2cde1c3895">
+                <text>pH 1.3</text>
+            </label>
+            <label key="95368f5307511203afe4b026cf46bb0b">
+                <text>pH 4.3</text>
+            </label>
+            <label key="91a7a0cde3984e5c1b0e39d426c99eb1">
+                <text>pH 7.3</text>
+            </label>
+            <label key="cb972a5b90052db57f5cabf1a2961eaf">
+                <text>pH 8.3</text>
+            </label>
+        </item>
+        <item id="i638e9aa6b91e112754896780fb7526a236">
+            <label key="ba80a160eecd2cd38bac0b192b44d6b5">
+                <text>Which type of acid deposition is more likely to cause respiratory health problems?</text>
+            </label>
+            <label key="60cddcd22116ddc8aed4a172983f9bcd">
+                <text>wet deposition</text>
+            </label>
+            <label key="60e60921eeb5cb3510925b75a13108a8">
+                <text>dry deposition</text>
+            </label>
+            <label key="cb4bf10933f0338e33b23f50b291ade0">
+                <text>Explain why this type of deposition will be more likely to cause respiratory health problems.</text>
+            </label>
+        </item>
+        <item id="i638e9c2f5f3201276678942866f3d9cd4d">
+            <label key="45a11dd91d956b3f27f2cc565c105fb6">
+                <text>Describe two ways to reduce the emission of the main pollutants that cause acid rain.</text>
+            </label>
+            <label key="ef941508d8d26f6086c1ab0c7728878b">
+                <text>First way of reducing pollutants that cause acid rain.</text>
+            </label>
+            <label key="0a6486f4cca21c7be0f9a51969d4a28e">
+                <text>Second way of reducing pollutants that cause acid rain.</text>
+            </label>
+        </item>
+        <item id="i638ea0b364a2e1275459e9a81d24321c8b">
+            <label key="8df166a43cd697af711931a67240004c">
+                <text>Which species is most numerous when the lake water is at pH 7?</text>
+            </label>
+            <label key="61ffe99541fed8ca6fcf9091d954fb03">
+                <text>Species A</text>
+            </label>
+            <label key="3d35fcfcf87261cc962a880fa47667ff">
+                <text>Species B</text>
+            </label>
+            <label key="4d57f2c66dfbccc43c4bb25af8546f6b">
+                <text>Species C</text>
+            </label>
+            <label key="efdf2c3f194bd694f89edeff75ec5b3e">
+                <text>Species D</text>
+            </label>
+        </item>
+        <item id="i638ea105303c4128265885b80dc950d669">
+            <label key="fe2f6e35ff5817bd32d83d648434c3d3">
+                <text>If the pH value of the water in the lake decreased from 6.3 to 5.0, which species is likely to become more numerous?</text>
+            </label>
+            <label key="61ffe99541fed8ca6fcf9091d954fb03">
+                <text>Species A</text>
+            </label>
+            <label key="3d35fcfcf87261cc962a880fa47667ff">
+                <text>Species B</text>
+            </label>
+            <label key="4d57f2c66dfbccc43c4bb25af8546f6b">
+                <text>Species C</text>
+            </label>
+            <label key="efdf2c3f194bd694f89edeff75ec5b3e">
+                <text>Species D</text>
+            </label>
+        </item>
+        <item id="i638ea139bd40f2242bf39bd011f442f70">
+            <label key="59795596618a0192abbb0ae9c8338991">
+                <text>Omar claims that if the lake water reaches pH 8.5, the data shows that there will be about 80 individuals of Species A per litre of water.</text>
+            </label>
+            <label key="83141ad6cb479490a3853ad47508d94c">
+                <text>Do you agree with Omar?</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,811 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli></sharedstimuli>
+    <items>
+        <item id="i63ead62805f12237205f07fe78df78af26">
+            <label key="8ba468e8c5be73bfa374072f1780805b">
+                <text>
+                    <p>
+                        <strong>‌This school year, how often did you use the following &lt;digital resources&gt; <span class="txt-underline">at school</span>?‌</strong>
+                    </p>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="4f76188f7ed8b86216bd9c03968550c4">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="5a2c83370ba5d7bee35afba5b87971d3">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="accfe5f8a2fed9b5fac1facea5a44774">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="2c721e029e123982a3ecdbf962023215">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="db522df96842154089a7e7df9700a4d1">
+                <text>
+                    <em>‌Several times a day ‌</em>
+                </text>
+            </label>
+            <label key="8636a80452c96846431513d7656dadbf">
+                <text>
+                    <em>‌This resource is not available to me at school.‌</em>
+                </text>
+            </label>
+            <label key="a05b0669dc33d5111ebc3f2958ca02b2">
+                <text>Desktop or laptop computer</text>
+            </label>
+            <label key="6103dbd3c19e44d79a2270e9d2a5eaf4">
+                <text>Smartphone (i.e. mobile phone with Internet access)</text>
+            </label>
+            <label key="6694629621a36fba19ff029ae442452e">
+                <text>&lt;Tablet device&gt; (e.g.&lt;iPad®&gt;, &lt; Galaxy Tablet®&gt;,) or &lt;e-book reader&gt; (e.g. &lt;Amazon® Kindle™&gt;,&lt;Kobo®&gt;)</text>
+            </label>
+            <label key="da8c874bc9cda5906984e2701fb92c6e">
+                <text>Internet access (except on smartphones)</text>
+            </label>
+            <label key="e998138305c2e8c94d63e2439f8ef333">
+                <text>School portal (to consult timetable, absences, etc.)</text>
+            </label>
+            <label key="edd07748a4002987a3a35c6a61526cdc">
+                <text>Educational software, games or Apps, other learning tools (e.g. &lt;CK-12™&gt;, &lt;Lucidchart&gt;, or &lt;Mathalicious®&gt; online support)</text>
+            </label>
+            <label key="8a589ba605afd1fe6daf61449abc07ae">
+                <text>A learning management system or school learning platform (e.g. &lt;Blackboard®&gt;, &lt;Edmodo®&gt;, &lt;Moodle®&gt;, &lt;Google® Classroom™&gt;)</text>
+            </label>
+            <label key="78c0ed8db32506ee4e803c6b7b4de3e1">
+                <text>&lt;Virtual reality (VR) hardware&gt; (e.g. &lt;Google Cardboard®&gt;, &lt;Oculus&gt;, &lt;Class VR&gt;)</text>
+            </label>
+            <label key="ed36f5b5798dc116da154ceda5c07292">
+                <text>Robotic devices (e.g &lt;3D printers&gt;, &lt;laser cutters&gt;, &lt;drones&gt;)</text>
+            </label>
+            <label key="aef4469b01f0f215e2423b46393b1ad9">
+                <text>&lt;Artificial Intelligence (AI)&gt; tools or software (e.g. &lt;ChatGPT&gt;, &lt;MidJourney&gt;, &lt;Stable Diffusion&gt;)</text>
+            </label>
+        </item>
+        <item id="i63ead6308485f586090cbb7702c7f5d303">
+            <label key="f86833892016af2dd179a108abed9bdc">
+                <text>
+                    <p>The following question is about your experience when browsing online content or using social media.</p>
+                    <p>
+                        <strong>‌How upset were you the last time the following situations occurred?‌</strong>
+                    </p>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="1cb61f56145c204c4f3e88edfdc47ee8">
+                <text>
+                    <em>‌This did not happen to me‌</em>
+                </text>
+            </label>
+            <label key="47f606a54d3bf27bce06fc9002607b55">
+                <text>
+                    <em>‌Not at all upset‌</em>
+                </text>
+            </label>
+            <label key="79a9c9f4196fbc0528666e4b51c199d7">
+                <text>
+                    <em>‌A little upset‌</em>
+                </text>
+            </label>
+            <label key="fc60957664e8212139bbaf4932223b1d">
+                <text>
+                    <em>‌Quite upset‌</em>
+                </text>
+            </label>
+            <label key="4a985039f26c494590bfcab682e0bd95">
+                <text>
+                    <em>‌Very upset‌</em>
+                </text>
+            </label>
+            <label key="12841cf1ff56215992614a2d24d48cc7">
+                <text>Encountering content online that was inappropriate for my age</text>
+            </label>
+            <label key="8e7c7c7408cca53ed4b22e64acbf733a">
+                <text>Encountering discriminatory content online (e.g. about race, gender, sexual orientation or physical appearance)</text>
+            </label>
+            <label key="f1c24c5d43a81a7daa0df3476df12a03">
+                <text>Receiving unkind, vulgar or offending messages, comments or videos</text>
+            </label>
+            <label key="5b0fdd077f6576f29ab3132f16655a82">
+                <text>Encountering unkind, vulgar or offending messages, comments or videos about someone I know</text>
+            </label>
+            <label key="3aac2cfb513881ffe962af85710d5439">
+                <text>Information about me was publicly displayed online without my consent</text>
+            </label>
+        </item>
+        <item id="i63ead6387b19918454d6e3c759dea3c31a">
+            <label key="8cd6ef2d2a2fc6dd11b8ef4d068251e9">
+                <text>
+                    <p>The following statements are about <em>‌your views on school rules regarding &lt;digital resources&gt;‌</em>.</p>
+                    <p>
+                        <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                    </p>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="b3eec4d60ebd8c1b9e4d4ad91014dfe0">
+                <text>Students should not be allowed to bring mobile phones to class.</text>
+            </label>
+            <label key="96cc0ef170fa8f855b670366cd3cf22d">
+                <text>Students should not be allowed to bring their own laptop (or tablet device) to class.</text>
+            </label>
+            <label key="b8c5e6787b8819ca57916d630fa7d74e">
+                <text>Students should collaborate with teachers to decide on the rules regarding the use of digital devices during lessons.</text>
+            </label>
+            <label key="0284f5bd71e1af3e5bc14e4c6fb80f35">
+                <text>The school should set up filters to prevent students from going on social media.</text>
+            </label>
+            <label key="285cd2f9ddbc80d88062118fd7289e0b">
+                <text>The school should set up filters to prevent students from playing games online.</text>
+            </label>
+            <label key="450479ca9728e02ec29897fd6c58e24f">
+                <text>Teachers should monitor what students do on their laptop or tablet device.</text>
+            </label>
+        </item>
+        <item id="i63ead63e131c758512faa788d5296a2765">
+            <label key="61f906ccebad9aeb1e97b57a647f49da">
+                <text>
+                    <strong>‌During a <em>typical</em> <span class="txt-underline">weekend</span> day, how much time do you spend doing the following leisure activities?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="1d2b929dccd00cbc1d87ca6b5967606b">
+                <text>
+                    <em>‌No time at all‌</em>
+                </text>
+            </label>
+            <label key="40a52bf11c43f27a2ecb304e6fb92052">
+                <text>
+                    <em>‌Less than 1 hour a day ‌</em>
+                </text>
+            </label>
+            <label key="0b824e07d23889267a05023014093d92">
+                <text>
+                    <em>‌Between1 and 3 hours a day‌</em>
+                </text>
+            </label>
+            <label key="2032e49478dbbd4079b2364015062884">
+                <text>
+                    <em>‌More than 3 hours and up to 5 hours a day‌</em>
+                </text>
+            </label>
+            <label key="562e0887b305c72b52c7290fb42ad8e0">
+                <text>
+                    <em>‌More than 5 hours and up to 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="d431d5ca5c386edcc1ee4241c7f91ea6">
+                <text>
+                    <em>‌More than 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="0e7baa5ea57018e0b42ea378863f4c93">
+                <text>Play video-games (using my smartphone, a gaming console or an online platform or Apps)</text>
+            </label>
+            <label key="19604fd354a7ef959dca4e4ab2f2fd95">
+                <text>Browse social networks (e.g. &lt;Instagram®&gt;, &lt;TikTok®&gt;)</text>
+            </label>
+            <label key="0d6a1c1c989b49935638e32af4c4083f">
+                <text>Browse the Internet (excluding social networks) for fun (e.g. reading news, listening to podcasts and music or watching videos)</text>
+            </label>
+            <label key="5ca96048be57d62616499eba74d38049">
+                <text>Look for practical information online (e.g. find a place, book a train ticket, buy a product)</text>
+            </label>
+            <label key="647928c29881bd4c4dbea16c26385e70">
+                <text>Communicate and share digital content on social networks or any communication platform (e.g. &lt;TikTok®&gt;, &lt;Instagram®&gt;, &lt;Twitter®&gt;, emails, chat)</text>
+            </label>
+            <label key="9bed8d3b49a8763d8d0806755c987aa6">
+                <text>Read, listen to or view informational materials to learn how to do something (e.g. tutorial, podcast)</text>
+            </label>
+            <label key="ec5f2dcc208aa4e1b043460ac1295e69">
+                <text>Create or edit my own digital content (pictures, videos, music, computer programs)</text>
+            </label>
+        </item>
+        <item id="i63ead64181a5d585573334195d6b1a8fb6">
+            <label key="196d23e21476af8a975c327d75b8790d">
+                <text>
+                    <strong>‌During a <em>‌typical ‌</em><span class="txt-underline">weekday</span>, how much time do you spend doing the following leisure activities?‌</strong>
+                </text>
+            </label>
+            <label key="59f6cafed708b723344137a1cfcd1c42">
+                <text>
+                    <span>‌(Please select one response in each row.)‌</span>
+                </text>
+            </label>
+            <label key="1d2b929dccd00cbc1d87ca6b5967606b">
+                <text>
+                    <em>‌No time at all‌</em>
+                </text>
+            </label>
+            <label key="40a52bf11c43f27a2ecb304e6fb92052">
+                <text>
+                    <em>‌Less than 1 hour a day ‌</em>
+                </text>
+            </label>
+            <label key="0b824e07d23889267a05023014093d92">
+                <text>
+                    <em>‌Between1 and 3 hours a day‌</em>
+                </text>
+            </label>
+            <label key="2032e49478dbbd4079b2364015062884">
+                <text>
+                    <em>‌More than 3 hours and up to 5 hours a day‌</em>
+                </text>
+            </label>
+            <label key="bd0bb0924d2d8529b11c92c275b44e05">
+                <text>
+                    <em>‌More than  5 hours and up to 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="d431d5ca5c386edcc1ee4241c7f91ea6">
+                <text>
+                    <em>‌More than 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="0e7baa5ea57018e0b42ea378863f4c93">
+                <text>Play video-games (using my smartphone, a gaming console or an online platform or Apps)</text>
+            </label>
+            <label key="19604fd354a7ef959dca4e4ab2f2fd95">
+                <text>Browse social networks (e.g. &lt;Instagram®&gt;, &lt;TikTok®&gt;)</text>
+            </label>
+            <label key="0d6a1c1c989b49935638e32af4c4083f">
+                <text>Browse the Internet (excluding social networks) for fun (e.g. reading news, listening to podcasts and music or watching videos)</text>
+            </label>
+            <label key="b720fff15979a9b96c66fd51cd6c0a9a">
+                <text>Look for practical information online (e.g. find a place, book a train ticket, buy a product)</text>
+            </label>
+            <label key="647928c29881bd4c4dbea16c26385e70">
+                <text>Communicate and share digital content on social networks or any communication platform (e.g. &lt;TikTok®&gt;, &lt;Instagram®&gt;, &lt;Twitter®&gt;, emails, chat)</text>
+            </label>
+            <label key="9bed8d3b49a8763d8d0806755c987aa6">
+                <text>Read, listen to or view informational materials to learn how to do something (e.g. tutorial, podcast)</text>
+            </label>
+            <label key="ec5f2dcc208aa4e1b043460ac1295e69">
+                <text>Create or edit my own digital content (pictures, videos, music, computer programs)</text>
+            </label>
+        </item>
+        <item id="i63ead6446b8ab18535d6fb9845268223c1">
+            <label key="ddda1f4fc504246974e0eee96eba82e7">
+                <text>
+                    <strong>‌How often do you use &lt;digital resources&gt; for the following in your &lt;school science&gt; lessons or when completing homework?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="4f76188f7ed8b86216bd9c03968550c4">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="d6d161ab7b203f0bcdfcec41fd4c7c79">
+                <text>
+                    <em>‌About once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="5a2c83370ba5d7bee35afba5b87971d3">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="accfe5f8a2fed9b5fac1facea5a44774">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="2c721e029e123982a3ecdbf962023215">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="c0b628e89683618f5ebe8b4935979bc1">
+                <text>
+                    <em>‌Does not apply‌</em>
+                </text>
+            </label>
+            <label key="2b7c529b77263ff4b6a8e4df7bf08e75">
+                <text>I use &lt;digital resources&gt; to collect data for experiments.</text>
+            </label>
+            <label key="ac106c325ad405f7cade551a5d4ca7f7">
+                <text>I use &lt;digital resources&gt; to interpret and analyse datagraph data.</text>
+            </label>
+            <label key="bf71892aed5507f6c0d5bbd939861d07">
+                <text>I use &lt;digital resources&gt; to produce data visualisations (e.g. graphs, charts, diagrams)</text>
+            </label>
+            <label key="8488b1e16a5019a55b64054c89b89bac">
+                <text>I use &lt;digital resources&gt; to report the findings of experiments.</text>
+            </label>
+            <label key="de7a0263291950bc6296b71b965b8b58">
+                <text>I use &lt;digital resources&gt; for simulations and modelling (e.g. &lt;GeoGebra&gt;, &lt;NetLogo&gt;), virtual laboratories (e.g. &lt;Labster&gt;).</text>
+            </label>
+            <label key="efc9d3bd2bf9ffb91dd4b534bfeaa4d4">
+                <text>I use &lt;digital resources&gt; for coding or algorithm activities (e.g. using &lt;Scratch&gt;, etc.).</text>
+            </label>
+        </item>
+        <item id="i63ead64771a3d585447e431cdd15ae292d">
+            <label key="6a7ecbad42d77149ca781a1de9d90558">
+                <text>
+                    <p>The following statements are about the use of &lt;digital resources&gt; for school-related activities <span class="txt-underline emphasized">outside of classroom hours</span>.</p>
+                    <p>
+                        <strong>‌This school year, how often did you use &lt;digital resources&gt; for the following activities?‌</strong>
+                    </p>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="4f76188f7ed8b86216bd9c03968550c4">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="72b4fe2fd28fec2cfdc889e679a40add">
+                <text>
+                    <em>‌About once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="5a2c83370ba5d7bee35afba5b87971d3">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="354e52cf650bdebcdaab791517ddb751">
+                <text>
+                    <em>‌About once or twice a week ‌</em>
+                </text>
+            </label>
+            <label key="fde9d05e94db551b1ca7e28f069e0a9e">
+                <text>
+                    <em>‌Every day or almost every day ‌</em>
+                </text>
+            </label>
+            <label key="bfcda7f2e7762f0820c3dcf69c0388f0">
+                <text>See my grades or results from specific assignments (e.g. homework or tests)</text>
+            </label>
+            <label key="30e20695affda2b18dc5643939a7d91f">
+                <text>Browse the Internet for schoolwork (e.g. for preparing an essay or presentation)</text>
+            </label>
+            <label key="969c4a72e900a7365445bc4a8716e15e">
+                <text>Browse the Internet to follow up lessons (e.g. for finding explanations)</text>
+            </label>
+            <label key="ba2595ed873995777278f54fabd662e3">
+                <text>Receive or download assignments or instructions (via &lt;digital resources&gt;) from my teacher</text>
+            </label>
+            <label key="6f6c12004f8f7824d3fbcc499a115793">
+                <text>Upload my work (e.g. documents or presentations) to a school portal or another platform to share materials with my teacher and/or students</text>
+            </label>
+            <label key="073f892f8412765dca96fcef3291ecbc">
+                <text>Communicate with my teacher</text>
+            </label>
+            <label key="2f54ad220cc71d0bb1b733b451979de4">
+                <text>Communicate with other students about schoolwork</text>
+            </label>
+            <label key="f8f61694d017e3946a9874cfea62e7e0">
+                <text>Search for information on school-related activities or assignments</text>
+            </label>
+        </item>
+        <item id="i63ead64c487251845777f8784f5336ad37">
+            <label key="dd83e21e82d16c31e220040ec45dc48e">
+                <text>
+                    <p>The following statements are about the use of &lt;digital resources&gt; for <em>‌school-related activities in general (i.e. during lessons or when completing homework)‌</em>.</p>
+                    <p>
+                        <strong>‌This school year, how often did you use &lt;digital resources&gt; for the following activities?‌</strong>
+                    </p>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="08fb496bb55a4cbc7bdde0ac362facb3">
+                <text>
+                    <em>‌Never or almost never ‌</em>
+                </text>
+            </label>
+            <label key="cf2bb73508eb1bfd2f94ace285b63c87">
+                <text>
+                    <em>‌About once or twice a year ‌</em>
+                </text>
+            </label>
+            <label key="9dd399797fa542d513d47a74d66a6160">
+                <text>
+                    <em>‌About once or twice a month ‌</em>
+                </text>
+            </label>
+            <label key="354e52cf650bdebcdaab791517ddb751">
+                <text>
+                    <em>‌About once or twice a week ‌</em>
+                </text>
+            </label>
+            <label key="c28d92846b4b240861ce8cf562bc4a85">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="e9d180b9109cf787ee979dcaa9a5e444">
+                <text>Read or listen to feedback from my teachers regarding my work or academic results</text>
+            </label>
+            <label key="144f53839483aa6d45f23c1490e85e87">
+                <text>Read or listen to feedback from other students on my work</text>
+            </label>
+            <label key="e154a359ea3c1d97eb857c488b45569b">
+                <text>Read or listen to feedback automatically generated by educational software or App</text>
+            </label>
+            <label key="b47e3d91db3759f11b998f0032c20a04">
+                <text>Work on drill and practice exercises using an educational software or App</text>
+            </label>
+        </item>
+        <item id="i63ead6507b45218586e614b94d7f5ef5fc">
+            <label key="ad8207d17b322c1680264db7d4978e7c">
+                <text>
+                    <p>The following question is about the availability, accessibility and quality of &lt;digital resources&gt; at your school.</p>
+                    <p>
+                        <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                    </p>
+                    <p>
+                        <em>‌(Please think of different kinds of &lt;digital resources&gt; such as desktop computers, laptops, smartphones and tablet devices as well as educational software and other digital learning tools.)‌</em>
+                    </p>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="cd37f3122cfe8bd14e930cf058bd716b">
+                <text>There are enough &lt;digital resources&gt; for every student at my school.</text>
+            </label>
+            <label key="5683a1072a7e1f2ceeb8393e35605613">
+                <text>There are enough digital devices with access to the Internet at my school.</text>
+            </label>
+            <label key="f5d2923f8d44621ab8239813c6a92540">
+                <text>The school’s Internet is stable.</text>
+            </label>
+            <label key="df2ff307a05076c6e7f98f8bd85c61b2">
+                <text>The school’s Internet speed is sufficient.</text>
+            </label>
+            <label key="2a6bf7c50541c287c7c4e8b62547bef6">
+                <text>&lt;Digital resources&gt; function properly at my school.</text>
+            </label>
+            <label key="a9e3c8f02ebb69e2e221da076276205c">
+                <text>&lt;Digital resources&gt; are easily accessible within the classroom.</text>
+            </label>
+            <label key="19f4bfd25be65323c62970f0bba4e242">
+                <text>Digital learning resources available at my school make learning interesting.</text>
+            </label>
+            <label key="25ecbd84b16bb1c36fd16f018290ff5b">
+                <text>The school provides sufficient technical support to help students in their use of &lt;digital resources&gt;.</text>
+            </label>
+            <label key="743862d7175f727d2eec3ff19627096a">
+                <text>Teachers at my school have the necessary skills to use digital devices during instruction.</text>
+            </label>
+            <label key="30ea8282c9fb80036d2c664049274d92">
+                <text>Teachers at my school are willing to use &lt;digital resources&gt; for teaching.</text>
+            </label>
+        </item>
+        <item id="i63ead65394b072372019b47f34a2d11205">
+            <label key="ce050464dd8160b0c5b32bbc94f394b1">
+                <text>
+                    <p>
+                        <strong>‌This school year, how often did you use the following &lt;digital resources&gt; <span class="txt-underline">outside of school</span> (e.g., at home or where you usually access &lt;digital resources&gt;)?‌</strong>
+                    </p>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="4f76188f7ed8b86216bd9c03968550c4">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="5a2c83370ba5d7bee35afba5b87971d3">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="accfe5f8a2fed9b5fac1facea5a44774">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="2c721e029e123982a3ecdbf962023215">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="db522df96842154089a7e7df9700a4d1">
+                <text>
+                    <em>‌Several times a day ‌</em>
+                </text>
+            </label>
+            <label key="9d9f1b5d218f5ae92d9df71211c0176c">
+                <text>
+                    <em>‌This resource is not available to me outside of school.‌</em>
+                </text>
+            </label>
+            <label key="a05b0669dc33d5111ebc3f2958ca02b2">
+                <text>Desktop or laptop computer</text>
+            </label>
+            <label key="6103dbd3c19e44d79a2270e9d2a5eaf4">
+                <text>Smartphone (i.e. mobile phone with Internet access)</text>
+            </label>
+            <label key="007c6a62d10dbae98bcef07dd9eb1986">
+                <text>&lt;Tablet device&gt; (e.g.&lt;iPad®&gt;, &lt;Galaxy Tablet®&gt;,) or &lt;e-book reader&gt; (e.g., &lt;Amazon® Kindle™&gt;, &lt;Kobo®&gt;)</text>
+            </label>
+            <label key="da8c874bc9cda5906984e2701fb92c6e">
+                <text>Internet access (except on smartphones)</text>
+            </label>
+            <label key="0f4ed9a9be04be60e386a0f3a830df02">
+                <text>Educational software, games or Apps, other learning tools (e.g. &lt;CK-12™&gt;, &lt;Lucidchart&gt;, or &lt;Mathalicious®&gt; online support)</text>
+            </label>
+            <label key="68f97fb1a2e2deaa74c2bbf90209bb05">
+                <text>Video or online games (e.g. used with game consoles such as a &lt; Play Station 5®&gt; or &lt;Nintendo Switch®&gt;, online gaming platforms such as &lt;Steam®&gt; or gaming Apps such as &lt;Candy Crush®&gt;)</text>
+            </label>
+            <label key="20cd1d387925448e245ca52008d5effd">
+                <text>Smartwatch (e.g. &lt;Apple Watch®&gt;, &lt;Samsung Galaxy Watch®&gt; or fitness tracker (e.g. &lt;FitBit®&gt;)</text>
+            </label>
+            <label key="84854b85592b0b26d6064b16a848bb32">
+                <text>&lt;Virtual reality (VR)&gt; hardware</text>
+            </label>
+            <label key="ed36f5b5798dc116da154ceda5c07292">
+                <text>Robotic devices (e.g &lt;3D printers&gt;, &lt;laser cutters&gt;, &lt;drones&gt;)</text>
+            </label>
+            <label key="aef4469b01f0f215e2423b46393b1ad9">
+                <text>&lt;Artificial Intelligence (AI)&gt; tools or software (e.g. &lt;ChatGPT&gt;, &lt;MidJourney&gt;, &lt;Stable Diffusion&gt;)</text>
+            </label>
+        </item>
+        <item id="i63ead65658c7e58609877f811d19a1c3cd">
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="6ec2bcc5f108accb56737262fcb873ac">
+                <text>I am interested in learning more about &lt;digital resources&gt;.</text>
+            </label>
+            <label key="7186ec0424b6721f5a9d53d9f7e3f32e">
+                <text>I am interested in learning &lt;computer programming&gt;.</text>
+            </label>
+            <label key="6236636a9c0099817007ced0d082b50c">
+                <text>I am interested in learning about &lt;digital resources&gt; because it could be useful in a job.</text>
+            </label>
+            <label key="a908036e42a711b4f0fd03219cd7e7a4">
+                <text>I like using &lt;digital resources&gt; to find new ways to do things.</text>
+            </label>
+            <label key="5a5b65aaae5d6f08097823d79613913b">
+                <text>I am interested in learning about &lt;machine learning&gt; and &lt;artificial intelligence&gt;. </text>
+            </label>
+        </item>
+        <item id="i63ead6590eb142041175ef24a0d3852ec8">
+            <label key="f9fa8406e302aa08e13b77710ed84ea3">
+                <text>
+                    <strong>‌Thinking about your experience with digital &lt;digital resources&gt;: to what extent do you disagree or agree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="833fce80aa047ebf4545c87dfc1bdced">
+                <text>
+                    <em>‌(Please think of different kinds of digital devices such as for example desktop computers, portable laptops, notebooks, smartphones, tablet computers, cell phones without internet access, game consoles, or internet-connected television.)‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="e846defcce896ace57aa8f6f761bd133">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="a6e44336af2f40be2acf63219c615a51">
+                <text>I forget about time when I’m using digital devices.</text>
+            </label>
+            <label key="ada4709d15afa58af5a8efddbceb834f">
+                <text>The Internet is a great resource for obtaining information I am interested in (e.g., news, sports, dictionary).</text>
+            </label>
+            <label key="0c6ad8d65f59050653dbee43ee77c234">
+                <text>It is very useful to have social networks on the Internet.</text>
+            </label>
+            <label key="c84ce605b940513d4d40b22258881c1a">
+                <text>I am really excited discovering new digital devices or applications.</text>
+            </label>
+            <label key="16138b1b53f94dec86ff605d00fb5c5d">
+                <text>I really feel bad if no Internet connection is possible.</text>
+            </label>
+            <label key="ab570ffcc4265675a3462ed085763050">
+                <text>I like using digital devices.</text>
+            </label>
+        </item>
+        <item id="i63ead65c46a2518545ef107d9287a649e6">
+            <label key="14c282b2d3d82d703234f530dfc2674e">
+                <text>
+                    <strong>‌Thinking about your experience with &lt;digital resources&gt;: to what extent do you disagree or agree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="a2929209b259efd384d26726ef3cbe35">
+                <text>To learn something new about digital devices, I like to talk about them with my friends.</text>
+            </label>
+            <label key="f8f842e9927e054c948fc1d090d2135b">
+                <text>I like to exchange solutions to problems with digital devices with others on the Internet.</text>
+            </label>
+            <label key="6bf8f509bc92d7a19991b82c391f04c7">
+                <text>I like to meet friends and play computer and video games with them.</text>
+            </label>
+            <label key="4af77064d11b105d8fe3e0946344cc84">
+                <text>I like to share information about digital devices with my friends.</text>
+            </label>
+            <label key="4bcb83ac5cb6ded5b2666cf2a86ff184">
+                <text>I learn a lot about digital media by discussing with my friends and relatives.</text>
+            </label>
+        </item>
+        <item id="i63ead65f89ffc5859436e9861a122f705d">
+            <label key="bb2f12b4b5f978bd3e729b2cd2a7dcce">
+                <text>The next statements are about the quality, credibility and accuracy of information online.</text>
+            </label>
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="59f6cafed708b723344137a1cfcd1c42">
+                <text>
+                    <span>‌(Please select one response in each row.)‌</span>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="debbbd63abd28b41eebccd44005b3bb4">
+                <text>I trust what I read online.</text>
+            </label>
+            <label key="200ffec6d23edd0c36dbbd5512e6838d">
+                <text>When searching for information online I compare different sources.</text>
+            </label>
+            <label key="52098de2be41f98439cd84d3b416e182">
+                <text>I check the accuracy of online information before sharing it on social networks.</text>
+            </label>
+            <label key="b2fce12bfd1316b153050003573b995a">
+                <text>I discuss the accuracy of online information with my teachers or in class.</text>
+            </label>
+            <label key="75be6c756765e1e92c71a0a36c6295a5">
+                <text>I discuss the accuracy of online information with friends or other students.</text>
+            </label>
+            <label key="072ad8cff5fe12f9f3481b091e2177d8">
+                <text>I discuss the accuracy of online information with my parents (or family).</text>
+            </label>
+            <label key="81d21f044d932eb4a38b4a64de2c44c8">
+                <text>I try to flag wrong information when I encounter it online.</text>
+            </label>
+            <label key="41bf7c24665bd5798d19e0c806e697a4">
+                <text>I share made-up information on social networks without flagging its inaccuracy.</text>
+            </label>
+        </item>
+    </items>
+</file>

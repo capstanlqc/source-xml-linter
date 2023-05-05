@@ -1,0 +1,89 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc639c0fe22da8a/passage NEW.xml">
+            <label key="ce62fdc03a0262a8bb289b512caea279">
+                <text>Stream Ecology Restoration</text>
+            </label>
+            <label key="f962a06f7aee2acf02ca2e857158b7dc">
+                <text>Many urban (city) streams have become polluted, causing damage to their ecological systems. Scientists are restoring the ecological systems of polluted streams.</text>
+            </label>
+            <label key="156e2104e0ac6735e41dea454bced95a">
+                <text>The table below shows the biodiversity and biochemical oxygen demand (BOD) of a stream over 13 years of restoration. </text>
+            </label>
+            <label key="6ef14db8a95137ef66ba5345b0b335b4">
+                <text>BOD gives an indication of water quality, with a level below 1 being ‘very clean’ and a level above 10 indicating ‘polluted’.</text>
+            </label>
+            <label key="9c4e3f6295b28e0984fb85e663c38186">
+                <text>Some data was not collected and is missing from the table.</text>
+            </label>
+            <label key="416e14995805888b1482864564f6d42a">
+                <text>
+                    <strong>‌Stream Restoration Report‌</strong>
+                </text>
+            </label>
+            <label key="d30b69e55919ea7521174370234decb6">
+                <text>At the start of restoration</text>
+            </label>
+            <label key="0121cc046df95bccc869e6e79bfff6ef">
+                <text>4 years later</text>
+            </label>
+            <label key="055c71e01b94e546e8c7968d8b1e98da">
+                <text>7 years later</text>
+            </label>
+            <label key="8ec640fe00860659c9f81d0e3a30b727">
+                <text>8 years later</text>
+            </label>
+            <label key="ce5d2103128eded2c34a3256198c559d">
+                <text>9 years later</text>
+            </label>
+            <label key="8267ad95b4effd12e9c23f65c2a7e6ca">
+                <text>10 years later</text>
+            </label>
+            <label key="631f4f4e8a59953f24a572ead7b07e7c">
+                <text>13 years later</text>
+            </label>
+            <label key="a86224712480383c30f16445bbb6a2ec">
+                <text>Number of aquatic animal species</text>
+            </label>
+            <label key="fca8cb5ff0cceea44c76793b620aff2e">
+                <text>BOD (mg/L)</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639c10e9ad904232734023d71b6242cdb">
+            <label key="42c2d5dd6560159ba80019d1aae32d93">
+                <text>A scientist claims, ‘The stream has become healthier after the restoration.’</text>
+            </label>
+            <label key="fbba23d424b4d617e0ef2e87215c3826">
+                <text>Explain how this claim is supported by the ‘number of aquatic species’ data.</text>
+            </label>
+            <label key="76a84a71a45088c084d0c0367749a02c">
+                <text>Explain how this claim is supported by the ‘BOD’ data.</text>
+            </label>
+        </item>
+        <item id="i639c1102ae1da23507ae5ae4e772e69466">
+            <label key="f3bd993f454ddcf68200ed5ec002f8fe">
+                <text>Which of these actions would provide data to help monitor the ongoing health of the stream?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="2f08396afc17eae60fa3392ebe0e47a9">
+                <text>Compare the cost spent on waterway restoration with the cost of other city needs.</text>
+            </label>
+            <label key="55e184ee8696d867797b9b2e84d74a3d">
+                <text>Measure the acidity and BOD of waterways after building water- cleaning facilities.</text>
+            </label>
+            <label key="01cbe9277c89805250c12331e70a950b">
+                <text>Record changes in the number of animal species and their populations living in the area.</text>
+            </label>
+            <label key="44a04d68a253a560e1e3144de3a88f88">
+                <text>Conduct a survey of residents living nearby about their opinions on conservation.</text>
+            </label>
+            <label key="15809a17224be74d3970639077ba26c7">
+                <text>Record any new aquatic animal species in the area that were not found before stream restoration.</text>
+            </label>
+        </item>
+    </items>
+</file>

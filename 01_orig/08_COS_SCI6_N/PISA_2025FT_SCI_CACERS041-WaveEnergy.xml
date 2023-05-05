@@ -1,0 +1,151 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6392b02b8b46a/passage NEW.xml">
+            <label key="4bd624fe100ed1ae0e7c0dfe2a0e784c">
+                <text>Wave Energy</text>
+            </label>
+            <label key="bb35ed2deaf2d6fb999cd9baf8f1fecd">
+                <text>The animation shows a power station in which electricity is generated from the movement of ocean waves.</text>
+            </label>
+            <label key="c265243035fa7c59994d44063e48f443">
+                <text>Ocean waves cause the level of the water inside the power station to rise and fall.</text>
+            </label>
+            <label key="0b55265ae540630a2254cafc9d41beb2">
+                <text>This change in water level results in the movement of air through the turbine.</text>
+            </label>
+            <label key="ec44809232ca5c84f90263af9087d5ea">
+                <text>The air constantly rotates the blades of the turbine, and this generates electricity.</text>
+            </label>
+            <label key="d03ff052a42dc5773a3e348ccf8a9393">
+                <text>The blades of the turbine are shaped so that they can only rotate in one direction.</text>
+            </label>
+            <label key="cd59fc728251c79fe8dcea4630952d92">
+                <text>turbine</text>
+            </label>
+            <label key="0f3b5110afac7c490e9599d25232a311">
+                <text>water in chamber</text>
+            </label>
+            <label key="45d20b1d2cc2d52e74b3cbf1750a2e31">
+                <text>ocean</text>
+            </label>
+            <label key="2c066a2146523d85b740cc849f673971">
+                <text>blade</text>
+            </label>
+            <label key="dea2b4215e0c0b4f76966cd02af51e6a">
+                <text>air can move in and out of the power station</text>
+            </label>
+            <label key="4f87e11515021207051de75793d2d4b9">
+                <text>power station</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6392b0eb2d4d82327c9a283b9e8a0986d">
+            <label key="770e9cc254913f23b32541ca0f756ff4">
+                <text>Which one of the graphs shows the speed and direction of the turbine blade rotation as waves enter the power station?</text>
+            </label>
+            <label key="96b443dc37898c60ed7175152c046bda">
+                <text>Turbine blade speed (clockwise revolutions/min)</text>
+            </label>
+            <label key="2fe265ff90fdc8c95e0e40bc536484e1">
+                <text>Time (seconds)</text>
+            </label>
+        </item>
+        <item id="i6392b117bfde717982b19aa8bb2d8dc271">
+            <label key="e50549c8ea4a6fabb8091eeb40ac2fb8">
+                <text>Generating electricity from wave energy raises four types fo issues: economic, environmental, social/political and technical/scientific.</text>
+            </label>
+            <label key="aa09c01358c4b853b7ea1c448934e916">
+                <text>Classify each of the issues in the following table.</text>
+            </label>
+            <label key="85c026f7ae26509a923de8e874196b7a">
+                <text>Select ‘Economic’, ‘Environmental’, ‘Social/Political’ or ‘Technical/Scientific’ for each issue.</text>
+            </label>
+            <label key="c440a55af30d2d69600013514c304e79">
+                <text>
+                    <strong>Economic</strong>
+                </text>
+            </label>
+            <label key="ab5cb64d8891c830b9743b6587d13ea0">
+                <text>
+                    <strong>Environmental</strong>
+                </text>
+            </label>
+            <label key="c9fd7fcdb8a89ec1503a558637767967">
+                <text>
+                    <strong>Social/ Political</strong>
+                </text>
+            </label>
+            <label key="3923a5ece93ed188a097d1ac69d46ab4">
+                <text>
+                    <b>Technical/ Scientific</b>
+                </text>
+            </label>
+            <label key="31ad6cdd9730ec4388f2f5aed6aa43f4">
+                <text>Residents protest about the building of the power stations because these reduce the natural beauty of the shoreline.</text>
+            </label>
+            <label key="14aa1675bb34998f52c67551cd33e461">
+                <text>The waves are often irregular which means that electricity production cannot be guaranteed for customers.</text>
+            </label>
+            <label key="5cb46f77218e7f27814a24295433eb7b">
+                <text>Building power stations changes the seafloor habitat.</text>
+            </label>
+            <label key="2325f4cb9bac679fe54ffa12d70e3d27">
+                <text>Processes need to be developed to avoid corrosion of metal parts by ocean water.</text>
+            </label>
+        </item>
+        <item id="i6392b12235bb723295511f359dde46ea3">
+            <label key="99695f815568c6735fd006c0c6ebfdfc">
+                <text>The water inside the generator moves from height <em>L</em> to <em>B</em> when a wave strikes the generator. In rising, the water inside the generator takes energy from an incoming wave.</text>
+            </label>
+            <label key="1d3e386a978a56de926d575044121769">
+                <text>The base of the generator is a square of side length <em>W</em>, the density of the water is <em>D</em> and acceleration due to gravity is <em>g</em>.</text>
+            </label>
+            <label key="e575bdd5218d7bfd0093938ff442c343">
+                <text>
+                    <em>L</em>
+                </text>
+            </label>
+            <label key="1dda0b175209fd25b9c9e2c00228b4be">
+                <text>
+                    <em>B</em>
+                </text>
+            </label>
+            <label key="e00db02ef8d91da62722f0bad1a586af">
+                <text>Which one of these formulae can be used to calculate this energy transfer to the water inside the generator?</text>
+            </label>
+            <label key="be36e3d92d13e7bdabef10c72004f548">
+                <text><em>W</em> x <em>B</em> x <em>D</em> x <em>g</em></text>
+            </label>
+            <label key="1c52b396b2eff2b034d6b6ce675c5ef2">
+                <text><em>W</em> x (<em>B</em> –<em> L</em>)² x <em>D</em> x <em>g</em></text>
+            </label>
+            <label key="f0ad59276eb60f4eed0bb3f43eca3903">
+                <text><em>W</em>² x<em> B </em>x D x <em>g</em></text>
+            </label>
+            <label key="df97075511fc2cdd9691e916726440a6">
+                <text><em>W</em>² x (<em>B</em> – <em>L</em>)² x <em>D</em> x<em> g</em></text>
+            </label>
+        </item>
+        <item id="i6392b124c8f57149428eb6e9ccff1dae7a">
+            <label key="c4e807c23518e19dd78b671fba3cfa15">
+                <text>Which of the following statements explain why the blades rotate in the turbine?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="43e8fa0fee5b35ca4f9eab97f6ee5a11">
+                <text>The water level inside the power station rises, pushing air through the turbine.</text>
+            </label>
+            <label key="aaec738eae77f8d270d402c9c9b252d4">
+                <text>The water level inside the power station falls, pushing air through the turbine.</text>
+            </label>
+            <label key="8fc6858cc8f44033cf1b840dc5beb7db">
+                <text>The water level inside the power station rises, pulling air through the turbine.</text>
+            </label>
+            <label key="cc1094a562c9f0f2c9f84b876e2b885a">
+                <text>The water level inside the power station falls, pulling air through the turbine.</text>
+            </label>
+        </item>
+    </items>
+</file>

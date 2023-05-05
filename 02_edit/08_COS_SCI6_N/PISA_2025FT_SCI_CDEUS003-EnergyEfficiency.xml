@@ -1,0 +1,145 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6396b184635f5/passage NEW.xml">
+            <label key="9681bd12acedfa040971802e4e086c5c">
+                <text>Energy Efficiency</text>
+            </label>
+            <label key="4f9824fa156f56b750c0f1e600e1881e">
+                <text>Energy can be transformed into different forms.</text>
+            </label>
+            <label key="659eaf81bd8be39a5f0a6f1937796775">
+                <text>When energy is transformed, not all of it is transformed into the desired energy form. Some of it is transformed into other forms.</text>
+            </label>
+            <label key="7c1a8767f6e846d4cf7006adaf3c35a0">
+                <text>The efficiency factor (<em>η</em>) indicates the proportion of the supplied energy that is transformed into the desired form of energy during a transformation.</text>
+            </label>
+            <label key="47ef7b1e2be2fd21e4881683fabec500">
+                <text>
+                    <em>η</em>
+                </text>
+            </label>
+            <label key="ad4db002ef0f078658bd0f17b84e8246">
+                <text>desired form of energy</text>
+            </label>
+            <label key="45ac63c05d69fedc4578b2748306d9b1">
+                <text>supplied form of energy</text>
+            </label>
+            <label key="7d4119af7899bb90e59624d734b38269">
+                <text>An electric-car and a combustion-driven car transform energy from a battery and from fuel combustion, respectively, into movement. The diagrams show the energy outputs of such batteries and of fuel.</text>
+            </label>
+            <label key="94679a65de4d59e40e2994df963e63ee">
+                <text>energy output of electric car battery</text>
+            </label>
+            <label key="909d0c2dc897883f6accd5123847c244">
+                <text>100 joules</text>
+            </label>
+            <label key="74bcc1e0384a916f56360c649f543f3a">
+                <text>movement</text>
+            </label>
+            <label key="957975a076fc3298b76febdfb62014b9">
+                <text>98 joules</text>
+            </label>
+            <label key="2f44edea3613bb878edbfcd0981cafc0">
+                <text>other<br/>2 joules</text>
+            </label>
+            <label key="f8b1fbbdf2ef19c59bc856eb0b4d3bff">
+                <text>energy output of combusted fuel</text>
+            </label>
+            <label key="18ddc253b0385383ed43f7ec24a175ac">
+                <text>33 joules</text>
+            </label>
+            <label key="129aa4199e88d48ffeb8d18d7bff40cc">
+                <text>other<br/>67 joules</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6396bccfcb639221176c21c726fe2cebf">
+            <label key="e4b493729d7910690cbbbfe877661be0">
+                <text>What values can the efficiency factor (<em>η</em>) have?</text>
+            </label>
+            <label key="97f1eaf071e089d6c1e1b5b98ea373c3">
+                <text> only values between 0 and 1</text>
+            </label>
+            <label key="1203147f5186ab389704db15baae8c18">
+                <text>only the value of 1</text>
+            </label>
+            <label key="dcdeb2f3057bbbeb08bf724ad6286966">
+                <text>only values less than 0</text>
+            </label>
+            <label key="bc29479dd4f510d81eb722c6d1b2f434">
+                <text>only values between 0 and 100</text>
+            </label>
+        </item>
+        <item id="i6396bcfa18e8a13578eca2e02cb122009d">
+            <label key="d757dff2534a5bb7cbd4508b9f2522a0">
+                <text>Use the information provided to determine if the statements in the table are true.</text>
+            </label>
+            <label key="91a6816feaeb039994f49bf8fc70cfc6">
+                <text>Select ‘True’, ‘False’, or ‘Not possible to determine’ for each statement.</text>
+            </label>
+            <label key="73af94ed797e34dea84fc87ff7271312">
+                <text>
+                    <strong>True</strong>
+                </text>
+            </label>
+            <label key="b6eb5d76f702d77514b6e2952f322e39">
+                <text>
+                    <strong>False</strong>
+                </text>
+            </label>
+            <label key="8b9eae75bd997a1eb5ec7c1a86d1ae6e">
+                <text>
+                    <strong>Not possible to determine</strong>
+                </text>
+            </label>
+            <label key="e935b7dad8fb6bbf52be87ef52705da5">
+                <text>In an electric car, 2% of the supplied energy is transformed into desired energy.</text>
+            </label>
+            <label key="76505c7facc159f5a593ff36660ea721">
+                <text>Transforming supplied energy into movement is more efficient when combusting fuel than when using a battery.</text>
+            </label>
+            <label key="1e30c6b2c90b7f8947814af0f9bf1bbd">
+                <text>The desired form of energy (movement) is kinetic energy.</text>
+            </label>
+            <label key="a41d8e966c1c1020b5b7438c01732d50">
+                <text>A car with a combustion engine can travel faster than an electric car.</text>
+            </label>
+        </item>
+        <item id="i6396bd10df1602216e57e3b893b7c0d9f">
+            <label key="93f907dd6fc4af0261069938ff249c49">
+                <text>Energy density is the amount of energy that can be stored per unit mass of an energy source.</text>
+            </label>
+            <label key="cdcd737728c7e3becd8b9aebb952ff83">
+                <text>This graph shows the energy density (in megajoules per kilogram, MJ/kg) of the fuel in a combustion-driven car and of the battery in an electric car.</text>
+            </label>
+            <label key="50e251546cc9c08e0a566590f3ceef5a">
+                <text>Energy density<br/>(MJ/kg)</text>
+            </label>
+            <label key="7c4e4db5ec9a751ee4bbfba997f0a3a7">
+                <text>fuel</text>
+            </label>
+            <label key="20c1d18791a246001f5df7867d4e6bf5">
+                <text>battery</text>
+            </label>
+            <label key="3d99a3bccf48a0bb2d5ad95e85b1e693">
+                <text>
+                    Assume that the:
+                </text>
+            </label>
+            <label key="b10a078b0720a5dd04cde9ebb6306f1e">
+                <text>
+                    two cars have the same mass
+                </text>
+            </label>
+            <label key="abd16844912c6be617921afab447a825">
+                <text>
+                    mass of the fuel and the mass of the battery are the same. 
+                </text>
+            </label>
+            <label key="b5493cce29ef8b824c8aa3e8b2fa42f5">
+                <text>Explain the impact that energy density and energy efficiency will have on the relative distances these two cars can travel before they run out of energy.</text>
+            </label>
+        </item>
+    </items>
+</file>

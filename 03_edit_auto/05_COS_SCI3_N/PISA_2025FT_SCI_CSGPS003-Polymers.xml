@@ -1,0 +1,143 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc639c12654bc68/passage NEW.xml">
+            <label key="0e9e76696ee628d8724114184ebeb5d8">
+                <text>Polymers</text>
+            </label>
+            <label key="b0861f25777ef4562c2fd07bbe4c5481">
+                <text>Synthetic polymers are chemical compounds made by joining small molecules to make one larger molecule.</text>
+            </label>
+            <label key="062c0cb1b9bf9073fc16076158c65ee9">
+                <text>Polymers have many uses. For example, the polymer polyethylene is used to make plastic bags. Another polymer, nylon, is used as a material for clothes.</text>
+            </label>
+            <label key="98d2f0475a8889c2c246a054ac4c8853">
+                <text>The table below describes some properties of polymers.</text>
+            </label>
+            <label key="5ad234cb2cde4266195252a23ca7d84e">
+                <text>Property</text>
+            </label>
+            <label key="b5a7adde1af5c87d7fd797b6245c2a39">
+                <text>Description</text>
+            </label>
+            <label key="75c2f4990635f2eba6b0cc7ba22a4a01">
+                <text>Tensile strength</text>
+            </label>
+            <label key="add052520013c410d1f85d8e87cb4858">
+                <text>The higher the tensile strength, the more force is needed to break the polymers.</text>
+            </label>
+            <label key="f69f665cf29ff74df790334547587018">
+                <text>Rigidity</text>
+            </label>
+            <label key="9465d528dbb188ca71c6db38b3f4f9fa">
+                <text>The higher the rigidity, the less flexible the polymer.</text>
+            </label>
+            <label key="84d8d9791d44d678b8753c13a492cdca">
+                <text>Plasticity</text>
+            </label>
+            <label key="d397ac518ad3bc7e6d845aca25c36407">
+                <text>Some polymers melt when heated and can be moulded into any shape. This allows them to be recycled into new products. Other polymers decompose when heated.</text>
+            </label>
+            <label key="be94b64c31561513c225737b30fdcd4f">
+                <text>Chemical reactivity</text>
+            </label>
+            <label key="002491f9571d80daae6b461ff077d93c">
+                <text>Polymers will degrade when exposed to agents such as oxygen and UV light. The higher the chemical reactivity, the faster the polymers will degrade.</text>
+            </label>
+            <label key="ac1617b13ee63f7242a0ea1425abe1cb">
+                <text>Products made from polymers do not decompose easily in nature, and are commonly disposed of in landfill or by burning.</text>
+            </label>
+            <label key="f3a8c3ed1e90d7fe8beabddf57788a52">
+                <text>The diagram shows some properties of two newly developed polymers, A and B. The diagram shows the unique properties of each polymer as well as their shared properties.</text>
+            </label>
+            <label key="45e37e15c30650f94e61478da36c6b83">
+                <text>softens when heated</text>
+            </label>
+            <label key="408ad9e137edfaa1b501fa6dcab14260">
+                <text>high strength</text>
+            </label>
+            <label key="ff92879998a78839c78d9ba813c85f54">
+                <text>decompose when heated</text>
+            </label>
+            <label key="487e8de16dc7dd34c2c49ed7604e634c">
+                <text>low chemical reactivity</text>
+            </label>
+            <label key="9fbef178260827b7bb6c7c7b362cf014">
+                <text>high rigidity</text>
+            </label>
+            <label key="a18535e7956089c21a0ffd6e8627fe4c">
+                <text>high chemical reactivity</text>
+            </label>
+            <label key="4900724d3d4bcc57729d4a28fdb1df64">
+                <text>
+                    <strong>‌Polymer A‌</strong>
+                </text>
+            </label>
+            <label key="16b4fa337be1d6549462d7ef12d9cfd0">
+                <text>
+                    <strong>‌Polymer B‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639c13710459722203b33cbc2e8b0fa3e7">
+            <label key="1c6a45682c8092c46f87b376ef33569b">
+                <text>Which polymer would be the most suitable for making a bottle that will contain a carbonated (fizzy) soft drink and will have the least impact on the environment?</text>
+            </label>
+            <label key="9d359c6a0fd6c531ef567079ce32a1b8">
+                <text>Polymer A</text>
+            </label>
+            <label key="71c1ad9b04bcc09e35846a845a34ec50">
+                <text>Polymer B</text>
+            </label>
+            <label key="e1f24791aa518aa18434f297c7284de3">
+                <text>State the unique properties that make your choice of polymer suitable for each requirement.</text>
+            </label>
+            <label key="681784fdc055990fb1ec869474fca50a">
+                <text>containing a carbonated soft drink</text>
+            </label>
+            <label key="c8fea5fcf74f6cd1321d95181d6c374d">
+                <text>low impact on the environment</text>
+            </label>
+            <label key="b1c68f8a126f0ad5b1549c15e345e9d6">
+                <text>Explain why you chose each property.</text>
+            </label>
+        </item>
+        <item id="i639c138eb779822194eec3a374693310e2">
+            <label key="70abca19db24b8f7dd34829f9710c87f">
+                <text>Polycarbonate is commonly used to make contact lenses. </text>
+            </label>
+            <label key="0bf639d2295e1ee5d9c2a801d57924ef">
+                <text>Contact lenses are kept clean by soaking them in chemicals, and they must fit closely to the eye.</text>
+            </label>
+            <label key="d418fdfa4fd7a389f386ec5e803e48d9">
+                <text>For polycarbonate, the values for which of the following properties are likely to be ‘high’ and which are likely to be ‘low’?</text>
+            </label>
+            <label key="a1e6700af524baf59e98a8d992a6a144">
+                <text>Select ‘High’ or ‘Low’ for each property.</text>
+            </label>
+            <label key="6bb6ad6f462c255b7758fb4f4613d2f8">
+                <text>
+                    <strong>‌High‌</strong>
+                </text>
+            </label>
+            <label key="befa8ab54abe5c0777fee4fb6e2d881d">
+                <text>
+                    <strong>‌Low‌</strong>
+                </text>
+            </label>
+            <label key="653fa5e1b6dc2bab54d338d97016363d">
+                <text>melting point</text>
+            </label>
+            <label key="7ab8fa131e248cf16b3763f657a31ec6">
+                <text>rigidity</text>
+            </label>
+            <label key="46d306a2ccde9e980a33cdb4a4ca0e46">
+                <text>chemical reactivity</text>
+            </label>
+            <label key="2371574be5e78ae4756191af1f7ca2b2">
+                <text>transparency</text>
+            </label>
+        </item>
+    </items>
+</file>

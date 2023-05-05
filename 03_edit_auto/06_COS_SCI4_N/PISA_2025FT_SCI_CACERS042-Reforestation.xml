@@ -1,0 +1,124 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc639faf5363210/passage NEW.xml">
+            <label key="a571c9b4d89977489218fb3a29af3502">
+                <text>Reforestation</text>
+            </label>
+            <label key="75058035ad8f9f14089c377e978c0ff5">
+                <text>An area in the Lakes District (north-west England) that was once a tree farm is to be replanted with native trees.</text>
+            </label>
+            <label key="b370031b368fa729f04bc18f96fe4574">
+                <text>Ellie’s school is planning a trip to help with the replanting. Restoring native trees is sometimes called reforestation.</text>
+            </label>
+            <label key="cfebf1ba03ff7926ced74798820034da">
+                <text>Ellie is doing some research on reforestation to present to her class before the trip.</text>
+            </label>
+            <label key="c7d4becd6eb4c68b3e01937407ef91c3">
+                <text>Here are excerpts from three sources that she has found.</text>
+            </label>
+            <label key="4cd857d77975479362240348d6fcfa41">
+                <text>Source 1: A guide to reforestation </text>
+            </label>
+            <label key="f39ecb5e5e1642bc562824d0c05490c0">
+                <text>Source 3: Scientific magazine </text>
+            </label>
+            <label key="f32b5e72bdf454a5819fdab809ec6c4a">
+                <text>Source 2: Native trees of the Lakes District </text>
+            </label>
+            <label key="9268df4aee05c37a7a9c0eb15d2afbc9">
+                <text><strong>The steps of reforestation:</strong><br/>1. Identify the species of trees native to the area.</text>
+            </label>
+            <label key="fcc479a1c1ef1f8b4dd377f392e9a22f">
+                <text>2. Plant between 10 and 30 different types of native trees. </text>
+            </label>
+            <label key="ec13d5dfbddb79ef70636add2fd7cee1">
+                <text>3. Implement a yearly weeding program. </text>
+            </label>
+            <label key="429d588357c9ad39535999e57b25391c">
+                <text>Native trees of the Lakes District</text>
+            </label>
+            <label key="6de02c8f0d3dcf3048fad3fe8b80031c">
+                <text>The term “reforestation” is problematic. The point is to restore the entire ecosystem not just plant some trees. Simply put, we need the right trees in the right places to create an environment where even more native plants will begin to grow. </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639fb12a2273d17135c5dcd05514f97aa8">
+            <label key="68335be044dccab40423231970d95983">
+                <text>Ellie has reviewed all of her research.</text>
+            </label>
+            <label key="97f85e008255b460ccab4801da69cb16">
+                <text>She wants to make a list of 10 different species of trees that would be suitable to plant.</text>
+            </label>
+            <label key="ad134eb98b0d077d2077d7051667decf">
+                <text>Which one of the sources would provide the most relevant information?</text>
+            </label>
+            <label key="0d00014967667a7c17d8781ef59e1850">
+                <text>Source 1</text>
+            </label>
+            <label key="70dbc168475e69084f3d76d01ee31f74">
+                <text>Source 2</text>
+            </label>
+            <label key="bc2162ab0b8d15c38a0d75226213e668">
+                <text>Source 3</text>
+            </label>
+        </item>
+        <item id="i639fb148e6f6050710345cb38d5bb26342">
+            <label key="8952a390aa07fb630f9e5bd13ea5d697">
+                <text>What is the main point of the scientific magazine article (Source 3)?</text>
+            </label>
+            <label key="930f97c9d9ce82c044b3620229c3e34b">
+                <text>Reforestation requires many different types of trees to be planted in an area. </text>
+            </label>
+            <label key="b7cb7cbeab550e6b20188f3ea0cbed1e">
+                <text>We should plant other types of plants as well as trees.</text>
+            </label>
+            <label key="7eaaf3cd490cb4fa3bc97c8f2fc002b0">
+                <text>Trees need to be planted in areas where they will be beneficial to ecosystems.</text>
+            </label>
+            <label key="81eb015a8d0466d5edd12ff47d022dce">
+                <text>We do not need to plant trees because the forest will grow back on its own.</text>
+            </label>
+        </item>
+        <item id="i639fb1696a8a7507081b5e07b128344660">
+            <label key="b62360164eab7466289ead9450d6030b">
+                <text>Another student asks Ellie if they should plant willow trees.</text>
+            </label>
+            <label key="1c2230b14263ceb4f0287260caadc753">
+                <text>What does Ellie need to know about willow trees before she can make a decision?</text>
+            </label>
+        </item>
+        <item id="i639fb2967a1f31707349be7f480f011">
+            <label key="fcf261ab82f4a3e5c71ed37e71303686">
+                <text>Ellie wrote three notes from the sources she found.</text>
+            </label>
+            <label key="2420e24b21c4a6d5735a41eedacaedfb">
+                <text>Which source did Ellie use to write each note?</text>
+            </label>
+            <label key="f54a49b4f41e7e9f8dc8d0c63fc41763">
+                <text>Match each source to one of Ellie’s notes by drawing a line between them.</text>
+            </label>
+            <label key="a9a2377683c43139bb6079bd9aa43955">
+                <text>Remove a match by selecting the line and then selecting ‘x’.</text>
+            </label>
+            <label key="0d00014967667a7c17d8781ef59e1850">
+                <text>Source 1</text>
+            </label>
+            <label key="9872d8575cdad92344ddfc74b2b4d57c">
+                <text>Find out how weeds can be controlled in forests.</text>
+            </label>
+            <label key="70dbc168475e69084f3d76d01ee31f74">
+                <text>Source 2</text>
+            </label>
+            <label key="9d9e7841f280b3abc7d2a725a837270a">
+                <text>Smaller plants will naturally regrow if larger trees provide shelter for them.</text>
+            </label>
+            <label key="bc2162ab0b8d15c38a0d75226213e668">
+                <text>Source 3</text>
+            </label>
+            <label key="509bc6320aab732cff48068d5391dd10">
+                <text>Oak trees are a slow-growing tree found in north-west England.</text>
+            </label>
+        </item>
+    </items>
+</file>

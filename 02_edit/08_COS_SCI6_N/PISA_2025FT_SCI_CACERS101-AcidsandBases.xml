@@ -1,0 +1,580 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc639b9772f0005/passage NEW.xml">
+            <label key="0975a5a853771f76da694c4563ec157c">
+                <text>Acids and Bases</text>
+            </label>
+            <label key="ad9bd1a569613162fb84c118d9fabe7e">
+                <text>A <strong>pH scale</strong> can be used to classify <strong>solutions</strong> as acidic, basic or neutral.</text>
+            </label>
+            <label key="b4dd0a25964785b69e3f9a8300ab7097">
+                <text>The pH of a solution is determined by adding a liquid called ‘univeral indicator’ and matching the resulting colour to the pH scale.</text>
+            </label>
+            <label key="dfe6076e1d429c24edcbb2686bb39567">
+                <text>Colour</text>
+            </label>
+            <label key="397dff207259b09d62f6c7436fc1ae27">
+                <text>pH</text>
+            </label>
+            <label key="ee38e4d5dd68c4e440825018d549cb47">
+                <text>Red</text>
+            </label>
+            <label key="909cea0c97058cfe2e3ea8d675cb08e1">
+                <text>Orange</text>
+            </label>
+            <label key="9768feb3fdb1f267b06093bc572952dd">
+                <text>Gold</text>
+            </label>
+            <label key="51e6cd92b6c45f9affdc158ecca2b8b8">
+                <text>Yellow</text>
+            </label>
+            <label key="985679536bf2de0c75dffcef84333f10">
+                <text>acidic</text>
+            </label>
+            <label key="fc1cebf02dc2ee68655f3e7bf1b84230">
+                <text>Lime</text>
+            </label>
+            <label key="1381943e2d50b6c3f80280ecc3754ac8">
+                <text>Light Green</text>
+            </label>
+            <label key="d382816a3cbeed082c9e216e7392eed1">
+                <text>Green</text>
+            </label>
+            <label key="8ecb7f14228dc685950168845c5a8b36">
+                <text>Forest Green</text>
+            </label>
+            <label key="5da248ea6840aca1ae2b417b17982a89">
+                <text>neutral</text>
+            </label>
+            <label key="e20385a2b41df1743f787ebef18222b8">
+                <text>Teal</text>
+            </label>
+            <label key="da3a4f0a911cebe3bc75f6e39c324696">
+                <text>Turquoise</text>
+            </label>
+            <label key="f1d3fa772227a7b3904108cc2094c6d9">
+                <text>Sky Blue</text>
+            </label>
+            <label key="31d8951fd7b5a71cad225c230f6264ae">
+                <text>Royal Blue</text>
+            </label>
+            <label key="f17aaabc20bfe045075927934fed52d2">
+                <text>basic</text>
+            </label>
+            <label key="e346c232ce72c429ea0995de9f63f551">
+                <text>Lavender</text>
+            </label>
+            <label key="93df2c41a9abe4a797371f5c761adbfe">
+                <text>Plum</text>
+            </label>
+            <label key="b9ba865fec061c9706d2fd7ce49c0cc7">
+                <text>Purple</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639b9a577bb9c46293c88c8663de58468b">
+            <label key="9847447ec6af38656097d87190e605ef">
+                <text>Use the pH scale to classify each solution as acidic or basic.</text>
+            </label>
+            <label key="0c2dfe179849aec4f24d84839e6aaa1a">
+                <text>Select ‘Acidic’ or ‘Basic’ for each solution.</text>
+            </label>
+            <label key="42ae5cad2a84e9960142931e6707160d">
+                <text>
+                    <strong>Acidic</strong>
+                </text>
+            </label>
+            <label key="e58ebd883c1dba6ce21a52b341370311">
+                <text>
+                    <strong>Basic</strong>
+                </text>
+            </label>
+            <label key="a2b4de740ab10c66b9f14f6392073955">
+                <text>a cup of black coffee, pH=5</text>
+            </label>
+            <label key="6e1d5b00a9ddfccb60f3b3c5ec5fc98f">
+                <text>soapy water, pH=10</text>
+            </label>
+            <label key="4a2f6ef46900166a6d65d9827a785ad0">
+                <text>tomato juice, pH = 4</text>
+            </label>
+        </item>
+        <item id="i639b9a6ef18a312645e7993605af2471fd">
+            <label key="5a508b45baac20ea083d76d712145007">
+                <text>Use the simulation and the pH scale to determine which type of solution has a higher concentration of H⁺ ions than of OH⁻ ions.</text>
+            </label>
+            <label key="5ed450df9cf2a59b8a938ef226938946">
+                <text>Select your choice.</text>
+            </label>
+            <label key="985679536bf2de0c75dffcef84333f10">
+                <text>acidic</text>
+            </label>
+            <label key="5da248ea6840aca1ae2b417b17982a89">
+                <text>neutral</text>
+            </label>
+            <label key="f17aaabc20bfe045075927934fed52d2">
+                <text>basic</text>
+            </label>
+            <label key="0975a5a853771f76da694c4563ec157c">
+                <text>Acids and Bases</text>
+            </label>
+            <label key="1195a0eb0ef568479faf1197ec8a0c21">
+                <text>The simulation shows what happens when a solution containing either a <span class="oh-ion"/> or <span class="h-ion"/> ions is added to a neutral solution (pH = 7).</text>
+            </label>
+            <label key="d381d971becb4ce0c80961110c0be42a">
+                <text>
+                    Instructions
+                    <ol type="1">
+                        <li>Select which type of solution you would like to add.</li>
+                        <li>Add the solution by pressing on the dropper.</li>
+                        <li>You can add more than one drop.</li>
+                    </ol>
+                </text>
+            </label>
+            <label key="5d488f7989ce73fc81f060b6c6a0ec10">
+                <text>Select the type of solution you would like to add.</text>
+            </label>
+            <label key="c16f448a2831da7603aae2f2484d3ffd">
+                <text>
+                    solution containing <span class="h-ion"/> ions
+                    <span id="first-span"></span>
+                    <label class="form-check-label" for="radio1"/>
+                </text>
+            </label>
+            <label key="9399ec5d6dfbab367e5cf4c7416adf11">
+                <text>
+                    solution containing <span class="oh-ion"/> ions
+                    <span id="second-span"></span>
+                    <label class="form-check-label" for="radio2"/>
+                </text>
+            </label>
+            <label key="7f5ef7b6dd7364f3c70ba16fd7fec4e5">
+                <text>Press the dropper to add the</text>
+            </label>
+            <label key="979ab394cfe306dc997299d8cf7beb0b">
+                <text><span class="oh-ion"/> or <span class="h-ion"/> solution.</text>
+            </label>
+            <label key="05118e8e8dee31f42ed4d1db474df913">
+                <text>pH = 7</text>
+            </label>
+            <label key="8ecb7f14228dc685950168845c5a8b36">
+                <text>Forest Green</text>
+            </label>
+            <label key="de6ae272f06cecf6922160f6f504a9d8">
+                <text>
+                    Relative concentration of ions:
+                    <p id="equal"/>
+                    <p id="less-than" class="hide"/>
+                    <p id="greater-than" class="hide"/>
+                    <p class="mt-3">The simulation is a representation of the changing concentrations and does not show theactual number of ions that are added.</p>
+                </text>
+            </label>
+            <label key="a7c943bf4c6ccc9bccba848f4d8c9360">
+                <text>Press the dropper to add the OH- or H+ solution. </text>
+            </label>
+            <label key="2dcf4d18133111b2d802acb863a8231f">
+                <text>Select the type of solution you would like to add. </text>
+            </label>
+            <label key="8565717a16b45d9380c890b541f37abf">
+                <text>solution containing H+ ions  </text>
+            </label>
+            <label key="ca64475f08c1cc74f3e19e5d84ef6de0">
+                <text>solution containing OH- ions </text>
+            </label>
+            <label key="669c242411ec84b4a93d8f51e99df45d">
+                <text>Relative concentration of ions: </text>
+            </label>
+            <label key="cd55431c68f4921b64ed38af46b5d6b5">
+                <text>OH- &lt; H+ </text>
+            </label>
+            <label key="b701721d1ef513c2274c04729b25bd23">
+                <text>OH- &gt; H+ </text>
+            </label>
+            <label key="42337a2b269511acb6c5c27ec95a1163">
+                <text>OH- = H+ </text>
+            </label>
+            <label key="940d10766bc9d519df845b7a543d34c2">
+                <text>pH = 1 </text>
+            </label>
+            <label key="f60ed2306c3031cd1a4d82655194e130">
+                <text>pH = 2</text>
+            </label>
+            <label key="8e290ae1cb1081d3d5b4aaa9d54e2978">
+                <text>pH = 3</text>
+            </label>
+            <label key="3885f282a04bcf0a597c227c7ba0d6f1">
+                <text>pH = 4</text>
+            </label>
+            <label key="55e021614565c8dd8f3ade91d16e250d">
+                <text>pH = 5</text>
+            </label>
+            <label key="2114e20a6a591ed74b093bcbdf4ca4cd">
+                <text>pH = 6</text>
+            </label>
+            <label key="1b67a1fa9fcd1e833cb0b16df9ab3ced">
+                <text>pH = 8</text>
+            </label>
+            <label key="7e245d9f26b9645c5221cc2433385f45">
+                <text>pH = 9</text>
+            </label>
+            <label key="a1d174e83d2ad53701094f3035481815">
+                <text>pH = 10</text>
+            </label>
+            <label key="5d0370090cba3b05670b73826ab826c9">
+                <text>pH = 11</text>
+            </label>
+            <label key="dd994e532ad1f360df91884f2cf049a8">
+                <text>pH = 12</text>
+            </label>
+            <label key="b0354f6b26bd328be254a9a36217643c">
+                <text>pH = 13</text>
+            </label>
+            <label key="8c9c3a2e2861029a28c2b7e883ca9a3d">
+                <text>pH = 14</text>
+            </label>
+            <label key="f35ea3ccf184900177fdc02b6957340d">
+                <text>The simulation is a representation of the changing concentrations and does not show the actual number of ions that are added. </text>
+            </label>
+        </item>
+        <item id="i639b9a8925209126506eec6b1bad160003">
+            <label key="5af37951a3699fa7015b7824341601b0">
+                <text>The first type of wastewater to be treated has a pH of 2.</text>
+            </label>
+            <label key="23d6250469d78420513a4956b38a5cea">
+                <text>Use the simulation to determine if Treatment 1 or Treatment 2 should be added to the wastewater before it is released into the river.</text>
+            </label>
+            <label key="5ed450df9cf2a59b8a938ef226938946">
+                <text>Select your choice.</text>
+            </label>
+            <label key="807797bc678f9fe17b32a21fdd63783f">
+                <text>Treatment 1</text>
+            </label>
+            <label key="dcab7a7d0a73d3fb29a56621f74982a6">
+                <text>Treatment 2</text>
+            </label>
+            <label key="14a742a5c8a85e7bdbb23e8e791c910b">
+                <text>Explain your choice.</text>
+            </label>
+            <label key="0975a5a853771f76da694c4563ec157c">
+                <text>Acids and Bases</text>
+            </label>
+            <label key="1ce51292142f046d9883fc4504a203bf">
+                <text>
+                    <p>pH values indicate how acidic a solution is. A pH of 7 means that the solution is neutral, neitheracidic or basic.</p>
+                    <p>The further a pH value increases or decreases from a value of 7, the more likely it is that the solutionwill be toxic to the environment.</p>
+                    <p>A factory produces three different types of wastewaters that need to be treated so that the pH is asclose to 7 as possible before it is released into a local river.</p>
+                    <p class="mb-3">The following simulation shows how the addition of different treatment solutions changes the pHof thethree types of wastewaters.</p>
+                    Instructions
+                    <ol class="mb-4" type="1">
+                        <li>Select the type of solution to be added.</li>
+                        <li>Select the volume of solution to be added.</li>
+                        <li>Select the <q>Run</q> button.</li>
+                    </ol>
+                </text>
+            </label>
+            <label key="0964b5dd4f3c250834a29418104cf24a">
+                <text>Changes to wastewater pH</text>
+            </label>
+            <label key="08b235ebed659eeb8e26d82d3a1b3fc2">
+                <text>Initial pH of wastewater</text>
+            </label>
+            <label key="c495bfa344fc9abc0c9f80d02a430c37">
+                <text>Volume of Treatment solution added (mL)</text>
+            </label>
+            <label key="6754c43773771aa252e2a1a56bdac3ee">
+                <text>Treatment solution</text>
+            </label>
+            <label key="312e8871e100927905ef41f52831a16c">
+                <text>
+                    <button id="run-button" class="btn">Run</button>
+                </text>
+            </label>
+            <label key="1b1280b0f20c85a51b8e294d03b51164">
+                <text>Results table</text>
+            </label>
+            <label key="5abb07d9dc206d4837c06cc7c5bb2503">
+                <text>Initial pH of wastewater</text>
+            </label>
+            <label key="8efc6f0a5ff090631f432c4a9025f74b">
+                <text>Volume of treatment solution added (mL)</text>
+            </label>
+            <label key="c5301693c4e792bcd5a479ef38fb8f8d">
+                <text>Run</text>
+            </label>
+            <label key="96a8c2230ee3435909bc23a14b819d7b">
+                <text>pH 1</text>
+            </label>
+            <label key="d9abc73d6f8cb9ad70ad089e270ba933">
+                <text>pH 2</text>
+            </label>
+            <label key="95114ee16ff9eb10fe0b315e829d519e">
+                <text>pH 3</text>
+            </label>
+            <label key="c64509bad49df0f3f93da68219b43f66">
+                <text>pH 4</text>
+            </label>
+            <label key="81b2ad4c999b94998803b21c3ef61fed">
+                <text>pH 5</text>
+            </label>
+            <label key="44590d923a988373e512f85b988c4be2">
+                <text>pH 0</text>
+            </label>
+        </item>
+        <item id="i639b9a9266857126444b1def9de4fabd5e">
+            <label key="212747f540c48e9f5cab60ea30b1ae3f">
+                <text>The third type of wastewater to be treated has a pH of 8.</text>
+            </label>
+            <label key="29fce95cfd18d2c40587665a9aa942d7">
+                <text>The factory has two different treatment solutions that it can use.</text>
+            </label>
+            <label key="8f6db99f7cbc9b907347543b798443e9">
+                <text>Use the simulation to determine which treatment solution is more likely to produce neutral wastewater even if some mistakes are made with the amount of treatment solution that is added.</text>
+            </label>
+            <label key="5ed450df9cf2a59b8a938ef226938946">
+                <text>Select your choice.</text>
+            </label>
+            <label key="d4c0be84a8a3a6266450547cecfc06da">
+                <text>Treatment 5</text>
+            </label>
+            <label key="b2e69d75e9dea17036c922fec15e6065">
+                <text>Treatment 6</text>
+            </label>
+            <label key="14a742a5c8a85e7bdbb23e8e791c910b">
+                <text>Explain your choice.</text>
+            </label>
+            <label key="0975a5a853771f76da694c4563ec157c">
+                <text>Acids and Bases</text>
+            </label>
+            <label key="1ce51292142f046d9883fc4504a203bf">
+                <text>
+                    <p>pH values indicate how acidic a solution is. A pH of 7 means that the solution is neutral, neitheracidic or basic.</p>
+                    <p>The further a pH value increases or decreases from a value of 7, the more likely it is that the solutionwill be toxic to the environment.</p>
+                    <p>A factory produces three different types of wastewaters that need to be treated so that the pH is asclose to 7 as possible before it is released into a local river.</p>
+                    <p class="mb-3">The following simulation shows how the addition of different treatment solutions changes the pHof thethree types of wastewaters.</p>
+                    Instructions
+                    <ol class="mb-4" type="1">
+                        <li>Select the type of solution to be added.</li>
+                        <li>Select the volume of solution to be added.</li>
+                        <li>Select the <q>Run</q> button.</li>
+                    </ol>
+                </text>
+            </label>
+            <label key="0964b5dd4f3c250834a29418104cf24a">
+                <text>Changes to wastewater pH</text>
+            </label>
+            <label key="19f0adb60b4572fd69e3f729a9c72c07">
+                <text>Initial pH of wastewater</text>
+            </label>
+            <label key="c495bfa344fc9abc0c9f80d02a430c37">
+                <text>Volume of Treatment solution added (mL)</text>
+            </label>
+            <label key="6754c43773771aa252e2a1a56bdac3ee">
+                <text>Treatment solution</text>
+            </label>
+            <label key="312e8871e100927905ef41f52831a16c">
+                <text>
+                    <button id="run-button" class="btn">Run</button>
+                </text>
+            </label>
+            <label key="1b1280b0f20c85a51b8e294d03b51164">
+                <text>Results table</text>
+            </label>
+            <label key="5abb07d9dc206d4837c06cc7c5bb2503">
+                <text>Initial pH of wastewater</text>
+            </label>
+            <label key="8efc6f0a5ff090631f432c4a9025f74b">
+                <text>Volume of treatment solution added (mL)</text>
+            </label>
+            <label key="c5301693c4e792bcd5a479ef38fb8f8d">
+                <text>Run</text>
+            </label>
+            <label key="1b67a1fa9fcd1e833cb0b16df9ab3ced">
+                <text>pH = 8</text>
+            </label>
+            <label key="05118e8e8dee31f42ed4d1db474df913">
+                <text>pH = 7</text>
+            </label>
+            <label key="2114e20a6a591ed74b093bcbdf4ca4cd">
+                <text>pH = 6</text>
+            </label>
+            <label key="55e021614565c8dd8f3ade91d16e250d">
+                <text>pH = 5</text>
+            </label>
+            <label key="e20385a2b41df1743f787ebef18222b8">
+                <text>Teal</text>
+            </label>
+            <label key="8ecb7f14228dc685950168845c5a8b36">
+                <text>Forest Green</text>
+            </label>
+            <label key="d382816a3cbeed082c9e216e7392eed1">
+                <text>Green</text>
+            </label>
+            <label key="1381943e2d50b6c3f80280ecc3754ac8">
+                <text>Light Green</text>
+            </label>
+        </item>
+        <item id="i639b9a9caf69b12636ae5429e6195008b0">
+            <label key="b2be27c60cc658d21f2d88b6da4a45bd">
+                <text>The second type of wastewater in the factory has a pH of 14.</text>
+            </label>
+            <label key="9869b0821e736d07eeaf609479131600">
+                <text>The factory has two different treatment solutions that it can use. Both treatments cost the same per litre.</text>
+            </label>
+            <label key="510ec3cb5c8bfda74dafd27727499c9f">
+                <text>Use the simulation to determine which treatment would be the most cost effective in treating the wastewater.</text>
+            </label>
+            <label key="a20fb46c7d3cee75f86b0c16f18bcebe">
+                <text>Select your choice</text>
+            </label>
+            <label key="c2f65b6827be834e48804884f4e99ebd">
+                <text>Treatment 3</text>
+            </label>
+            <label key="6d0c2dce9c4476b45d71d61d28ebc3b2">
+                <text>Treatment 4</text>
+            </label>
+            <label key="14a742a5c8a85e7bdbb23e8e791c910b">
+                <text>Explain your choice.</text>
+            </label>
+            <label key="dfe6076e1d429c24edcbb2686bb39567">
+                <text>Colour</text>
+            </label>
+            <label key="397dff207259b09d62f6c7436fc1ae27">
+                <text>pH</text>
+            </label>
+            <label key="ee38e4d5dd68c4e440825018d549cb47">
+                <text>Red</text>
+            </label>
+            <label key="909cea0c97058cfe2e3ea8d675cb08e1">
+                <text>Orange</text>
+            </label>
+            <label key="9768feb3fdb1f267b06093bc572952dd">
+                <text>Gold</text>
+            </label>
+            <label key="51e6cd92b6c45f9affdc158ecca2b8b8">
+                <text>Yellow</text>
+            </label>
+            <label key="985679536bf2de0c75dffcef84333f10">
+                <text>acidic</text>
+            </label>
+            <label key="fc1cebf02dc2ee68655f3e7bf1b84230">
+                <text>Lime</text>
+            </label>
+            <label key="1381943e2d50b6c3f80280ecc3754ac8">
+                <text>Light Green</text>
+            </label>
+            <label key="d382816a3cbeed082c9e216e7392eed1">
+                <text>Green</text>
+            </label>
+            <label key="8ecb7f14228dc685950168845c5a8b36">
+                <text>Forest Green</text>
+            </label>
+            <label key="5da248ea6840aca1ae2b417b17982a89">
+                <text>neutral</text>
+            </label>
+            <label key="e20385a2b41df1743f787ebef18222b8">
+                <text>Teal</text>
+            </label>
+            <label key="da3a4f0a911cebe3bc75f6e39c324696">
+                <text>Turquoise</text>
+            </label>
+            <label key="f1d3fa772227a7b3904108cc2094c6d9">
+                <text>Sky Blue</text>
+            </label>
+            <label key="31d8951fd7b5a71cad225c230f6264ae">
+                <text>Royal Blue</text>
+            </label>
+            <label key="f17aaabc20bfe045075927934fed52d2">
+                <text>basic</text>
+            </label>
+            <label key="e346c232ce72c429ea0995de9f63f551">
+                <text>Lavender</text>
+            </label>
+            <label key="93df2c41a9abe4a797371f5c761adbfe">
+                <text>Plum</text>
+            </label>
+            <label key="b9ba865fec061c9706d2fd7ce49c0cc7">
+                <text>Purple</text>
+            </label>
+            <label key="0975a5a853771f76da694c4563ec157c">
+                <text>Acids and Bases</text>
+            </label>
+            <label key="1ce51292142f046d9883fc4504a203bf">
+                <text>
+                    <p>pH values indicate how acidic a solution is. A pH of 7 means that the solution is neutral, neitheracidic or basic.</p>
+                    <p>The further a pH value increases or decreases from a value of 7, the more likely it is that the solutionwill be toxic to the environment.</p>
+                    <p>A factory produces three different types of wastewaters that need to be treated so that the pH is asclose to 7 as possible before it is released into a local river.</p>
+                    <p class="mb-3">The following simulation shows how the addition of different treatment solutions changes the pHof thethree types of wastewaters.</p>
+                    Instructions
+                    <ol class="mb-4" type="1">
+                        <li>Select the type of solution to be added.</li>
+                        <li>Select the volume of solution to be added.</li>
+                        <li>Select the <q>Run</q> button.</li>
+                    </ol>
+                </text>
+            </label>
+            <label key="3b468262c380046c7309158a947c5913">
+                <text>Changes in wastewater pH</text>
+            </label>
+            <label key="08b235ebed659eeb8e26d82d3a1b3fc2">
+                <text>Initial pH of wastewater</text>
+            </label>
+            <label key="26ba5d62e29ee2ed8457161748cce1b1">
+                <text>Volume of Treatment solution (mL)</text>
+            </label>
+            <label key="6754c43773771aa252e2a1a56bdac3ee">
+                <text>Treatment solution</text>
+            </label>
+            <label key="312e8871e100927905ef41f52831a16c">
+                <text>
+                    <button id="run-button" class="btn">Run</button>
+                </text>
+            </label>
+            <label key="8df4dc71a497af81a3253e21841c5058">
+                <text>Results Table</text>
+            </label>
+            <label key="4084a14d109a2394b5dbfbef4ac0880c">
+                <text>Volume of treatment solution added to (mL)</text>
+            </label>
+            <label key="0964b5dd4f3c250834a29418104cf24a">
+                <text>Changes to wastewater pH</text>
+            </label>
+            <label key="5abb07d9dc206d4837c06cc7c5bb2503">
+                <text>Initial pH of wastewater</text>
+            </label>
+            <label key="b5f3fa82fc60c2e9eec5d45123e7ae61">
+                <text>Volume of treatment solution added (mL) </text>
+            </label>
+            <label key="1b1280b0f20c85a51b8e294d03b51164">
+                <text>Results table</text>
+            </label>
+            <label key="c5301693c4e792bcd5a479ef38fb8f8d">
+                <text>Run</text>
+            </label>
+            <label key="d46c9be509feedda333014ef9073bd50">
+                <text>Royal blue</text>
+            </label>
+            <label key="d45fd0c40b4a72e1647d5793c1c2f571">
+                <text>Sky blue</text>
+            </label>
+            <label key="eef04e05083f9681fc91de569196bebd">
+                <text>pH 14</text>
+            </label>
+            <label key="5283840b59d4fa827dad36e392d4c1fc">
+                <text>pH 13 </text>
+            </label>
+            <label key="312dc76d06d6e45e01b2dc43a8323328">
+                <text>pH 12</text>
+            </label>
+            <label key="c38670f593970a2cc81f78b828ac1ebb">
+                <text>pH 11</text>
+            </label>
+            <label key="425e7d90ff347b30194c528228d296da">
+                <text>pH 10</text>
+            </label>
+            <label key="2214ca354a0f89855a69f94938414952">
+                <text>pH 8</text>
+            </label>
+        </item>
+    </items>
+</file>

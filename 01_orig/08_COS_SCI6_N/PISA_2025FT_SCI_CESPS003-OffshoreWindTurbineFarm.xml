@@ -1,0 +1,110 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638578d3c02f9/passage NEW.xml">
+            <label key="75afbf40341679ee072a5ed8199595fe">
+                <text>Offshore Wind Turbine Farm</text>
+            </label>
+            <label key="1a08ac911736fc55b4b89b6287411b23">
+                <text>A coastal town is considering constructing an offshore wind turbine farm to generate electricty.</text>
+            </label>
+            <label key="4007a1403115aa118c8c99f39f9cca70">
+                <text>Wind causes the blades on a wind turbine to turn, which generates electricity. The electricity is added to the electricity network onshore.</text>
+            </label>
+            <label key="88138c21c24cc81dc309cffe3f322985">
+                <text>Some people in the town are in favour of the project. Other people are concerned that the project will have a negative impact on the local environment.</text>
+            </label>
+            <label key="8d75d210bcc7004d4972d41d641be33b">
+                <text>An offshore wind turbine farm</text>
+            </label>
+            <label key="cd59fc728251c79fe8dcea4630952d92">
+                <text>turbine</text>
+            </label>
+            <label key="2c066a2146523d85b740cc849f673971">
+                <text>blade</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63857a295dd4613965e285a042438de333">
+            <label key="1a16053d5749f62a25831461bfa35a38">
+                <text>Explain one way in which the environment benefits when electricity is generated using wind instead of fossil fuels.</text>
+            </label>
+        </item>
+        <item id="i63857a3d849342205ac473d10ebcf0196">
+            <label key="42ab0a95c77a05c528c9071c7a103f53">
+                <text>Describe one negative impact that the wind farm could have on the local environment.</text>
+            </label>
+        </item>
+        <item id="i63857a507ca9525168d4fc541b27842a0">
+            <label key="2292cff888ab73a62b4ceeb83557146e">
+                <text>
+                    <span>Up to 90% of the components of a wind turbine can be recycled, but not the blades. The blades contain a resin that is difficult to separate from the other materials.</span>
+                </text>
+            </label>
+            <label key="63187e11f609a94235e4f1d7d5d67d1b">
+                <text>
+                    <span>What action should be taken to reduce waste from the stockpile of old blades?</span>
+                </text>
+            </label>
+            <label key="e176ea364755adf6086ce42eb7b93a52">
+                <text>No action should be taken because the non-recyclable waste is only 10%.</text>
+            </label>
+            <label key="9d75fe47fa6f0ab7d4d9dd4613f2749d">
+                <text>Techniques should be developed for recycling old blades.</text>
+            </label>
+            <label key="2bc1b56441c572daf63ddf2f0dd82ca1">
+                <text>New blades should be developed, made of components that are easy to recycle.</text>
+            </label>
+            <label key="e907ccb1df96094415e2fe8d04d56039">
+                <text>New wind turbines should be designed that work without blades.</text>
+            </label>
+        </item>
+        <item id="i63857a88c58112206996dbd030cb16dbb">
+            <label key="18368eb4162f30bf94693916e0d35f13">
+                <text>The town decides to go ahead with constructing the offshore wind turbine farm.</text>
+            </label>
+            <label key="b624d52def6b781af5edae6b935d9834">
+                <text>Wind turbines have to be anchored to the seabed. The deeper the seabed the more expensive it is to install the turbines.</text>
+            </label>
+            <label key="e04a0ffb1e5fc2435b74d9184afb8ff7">
+                <text>The wind farm will be built in one of the zones shown in the diagram.</text>
+            </label>
+            <label key="ba2b1d585994bf865695b5f6c22ea51a">
+                <text>Zone A</text>
+            </label>
+            <label key="e59cd23f8204eed3c14eaa090ce01a36">
+                <text>Zone B</text>
+            </label>
+            <label key="b477297e19a48607f854ac0b4be1d8ca">
+                <text>Zone C</text>
+            </label>
+            <label key="aa4b959260c86e8539d20b6913b8bf20">
+                <text>Zone D</text>
+            </label>
+            <label key="c94eece2b6d8ba0276c420af96f3ebae">
+                <text>seabed</text>
+            </label>
+            <label key="33568e8a5d88a062c203981c5c539bcd">
+                <text>Consider this information about the zones:</text>
+            </label>
+            <label key="5071ada1c12a7df5fc6676c73ff492cc">
+                <text>Zone A is visited by large numbers of seabirds every day.</text>
+            </label>
+            <label key="91bba5b9caa4ef0e957b5da8e2de3861">
+                <text>Zone B supports green algae, a critical source of food for many marine organisms.</text>
+            </label>
+            <label key="3781c1de1e340c885a8e4c3a7b05b0a5">
+                <text>Zones B and C support shoals of common fish species.</text>
+            </label>
+            <label key="226494e3b992ba9b53ed315d6861e84a">
+                <text>Zone D is deep enough to allow large marine animals to swim through it.</text>
+            </label>
+            <label key="6867543cadafb444740e84e962638822">
+                <text>In which zone should the wind turbines be installed as the best compromise between cost and environmental impact?</text>
+            </label>
+            <label key="14a742a5c8a85e7bdbb23e8e791c910b">
+                <text>Explain your choice.</text>
+            </label>
+        </item>
+    </items>
+</file>

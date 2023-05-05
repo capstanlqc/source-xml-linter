@@ -1,0 +1,45 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6399057abea55/passage NEW.xml">
+            <label key="2b5bcf842fd0af2d0a7cafc8ab500d1c">
+                <text>Mars Rover</text>
+            </label>
+            <label key="e7e826a696245e2ac915ccf4032b76b8">
+                <text>In 2020, NASA sent a six-wheeled robot (rover) called Perseverance to Mars. Perseverance was designed to seek signs of ancient life and to collect rock samples.</text>
+            </label>
+            <label key="5c4885db5ea68aad21e07e2cce75a6b9">
+                <text>A spacecraft carried Perseverance to Mars. A parachute was used to slow down the spacecraft as it approached the planet. The video represents how a rocket-fired vehicle was then deployed, which lowered Perseverance to the surface of Mars. The video has no sound.</text>
+            </label>
+            <label key="d1024d9af319ade2ff6c15d5cc1a798d">
+                <text>After Perseverance landed, it began sending images and videos back to Earth using radio waves.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63990616ca64b2725b981a4b89e4d672d">
+            <label key="0cedcd0032f114d59868d2f5a5ce7179">
+                <text>Radio waves travel at the speed of light and yet it takes people on Earth almost 14 minutes to receive images from Perseverance.</text>
+            </label>
+            <label key="ce41404574df2e24f3f9ff61689611b6">
+                <text>Why does it take so long to receive images from Perseverance?</text>
+            </label>
+            <label key="cd378a9efaa3c267395589294ddfa8de">
+                <text>The cameras work slowly on Mars.</text>
+            </label>
+            <label key="8f1bc9f50771ca83044b99f770ef93e8">
+                <text>The distance between Earth and Mars is enormous.</text>
+            </label>
+            <label key="6e31f8ba88b453ee6aa9536ef8c50192">
+                <text>The speed of the radio waves is significantly reduced when the radio waves enter Earth’s atmosphere.</text>
+            </label>
+            <label key="5d67c0abdceb25bb1b1a1b6c401e9256">
+                <text>Radio waves do not travel quickly in the vacuum of space.</text>
+            </label>
+        </item>
+        <item id="i6399063b4a54c21455faaf3905e6c39fa">
+            <label key="39aa533f7cb4f47094aff36157f2dd86">
+                <text>Explain why the successful use of a parachute for a safe landing provides evidence that Mars has an atmosphere.</text>
+            </label>
+        </item>
+    </items>
+</file>

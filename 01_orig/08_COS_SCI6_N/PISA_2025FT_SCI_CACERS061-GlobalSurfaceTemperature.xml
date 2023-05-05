@@ -1,0 +1,140 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc639a52458908f/passage NEW.xml">
+            <label key="6516943b23308a054e79ae0dbc97e7a3">
+                <text>Global Surface Temperature</text>
+            </label>
+            <label key="5af7ad322a83a611ed6f6677a52a567c">
+                <text>Three independent scientific study groups have monitored average global surface temperature for the past 120 years. Each study group uses a different source of data.</text>
+            </label>
+            <label key="c5be48b2698c3d81d1d24724551daea4">
+                <text>The graph shows by how many degrees the average global surface temperature for each year differs from the average global surface temperature for the period 1901–2000.</text>
+            </label>
+            <label key="fe8e712b5eb6f8b3025c327f440fd9d3">
+                <text>The data from the three studies are shown by the individual lines on the graph.</text>
+            </label>
+            <label key="942c2853fe2654b73eb579a5a7cd378a">
+                <text>
+                    <strong>Global surface temperature change</strong>
+                </text>
+            </label>
+            <label key="b0d09e3008155681a7d0de285738ce77">
+                <text>
+                    <strong>Difference from average temperature for 1901–2000 (°C)</strong>
+                </text>
+            </label>
+            <label key="537c66b24ef5c83b7382cdc3f34885f2">
+                <text>Year</text>
+            </label>
+            <label key="21a4cad8c877d2951bed94b5bc4e00b5">
+                <text>Group 1</text>
+            </label>
+            <label key="a7db0ae147a372b050834dff7d9a5d16">
+                <text>Group 2</text>
+            </label>
+            <label key="c48fb586bafceade4dc798035d1b71f9">
+                <text>Group 3</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/9f25f291642e616a39381/passage NEW 3.xml">
+            <label key="6516943b23308a054e79ae0dbc97e7a3">
+                <text>Global Surface Temperature</text>
+            </label>
+            <label key="2d0d4103fd001f5ce6f1e6943fbbda86">
+                <text>The two graphs represent changes in the global sea level and global surface termperature for the period 1900-2020.</text>
+            </label>
+            <label key="07ecae327be8de55c27a739353972cc1">
+                <text>This graph shows the number of millimetres by which the average global sea level each year differs from the average global sea level for the period 1993-2008.</text>
+            </label>
+            <label key="a644218cb39caba2633c7af7a6916e1a">
+                <text> This graph shows the number of degrees by which the average global surface temperature for each year differs from  the average global surface temperature for the period 1901 – 2000.</text>
+            </label>
+            <label key="2dc003cfb5b0242815be015b708e5042">
+                <text>Global Surface Temperature Change</text>
+            </label>
+            <label key="443531a37bf6394c618cc319565b4adf">
+                <text>Difference from average temperature for 1901–2000 (°C)</text>
+            </label>
+            <label key="537c66b24ef5c83b7382cdc3f34885f2">
+                <text>Year</text>
+            </label>
+            <label key="56d650648e78706a2e8e59733c9fcee3">
+                <text>Global sea level change</text>
+            </label>
+            <label key="1e4e6afc734764967cdd99ba87ec9271">
+                <text>Change in sea level compared to 1993-2008 average (mm)</text>
+            </label>
+            <label key="21a4cad8c877d2951bed94b5bc4e00b5">
+                <text>Group 1</text>
+            </label>
+            <label key="a7db0ae147a372b050834dff7d9a5d16">
+                <text>Group 2</text>
+            </label>
+            <label key="c48fb586bafceade4dc798035d1b71f9">
+                <text>Group 3</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639a52b06e8e9458375c35e38d96274879">
+            <label key="05c1274a65f167cbc2369b5fdbb6c6f5">
+                <text>Consider the periods 1900–1920 and 1950–1970.</text>
+            </label>
+            <label key="8b1c1ddd3d9666f48dff5ae53f206c9f">
+                <text>Which one of the following statements is supported by a comparison of the global surface temperature data for these periods?</text>
+            </label>
+            <label key="e14e4b484467ef29354283db084fe80c">
+                <text>There is too much variation in global surface temperature in each of the two periods to draw a conclusion that global surface temperatures are rising over time.</text>
+            </label>
+            <label key="4e59e37c353938e2d8db58795f6b3943">
+                <text>Within each 20-year period there was little overall change in global surface temperature. We can expect another period (2020-2040) to also have little overall change in temperature.</text>
+            </label>
+            <label key="56e9da6dfa19175419f0a30d0f2201b6">
+                <text>There are years after each of the two periods 1940–1945 and 1980–1985 when the global surface temperature shows little change. This suggests there is no real increase in global surface temperature over time.</text>
+            </label>
+            <label key="39fdda586f17ca319224f1b66de5b4ed">
+                <text>The period 1950–1970 has a higher average global surface temperature than the period 1900–1920. This supports a hypothesis that global surface temperatures are increasing over time.</text>
+            </label>
+        </item>
+        <item id="i639a52d55f3241945859d34c36063d20b9">
+            <label key="746c04481c52e76e19dd011daf4b660d">
+                <text>Two people are discussing the possible relationship between the two graphs.</text>
+            </label>
+            <label key="eeee8b2f63852df8fff10a0d8212a68a">
+                <text>Sharmin</text>
+            </label>
+            <label key="cc3546acc88bfc52220f0cb284457595">
+                <text>Increasing surface temperature is the only cause of sea level rise.</text>
+            </label>
+            <label key="194cd2f711cebc782ada13e259bf61dd">
+                <text>Isabella</text>
+            </label>
+            <label key="b3d838bb5cab5389f8394e9f992d7e73">
+                <text>There are other factors besides surface temperature that are affecting sea level rise.</text>
+            </label>
+            <label key="94a8f29ce6f8920946c8f44a29488325">
+                <text>Explain how the data in the two graphs can be used to support Isabella’s opinion. </text>
+            </label>
+        </item>
+        <item id="i639a5318dce1b45818b4cba1475727bb83">
+            <label key="ec0e766765b8c34005e4de0bad94cbea">
+                <text>Which of the following reasons explain why is it useful to compare the data on global surface temperatures from the different sources?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="79d884e5705199d8e20a78bd93d5f0c8">
+                <text>Groups of scientists rarely communicate with each other.</text>
+            </label>
+            <label key="cc12e98048108db148e2d4f33ef0ab05">
+                <text>Differences in the data from each source for each year allow for error estimates.</text>
+            </label>
+            <label key="17831f02cfdc411983562738448dad08">
+                <text>Comparing the data from each source allows each group to identify and correct their measurements when errors are made.</text>
+            </label>
+            <label key="65a2c0db8a8480f6a186ea930eb4d75c">
+                <text>Because the data from the sources differs, the accuracy of methods used can be judged.</text>
+            </label>
+        </item>
+    </items>
+</file>

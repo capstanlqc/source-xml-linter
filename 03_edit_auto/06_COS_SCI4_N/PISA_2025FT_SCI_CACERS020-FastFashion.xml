@@ -1,0 +1,140 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc639a5e840f262/passage NEW.xml">
+            <label key="3e5ec8134fab2af4a1c13b63963b9f28">
+                <text>Fast Fashion</text>
+            </label>
+            <label key="d3088850f132add066afcb7f7654f4f0">
+                <text>Many people are concerned about the global environmental impacts of the manufacture and disposal of clothing.</text>
+            </label>
+            <label key="b9821c84e75bf0dbc3caba2c17eb6910">
+                <text>Cotton fibres come from the outer layer of the cotton plant’s seeds. Compared to synthetic fibres, cotton fibres need less processing and biodegrade more easily.</text>
+            </label>
+            <label key="e96032df925de2a494f43f4b9b311d17">
+                <text>The production of cotton textiles requires a lot of water, fertilisers, pesticides and other harmful chemicals. To try to solve these issues, sustainable cotton production methods are being developed.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639a603fccc0d458337b134a754354d831">
+            <label key="4f238b7778b2f27346dd95faf1ed0eb9">
+                <text>For a crop to be certified as organic, it cannot be grown with synthetic fertilisers or pesticides. Geneticallly modified crops of cotton are also not classified as organic.</text>
+            </label>
+            <label key="d2a32c7ad5c2b8eec4d119f627db50a3">
+                <text>One researcher claimed that, ‘Organic cotton is sustainable. Non-organic cotton is not sustainable due to the amount of water it needs to grow’.</text>
+            </label>
+            <label key="f679dade585374cddc6c6ef351fd7569">
+                <text>Which one of the following statements supports the researcher’s claim?</text>
+            </label>
+            <label key="00a8c730647e663b45f600d87f7664f6">
+                <text>Genetically modified cotton crops use less water than non-genetically modified organic cotton crops.</text>
+            </label>
+            <label key="e109fb0b5239a236b257461494852faa">
+                <text>Because natural fertilisers are used when growing organic cotton, the soil holds water for a longer time.</text>
+            </label>
+            <label key="6375fc0a896feafa48834f109da3344f">
+                <text>Cotton plants used in organic farming need the same amount of water as other organic crops.</text>
+            </label>
+            <label key="67955192387a27947f70bc9dcd943084">
+                <text>Cotton uses a lot of water to grow.</text>
+            </label>
+        </item>
+        <item id="i639a605ba3fe814628d3030e132c7cb9fd">
+            <label key="34d43b7c31394edfecf9898d6944f20b">
+                <text>Which of the following actions can be taken to reduce the negative environmental impacts of producing cotton textiles?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="e27f55bf0dcbf63a4799a9fc504b0c9e">
+                <text>Use water more efficiently.</text>
+            </label>
+            <label key="41ed0038ff69545c5850b35b344a44f6">
+                <text>Reduce the quality of the cotton textiles produced.</text>
+            </label>
+            <label key="62ead062e8eb133eec6cac07b9f5a820">
+                <text>Increase the number of staff that cotton farms employ.</text>
+            </label>
+            <label key="658d2c33b912e37fac8e81ee92774ede">
+                <text>Use pesticides that are harmful only to the pest species being targeted.</text>
+            </label>
+            <label key="59d86e14d9f678e96144ed0e7643d488">
+                <text>Dispose of chemical waste in areas far away from the sites involved in cotton production.</text>
+            </label>
+        </item>
+        <item id="i639a62155a4fd458370158f8322b362dbf">
+            <label key="9b2a3478f25068ba8701a84c1a850439">
+                <text>Consider the three quotes, extracted from different sources. The sources argue that certified organic cotton should be used to reduce the negative environmental impacts of farming cotton.</text>
+            </label>
+            <label key="e47d37e3bc2cde194ac536e4dc0e3774">
+                <text>Source identifier</text>
+            </label>
+            <label key="f31bbdd1b3e85bccd652680e16935819">
+                <text>Source</text>
+            </label>
+            <label key="c48e929b2b1eabba2ba036884433345e">
+                <text>Quote</text>
+            </label>
+            <label key="4a1f10599d93d68b762e897cc09870a1">
+                <text>A</text>
+            </label>
+            <label key="cfca9008bad1c1a19da6ce5769f1996d">
+                <text>Website for an online shop selling organic cotton</text>
+            </label>
+            <label key="571d0a13fa5ef0248842ba3070e5341f">
+                <text>‘Certified organic cotton production uses less water, energy and fuel. Its production also reduces the carbon footprint and the amount of chemical pollution released into the environment.’</text>
+            </label>
+            <label key="e5e935b02e1eb7090ecc033016a0c91e">
+                <text>B</text>
+            </label>
+            <label key="ce702e48ca07b4b2ab5b4676cb9276d0">
+                <text>Website article from a business journalist reporting on a non-profit conference</text>
+            </label>
+            <label key="bc942c3309f8dc3fb02f6071a76f745c">
+                <text>‘Because organic cotton is not genetically modified, more plants will be needed to get the same amount of cotton fibre. This means more land and water must be used to grow the organic cotton.’</text>
+            </label>
+            <label key="ebd7fb66a43f5e727f18abefbbad9477">
+                <text>C</text>
+            </label>
+            <label key="4935428f6ba741f7e5d8ec971b13afc1">
+                <text>Peer-reviewed article in an international agriculture journal</text>
+            </label>
+            <label key="3f955d256592d38ec5ff7cb0a4780881">
+                <text>‘There was no significant difference found between the yields of organic and non-organic cotton in each year tested. In 2004, the organic cotton yield was 1459 kg/ha and in non-organic farms it was 1400 kg/ha.’</text>
+            </label>
+            <label key="8311f41c5ecc36f4d686b3d7406a52fc">
+                <text>
+                    Which source is most trustworthy?
+                    <p>
+                        <inlineChoiceInteraction responseIdentifier="RESPONSE" shuffle="false" required="false">
+                            <inlineChoice identifier="choice_1" fixed="false" showHide="show">A</inlineChoice>
+                            <inlineChoice identifier="choice_2" fixed="false" showHide="show">B</inlineChoice>
+                            <inlineChoice identifier="choice_3" fixed="false" showHide="show">C</inlineChoice>
+                        </inlineChoiceInteraction>
+                    </p>
+                </text>
+            </label>
+            <label key="9a0c6ad0c788fa520617383a29527987">
+                <text>Why is the source you have selected more trustworthy than the others?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="b8f07dc47c16f8a43cfc49b2a26c4808">
+                <text>It has been reviewed by other experts.</text>
+            </label>
+            <label key="02f99d7d0f9eb58a542778638477d5fe">
+                <text>It compares the results of a scientific study over time.</text>
+            </label>
+            <label key="9ff1b8fb5514d0b04bf9308fac0694db">
+                <text>There is a definition in the quote.</text>
+            </label>
+            <label key="8ccdb12dadb1649ab177329f5b1178d1">
+                <text>It is well written.</text>
+            </label>
+            <label key="49cbe9d64d3f8d2363b2b375567fbf33">
+                <text>The author is an expert in analysing trends in data.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,127 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6358ae0d21e85/passage NEW.xml">
+            <label key="c3c29a5ae4d5265f1ff3950e60efd6f2">
+                <text>The ‘Heart’ of the Plants</text>
+            </label>
+            <label key="97b26cf49818b9423e5fb7402f059241">
+                <text>Plants transport water and nutrients from soil to the leaves in thin tubes called xylem.</text>
+            </label>
+            <label key="472d1ebff934bada6e46b828d712e2f5">
+                <text>
+                    <span>‌Evaporation through the leaves creates a negative water pressure in the xylem that pulls water upwards.‌</span>
+                </text>
+            </label>
+            <label key="612dba200a336f7fdf412623a39a939c">
+                <text>
+                    <span>‌This process works to at least 116 metres, the height of the tallest known tree.‌</span>
+                </text>
+            </label>
+            <label key="0f183d4e27a6a3e7226dbc4135977f50">
+                <text>flow of water within the plant</text>
+            </label>
+            <label key="0af24ccd65fbc5202a17887fc65d57bb">
+                <text>evaporation</text>
+            </label>
+            <label key="695ab5ed83b78be9a1fbdc4ac09f1c8b">
+                <text>water vapour</text>
+            </label>
+            <label key="61ec2fd0d021b9d7630ec8c17d023850">
+                <text>flow of water from soil into the plant</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6358c086d71761511363363961d4b056b9">
+            <label key="bc8eb831bac597fd6d1920747292211c">
+                <text>Plants are continuously taking water from the soil and releasing it from their leaves into the atmosphere.</text>
+            </label>
+            <label key="f4cae1edfde1a7df3dd8b6c10d11df11">
+                <text>This contributes to an increase in air humidity. In densely forested areas the humidity creates clouds.</text>
+            </label>
+            <label key="f161aabd204c7dd845c1f423b2dcf18d">
+                <text>Explain how deforestation may affect the climate within those areas.</text>
+            </label>
+        </item>
+        <item id="i6358c122a2b6217983c7d7cc6af093d556">
+            <label key="06829ebb9e715ce8e03fb11aacc1e4db">
+                <text>Water has unique physical and chemical properties.</text>
+            </label>
+            <label key="45d16d84dd41c8bdfdc7bf23d1dc781f">
+                <text>
+                    <span>‌Are the properties of water in the table below essential or non-essential for water’s upward movement in plants?‌</span>
+                </text>
+            </label>
+            <label key="f0b8c36906113fc53836af4654fe8d94">
+                <text>Select ‘Essential’ or ‘Non-essential’ for each property.</text>
+            </label>
+            <label key="601ce8c47432cbab2d703c08326e212e">
+                <text>
+                    <strong>Essential</strong>
+                </text>
+            </label>
+            <label key="884ffd2b3dc0a6ae556a82f6434f5657">
+                <text>
+                    <strong>Non-essential</strong>
+                </text>
+            </label>
+            <label key="5eaf0d6d8dbf6b7f6f24333cb2c20176">
+                <text>Ice has a lower density than liquid water.</text>
+            </label>
+            <label key="92d9a6b804cbba8af96b4b9dc5fc5c19">
+                <text>Water can absorb a lot of heat before changing its temperature.</text>
+            </label>
+            <label key="308a323dfa351e0174fbfd07410acb81">
+                <text>Water can dissolve many substances.</text>
+            </label>
+            <label key="f636458cde4a0c0496d8f60f7b1636d9">
+                <text>Water molecules ‘stick’ to each other through weak bonds between hydrogen and oxygen.</text>
+            </label>
+        </item>
+        <item id="i635f25af762ab24191f0284aba93591ba2">
+            <label key="250d499e4f32d57c08229a7343ed334b">
+                <text>The columns below list some plant processes and their effects.</text>
+            </label>
+            <label key="c46b6dbd4c3385ea84ab48f0cea52e15">
+                <text>Match each plant process with its effect by selecting one box on each side. </text>
+            </label>
+            <label key="0912d10685b6060a883c2def7c9c22d1">
+                <text>You can remove a match by selecting the line and then selecting ‘x’</text>
+            </label>
+            <label key="400b3fd1a1d468be4aca4ac32e7ede8e">
+                <text>
+                    <strong>Plant process</strong>
+                </text>
+            </label>
+            <label key="4c9b548c3457be0b68763ddea99826e3">
+                <text>
+                    <strong>Effect</strong>
+                </text>
+            </label>
+            <label key="9d8b6305bdb7d217b80f455204022c9d">
+                <text>Plants “grab” the soil with their roots.</text>
+            </label>
+            <label key="238516c11f21d0ab8863efadc1b12e7e">
+                <text>Air temperature is lower under a tree, which protects against high summer temperatures.</text>
+            </label>
+            <label key="bf2e0b491f500ce90c58024acc128457">
+                <text>Plants continuously absorb water through their roots.</text>
+            </label>
+            <label key="6ec463f1ce48a1c3560b7025e7c13142">
+                <text>Trees form a barrier against the devastating effects of tsunamis.</text>
+            </label>
+            <label key="1186d785112cb4c3371d929073fbca0f">
+                <text>Tree leaves are arranged to collect the maximum amount of light.</text>
+            </label>
+            <label key="d6b0b1cbe97aab4c995430246c948bf4">
+                <text>Plants including trees and other types of vegetation prevent floods.</text>
+            </label>
+            <label key="71419322cd0ad288a32c8551359e0387">
+                <text>Mangrove forests form an intricate structure of roots and branches on some tropical shorelines.</text>
+            </label>
+            <label key="30c44cf5156bd7f8be6f32b28300b706">
+                <text>Vegetable cover like forest prevents soil erosion.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,156 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/63bf5d545117c2.20305100/passage NEW.xml">
+            <label key="d4926d89778b9e8d318c9e4a21bae6b5">
+                <text>PET Scans</text>
+            </label>
+            <label key="752c558079842855c69f71c3cf0841fc">
+                <text>A Positron Emission Tomography (PET) scan is a medical imaging test used to diagnose and monitor some diseases.</text>
+            </label>
+            <label key="7fd7999a2cd31f2523a369e50055d0e8">
+                <text>Before the PET scan, the doctor injects a small amount of a ’radiotracer’ solution into the patient’s body. Diseased cells absorb more of the solution than normal cells.</text>
+            </label>
+            <label key="04472a1beff578e1250b1f3b7e4c4741">
+                <text>The radiotracer contains radioisotope atoms that decay (break down). As they decay, the radioisotope atoms release pairs of gamma rays. Simultaneously, each gamma ray travels in a straight line in the opposite direction to the other ray.  The ring scanner detects the gamma rays that strike it.</text>
+            </label>
+            <label key="0f00d7e8b721860ec8f371bd16a303fd">
+                <text>Radioisotopes each have a ‘half-life’. Half-life can be described in the two following ways:</text>
+            </label>
+            <label key="440681bb35f0c3158e16c1502268a82a">
+                <text>time required for one-half of the radioactive atoms in a sample to decay</text>
+            </label>
+            <label key="97914eeae098eb9ffa56b410c7f03384">
+                <text>time required for the number of radioactive atoms that decay per second in a sample to decrease by one-half (50%).</text>
+            </label>
+            <label key="8d56bf504198b53dfa3915dc01f5d0ef">
+                <text>
+                    <strong>Examples of radioisotopes</strong>
+                </text>
+            </label>
+            <label key="9fd9fd9e30246647483411a11025415a">
+                <text>Radioisotope</text>
+            </label>
+            <label key="8392e263086ff6e6d0e09d037bac13b0">
+                <text>Half-life (minutes)</text>
+            </label>
+            <label key="8ae2a5b447f654bd4d75d5ec3c40a4c8">
+                <text>Uses</text>
+            </label>
+            <label key="229a3a03aac1c7a8fd547131c07243f6">
+                <text>Nitrogen-13</text>
+            </label>
+            <label key="f7d7d6b542db3b8628fcd8e9702b5b6f">
+                <text>  10.0</text>
+            </label>
+            <label key="a08c2c645b6065bf20aef702e382e043">
+                <text>Heart muscle imaging</text>
+            </label>
+            <label key="449e4d94148dd513f3fe9c9feb38ab66">
+                <text>Oxygen-15</text>
+            </label>
+            <label key="54ce1819b09b044672b3bb5a6755ed0a">
+                <text>2.0</text>
+            </label>
+            <label key="f56cff80050d97359703e6bc0f0606d0">
+                <text>Brain imaging</text>
+            </label>
+            <label key="7bdeba3261d3645c386baeec7132b98f">
+                <text>Fluorine-18</text>
+            </label>
+            <label key="e415a0b93cfc773d2a4c3a41fd4ece84">
+                <text>Brain, bone and muscle imaging; disease detection; imaging of bacterial infections</text>
+            </label>
+            <label key="7e232fb5795f5ac34ce355de3ebec648">
+                <text>Gallium-68</text>
+            </label>
+            <label key="cbed1b6573ca3a27b55ba6c2641afff7">
+                <text>  67.7</text>
+            </label>
+            <label key="efd7d3ccc5826928e91a107831679576">
+                <text>Disease detection</text>
+            </label>
+            <label key="fcf5497e876a408e9f942bfda873ed43">
+                <text>Rubidium-82</text>
+            </label>
+            <label key="2f206951a915fe60ef2a1c25dabaf3ff">
+                <text>1.3</text>
+            </label>
+            <label key="6b6318e1cb994ec901216f9787b60257">
+                <text>Blood flow analysis</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633a576cb877f188123dcfaab49503bec7">
+            <label key="f0ad5e801fe1badff0bd61b527575018">
+                <text>Fifty radioactive fluorine-18 atoms are represented by the dots on this grid. <img src="assets/4709e22e6343a59b0ce4b.svg" alt="CACERS028Q01_PET-scans.svg" width="64%" type="image/svg+xml"/><p>The half-life of fluorine-18 is approximately 110 minutes.</p><p>Which of these grids best represents the expected number of fluorine-18 atoms remaining in the sample after 4 hours?</p></text>
+            </label>
+        </item>
+        <item id="i633a58f059d081880243f7e8a4e49f6973">
+            <label key="154d9fec1a4b6bfc7bdde160478edbd5">
+                <text>The graph shows the rate of decay of radioisotopes in 3 radiotracer samples. </text>
+            </label>
+            <label key="c999fabd3b3733a27863ccd34fbfcdf9">
+                <text>Two of the samples are carbon-11.</text>
+            </label>
+            <label key="f3471627fcf82a3c535732e21fa72f85">
+                <text>Here are three statements about the graph.</text>
+            </label>
+            <label key="118eed61599a262f87b3aff78388ed7f">
+                <text>Select ‘True’ or ‘False’ for each statement.</text>
+            </label>
+            <label key="73af94ed797e34dea84fc87ff7271312">
+                <text>
+                    <strong>True</strong>
+                </text>
+            </label>
+            <label key="b6eb5d76f702d77514b6e2952f322e39">
+                <text>
+                    <strong>False</strong>
+                </text>
+            </label>
+            <label key="1ab40927614d97fee0184fdacab9599e">
+                <text>The half-life of carbon-11 is 20 minutes.</text>
+            </label>
+            <label key="bbcfef2dd79ec83dfed9304bfb3f9ac5">
+                <text>Radiotracer B is fluorine-18.</text>
+            </label>
+            <label key="29f0c700c392271cb38b080cae6a4f8b">
+                <text>The half-life of a sample depends on the initial number of isotope atoms in the sample.</text>
+            </label>
+        </item>
+        <item id="i633a5ad3e0ba91880717cb99eebee81374">
+            <label key="1de8647c232029bd7b1e806b0435db35">
+                <text>Radiotracers for PET scans all have short half-lives.</text>
+            </label>
+            <label key="55247ea168113922740078ae932a77bb">
+                <text>Give one advantage of using a PET scan radiotracer with a short half-life.</text>
+            </label>
+            <label key="f0f3926fb4b071c012df3bd1b4cf8a63">
+                <text>Give one disadvantage of using a PET scan radiotracer with a short half-life.</text>
+            </label>
+        </item>
+        <item id="i633a5bb1a5b6d1623ebe91c57302fab01">
+            <label key="9e8761f123b296d01f3b64019ec610e9">
+                <text>Give two reasons why a fluorine-18 radiotracer might be more effective than an oxygen-15 radiotracer.</text>
+            </label>
+            <label key="0bd0015927ec0a654a5264cc84c2d97f">
+                <text>Reason 1:</text>
+            </label>
+            <label key="c0b369721b61b490188b6f72c24cb88a">
+                <text>Reason 2:</text>
+            </label>
+        </item>
+        <item id="i633a62085c29e18812ccbe9a25562ea3c2">
+            <label key="421076eb13a1317baf52897e7dcbc28a">
+                <text>The diagram shows a sample inside a PET scanner. A small amount of radioactive material is present in one section of the sample.</text>
+            </label>
+            <label key="3c8f50bc4704a407d61b6cc934964ab0">
+                <text>The diagram shows the PET scanner detecting two gamma ray pairs. The gamma ray pairs produce four gamma ray traces which can be seen around the scanner ring.</text>
+            </label>
+            <label key="977d9699822ef86c70113a799e9c7a09">
+                <text>Select the most likely location of the radioactive material in the sample.</text>
+            </label>
+        </item>
+    </items>
+</file>

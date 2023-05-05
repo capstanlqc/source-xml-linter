@@ -1,0 +1,100 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6396b686e8aa8/passage NEW.xml">
+            <label key="12c7a4ffbb8c14a530c5b01c66ecfd41">
+                <text>The Fruit of Thorns</text>
+            </label>
+            <label key="6f8525111d69ad0dfef37af76013eb5f">
+                <text>Durian is a large fruit with a thorny outer shell and custard-like flesh. This fruit grows mainly in Thailand, Indonesia, Vietnam and Malaysia.</text>
+            </label>
+            <label key="b805f9ee8468570c3033f55b569ba520">
+                <text>Several types of animals feed on the nectar found in the flowers of durian trees.</text>
+            </label>
+            <label key="52f5e6c86e93f0db67876a4ac334465a">
+                <text>The movements of the animals through the trees help to pollinate the durian flowers.</text>
+            </label>
+            <label key="8537783ffedbf3fb328f417e59ae7ebf">
+                <text>Researchers placed cameras on four durian trees to find out which animal type had the greatest impact on the pollination of the durian flowers.</text>
+            </label>
+            <label key="6ebe23fa8f9d8f7ae7a6694e18f19f6e">
+                <text>The table shows the average amount of time that four species of animal spent at each flower they visited.</text>
+            </label>
+            <label key="2f526a7d8e6db0c0439146d84129a9b2">
+                <text>
+                    <strong>‌Average amount of time spent at each flower (seconds)‌</strong>
+                </text>
+            </label>
+            <label key="ca91a408398400dc2aefff5f72f1f435">
+                <text>Type of animal</text>
+            </label>
+            <label key="51a595705031c30b8fcaf01e27173dc2">
+                <text>Tree 1</text>
+            </label>
+            <label key="fdf49bfa5b8065f5374408d98c9f9efe">
+                <text>Tree 2</text>
+            </label>
+            <label key="50c15bed05df0fef97fe6a2cfc2e12c3">
+                <text>Tree 3</text>
+            </label>
+            <label key="18d2f656306d2e5fa55b6fbd95eaae5b">
+                <text>Tree 4</text>
+            </label>
+            <label key="89d8cc9fee5e253caeb397a784ae6e17">
+                <text>Island flying fox<br/>(<em>Pteropus hypomelanus</em>)</text>
+            </label>
+            <label key="26cfc94187040ac608b6b05b7b94828a">
+                <text>Nectar bat<br/>(<em>Eonycteris spelaea</em>)</text>
+            </label>
+            <label key="53f5a0f14b94f3e72ae3092ada173d28">
+                <text>Plantain squirrel<br/>(<em>Callosciurus notatus</em>)</text>
+            </label>
+            <label key="396c03d273b58bf6a699e11a8bbcebc5">
+                <text>Long-tailed macaque<br/>(<em>Macaca fascicularis</em>)</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6396bec98ec293044287a41068bad7a9f">
+            <label key="87fab31a87a66e4c38838b63fb135da2">
+                <text>On average, which animal species spent the longest time at each flower it visited?</text>
+            </label>
+            <label key="e899710eec074dfb3912eba0449db870">
+                <text>island flying fox</text>
+            </label>
+            <label key="19bdad271d83ff17625345dae0ef4596">
+                <text>nectar bat</text>
+            </label>
+            <label key="1ccc5b6989b212527e2118fd88213b0c">
+                <text>plantain squirrel</text>
+            </label>
+            <label key="0425feb306ab900950edb6d8a5b39a57">
+                <text>long-tailed macaque</text>
+            </label>
+        </item>
+        <item id="i6396c08f53898136318959e94644cc700b">
+            <label key="97933993eee760da648c6df6b6126b33">
+                <text>One researcher thinks that the animal that spends the longest time feeding at each flower will be the one that will pollinate the largest number of flowers.</text>
+            </label>
+            <label key="c9a6c5f46a4727cc00e198a30157a2dc">
+                <text>Suggest a reason why this may <strong>not</strong> be true.</text>
+            </label>
+        </item>
+        <item id="i642a143dcaf3f9400456fe0837ca955470">
+            <label key="52c95b929c6b6166c3966e5338d3cb83">
+                <text>Several different types of data were collected by the cameras.<div></div><p></p><div>Which one of the following types of data would allow the researchers to determine how successfully the animals had pollinated the flowers?</div></text>
+            </label>
+            <label key="c563d94c3c5b5086a7dc252fb20f5475">
+                <text>the amount of fruit that grew on the trees</text>
+            </label>
+            <label key="1a3ddbac2b2c00ecc4cdcf1aa4f5c9a8">
+                <text>the amount of sunlight that shone on the trees</text>
+            </label>
+            <label key="b8e92bcaf816d1191c52f0d3b747be11">
+                <text>the number of animals that ate nectar from the trees</text>
+            </label>
+            <label key="533f2d37ab502800510009af41bd1ad8">
+                <text>the number of leaves that grew on the trees</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,215 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6344c9d774160/passage NEW.xml">
+            <label key="fe67ca2dd50a61ce0086b0bb88336721">
+                <text><em>T. rex</em> Body Size</text>
+            </label>
+            <label key="7c1a9ea132510c11eaac895940e82f28">
+                <text><em>Tyrannosaurus rex</em> (<em>T. rex</em>) was a type of large carnivorous dinosaur.  Our knowledge of <em>T. rex</em> comes from fossils.</text>
+            </label>
+            <label key="d9ad4a604c8bdd1d5c502cf78b11a742">
+                <text>Of about 100 <em>T. rex</em> fossil skeletons that have been found, only 32 are almost complete.</text>
+            </label>
+            <label key="57f63a7c6691328609be29f280021a74">
+                <text>A mass extinction of large dinosaurs occurred approximately 65.5 million years ago.</text>
+            </label>
+            <label key="77acbcda620f5451c246088683712e5a">
+                <text><img src="" alt="CACERS030S1_T-Rex-body-size.jpg" width="100%"/>‌‌Model of a <em>Tyrannosaurus rex</em> skeleton </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae8036344cf47c5eb0/passage NEW 1.xml">
+            <label key="fe67ca2dd50a61ce0086b0bb88336721">
+                <text><em>T. rex</em> Body Size</text>
+            </label>
+            <label key="0ff212da03c831b716489f403fc25c05">
+                <text>Some carnivorous dinosaurs were much larger than any predatory carnivores living today.</text>
+            </label>
+            <label key="2d1a9b9cbf60edd39db0806aa84c67ec">
+                <text>These graphs show the body mass range (kg) of two carnivorous animal groups and the number of species within each body mass range.</text>
+            </label>
+            <label key="3e5423a474d21e62a70726963107abca">
+                <text>
+                    <strong>‌Body mass range (kg) for living predatory carnivores and for carnivorous dinosaurs‌</strong>
+                </text>
+            </label>
+            <label key="fef24075bdb1142f0e19d2cf05360a20">
+                <text>
+                    <strong>‌Number of species‌</strong>
+                </text>
+            </label>
+            <label key="ad034bf33532d7ed0a0b1b003eb3d278">
+                <text>
+                    <strong>‌Mass range (kg)‌</strong>
+                </text>
+            </label>
+            <label key="8a65b7703ee80c85ba9b65c7d5eef636">
+                <text>recent predatory carnivorans</text>
+            </label>
+            <label key="e2fd75a51c219223725fb5d22cd9b787">
+                <text>carnivorous dinonsaurs</text>
+            </label>
+            <label key="4ce080978c3cf5620e9a275471282a5b">
+                <text>0,1–1</text>
+            </label>
+            <label key="950895549db1aaedd66e8f81b2e990dd">
+                <text>1–10</text>
+            </label>
+            <label key="22f2b2ca3073d2e3344b8abcd0b220e3">
+                <text>10–100</text>
+            </label>
+            <label key="1038cb806d52cd02818d69c055112e31">
+                <text>100–1000</text>
+            </label>
+            <label key="495f14f3ace85eb65948a5d5f339a686">
+                <text>1000–10 000</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd86344f09d76189/passage NEW 2.xml">
+            <label key="fe67ca2dd50a61ce0086b0bb88336721">
+                <text><em>T. rex</em> Body Size</text>
+            </label>
+            <label key="7316584702a322553a26807dedcc5ada">
+                <text>The graph below shows a growth curve that can be used to estimate changes in <em>T. rex</em> body mass as its age increased.</text>
+            </label>
+            <label key="1c0bb529145a1cf04be4008679daf232">
+                <text>The solid line is a curve of best fit. The shaded areas on either side of the line provide a range of possible body mass values for each given age of <em>T.rex</em> (years).</text>
+            </label>
+            <label key="d0b89c982fe314514a785c71105ae987">
+                <text>
+                    <strong>‌Growth curve‌</strong>
+                </text>
+            </label>
+            <label key="d36bbe2307cb1a16d3599fef69287dcc">
+                <text>
+                    <strong>‌Body mass (tonnes)‌</strong>
+                </text>
+            </label>
+            <label key="61eaf5137a15afc075f010a2820cbe32">
+                <text>
+                    <strong>‌Age (yrs)‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6344cb61444e419293b0e39deb62219c8">
+            <label key="82234ff31e11dbf249acaa1c60c54aae">
+                <text>
+                    <p>Most vertebrates have growth rings in their bones.</p>
+                    <p>A new layer of bone is added to the outside of each bone as the animal grows.</p>
+                    <qh5:figure showFigure="true" class="wrap-left">
+                        <img src="" alt="CACERS030Q01_T-Rex-body-size.svg" width="100%" type="image/svg+xml"/>‌‌<qh5:figcaption>Growth rings in animal bone</qh5:figcaption>
+                    </qh5:figure>
+                    Dinosaur bones have these growth rings.
+                    <p>The growth rings have provided information about <em>T. rex</em>.</p>
+                    <p>Which one of these statements could <strong>not</strong> be supported by growth ring information?</p>
+                </text>
+            </label>
+            <label key="d36d9682476827df91f72340cac1d948">
+                <text><em>T. rex</em> reached full size at about age 19.</text>
+            </label>
+            <label key="f76b61eece708ae9c7f706ffc809d04f">
+                <text><em>T. rex</em> had a rapid increase in growth during adolescence.</text>
+            </label>
+            <label key="43b79364f243626de961d0ddfb6bf549">
+                <text>The life expectancy of <em>T. rex</em> was about 28 years.</text>
+            </label>
+            <label key="7bbf23823abb43a2ef92f318d30927e3">
+                <text>There were about 20 000 <em>T. <em>rex</em></em>alive at one time.</text>
+            </label>
+        </item>
+        <item id="i6344cc8e664ad248009c54a46df057f496">
+            <label key="eecc889c1f7d66725fb19ce3b81e2762">
+                <text>Using <em>T. rex</em> fossils, scientists estimate the mass of a <em>T. rex</em> adult was between 5 tonnes (5000 kg) and 7 tonnes (7000 kg).</text>
+            </label>
+            <label key="0bdddedda3b7f8881131fd07276f9dc2">
+                <text>Can the information about <em>T. rex</em> in the table below also be estimated from the fossils?</text>
+            </label>
+            <label key="169c5f085afbcfa7013d5f3269bd1748">
+                <text>Select either ‘Yes’ or ‘No’ for each feature.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>‌Yes‌</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>‌No‌</strong>
+                </text>
+            </label>
+            <label key="beac60a777c526cfb536ac0fd015db39">
+                <text>average length of <em>T. rex</em></text>
+            </label>
+            <label key="51d91c8bebd6818f594cda61f0aec608">
+                <text>average height of <em>T. rex</em></text>
+            </label>
+            <label key="4d748100b5830df8c3c15399507a80bc">
+                <text>average mass of the bones of <em>T. rex</em></text>
+            </label>
+            <label key="9be8ea44c26e37b389f84de791f8bf09">
+                <text>average number of offspring for <em>T. rex</em></text>
+            </label>
+        </item>
+        <item id="i6344ce6b5b28324688d0e0df39eb66e596">
+            <label key="38083b2dbf5ba742823e279797d12eca">
+                <text>Estimates of the mass of <em>T. rex</em> are calculated from fossil skeletons.</text>
+            </label>
+            <label key="ad4f51ef7e7bb6d56c78d03abd63a0fa">
+                <text>Which of these statements are assumptions that could lead to errors in the estimates of the mass of <em>T. rex</em>?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="c0e9589de6baa66e332e281e4d8b9633">
+                <text>Some measurements of bones, such as the circumference of the thigh bones, are used in the calculations.</text>
+            </label>
+            <label key="baa47685c4ecbc705e4ab56e8dd9df8e">
+                <text>The rate of increase in limb size relative to other body parts was the same in dinosaurs as it is in modern animals.</text>
+            </label>
+            <label key="800750d5c2cebba5baf16ddf0275defc">
+                <text>The rate of increase in body mass as body size increases was the same in dinosaurs as it is in modern animals.</text>
+            </label>
+            <label key="a268bfc2aa5cfbc7fe5e02118b16723e">
+                <text>The calculations are based on data collected from vertebrates alive today.</text>
+            </label>
+        </item>
+        <item id="i6344ee78a015824776984c4ef8febe70de">
+            <label key="7bd67d7ebed8e3466ad4fcb5b68d41b8">
+                <text>For which carnivorous group would this data be most accurate?</text>
+            </label>
+            <label key="0ca1ccb9a0e387b4d9de9be9ba717604">
+                <text>living predatory carnivores</text>
+            </label>
+            <label key="92157c7b6aa376413356e46f409e8ab5">
+                <text>carnivorous dinosaurs</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i6344f2f51c68a1930a58ee356df9c5dbe">
+            <label key="c4bc8445d1bf913ab72de3ec7fd0e59e">
+                <text>The same growth curve can be used to estimate the body mass of other extinct animals.</text>
+            </label>
+            <label key="d63c6cd66a737347ff786fa72bc3d6c5">
+                <text>For which age range would these estimates be most accurate?</text>
+            </label>
+            <label key="7cd42e207e9c4b5ad13859f1dbd8a631">
+                <text>0–7 years</text>
+            </label>
+            <label key="9a0141524bc19ee0d17a487f5d62384b">
+                <text>7–14 years</text>
+            </label>
+            <label key="47b3695e8bde0cb5e9821337ac9c44ba">
+                <text>14–21 years</text>
+            </label>
+            <label key="06f033d47db230dfa407115f96f4fd25">
+                <text>21–28 years</text>
+            </label>
+            <label key="871254c8b525b4d08181c2be528b40f5">
+                <text>Use the information in the graph to explain your answer.</text>
+            </label>
+        </item>
+    </items>
+</file>

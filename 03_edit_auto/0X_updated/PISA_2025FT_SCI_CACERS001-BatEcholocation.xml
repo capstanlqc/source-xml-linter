@@ -1,0 +1,95 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6327d1643256f/passage NEW.xml">
+            <label key="863898f7bf5dd3c2690951ee7ac38190">
+                <text>Bat Echolocation</text>
+            </label>
+            <label key="84a1c806cc91047724daba21d27d38c1">
+                <text>Bats are mammals that can fly.</text>
+            </label>
+            <label key="2afbc5cfc92d36d81610cedcc854778e">
+                <text>Bats send out sound waves and listen for the echoes to help them locate objects and food.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63281dac4aa0b2148c008f8120d5aec">
+            <label key="ad9e13e91308d79e8a1992d8116a792d">
+                <text>What is an echo?</text>
+            </label>
+            <label key="95101308a2c3a49ae2cf10cffe9372fc">
+                <text>sound waves made only by a bat</text>
+            </label>
+            <label key="0768ca9fc1d04d165458a4d2cf75c9ad">
+                <text>sound waves made by any animal</text>
+            </label>
+            <label key="05e09de7a139e863fe32ed04c7d8df97">
+                <text>sound waves reflecting from an object</text>
+            </label>
+            <label key="e657686ac32c42e7a557f593b4abf607">
+                <text>sound waves that never stop repeating</text>
+            </label>
+        </item>
+        <item id="i63281dcb3866e155468bc5ab8af70d8">
+            <label key="af0540f45b3d0c36a95c8bd4577ac924">
+                <text>Which part of the bat are its sound waves emitted from?</text>
+            </label>
+            <label key="746c2b4e3673f4d4835c011f1110abcf">
+                <text>ears</text>
+            </label>
+            <label key="37c24a3158dc6f1aab7f6398e8cf5f70">
+                <text>skin</text>
+            </label>
+            <label key="a310e7658420302aad683d72f7ecf4c6">
+                <text>eyes</text>
+            </label>
+            <label key="cb5786412becb979c90f606f25ad4b4f">
+                <text>mouth</text>
+            </label>
+        </item>
+        <item id="i63282aaa6131415548329738477834c744">
+            <label key="ecee8c29f1e017219169c1b19cf0d047">
+                <text>This picture shows a bat (shown as a cross) and four insects inside a cave.<div><div class="colrow"><img src="assets/c233436463bf3ef6b897d.svg" alt="CACERS001Q04_bat-echolocation.svg" width="100%" type="image/svg+xml"/>‌‌</div><div class="colrow tmp"></div></div><div>The bat uses sound and echoes to locate insects.</div><div>Which one of the four insects will the bat most likely locate first?</div></text>
+            </label>
+            <label key="e27cc6f244d5b24c4fa15f9083d19ccf">
+                <text>insect 1</text>
+            </label>
+            <label key="57561e2af2d06727d2015948a3723d8b">
+                <text>insect 2</text>
+            </label>
+            <label key="0ddb9d83376dd6be0049bb8624e620ad">
+                <text>insect 3</text>
+            </label>
+            <label key="b1d1617ce78324a287f2aa35d11d5a93">
+                <text>insect 4</text>
+            </label>
+        </item>
+        <item id="i632835814577f58620e51658693c10340">
+            <label key="47f8177fa86c933df10001a3d1b1a85c">
+                <text>Which of these is a reason why bats use echoes?</text>
+            </label>
+            <label key="d4540840b1398372585b367ef6d13846">
+                <text>Select either ‘Yes’ or ‘No’ for each row.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>‌Yes‌</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>‌No‌</strong>
+                </text>
+            </label>
+            <label key="c9c3f0394b5ae1a402fe39e327869ba6">
+                <text>Because bats hunt for food at night.</text>
+            </label>
+            <label key="0779bc47052987f2fa9b435af1b9ba49">
+                <text>To help the bat avoid hitting objects when flying.</text>
+            </label>
+            <label key="b4b00b27ab64faf721537ab6ca853b35">
+                <text>Because bats only eat things that make sounds.</text>
+            </label>
+        </item>
+    </items>
+</file>

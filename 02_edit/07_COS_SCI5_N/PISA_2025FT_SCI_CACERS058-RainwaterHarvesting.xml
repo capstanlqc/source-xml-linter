@@ -1,0 +1,112 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63a0ee25b4759/passage NEW.xml">
+            <label key="92009e2a27bad4010bd92e7332eeb385">
+                <text>Rainwater Harvesting</text>
+            </label>
+            <label key="aa71baa10a4b90d23770673891c44493">
+                <text>Boribun owns a farm in southern Thailand. She has made an earthwork to improve her farm. Earthworks are structures made from soil.</text>
+            </label>
+            <label key="19bd45ff99e58c77f470cb9967c83c57">
+                <text>These diagrams show the design and purpose of this earthwork.</text>
+            </label>
+            <label key="cd38efe78bde1d25713915d1d5108e8c">
+                <text>before earthwork</text>
+            </label>
+            <label key="cf6c9df68ded66fc2c9d509d76ae22cc">
+                <text>soil</text>
+            </label>
+            <label key="6e521a6050bd019a7b9cecd377c55e3f">
+                <text>flow of rainwater</text>
+            </label>
+            <label key="bf283370471fea9b49125c112b1a3281">
+                <text>construction of earthwork</text>
+            </label>
+            <label key="c29ea7b02a2caa9230979a7002781392">
+                <text>trench</text>
+            </label>
+            <label key="2ef40e3ce0f77bce2e51f0a2d9321da1">
+                <text>soil moved to make mound</text>
+            </label>
+            <label key="c94aaf4030b98a000c3fef0fcf45fa0e">
+                <text>finished earthwork after several years</text>
+            </label>
+            <label key="6bff7223729f4fb29e38b902393570db">
+                <text>groundwater</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a0ee82250355977191924f5f1f3fb577">
+            <label key="6ba3c4c4de5e17e247e02fe82b316491">
+                <text>One information source Boribun is considering is an educational online channel about rainwater harvesting hosted by a farmer in Kenya.</text>
+            </label>
+            <label key="8cbd31ae425646f778e391b00c483842">
+                <text>The other sources Boribun is considering relate directly to the region in Thailand where Boribun’s farm is located.</text>
+            </label>
+            <label key="5d34f4e184aea684d8ff3cee226274d0">
+                <text>Explain why a source of information about rainwater harvesting in other parts of the world could also benefit Boribun.</text>
+            </label>
+        </item>
+        <item id="i63a0eeac2ebcc14925abd4b668c8616bb8">
+            <label key="6a1a77c6532704023036135fa375cfc9">
+                <text>Boribun is looking for information about earthwork design.</text>
+            </label>
+            <label key="368f5c035d16e42efe110c636763c285">
+                <text>She considers the sources listed below.</text>
+            </label>
+            <label key="c7210c5710faac3f7b23ebd5481ebbcb">
+                <text>Select one of these sources of information that is relevant to Boribun.</text>
+            </label>
+            <label key="95c1056c84b427b8f7fbd56131ffc774">
+                <text>a local non-profit guide about the construction of earthworks</text>
+            </label>
+            <label key="5ec8abe3d85f9ee03b236a49979cd497">
+                <text>an educational online channel about rainfall harvesting hosted by a farmer in Kenya</text>
+            </label>
+            <label key="fa6cbf4eca58717ddb1dc45f0157ee06">
+                <text>a water conservation expert from a local university</text>
+            </label>
+            <label key="60c6dfe73c4b76855cb0d101ef4f3961">
+                <text>a short social media video by a tourist called ‘Visiting Thai Farms’</text>
+            </label>
+            <label key="2a65d32d61cb80720b1521400f5e85e7">
+                <text>a news article about rainwater harvesting in Thailand</text>
+            </label>
+            <label key="ba3cf951df1992c69d03b456cf1a3444">
+                <text>Explain why this source is relevant to Boribun.</text>
+            </label>
+        </item>
+        <item id="i63a0eec640ac9597733b4da058d2306754">
+            <label key="08b78ba91871dc8c2dec098761ae578f">
+                <text>Boribun wants to know about the most recent scientific research on water conservation.</text>
+            </label>
+            <label key="3d3b166531eefd5cb0cfeb2d5ad58e26">
+                <text>Which one of these sources is most likely to have the most recent scientific research findings on water conservation?</text>
+            </label>
+            <label key="95c1056c84b427b8f7fbd56131ffc774">
+                <text>a local non-profit guide about the construction of earthworks</text>
+            </label>
+            <label key="5ec8abe3d85f9ee03b236a49979cd497">
+                <text>an educational online channel about rainfall harvesting hosted by a farmer in Kenya</text>
+            </label>
+            <label key="511824a5de9bee8feb7f2249a729902b">
+                <text>a water conservation expert from a nearby university</text>
+            </label>
+            <label key="60c6dfe73c4b76855cb0d101ef4f3961">
+                <text>a short social media video by a tourist called ‘Visiting Thai Farms’</text>
+            </label>
+            <label key="2a65d32d61cb80720b1521400f5e85e7">
+                <text>a news article about rainwater harvesting in Thailand</text>
+            </label>
+        </item>
+        <item id="i63a0eec9ab28d59775fe363510914638e4">
+            <label key="21cb641423ee1e3705d1e1cb17986531">
+                <text>What is the function of the earthwork?</text>
+            </label>
+            <label key="5e170796d47952463fb7278cae0a1bb6">
+                <text>In your answer, explain why the earthwork might be necessary.</text>
+            </label>
+        </item>
+    </items>
+</file>

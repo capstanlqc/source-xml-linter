@@ -1,0 +1,221 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63a0e24f3dc91/passage NEW.xml">
+            <label key="1814957b0cb063a06764f7817c1c8876">
+                <text>Light at Night</text>
+            </label>
+            <label key="29561008968065dd3faf7d8aa333781f">
+                <text>Excessive use of artificial outdoor lights contributes to light pollution. Light pollution can have many negative impacts.</text>
+            </label>
+            <label key="24644a65a1b2dc4cc153a8d4fa90a005">
+                <text>The table below describes the different types of light pollution.</text>
+            </label>
+            <label key="f60a0982314041f6c3bfc824a325321f">
+                <text>Type of light pollution</text>
+            </label>
+            <label key="b5a7adde1af5c87d7fd797b6245c2a39">
+                <text>Description</text>
+            </label>
+            <label key="5797d1d5675a53a4ff914e6b6185c623">
+                <text>Glare</text>
+            </label>
+            <label key="6664c34ac833a0689033d6664f0e677e">
+                <text>strong light that temporarily blinds the observer</text>
+            </label>
+            <label key="3eca07a3d7c9e73f6c2480d90e822d5c">
+                <text>Skyglow</text>
+            </label>
+            <label key="94de1c23e224b4f9431e7d6911e65fb8">
+                <text>light that reduces the visibility of the objects in the night sky</text>
+            </label>
+            <label key="ef147debd4e1deb113094dcc1fd3234d">
+                <text>Light trespass</text>
+            </label>
+            <label key="8dea03efd7950ab496d0087aefe77c3e">
+                <text>light that shines in unwanted places</text>
+            </label>
+            <label key="3b0e726e505675c49612412e292ae48e">
+                <text>Clutter</text>
+            </label>
+            <label key="90d6502bf0e4b08903d2e4d459adf614">
+                <text>several sources of light that cause a distraction</text>
+            </label>
+            <label key="fd94ed9cba0ff1f3d940a53da7dbf805">
+                <text>Over lighting</text>
+            </label>
+            <label key="cc5de1199c4a2449cbf701912d812c77">
+                <text>excessive use of light</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae80363a0e260573bb/passage NEW 1.xml">
+            <label key="1814957b0cb063a06764f7817c1c8876">
+                <text>Light at Night</text>
+            </label>
+            <label key="518e76e623dbef35b43b1bc11e3ad23f">
+                <text>The light pollution problem is viewed differently among lighting professionals.</text>
+            </label>
+            <label key="9c90142967af5afc444efa569f62c310">
+                <text>Lighting specialists are professionals who supply, install and design lighting systems.</text>
+            </label>
+            <label key="4971b4b2be79dfb513d167b0ceeb9d70">
+                <text>Light pollution experts are professionals who have studied environmental science or astronomy.</text>
+            </label>
+            <label key="1ccfeb42ae94b3495c75ebf6b8f54158">
+                <text>The opinions from these two groups of professionals were collected using an open access online survey.</text>
+            </label>
+            <label key="8a1f75f86e86c34944302248cb1294fd">
+                <text>Participants accessed the survey via email invitations, online posts and through connections at their workplace.</text>
+            </label>
+            <label key="989faf9a5a09c6f3ffd45fd8ddd40e2d">
+                <text>The survey was circulated around the world but was only available in English.</text>
+            </label>
+            <label key="4cb4d547ecd9541de8890cec911dfb0f">
+                <text>A total of 205 responses were collected.</text>
+            </label>
+            <label key="bd1c6824f52e53b03448a61084210f48">
+                <text>The data was organised according to the profession of the respondent.</text>
+            </label>
+            <label key="cb4470f1c1b90e8c7a6befe6fe2ead19">
+                <text>The graph below shows the percentage of respondents who agreed with a suggestion about how light pollution should be reduced.</text>
+            </label>
+            <label key="5ef9ede791628c2b17e9e502347693b1">
+                <text>
+                    <strong>How should light pollution be reduced?</strong>
+                </text>
+            </label>
+            <label key="889796b40e93f81a32a97bf99327aa03">
+                <text>Promotes best practice lighting projects, e.g. in municipalities</text>
+            </label>
+            <label key="a2c666d74590c291077c35681dd995c6">
+                <text>Educate light planners and lighting designers</text>
+            </label>
+            <label key="9d78b05560b3ae1029a48d566f379713">
+                <text>Apply more adequate technology</text>
+            </label>
+            <label key="1647a7f596b830dc2a9d3c95c9f46297">
+                <text>Allow more people to experience naturally dark nights</text>
+            </label>
+            <label key="2ee4897d8e583170b15f4e9ec763b1b8">
+                <text>Create binding regulations and legal frameworks</text>
+            </label>
+            <label key="4c5bc0864ba533476691edbe3a6d9d19">
+                <text>Lighting professional</text>
+            </label>
+            <label key="4c9f37421afc549d79319035d316ab65">
+                <text>Lighting pollution experts</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a0e38e52eb027860c878c63d1718268a">
+            <label key="af37244571fc1f4211b379959321e570">
+                <text>Use the explanations in the table to identify which of the following are examples of light pollution.</text>
+            </label>
+            <label key="7c29430bcbaba1ad2283629f1e703e08">
+                <text>Select ‘Light pollution’ or ‘Not light pollution’ for each example.</text>
+            </label>
+            <label key="d642292e2f4b424e570012c6add73a99">
+                <text>
+                    <strong>Light pollution</strong>
+                </text>
+            </label>
+            <label key="ade66a7324013438ef334df000a11498">
+                <text>
+                    <strong>Not light pollution</strong>
+                </text>
+            </label>
+            <label key="62916d257869768152b2969079f5a77c">
+                <text>Moonlight preventing the observation of the stars</text>
+            </label>
+            <label key="e431c27ed004cfd6918203782e9ee8cd">
+                <text>Safety light illuminating an alleyway at night</text>
+            </label>
+            <label key="b229c203bf07146deb394c4088bb7e5f">
+                <text>Street lights shining through a bedroom window</text>
+            </label>
+            <label key="cddcde17fe4249e5ab15d65d610b7221">
+                <text>Advertising lights on the exterior of city buildings</text>
+            </label>
+        </item>
+        <item id="i63a0e3aa0acd327870407beedf860668c8">
+            <label key="26ac3df8ce55b9fae5d0a5d5e3304973">
+                <text>Which one of the following is an individual action that would help to reduce light pollution immediately?</text>
+            </label>
+            <label key="14ab19d23bad0b1b48bace02b208ca44">
+                <text>using motion sensors to turn on lights</text>
+            </label>
+            <label key="faf623af841bf3e600ea98c82d0f586b">
+                <text>introducing lighting guidelines for new housing developments</text>
+            </label>
+            <label key="95a9fb79a74029a1a9406853a062dac6">
+                <text>signing international agreements on reducing light pollution</text>
+            </label>
+            <label key="0c1e22f63e33a2af55d58be5a21e00df">
+                <text>designing low-glare lights</text>
+            </label>
+        </item>
+        <item id="i63a0e3db4c9d35972416ee3f934c927550">
+            <label key="adc06fca33d3048c90f3213b7cb06557">
+                <text>A decision is made to reduce light pollution in one city. All advertising lights and all lighting in industrial areas will be turned off between 11 pm and 4 am.</text>
+            </label>
+            <label key="208a493a0b9310fa2be461768e9c26c5">
+                <text>Which of these statements describe likely benefits of this action?</text>
+            </label>
+            <label key="f1363db6fa54140a0a8f5b39e7a9186e">
+                <text>Select all correct anwsers.</text>
+            </label>
+            <label key="1b30bb8a408134471347a563193969e2">
+                <text>Structural changes to existing buildings are not needed for this action.</text>
+            </label>
+            <label key="6ef7858d543150887fabdfe0c61381a1">
+                <text>There are no safety risks.</text>
+            </label>
+            <label key="9776b97fb7be0b0e557dbbe5bdc289b8">
+                <text>Migrating insects that are attracted to lights will be more likely to follow their migration paths.</text>
+            </label>
+            <label key="a1aaa63aa9cce34947e4c2b772373a56">
+                <text>There is no economic impact.</text>
+            </label>
+            <label key="e9b8c5d3d884ea232cedc93cea30c8b3">
+                <text>It will reduce skyglow, light trespass and glare.</text>
+            </label>
+        </item>
+        <item id="i63a0e3debb00c59737fdb26e2fe1ce42df">
+            <label key="c6fb504b506f0fc36a617595e15741cf">
+                <text>According to the graph, for which suggestion does the profession of the respondent have the greatest influence on their opinion?</text>
+            </label>
+            <label key="c3c379fa9b185338a6f7c0b9185fcd5f">
+                <text>Promote best-practice lighting projects, e.g. in municipalities.</text>
+            </label>
+            <label key="425910a38c0abb3b5b45fcc2e4e2db5b">
+                <text>Educate light planners and lighting designers.</text>
+            </label>
+            <label key="20b2630cfa424e76a46b12cf35cb6bbe">
+                <text>Apply better technology.</text>
+            </label>
+            <label key="fcd3c375a06eda0312133baf07e9929e">
+                <text>Allow more people to experience naturally dark nights.</text>
+            </label>
+            <label key="cde1b6e14f98e0c4b8e5e343f5e02d80">
+                <text>Create binding regulations and legal frameworks.</text>
+            </label>
+        </item>
+        <item id="i63a0e411dae26597717378efa2628c8fc5">
+            <label key="08f530bb348c8920fd2ee66fed9fb62d">
+                <text>Are the results of the survey likely to be a true reflection of the opinion of <strong>all</strong> lighting specialists and light pollution experts?</text>
+            </label>
+            <label key="0c39772d66cfb79fa1500e52cad38065">
+                <text>Select either ‘Yes’ or ‘No’.</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+    </items>
+</file>

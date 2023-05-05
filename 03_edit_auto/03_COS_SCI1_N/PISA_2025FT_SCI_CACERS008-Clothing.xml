@@ -1,0 +1,74 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6332912f71098/passage NEW.xml">
+            <label key="efe0bd2c212eceec598c42a15b8cd07f">
+                <text>Clothing</text>
+            </label>
+            <label key="dbb71b84cfe07a21f4611bb9ec6f2281">
+                <text>This is a jacket that is made from different types of materials.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63329274450c916297301255eeb3fadb3">
+            <label key="032f8f307037cd5a27dfdfe20ca5a9e0">
+                <text>Jo wears a jacket when the weather is cold.</text>
+            </label>
+            <label key="f8e5ed10584660ef6f11a02becb13517">
+                <text>What is the main purpose of the insulation in the jacket on a cold day?</text>
+            </label>
+            <label key="7b40b9d89eff80e093fd402a7454ec94">
+                <text>to keep Jo dry</text>
+            </label>
+            <label key="e8d8c0aa4764b07e4c9054863b269f7d">
+                <text>to help absorb warmth from the Sun</text>
+            </label>
+            <label key="b3676e64b1b119c5a8959091c9211a1e">
+                <text>to slow the warm air from leaving the jacket</text>
+            </label>
+            <label key="068463cac82bf2d43e285d132eeb6466">
+                <text>to slow the cold air from entering the jacket</text>
+            </label>
+        </item>
+        <item id="i63329567811701927b88a2cf1ce41c21d">
+            <label key="7d3cbf4849fb0ab3c8a27446fcb56485">
+                <text>Jo wants to find out how well the jacket keeps water out when it rains.</text>
+            </label>
+            <label key="1bff4f002b0847cd8b8f9ad262509813">
+                <text>How can Jo test how waterproof the jacket will be in rain?</text>
+            </label>
+            <label key="1d1bb6c36c76fb9fb3b4b76523ed95e2">
+                <text>Leave the jacket outside on a cloudy day.<div><br/><img src="assets/df5c562263bf775054c91.svg" alt="CACERS008Q02_clothing_A.svg" width="32%" type="image/svg+xml"/>‌‌</div></text>
+            </label>
+            <label key="2a62c284436fa789772c24b503257ef4">
+                <text>Soak the jacket in a tub of water.<div><br/><img src="assets/48f441f963bf774f8b027.svg" alt="CACERS008Q02_clothing_B.svg" width="31%" type="image/svg+xml"/>‌‌</div></text>
+            </label>
+            <label key="eb819d9a272cbe2e6e11efc609f298dd">
+                <text>Wipe the jacket with a wet cloth.<div><img src="assets/c5934cb063bf774f8bc9b.svg" alt="CACERS008Q02_clothing_C.svg" width="21%" type="image/svg+xml"/>‌‌</div></text>
+            </label>
+            <label key="5ca7380fe63f6efad9209fc3a3dff463">
+                <text>Spray the jacket with water.<div><img src="assets/d1b8af4b63bf774f84705.svg" alt="CACERS008Q02_clothing_D.svg" width="16%" type="image/svg+xml"/>‌‌</div></text>
+            </label>
+        </item>
+        <item id="i6332986f201e115573abfda3b96b65b38b">
+            <label key="634aa47c447f554885f935c1f314daac">
+                <text>The thick insulation layer of Jo’s jacket has many fibres.</text>
+            </label>
+            <label key="76ff0afa13e075547552e1012c37027b">
+                <text>How does the insulation layer help to keep Jo warm?</text>
+            </label>
+            <label key="489e101e7e83143d2c5a9707ddaa4573">
+                <text>The fibres allow warm air out and cool air in.</text>
+            </label>
+            <label key="87080c88599884a1f7c5e05408d4ce27">
+                <text>The fibres create heat by rubbing against the fabric layer.</text>
+            </label>
+            <label key="05ca3abcf8f9130bf79642ca58c5f5c0">
+                <text>The fibres reflect cold away from Jo’s body. </text>
+            </label>
+            <label key="8842805265f8fe8a797f8df46a8557ce">
+                <text>The fibres slow heat movement by trapping air.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,136 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6398f301c68b8/passage NEW.xml">
+            <label key="461e2bcd060bb5463bb381b29e4e2763">
+                <text>Crab Traps</text>
+            </label>
+            <label key="ae94aa2bfb426e18044cf415e0fa95e0">
+                <text>Crabs are crustaceans that are a popular food source. They are caught in wire traps that lie on the ocean floor. </text>
+            </label>
+            <label key="20ae0a19069ccaa99123bad47bece110">
+                <text>A rope attaches each trap to a buoy that floats on the surface of the water so that the trap can be collected.</text>
+            </label>
+            <label key="0bf4eff4f14e174aebd1b51fd35676b7">
+                <text>Crab traps can be lost when boats break the ropes that attach the traps to the buoys. Lost traps remain on the ocean floor and can continue to trap small sea animals.</text>
+            </label>
+            <label key="e69466fae6cee76541831993d405ac5d">
+                <text>Researchers have designed an escape panel for crab traps, which is made from a biodegradable material. </text>
+            </label>
+            <label key="08a56ab7e975885f3c00457eb550a8a8">
+                <text>After 10 months in the water, the escape panel completely dissolves. This creates a wide opening that allows small sea animals to enter and exit the traps.</text>
+            </label>
+            <label key="379e86ff8a80f711680f9fb5d4b9560e">
+                <text>rope</text>
+            </label>
+            <label key="5d2d294bdae82ddd13cc1f3b643ae30c">
+                <text>escape panel</text>
+            </label>
+            <label key="24e47dac7d86e5603215c7587f95acb0">
+                <text>mussels</text>
+            </label>
+            <label key="f8654bda8e009a7a3ba66b2e9e18c937">
+                <text>Crabs and small sea animals get trapped</text>
+            </label>
+            <label key="f95d712d2f29365c74d412f605c95e9b">
+                <text>Escape panel starts to dissolve</text>
+            </label>
+            <label key="f9e2139da490e712f6d3b0482384924e">
+                <text>Crabs and small sea animals can enter and exit the trap</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6398f3849d3ce27250fce68b17e5f9773">
+            <label key="eaeb797e8285677e089947f59f3c739d">
+                <text>Are these features an advantage to the design of the escape panel for a crab trap?</text>
+            </label>
+            <label key="f597e4437e4320c9d3fdb1b579601fce">
+                <text>Select ‘Yes’ or ‘No’ for each feature.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>Yes</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>No</strong>
+                </text>
+            </label>
+            <label key="392c3e9a47b9dd3c948578a4da0bbf65">
+                <text>The escape panel does not produce toxic materials when it dissolves.</text>
+            </label>
+            <label key="3c5cf9515585ccc8678b89aa62176ebb">
+                <text>The escape panel adds to the cost of the crab traps.</text>
+            </label>
+            <label key="223a5d40f22cc9bb0931537463ad2aed">
+                <text>The escape panel does not interfere with the number of crabs that fishers can collect.</text>
+            </label>
+            <label key="b879f4ab08a9096adc096fedd9287adc">
+                <text>The escape panel dissolves within a year of the trap being lost in the ocean.</text>
+            </label>
+        </item>
+        <item id="i6398f3a4258b32722a388eea584133c8d">
+            <label key="1ff98649c7c3f75b4102032b156a8d07">
+                <text>The crab traps that are currently used have a metal opening.</text>
+            </label>
+            <label key="178f2e5247394b3a2184932a2642fa24">
+                <text>The crab fishing industry wants to know if the crab traps with escape panels work as well as the current crab traps.</text>
+            </label>
+            <label key="1528a9eddddac73e98f65f837820a701">
+                <text>Which one of the following experimental methods would best compare the function of the two types of crab traps?</text>
+            </label>
+            <label key="34397578e3c7de9d1e21bafd5371625c">
+                <text>Place both types of crab traps next to each other in areas where crabs have been caught before. </text>
+            </label>
+            <label key="184eecbdbedbb7e22a654ce6912095ea">
+                <text>Monitor how many crabs are caught in each trap.</text>
+            </label>
+            <label key="2b51cfefee655613505dbc387daf33e8">
+                <text>Place crab traps with escape panels in a number of locations in the ocean. </text>
+            </label>
+            <label key="7d2fbbb0f842e4676285fd032faf0101">
+                <text>Monitor how many crabs are caught in the traps at each location.</text>
+            </label>
+            <label key="bc2480e4a843271d970226efc4aaab5e">
+                <text>Replace the current crab traps with the new crab traps. </text>
+            </label>
+            <label key="cfc50eb2ca60d5a8d731bea83b5f3ad3">
+                <text>Place the current crab traps in one study area and the new crab traps in a different study area. </text>
+            </label>
+        </item>
+        <item id="i6398f3b25a81b27245f7a898022d4afe5">
+            <label key="1fe61b24af6de3a025e32d551682380b">
+                <text>Crab traps can cause many problems.</text>
+            </label>
+            <label key="413af6b6233cf9a4c6615493d1003a9f">
+                <text>Which of the following problems could be solved by using crab traps with escape panels?</text>
+            </label>
+            <label key="a8c38cd5723dd799a00d4ac84d71561e">
+                <text>Select ‘Yes’ or ‘No’ for each statement.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>Yes</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>No</strong>
+                </text>
+            </label>
+            <label key="68859817555889ca6b58d779643c84b0">
+                <text>The traps catch other types of small sea animals, not just crabs.</text>
+            </label>
+            <label key="f0e32f72f2220485c1e57438294a71fd">
+                <text>Some small sea animals attach to the outside of the traps to grow.</text>
+            </label>
+            <label key="3295601e5820b51b49eadcb59a323dcf">
+                <text>Some crabs and small sea animals die in lost traps. </text>
+            </label>
+            <label key="83b1f82abfdcd75a8f194955df5d33f2">
+                <text>Lost traps continue to trap sea animals until the wire rusts away. </text>
+            </label>
+        </item>
+    </items>
+</file>

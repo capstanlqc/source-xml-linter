@@ -1,0 +1,146 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc633172e600540/passage NEW.xml">
+            <label key="1a6e1674dd0c18643c51f7f7fea111fc">
+                <text>Oyster Shells</text>
+            </label>
+            <label key="36de0fd460a0c93ba1c167122f8d4edf">
+                <text>Oysters are molluscs that live in the sea. Adult oysters have a hard shell in which they live.</text>
+            </label>
+            <label key="55af037382be34c3dc672ac0891e87e9">
+                <text>They are a popular type of seafood in some countries.</text>
+            </label>
+            <label key="ae3cacfd6be4e61d38bad6b9aa15c341">
+                <text>This diagram shows some information about the life cycle of oysters.</text>
+            </label>
+            <label key="2be3dbe627cacdde92e8597a46009342">
+                <text><strong>Step 1.</strong> Adult oysters are attached to rocks. Adult oysters live for five years.</text>
+            </label>
+            <label key="585afd88cce860ed194a4eced247f124">
+                <text><strong>Step 2.</strong> Sperm and eggs are released once a year. Sperm and eggs are released for two months. Fertilsation occurs.</text>
+            </label>
+            <label key="64b8a8ea560bc7e850a5db4918366c70">
+                <text><strong>Step 3.</strong> Larvae are produced. Larvae move about and feed in the sea. Larvae start to grow their shells.</text>
+            </label>
+            <label key="0d8492f39eb238d3e678289bd621d7c1">
+                <text><strong>Step 4.</strong> Larvae attach to rocks and continue to grow. They become adults three years after attaching to a rock.</text>
+            </label>
+            <label key="02de3da0fe489dc79c7a8a8ce48f979d">
+                <text>CACERS015S1_oyster-shells_1.svg</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae803633177c484c74/passage NEW 1.xml">
+            <label key="1a6e1674dd0c18643c51f7f7fea111fc">
+                <text>Oyster Shells</text>
+            </label>
+            <label key="f64768b2b74026288eb97d1b912c0cc9">
+                <text>Oysters can be grown by oyster farmers. The farmers buy oyster larvae and grow them in large tanks filled with seawater. The seawater is pumped into the tank from the nearby ocean.</text>
+            </label>
+            <label key="48847de0cde9b4f78ff3963eb6b32966">
+                <text>
+                    <strong>‌large tanks for growing oysters‌</strong>
+                </text>
+            </label>
+            <label key="891db79e8d78e022c2fe0018a48783f6">
+                <text>
+                    
+                    <strong>‌American Eel grass growing in the ocean‌</strong>
+                </text>
+            </label>
+            <label key="2b3cda091dcb85b73f2f90f072c8db41">
+                <text>The farmers found that high levels of dissolved carbon dioxide in seawater were linked to weak shells in oysters.</text>
+            </label>
+            <label key="dd17d2f299cd0ee5fd1c765d78d767a0">
+                <text>To try to solve this problem, the farmers added American Eel grass to the tanks.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633174c4b6ced169305347574e94bd083">
+            <label key="734b58c90f04a6eea63a38fe05615870">
+                <text>Look at Step 4.</text>
+            </label>
+            <label key="d1cabf65be17da084996f9e34e213e25">
+                <text>How long does it take for larvae to grow and become adult oysters?</text>
+            </label>
+            <label key="e8e5c08a1f1cc07b8bcc1523bc20eabc">
+                <text>two months</text>
+            </label>
+            <label key="377ae60a5dcbce524642a80baef3f746">
+                <text>one year</text>
+            </label>
+            <label key="3f613dbb7b77219c9318be1d6e6ae3e8">
+                <text>three years</text>
+            </label>
+            <label key="a596935ec14d962c52aff6d8a6bc55fe">
+                <text>five years</text>
+            </label>
+        </item>
+        <item id="i633174c8463381935905b5ec85f63c0e02">
+            <label key="0fd47f2c8af71a95233d7e2ee2db3548">
+                <text>The larvae have hair-like structures called cilia.</text>
+            </label>
+            <label key="fda7058147dd879660e2164a1ea2996d">
+                <text>Adult oysters do not have cilia on the outside of their bodies.</text>
+            </label>
+            <label key="1cc66da6a5ae11d9fa3680bde9c7641a">
+                <text>What is the likely function of cilia in larvae?</text>
+            </label>
+            <label key="5661101b5502f4c7c42e0835f7d983d6">
+                <text>to attach to a rock</text>
+            </label>
+            <label key="ecf42c401dbcfdec61ae4f0ef41de199">
+                <text>to attract a mate</text>
+            </label>
+            <label key="60185cba4b6dc1008cfd27882174ea40">
+                <text>to release eggs and sperm</text>
+            </label>
+            <label key="553d4798dd417873869b815733a604a8">
+                <text>to swim in the sea</text>
+            </label>
+            <label key="7e01e9e134c3a2bd774c9d9579148cb3">
+                <text>CACERS015Q02_oyster-shells.svg</text>
+            </label>
+        </item>
+        <item id="i633174cc5663813964ef5b877dbae98aa">
+            <label key="2a47957204c544fda058ee87ad2b37a6">
+                <text>Oysters need carbonate to make their shells.</text>
+            </label>
+            <label key="fe28a96cb068bf0931693063231a55cf">
+                <text>Some environmental changes have led to a decrease in the amount of carbonate in seawater.</text>
+            </label>
+            <label key="e36b569085591a5b794122cc1468de74">
+                <text>In which life-cycle step will decreased carbonate first affect the growth of the oysters?</text>
+            </label>
+            <label key="6f4a225b29c0975663d0e4b9e1f4547f">
+                <text>Step 1</text>
+            </label>
+            <label key="e31ad1284b7618a9c10777ed99b12e64">
+                <text>Step 2</text>
+            </label>
+            <label key="2d5ce426423eeeead4f35769cd8b1b27">
+                <text>Step 3</text>
+            </label>
+            <label key="7882a4b556b6996eaf604413a9e602d9">
+                <text>Step 4</text>
+            </label>
+        </item>
+        <item id="i633174cecc76e2067454ca352dca627821">
+            <label key="ea26443fd12c6aa53b66421ab8f6c51e">
+                <text>What should the farmers do to test if adding American Eel grass improves shell strength in oysters?</text>
+            </label>
+            <label key="fbc73e62fe92cfd409584e3b7720da8c">
+                <text>Repeat the experiment with another type of sea grass.</text>
+            </label>
+            <label key="c376fbcfed73d2e49eaa7012aad4e893">
+                <text>Remove the carbon dioxide from the water.</text>
+            </label>
+            <label key="aaa47de03bd21d5ead0526e04d5b398f">
+                <text>Compare the strength of oyster shells in water with and without the American Eel grass.</text>
+            </label>
+            <label key="d6280b4472425d2e51083dac87742e38">
+                <text>Observe how well oysters grow in water with the American Eel grass.</text>
+            </label>
+        </item>
+    </items>
+</file>

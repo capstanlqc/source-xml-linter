@@ -1,0 +1,132 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6355edc102f28/passage NEW.xml">
+            <label key="e1b62ec8dd135e40e3a0842b3ea645f7">
+                <text>Efficacy of Face Masks</text>
+            </label>
+            <label key="44f12dbf10c5b3b7e01d5a219bda4b24">
+                <text>This graph is from a scientific article and was carefully checked for accuracy and validity. It shows how the spread of a respiratory virus, such as influenza, can be affected by:</text>
+            </label>
+            <label key="1e7bfd7d777af2eb129c87cddbec065e">
+                <text>the percentage of the public who wear masks (adherence)</text>
+            </label>
+            <label key="cec19722984b7472cea77423063a710f">
+                <text>how well masks block the virus (efficacy).</text>
+            </label>
+            <label key="729676344f049f44e93b9ec5bcb7dd5e">
+                <text>
+                    <strong>The resulting reproduction number, <em>R</em>ₑ, is the average number of people who will contract a contagious disease from one person with that disease.</strong>
+                </text>
+            </label>
+            <label key="04284a15a43f01b851069904f354c767">
+                <text>The spread of a respiratory virus eventually stops if the value of <em>R</em>ₑ is less than 1. That means, on average, each infected person infects less than one other person.</text>
+            </label>
+            <label key="74be375aa04773ba8517c6801c333504">
+                <text>More people wear masks</text>
+            </label>
+            <label key="59ecd7e9e7848fa0440cbdb5180b2168">
+                <text><strong>Adherence:</strong><br/>Percentage of the public who wears masks</text>
+            </label>
+            <label key="27224bdd467832062cb4e600aebf6168">
+                <text>Fewer people wear masks</text>
+            </label>
+            <label key="5e3cdf452375612e55f27b67f59cd4bb">
+                <text>Mask blocks less virus particles</text>
+            </label>
+            <label key="feaa6b99ccc0a2f2ad7f8d05447ea40b">
+                <text><strong>Efficacy:</strong><br/>How well the mask blocks the virus</text>
+            </label>
+            <label key="dfcc52273a2d6641f4d3226e6319cff2">
+                <text>Mask blocks more virus particles</text>
+            </label>
+            <label key="c1e44a0fbc607884bd16cb7f924b22e8">
+                <text>
+                    <strong>‌Rₑ = 1 ‌</strong>
+                </text>
+            </label>
+            <label key="80227d9d196a2cd29ae0f6456d1a7a75">
+                <text>Rₑ = 1.5</text>
+            </label>
+            <label key="fb04f3ad45abd1947bd07445ca6b2ff6">
+                <text>Rₑ = 2</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6355ef2a65e5d228253cb4fa316e2cf21">
+            <label key="c294ea388d65207961df5d3dfeb4040c">
+                <text>Which of the following regions of the graph correspond to conditions that would stop the spread of a respiratory virus?</text>
+            </label>
+            <label key="93754e7694b91e450fe5886817d4497a">
+                <text>Select all correct answers. </text>
+            </label>
+            <label key="7736f1380ec284d6d1b3ac2fd1532a38">
+                <text>
+                    <strong>‌I‌</strong>
+                </text>
+            </label>
+            <label key="997115a2bbc77629d6d15034b93c7d13">
+                <text>
+                    <strong>‌II‌</strong>
+                </text>
+            </label>
+            <label key="736df6db203600a4ce4f81e676d79d4a">
+                <text>
+                    <strong>‌III‌</strong>
+                </text>
+            </label>
+            <label key="537e4a786664148cfe1f7def536c3116">
+                <text>
+                    <strong>‌IV‌</strong>
+                </text>
+            </label>
+            <label key="2dac22933d4b3ccaf7ee79b4f9fc5927">
+                <text>
+                    <strong>‌V‌</strong>
+                </text>
+            </label>
+            <label key="3987906f920524d6a5ab430b038cdd58">
+                <text>
+                    <strong>‌VI‌</strong>
+                </text>
+            </label>
+        </item>
+        <item id="i6355efc920a161990cf3d099dddcc6ab5">
+            <label key="10f851b884d95df352597530e3ffb96c">
+                <text>Consider the situation where there is a shortage of high-quality face masks (90–100% efficacy).<div></div><div>According to the data presented on the right, would lower quality masks (60% efficacy) contain the disease?</div></text>
+            </label>
+            <label key="146acc4e1d0cb6ef3b8172f382df6421">
+                <text>Yes, under the condition that at least 80% of the population will use them.</text>
+            </label>
+            <label key="eb63e6f5726f4e3eb728b90954e4232e">
+                <text>Yes, because an efficacy of 60% means that <em>R</em>ₑ is less than 1.</text>
+            </label>
+            <label key="354bf408ac6baaeaa4a51d7f6229d031">
+                <text>No, because these masks block only half of the virus particles.</text>
+            </label>
+            <label key="84608f09e36d7d40ce90919d286f5d84">
+                <text>No, because not enough people would wear them.</text>
+            </label>
+        </item>
+        <item id="i6355f2e52b071176312e9cb62ce6c96e89">
+            <label key="507ae2da86c513956d71d6d4155512aa">
+                <text>In one country, authorities encouraged the use of masks by distributing free FFP2 masks. These masks have an efficacy of 95%.</text>
+            </label>
+            <label key="2e24933ad4adcff683608b45e947aebb">
+                <text>This intervention resulted in 45% of the population wearing FFP2 masks during a respiratory virus outbreak.</text>
+            </label>
+            <label key="a4732721abb01a18fb081354ef20f9bd">
+                <text>Based on the data in the graph on the right, would this intervention be enough to stop the spread of the respiratory virus?</text>
+            </label>
+            <label key="a6105c0a611b41b08f1209506350279e">
+                <text>yes</text>
+            </label>
+            <label key="7fa3b767c460b54a2be4d49030b349c7">
+                <text>no</text>
+            </label>
+            <label key="de03d051471bf1872104f26fc81d6982">
+                <text>Give a reason for your answer.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,163 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638589d382234/passage NEW.xml">
+            <label key="6cf6651fa2bff0fd7e6a69f9ac37f6b5">
+                <text>Tide movement</text>
+            </label>
+            <label key="fe2a8104a0b5bd6e85cf1a0929f5c17b">
+                <text>Tides are the periodic rise and fall of the sea surface.</text>
+            </label>
+            <label key="809b6b43bc9c2733be09400f4e8407f8">
+                <text>The sea surface is at its greatest height at high tide, and at its lowest height at low tide. At low tide, much more of the coast is exposed.</text>
+            </label>
+            <label key="f4a7688ddb5ff1e3fa3b43bdb2e04616">
+                <text>In some areas, the difference between high and low tide is much greater than in others. This difference is dependent on factors such as the shape of the coastline and the strength of the wind.</text>
+            </label>
+            <label key="f156d680557a3972ef43c8c25955ab9e">
+                <text>The two images show high tide and low tide at a rocky coastal area in Aotearoa New Zealand.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63858ab8d5b3322049d4cab98a2aeb542">
+            <label key="64de4e281ccc94a6217a73b7fe647972">
+                <text>What force causes tides?</text>
+            </label>
+            <label key="67f2a835697e7c9c2c5146c76eca6038">
+                <text>gravity</text>
+            </label>
+            <label key="22354ce144c7e1834dbc69848e79906b">
+                <text>friction</text>
+            </label>
+            <label key="31f4dd8fc1368e773c6e2adb906286d8">
+                <text>magnetism</text>
+            </label>
+            <label key="8b589713500bc6a29bc2bfeebe56c075">
+                <text>electrical force</text>
+            </label>
+        </item>
+        <item id="i63858ad0ac84f220626631aac3e558486">
+            <label key="e6ee80565fdd48717596889692ad0b39">
+                <text>Kaikoura is on the South Island of Aotearoa New Zealand. The graph below shows the tide movement at one location in Kaikoura over 2 days.</text>
+            </label>
+            <label key="e1f14cd3600da645191fd8825964156d">
+                <text>At what time did the tide reach its highest level on Sunday 5 October?</text>
+            </label>
+            <label key="d441eb1382cb7193b1d38ca9593d349f">
+                <text>6 am</text>
+            </label>
+            <label key="b3a260f7f7a944e5f49719e1a6e2acf5">
+                <text>12 pm</text>
+            </label>
+            <label key="0f2c0d7225360aaaa08440dace4b2311">
+                <text>2 pm</text>
+            </label>
+            <label key="58667199039cb18c21af38b353dafd07">
+                <text>9 pm</text>
+            </label>
+            <label key="e75cf88be64aabb1322d33a41792e195">
+                <text>
+                    <strong>Kaikoura Tide Movement</strong>
+                </text>
+            </label>
+            <label key="13c85e1bcc4dbe177175e31977913eb9">
+                <text>
+                    <strong>Sunday 5 Oct</strong>
+                </text>
+            </label>
+            <label key="182f1de7322c7657981db32a72d5a4a8">
+                <text>
+                    <strong>Monday 6 Oct</strong>
+                </text>
+            </label>
+            <label key="c9cc8f0ac42d807dbd8e0338faea7d6a">
+                <text>12 am<br/>3<br/>6<br/>9<br/>12 pm<br/>3<br/>6<br/>9 pm</text>
+            </label>
+            <label key="1b6d25e8359429741181fe05bab7b8b3">
+                <text>Height above average low tide (metres)<br/>3<br/>2<br/>1<br/>0</text>
+            </label>
+        </item>
+        <item id="i63858adaa8f282511a41272b0faa2583c">
+            <label key="f83b75334c9e248d23c572dc0f2a5f2e">
+                <text>Kaikoura is on the South Island of  Aotearoa New Zealand. The graph below shows the tide movement at Kaikoura over 2 days.</text>
+            </label>
+            <label key="f0d425b0a07aa79696d893fe2637c12e">
+                <text>Approximately how many hours were there between the first high tide and the first low tide on Monday 6 October?</text>
+            </label>
+            <label key="6e9461ab087b8bcd886e3061ee588e83">
+                <text>3 hours</text>
+            </label>
+            <label key="88f1efb29dc20c4b7c6ae2653b3f778c">
+                <text>6 hours</text>
+            </label>
+            <label key="80daff19c279591fd6ab81b7bd9ce98f">
+                <text>9 hours</text>
+            </label>
+            <label key="a32d6f77b4cd387776263c94eaaa52ff">
+                <text>12 hours</text>
+            </label>
+            <label key="e75cf88be64aabb1322d33a41792e195">
+                <text>
+                    <strong>Kaikoura Tide Movement</strong>
+                </text>
+            </label>
+            <label key="13c85e1bcc4dbe177175e31977913eb9">
+                <text>
+                    <strong>Sunday 5 Oct</strong>
+                </text>
+            </label>
+            <label key="182f1de7322c7657981db32a72d5a4a8">
+                <text>
+                    <strong>Monday 6 Oct</strong>
+                </text>
+            </label>
+            <label key="c9cc8f0ac42d807dbd8e0338faea7d6a">
+                <text>12 am<br/>3<br/>6<br/>9<br/>12 pm<br/>3<br/>6<br/>9 pm</text>
+            </label>
+            <label key="1b6d25e8359429741181fe05bab7b8b3">
+                <text>Height above average low tide (metres)<br/>3<br/>2<br/>1<br/>0</text>
+            </label>
+        </item>
+        <item id="i63858ae40cf1a241591dbdde7eab310f3b">
+            <label key="a06e0031c9c271b974e3d4a6a9bc28a1">
+                <text>Kaikoura is on the South Island of New Zealand. The graph below shows the tide movement at Kaikoura over 2 days.</text>
+            </label>
+            <label key="e71cf3407e6ce758595a22cda3e29256">
+                <text> What is the best estimate of the time of the first high tide on Tuesday October 7?</text>
+            </label>
+            <label key="27bd58d69d827e76fb2bfe23748a9db4">
+                <text>about 12 am</text>
+            </label>
+            <label key="9d53cc6da286ac6f70676c5d9bb16d9e">
+                <text>about 3 am</text>
+            </label>
+            <label key="1249a1768bd5bcb6e0bcef980254f043">
+                <text>about 5 am</text>
+            </label>
+            <label key="4cc4dc53720d40ed4706864ddd61d4a4">
+                <text>about 8 am</text>
+            </label>
+            <label key="e75cf88be64aabb1322d33a41792e195">
+                <text>
+                    <strong>Kaikoura Tide Movement</strong>
+                </text>
+            </label>
+            <label key="13c85e1bcc4dbe177175e31977913eb9">
+                <text>
+                    <strong>Sunday 5 Oct</strong>
+                </text>
+            </label>
+            <label key="182f1de7322c7657981db32a72d5a4a8">
+                <text>
+                    <strong>Monday 6 Oct</strong>
+                </text>
+            </label>
+            <label key="c9cc8f0ac42d807dbd8e0338faea7d6a">
+                <text>12 am<br/>3<br/>6<br/>9<br/>12 pm<br/>3<br/>6<br/>9 pm</text>
+            </label>
+            <label key="86553a2ef25be20d3c3569055de9111a">
+                <text>Metres<br/>3<br/>2<br/>1<br/>0</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,160 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638d5d4f42627/passage NEW.xml">
+            <label key="66a0165fd2e5c1ceff5957e553060bc8">
+                <text>Bin-Opening Cockatoos</text>
+            </label>
+            <label key="b59cf31e9d825c7fd81ac7f1b67c8637">
+                <text>One species of cockatoo, a type of bird native to Australia, often opens outdoor rubbish bins to access food scraps.</text>
+            </label>
+            <label key="29c788929ad8673e2668534819df1ad8">
+                <text>People often find new methods to prevent the cockatoos from opening the bins, and they share these methods with other people.</text>
+            </label>
+            <label key="0db9a7cbcf0c015b4b788d7f7bd4a16d">
+                <text>However, it usually does not take long before some cockatoos discover how to open the bins again. If these cockatoos are observed by other cockatoos, the observers soon begin to use the same methods to open bins.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/0e8a0c0b639924bf94555/passage NEW 8.xml">
+            <label key="82536cc500f61e19313d5e8053c98a08">
+                <text>Plastic snake on bin</text>
+            </label>
+            <label key="10b9d6023f41fe01ee9f37c6b4e01454">
+                <text>Brick on bin</text>
+            </label>
+            <label key="eee6010c14ed768254cb8087d4686e39">
+                <text>Full water bottles attached to bin</text>
+            </label>
+            <label key="f4460db4fc00b34381658c507f733dd3">
+                <text>Shoes in bin hinge</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638d5f331f8572220c6a0eee5a4447654">
+            <label key="c07f0fc25152c228f5340be92cf028a3">
+                <text>A learned behaviour is one that an organism develops through experience.</text>
+            </label>
+            <label key="58348039eead30857a74ed2ea800ec01">
+                <text>In the situation described on the right, which of cockatoos and humans show <strong>learned</strong> behaviours?</text>
+            </label>
+            <label key="8dde3baf854f799316a8b3f838f4f775">
+                <text>only cockatoos</text>
+            </label>
+            <label key="364eb50ff35e55e591b9fcf66cb72a6b">
+                <text>only humans</text>
+            </label>
+            <label key="1df715db76f1128f30202b687642b259">
+                <text>cockatoos and humans</text>
+            </label>
+            <label key="d69374ebd21d9923aec0f1432470c825">
+                <text>neither cockatoos nor humans</text>
+            </label>
+        </item>
+        <item id="i638d5f476766a2223ce99d4d828356b9a">
+            <label key="4213400266089653a9a6975c8d806b7c">
+                <text>A learned behaviour is one that an organism develops through experience.<div><div><div><div>Which one of the following behaviours is an example of <strong>learned</strong> behaviour in animals?</div></div></div></div></text>
+            </label>
+            <label key="9a26d824980c2407179fc968d617e0ac">
+                <text>owls sleeping in the day and being active at night</text>
+            </label>
+            <label key="95145c7a22991dbdfc149afbe7a00ec4">
+                <text>ducks using their feet to swim</text>
+            </label>
+            <label key="11c8b6c2faecdef1bd65ac08a4d18ee5">
+                <text>newborn babies crying when they are hungry</text>
+            </label>
+            <label key="b7219c501b6329127af057956314a175">
+                <text>monkeys using rocks to crack open nuts</text>
+            </label>
+        </item>
+        <item id="i638d5f5dcb8f9171580d6ba740dcf41923">
+            <label key="67d630c99da2a89a5244ffcff272fe69">
+                <text>People have used several methods to stop cockatoos from opening bins.</text>
+            </label>
+            <label key="2484ee5510c26ed96dc040e47b8fadd6">
+                <text>Researchers made the following graph to compare the success of each method.</text>
+            </label>
+            <label key="fb445a96263d40adc077624d62f4edb0">
+                <text>Success of method (percentage of times the method worked)</text>
+            </label>
+            <label key="dfa90f1b4eb3affbd3b46af34ed2477c">
+                <text>Snake</text>
+            </label>
+            <label key="1ff97d8cde3a648c648fd044b54916b9">
+                <text>Brick</text>
+            </label>
+            <label key="181562dae12ea933897ba9387cbef39e">
+                <text>Water bottles</text>
+            </label>
+            <label key="a60ba1a7a56c9e00252baebe89d62c12">
+                <text>Shoes</text>
+            </label>
+            <label key="5aa113aa30eda27112c9e54ddcdecff7">
+                <text>
+                    <strong>Method</strong>
+                </text>
+            </label>
+            <label key="1ae4e84259631487e12eb4cc8d4a7226">
+                <text>Which method was the most successful?</text>
+            </label>
+            <label key="2e32385a1c8bc774d09dea511cb4bc13">
+                <text>plastic snake</text>
+            </label>
+            <label key="7ceffe3b5595422ac85bb6054d6d38f9">
+                <text>brick</text>
+            </label>
+            <label key="da12c47a3271262432471f1f4b7e677a">
+                <text>water bottles</text>
+            </label>
+            <label key="b0a8b6f820479900e34d34f6b8a4af73">
+                <text>shoes</text>
+            </label>
+        </item>
+        <item id="i638d5f6ba7a11264059f4c27fc5f05040">
+            <label key="8f0aae7da640ef69a24ee7ae7ce1b192">
+                <text>Researchers are investigating a different species of bird. This species of bird lives in groups.</text>
+            </label>
+            <label key="9d4e13e787776ddaadc10770224cb709">
+                <text>They want to know if learning occurs only <strong>within</strong> a group of the birds or if learning occurs across more than one group of the birds.</text>
+            </label>
+            <label key="64b761d977e95b2cafc2e98134904adf">
+                <text>Which one of the following possible investigations should the researchers do to find out?</text>
+            </label>
+            <label key="8981e722b9f32a9bb98ad3926145813e">
+                <text>Observe several individual birds in one group.</text>
+            </label>
+            <label key="5cb38db611359a02675b61772cac071c">
+                <text>Observe several individual birds in several groups.</text>
+            </label>
+            <label key="d28461892fe82b7347d810d90520b04c">
+                <text>Observe a single bird in one group.</text>
+            </label>
+            <label key="bb8a54ef43606a205eaec693684376b6">
+                <text>Observe a single bird as it moves between groups.</text>
+            </label>
+        </item>
+        <item id="i638d5f744da3e17159fb98fcab14966cfe">
+            <label key="6586c373af7ef169692c1d7ace8125db">
+                <text>Scientists conducted a study of cockatoos opening bins that included observations from 172 households for 5 years.</text>
+            </label>
+            <label key="c2364349a098f7ab1d394cc57250a66d">
+                <text>The results of the study were published in a scientific journal.</text>
+            </label>
+            <label key="69c78f6eb6f9475399d95b718f86853c">
+                <text>Which one of these explanations is the most likely reason the research was conducted with a large number of households and for for 5 years?</text>
+            </label>
+            <label key="3c13f839a76707ac905215bea11b4886">
+                <text>Scientific research should be done thoroughly and then checked by other scientists.</text>
+            </label>
+            <label key="b47927212eabea392908e703234896a7">
+                <text>The study had to continue until it found a solution to the problem of bin-opening cockatoos.</text>
+            </label>
+            <label key="7f6f5b4fbd085024e924f540f23bd38a">
+                <text>Smaller and shorter studies would not be accepted for publication.</text>
+            </label>
+            <label key="bc0e07dfe3896350dfd2c65ab78e3adf">
+                <text>So that other scientists would know that no more research on bin-opening cockatoos was needed.</text>
+            </label>
+        </item>
+    </items>
+</file>

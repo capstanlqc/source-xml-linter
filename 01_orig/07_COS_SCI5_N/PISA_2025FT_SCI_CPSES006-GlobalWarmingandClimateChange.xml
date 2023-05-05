@@ -1,0 +1,156 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63a1153b25926/passage NEW.xml">
+            <label key="ec538c520f18d9f13cb908ee4e300100">
+                <text>Global Warming and Climate Change</text>
+            </label>
+            <label key="b222f4758862599d43c37b358fdf6c77">
+                <text>Since the start of the industrial revolution in the mid-18th century, the concentrations of gases that help trap heat in the atmosphere have increased.</text>
+            </label>
+            <label key="f15b3cf6ef0e8550528dad7e2ca26536">
+                <text>There is a consensus among climate scientists that this has led to increased overall warming of Earth's atmosphere (global warming).</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd863a1156c88a78/passage NEW 2.xml">
+            <label key="ec538c520f18d9f13cb908ee4e300100">
+                <text>Global Warming and Climate Change</text>
+            </label>
+            <label key="45f058fb04ffba7a896a181acec43fa0">
+                <text>The black line on the map below represents the edge of the sea ice around the North Pole in 1979.</text>
+            </label>
+            <label key="8a72ac18cc8f2e0b12eff56962934deb">
+                <text>The white area shows the location of sea ice around the North Pole in 2004.</text>
+            </label>
+            <label key="56916f72de9ecc2798e682dccc940915">
+                <text>
+                    <strong>North Pole</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae80363a11546bc77b/passage NEW 1.xml">
+            <label key="ec538c520f18d9f13cb908ee4e300100">
+                <text>Global Warming and Climate Change</text>
+            </label>
+            <label key="9773c759a20a0ccf716ff17da27c767e">
+                <text>This graph below shows the percentage of carbon dioxide in Earth's atmosphere in the years between 1850 and 2020 (solid line) and the predicted percentage of carbon dioxide in the atmosphere from 2020 to 2050 (dashed line).</text>
+            </label>
+            <label key="2d27eb1be378b3acea0e7549831a67b5">
+                <text>
+                    <strong>% CO₂</strong>
+                </text>
+            </label>
+            <label key="56235659f3fbf99f4e26ab300c206656">
+                <text>
+                    <strong>Years</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a116bd8e3d32809191d84f8652c4762">
+            <label key="c4e884e499d4161732a2af736e997d1c">
+                <text>Do the following statements describe likely consequences of global warming?</text>
+            </label>
+            <label key="a8c38cd5723dd799a00d4ac84d71561e">
+                <text>Select ‘Yes’ or ‘No’ for each statement.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>Yes</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>No</strong>
+                </text>
+            </label>
+            <label key="e9c3b2786c4479990a1192cd53cb4f21">
+                <text>Many people will have to move and live in new locations.</text>
+            </label>
+            <label key="5ea6f5f3d02210105ea63782b4134ce5">
+                <text>Higher temperatures in some areas will lead to an increase in the human death rate.</text>
+            </label>
+            <label key="8c3ed6917a98ad60f15a9f5939d1e423">
+                <text>Plant growth rates will decline.</text>
+            </label>
+            <label key="e4ae456d0318e0136c7b69e66d296581">
+                <text>The hole in the ozone layer of the atmosphere will become larger.</text>
+            </label>
+            <label key="d091fa4b5d5295015017c2b3668c6f07">
+                <text>The melting of some permafrost (permanently frozen ground) will lead to a release of carbon dioxide.</text>
+            </label>
+        </item>
+        <item id="i63a116f36d89b2380589569327ec4b983">
+            <label key="2975b59017c96152c4551fbd7b6076c3">
+                <text>Compare the areas of sea ice for 1979 and 2004.</text>
+            </label>
+            <label key="e42d34ab4e165b2b7baa747343dbb73b">
+                <text>Is the comparision sufficient evidence that global warming is resulting in a reduction in sea ice at the North Pole?</text>
+            </label>
+            <label key="3f8aec1a02d4edc1ad3e1f21637ef6b1">
+                <text>sufficient evidence</text>
+            </label>
+            <label key="2c070614fe7f65855ffeff60e15e9e43">
+                <text><strong>not</strong> sufficient evidence</text>
+            </label>
+            <label key="e829caabc1d7f246003b9fb7530e2873">
+                <text>Give a reason for your choice.</text>
+            </label>
+        </item>
+        <item id="i63a1176ee6ed72811edf49bcbfe8d322e">
+            <label key="02607528ff5a2aa307a5fc6640148390">
+                <text>An increase in atmospheric carbon dioxide is a contributor to global warming.</text>
+            </label>
+            <label key="688daad6af71015d5bf77bf486860d69">
+                <text>The atmosphere contains approximately 380 parts per million of carbon dioxide.</text>
+            </label>
+            <label key="9a6bd0b76aea35853422fab9a12cfb16">
+                <text>In comparison, 275 parts per million were present in the atmosphere in the 18th century.</text>
+            </label>
+            <label key="ac4e6d21e03827f06a6aba73fa9dd180">
+                <text>Which of the following changes could result from global warming?</text>
+            </label>
+            <label key="6bcffb8a9b66c387ad32ad022f04212a">
+                <text>Select ‘Yes’ or ‘No’ for each change.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>Yes</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>No</strong>
+                </text>
+            </label>
+            <label key="dd0e2bcf2acd6b6afd6fed1529c96da9">
+                <text>melting of glaciers</text>
+            </label>
+            <label key="45e26ff70ce34a6fb7ee4aff0bfb72d3">
+                <text>increased frequency of floods</text>
+            </label>
+            <label key="0d4e1cc788b1d44602a139dcfcc52cb7">
+                <text>increased acidity of seawater</text>
+            </label>
+            <label key="f83687eb671c25aec3dfe052ce523ff9">
+                <text>expansion of deserts and increased droughts</text>
+            </label>
+            <label key="29a7176015312b1bb3246386c3d9a9c1">
+                <text>increased volcanic activity</text>
+            </label>
+            <label key="81fe34e3366b74d6b108f981b9bece12">
+                <text>human population growth</text>
+            </label>
+        </item>
+        <item id="i63a1177d0ba3d1436123e6c52864b803c7">
+            <label key="d96aac298a1c0ef280d6bd1fdbe5ec1c">
+                <text>What is the likely reason for the gradient of the line on the graph between 2020 and 2050?</text>
+            </label>
+        </item>
+        <item id="i63a1178a5f58f16514c32e2f78072fa367">
+            <label key="fa3e6d44ae988ba4e807ac9b1ab1173f">
+                <text>What does the shape of the curve on the graph indicate about the percentage of carbon dioxide in the atmosphere?</text>
+            </label>
+        </item>
+    </items>
+</file>

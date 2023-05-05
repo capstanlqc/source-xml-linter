@@ -1,0 +1,1909 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli></sharedstimuli>
+    <items>
+        <item id="i635f28ef40d7c23672a2c9713327694">
+            <label key="7d8fd7e06d84ef633ab2e2c776cecd30">
+                <text>
+                    <strong>Which of the following definitions best describes the community in which your school is located?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="2feceec640cb1183c322b3cdd37db27a">
+                <text>A village, hamlet or rural area (fewer than 3 000 people)</text>
+            </label>
+            <label key="16de98395c7ef9df9c8b3180d47e854d">
+                <text>A small town (3 000 to about 15 000 people)</text>
+            </label>
+            <label key="2ad3df219b99b451d7dc98c261e02c5f">
+                <text>A town (15 000 to about 100 000 people)</text>
+            </label>
+            <label key="f7f3a3d1b8efac8467b31a2a16735d18">
+                <text>A city (100 000 to about 1 000 000 people)</text>
+            </label>
+            <label key="af9e627e23f4ef8ca5dad5bc3d7482de">
+                <text>A large city (1 000 000 to about 10 000 000 people)</text>
+            </label>
+            <label key="68383be1562fd2f24d43afb7c8509f9f">
+                <text>A megacity (with over 10 000 000 people)</text>
+            </label>
+        </item>
+        <item id="i6361b7c40dd39404638ad4f1841b8c7958">
+            <label key="28143ec91029cd1d8a7d798a74a47e33">
+                <text>
+                    <strong>With respect to the PISA test in your school, have you done any of the following?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="df2c38856ba1c97c1fadabbbb606eb3b">
+                <text>I have shared information about the PISA test administration with the staff at my school.</text>
+            </label>
+            <label key="4116f00001bda1e49fafa31b60853422">
+                <text>I have shared information about the PISA test administration with the students at my school.</text>
+            </label>
+            <label key="8f10c80931264f4da07383584cf6518a">
+                <text>I have shared information about the PISA test administration with the parents or guardians of students at my school.</text>
+            </label>
+            <label key="0ababdc370d51bf307940218e2840091">
+                <text>I have spoken to teachers at my school about the importance of the PISA test.</text>
+            </label>
+            <label key="e274264e2fc947b121716e2474c13e97">
+                <text>I have spoken to parents or guardians about the importance of the PISA test.</text>
+            </label>
+            <label key="692b31d2620be8c2e99e3a84c53b1055">
+                <text>I have encouraged the students at my school to do their best during the PISA test.</text>
+            </label>
+        </item>
+        <item id="i6361d118ec8e02402116c4326f071a1">
+            <label key="75d50da6f192f2f03b332fdb94e7ef91">
+                <text>
+                    <strong>Approximately what percentage of teachers in your school have the following characteristics?</strong>
+                </text>
+            </label>
+            <label key="d871d6187347db6a74cf258a71c324e0">
+                <text>
+                    <em>(Please consider that teachers may fall into multiple categories.)</em>
+                </text>
+            </label>
+            <label key="7cfcefac491deaabd2282eff62d304cd">
+                <text>
+                    <em>(Please move the slider to the appropriate percentage.)</em>
+                </text>
+            </label>
+            <label key="1514fdf9301397d6e6e6d450d512c885">
+                <text>Teachers who are &lt;immigrants&gt;</text>
+            </label>
+            <label key="0b8a297c8a4d9bfe11e9490c4bfd04e1">
+                <text>Teachers from &lt;minority&gt; backgrounds</text>
+            </label>
+        </item>
+        <item id="i6361d27d845c9202409ab13dff7ac0bbec">
+            <label key="2453c447bd6399f18827cc07ec01dc44">
+                <text>
+                    <strong>During &lt;the last academic year&gt;, how often have the majority of school staff done each of the following?</strong>
+                </text>
+            </label>
+            <label key="5c5ac3bff3a0028488b80d08be839d10">
+                <text>
+                    <em>(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="29d166b1f196f876f6e722049284c1d6">
+                <text>
+                    <em>Never or almost never </em>
+                </text>
+            </label>
+            <label key="cec94a77dfe020943c2d79c57b1174c1">
+                <text>
+                    <em>About once or twice a year</em>
+                </text>
+            </label>
+            <label key="5a2c83370ba5d7bee35afba5b87971d3">
+                <text>
+                    <em>About once or twice a month</em>
+                </text>
+            </label>
+            <label key="accfe5f8a2fed9b5fac1facea5a44774">
+                <text>
+                    <em>About once or twice a week</em>
+                </text>
+            </label>
+            <label key="222a7414c66b83712fcb34c56bbcedb1">
+                <text>
+                    <em>Every day or almost every day</em>
+                </text>
+            </label>
+            <label key="92f834e54e8e915916ae26c8242b4932">
+                <text>They helped students of different backgrounds to recognise the similarities that exist between them.</text>
+            </label>
+            <label key="bd6e81bd7b50c0646242b7d199e310e6">
+                <text>They encouraged students of different backgrounds to resolve disagreements by finding common ground.</text>
+            </label>
+            <label key="f061b2ef2e43ae70375138a7cb38b6ee">
+                <text>They supported activities or organisations that encourage students' expression of diverse identities.</text>
+            </label>
+            <label key="a85efe4fe2efc8184920b7bb31d4e2ca">
+                <text>They taught students how to respond to discrimination.</text>
+            </label>
+            <label key="7f53b87854fb797d616158365dd167ed">
+                <text>They taught students to be inclusive of others with different backgrounds.</text>
+            </label>
+            <label key="2c339d0a061cdb4e661b25ca5250c8c4">
+                <text>They provided additional support for students from disadvantaged backgrounds.</text>
+            </label>
+        </item>
+        <item id="i6361d28d7cd3e172992168557841996fb8">
+            <label key="adf694f7ee517958032b703df6768815">
+                <text>
+                    <strong>To what extent is each of the following behaviours a problem in your school?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="dbf9664ee8bcd655048485bda9a84897">
+                <text>
+                    <em>Not at all</em>
+                </text>
+            </label>
+            <label key="09e2beab171452a0950415914cfd75d7">
+                <text>
+                    <em>Small extent</em>
+                </text>
+            </label>
+            <label key="5bed4fa21728e1202f99c3d49d8b89e2">
+                <text>
+                    <em>Moderate extent</em>
+                </text>
+            </label>
+            <label key="0d24b097d564566f2bf7f8a3021a494b">
+                <text>
+                    <em>Large extent</em>
+                </text>
+            </label>
+            <label key="298439c4d91c8a2861921be672315554">
+                <text>Cheating</text>
+            </label>
+            <label key="cba95a42c53bdc6fbf3ddf9bf10a4069">
+                <text>Profanity</text>
+            </label>
+            <label key="c7b38657d348827c0e290b4adbd47603">
+                <text>Vandalism</text>
+            </label>
+            <label key="40f03b39bd6f3d6e608b21ef5063c5eb">
+                <text>Theft</text>
+            </label>
+            <label key="e44c1386944a14b3fa5b2735722e9e6e">
+                <text>Intimidation or verbal abuse among students (including texting, emailing, etc.)</text>
+            </label>
+            <label key="161f62d40d89f29daab44c96d32405b1">
+                <text>Physical injury caused by students to other students</text>
+            </label>
+            <label key="2a64f1f791abdba5e93f62635b988201">
+                <text>Intimidation or verbal abuse of teachers or non-teaching staff (including texting, emailing, etc.)</text>
+            </label>
+            <label key="1683c6726fce8ee4d9fcf89b69cf5864">
+                <text>Physical injury caused by students to teachers or non-teaching staff</text>
+            </label>
+        </item>
+        <item id="i6361d2985195d1730312e2f0bb52183a82">
+            <label key="29c29aec0d2188d24f7f74c3e55bfaae">
+                <text>
+                    <strong>Is your school’s capacity to provide instruction hindered by any of the following issues?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="dbf9664ee8bcd655048485bda9a84897">
+                <text>
+                    <em>Not at all</em>
+                </text>
+            </label>
+            <label key="a0530126462c6c0f03c337d3a4ff5cc5">
+                <text>
+                    <em>Very little</em>
+                </text>
+            </label>
+            <label key="cda5ac0bb29f6ab45e898a90515f63f0">
+                <text>
+                    <em>To some extent</em>
+                </text>
+            </label>
+            <label key="921cf20de8aa5ea78047bb53df7f1226">
+                <text>
+                    <em>A lot</em>
+                </text>
+            </label>
+            <label key="b1192077f37e7998e199a463886116e4">
+                <text>A lack of teaching staff</text>
+            </label>
+            <label key="8326b3b2fb8e66d9ce49fa6a665026bd">
+                <text>Inadequate or poorly qualified teaching staff</text>
+            </label>
+            <label key="ddceb333dc52ad2d3cd990e09c231f75">
+                <text>A lack of assisting staff</text>
+            </label>
+            <label key="51a52382853ca499ed3eaf7497136173">
+                <text>Inadequate or poorly qualified assisting staff</text>
+            </label>
+            <label key="8e6a452c5f6e7ac0a6c70a1f9b32f3c8">
+                <text>A lack of educational material (e.g. textbooks, IT equipment, library or laboratory material)</text>
+            </label>
+            <label key="f7cde4fd2c085388813d709f411d5006">
+                <text>Inadequate or poor quality educational material (e.g. textbooks, IT equipment, library or laboratory material)</text>
+            </label>
+            <label key="adbd49525b0ddb80ecb4b9a8c37a1df7">
+                <text>A lack of physical infrastructure (e.g. building, grounds, heating/cooling, lighting and acoustic systems)</text>
+            </label>
+            <label key="b89be663cc12256e9ae2cb000fda98f4">
+                <text>Inadequate or poor quality physical infrastructure (e.g. building, grounds, heating/cooling, lighting and acoustic systems)</text>
+            </label>
+            <label key="bf870998cdfe70c1b2cc1ec52ccd005c">
+                <text>A lack of &lt;digital resources&gt; (e.g. desktop or laptop computers, internet access, learning management systems or school learning platforms)</text>
+            </label>
+            <label key="0224640d0d5045928e8de7ec2cd4dad7">
+                <text>Inadequate or poor quality &lt;digital resources&gt; (e.g. desktop or laptop computers, internet access, learning management systems or school learning platforms)</text>
+            </label>
+        </item>
+        <item id="i6361e3b592a69239930efd3b5c8a60543">
+            <label key="a9ee2f19ff92e3b1d36bb1356d46b7a2">
+                <text>
+                    <strong>Is your school a public or a private school?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="22e578e9e0b9f796ad6e22a9fee3e4c3">
+                <text>A public school</text>
+            </label>
+            <label key="f800ab1e9d20b4f3da30c099863eb6b8">
+                <text>(This is a school managed directly or indirectly by a public education authority, government agency, or governing board appointed by government or elected by public franchise.)</text>
+            </label>
+            <label key="0ae83064e4fabb49e380c4926aad4faf">
+                <text>A private school</text>
+            </label>
+            <label key="cf904aa49a4161e4239458130c5c76a3">
+                <text>(This is a school managed directly or indirectly by a non-government organisation; e.g., a church, trade union, business, or other private institution.)</text>
+            </label>
+        </item>
+        <item id="i6361eea3e0d1a173278916cfa8ccada9c0">
+            <label key="256b2c897a1134a03e1e7cab2dbf1584">
+                <text>
+                    <strong>How many foreign languages are being taught at your school &lt;this academic year&gt;?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="6adf97f83acf6453d4a6a4b1070f3754">
+                <text>None</text>
+            </label>
+            <label key="06c2cea18679d64399783748fa367bdd">
+                <text>One</text>
+            </label>
+            <label key="aada29daee1d64ed0fe907043855cb7e">
+                <text>Two</text>
+            </label>
+            <label key="ca8a2087e5557e317599344687a57391">
+                <text>Three</text>
+            </label>
+            <label key="981b8fcee42e1e726a67a2b9a98ea6e9">
+                <text>Four</text>
+            </label>
+            <label key="e5d9de39f7ca1ba2637e5640af3ae8aa">
+                <text>Five</text>
+            </label>
+            <label key="0374c4d8d1aee0b4003e507abc650b22">
+                <text>Six or more </text>
+            </label>
+        </item>
+        <item id="i6361ef947007321011da38726ca61b036">
+            <label key="80386b7075f06711d93439458bf594ed">
+                <text>
+                    <strong>Does your school offer any of the following options to students in &lt;national modal grade for 15-year-olds&gt; whose &lt;heritage language&gt; is not the &lt;test language&gt;? </strong>
+                </text>
+            </label>
+            <label key="66afaba8c95c53fdeeee98e2b84a585d">
+                <text>
+                    <em>(Please select one response in each row.) </em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="c769394ca3b0323df2fca215429d5427">
+                <text>These students attend regular classes and receive additional periods of instruction aimed at developing &lt;test language&gt; skills (e.g. reading literacy, grammar, vocabulary, communication).</text>
+            </label>
+            <label key="e7525b02f41d560776a3a4237c56433e">
+                <text>Before transferring to regular classes, these students attend a preparatory programme aimed at developing &lt;test language&gt; skills (e.g. reading literacy, grammar, vocabulary, communication).</text>
+            </label>
+            <label key="489ffb285e0030646e113fa38995059b">
+                <text>Before transferring to regular classes, these students receive some instruction in school subjects through their &lt;heritage language&gt;.</text>
+            </label>
+            <label key="c63b66e5c592eb4bfc05758c3b199245">
+                <text>These students receive significant amounts of instruction in their &lt;heritage language&gt; aimed at developing proficiency in both languages.</text>
+            </label>
+            <label key="9a6f4bbc7d4865fbc52d128c9369dafd">
+                <text>Class size is reduced to cater to the special needs of these students.</text>
+            </label>
+        </item>
+        <item id="i6361f86202de6239744a339b026d186aa">
+            <label key="8161281af2a3a38b147669a7c4472e69">
+                <text>
+                    <strong>About what percentage of your total funding for a typical school year comes from the following sources?</strong>
+                </text>
+            </label>
+            <label key="9e66ace7670d03335cf32b8675157c3d">
+                <text>
+                    <em>(Please enter a number for each response. Enter “0” (zero) if there are none.)</em>
+                </text>
+            </label>
+            <label key="706a054abfdb2ad4ecb33348747210b2">
+                <text>
+                    <em>%</em>
+                </text>
+            </label>
+            <label key="a2e1e0892bdbb9a01b14e91ca1d40989">
+                <text>Government (includes departments, local, regional, state and national)</text>
+            </label>
+            <label key="f71a29e6aaaa38461054c5f519b5571f">
+                <text>Student fees or school charges paid by parents or guardians</text>
+            </label>
+            <label key="b0d84120b84826f2c3f65a6f961c4d76">
+                <text>Benefactors, donations, bequests, sponsorships, parent or guardian fundraising</text>
+            </label>
+            <label key="6311ae17c1ee52b36e68aaf4ad066387">
+                <text>Other</text>
+            </label>
+            <label key="f90a08a656e08b2efb2ec7094d8bb693">
+                <text>
+                    <em>Total</em>
+                </text>
+            </label>
+            <label key="30bd7ce7de206924302499f197c7a966">
+                <text>100%</text>
+            </label>
+        </item>
+        <item id="i6361f975c74e5240023f1050f827d12c0">
+            <label key="cf98b6f3182b131bdd1a69a44f22426c">
+                <text>
+                    <strong>As of &lt;February 1, 2025&gt;, what was the total school enrolment (number of students)?</strong>
+                </text>
+            </label>
+            <label key="9e66ace7670d03335cf32b8675157c3d">
+                <text>
+                    <em>(Please enter a number for each response. Enter “0” (zero) if there are none.)</em>
+                </text>
+            </label>
+            <label key="fcb40b7280b808c14de73b9350a0afdc">
+                <text>Number of boys:</text>
+            </label>
+            <label key="ab4934aa2cef482cbb494f0246f4fe62">
+                <text>Number of girls:</text>
+            </label>
+            <label key="11a32474cb6731b3a20fa4709cabb735">
+                <text>Number of students who are &lt;non-binary&gt;</text>
+            </label>
+        </item>
+        <item id="i636202f8841261730321fbae0fb251e3c1">
+            <label key="840ac07869d840cd38fc8d5a4561640f">
+                <text>
+                    <strong>How many of the following teachers are on the staff of your school?</strong>
+                </text>
+            </label>
+            <label key="fec415c6d07c0070a3fa8dc9cc724a1b">
+                <text>
+                    <em><strong>Include both full-time and part-time teachers.</strong> A full-time teacher is employed at least 90% of the time as a teacher for the full school year. All other teachers should be considered part-time. Regarding the qualification level, please refer only to the teacher’s <strong>highest qualification level</strong>.</em>
+                </text>
+            </label>
+            <label key="014f6db840fa9c8182df71ee14170fff">
+                <text>
+                    <em>(Please enter a number in each space provided. Enter “0” (zero) if there are none.)</em>
+                </text>
+            </label>
+            <label key="7d3a67050cc04dc18884e2a31faa9a44">
+                <text>
+                    <em>Full-time</em>
+                </text>
+            </label>
+            <label key="e590a6443785f90b5c5c8d0d490fdee7">
+                <text>
+                    <i>Part-time</i>
+                </text>
+            </label>
+            <label key="c5fb01b3a646de2b15507d5eb49d76b8">
+                <text>Teachers in TOTAL</text>
+            </label>
+            <label key="2c2d1875ede134ce6c1f24885b121a6f">
+                <text>Teachers &lt;fully certified&gt; by &lt;the appropriate authority&gt;</text>
+            </label>
+            <label key="20be85c855cff561d392bec4f9d1562a">
+                <text>Teachers with an &lt;ISCED Level 6 –Bachelor’s or equivalent level&gt; qualification</text>
+            </label>
+            <label key="ed693f9d01f64ce2b16627024be33750">
+                <text>Teachers with an &lt;ISCED Level 7 – Master’s or equivalent level&gt; qualification</text>
+            </label>
+            <label key="f0fc892c855f9a95aaf741b8d16f027f">
+                <text>Teachers with an &lt;ISCED Level 8 – Doctoral or equivalent level&gt; qualification</text>
+            </label>
+        </item>
+        <item id="i636205448163a17274893cce94d475f146">
+            <label key="650a219b926d364a0c3269b4d2ff1141">
+                <text>
+                    <strong>For each type of position listed below, please indicate the number of non-teaching staff currently working in this school.</strong>
+                </text>
+            </label>
+            <label key="5e415bc1c8653bd7dbe3b2de214811c8">
+                <text>
+                    <em>(Please consider that non-teaching staff may fall into multiple categories.)</em>
+                </text>
+            </label>
+            <label key="014f6db840fa9c8182df71ee14170fff">
+                <text>
+                    <em>(Please enter a number in each space provided. Enter “0” (zero) if there are none.)</em>
+                </text>
+            </label>
+            <label key="2ec49825054beec0b6297269c73a8c11">
+                <text>
+                    <em>Integer number</em>
+                </text>
+            </label>
+            <label key="92758c334fbbde8fd281a0e1f2e87d4c">
+                <text>
+                    <p>Personnel for pedagogical support, irrespective of the &lt;grade levels&gt;/ages they support</p>
+                    <em>Including all teacher aides or other non-teaching professionals who provide instruction or support teachers in providing instruction, professional curriculum/instructional specialists, educational media specialists, psychologists and nurses</em>
+                </text>
+            </label>
+            <label key="c999fd75910034ccf21777f0696ee118">
+                <text>
+                    <p>School administrative personnel</p>
+                    <em>Including receptionists, secretaries, and administration assistants</em>
+                </text>
+            </label>
+            <label key="10de78e4e0a888294b74b9f1538e1bc0">
+                <text>
+                    <p>School management personnel</p>
+                    <em>Including principals, assistant principals, and other staff whose main activity is management</em>
+                </text>
+            </label>
+            <label key="ac95b1179e3644fa70c98e5a0e7476ef">
+                <text>Other non-teaching staff</text>
+            </label>
+        </item>
+        <item id="i636209e66bee92101bfe01e658903a4de">
+            <label key="430444c80764aa8082f8d19db81ba22e">
+                <text>
+                    <strong>The goal of the following set of questions is to gather information about the student-&lt;digital device&gt; ratio for students in the &lt;national modal grade for 15-year-olds&gt; at your school.</strong>
+                </text>
+            </label>
+            <label key="9e66ace7670d03335cf32b8675157c3d">
+                <text>
+                    <em>(Please enter a number for each response. Enter “0” (zero) if there are none.)</em>
+                </text>
+            </label>
+            <label key="71ccff4f2a35dc934fd07300621bb837">
+                <text>
+                    <em>Number</em>
+                </text>
+            </label>
+            <label key="66dc8256519273e83780b7682dc81df7">
+                <text>At your school, what is the total number of students in the &lt;national modal grade for 15-year-olds&gt;?</text>
+            </label>
+            <label key="14e05dfc40dfb796d07c44c0e8fc7cc1">
+                <text>Approximately, how many desktop or laptop computers are available for these students for educational purposes?</text>
+            </label>
+            <label key="cb8b2bdd5a6d6e16e0475ac72143a953">
+                <text>Approximately, how many of these desktop, laptop or computers are connected to the Internet?</text>
+            </label>
+            <label key="616d6b38813a03b7233036d0ffeed36a">
+                <text>Approximately, how many tablet devices (e.g. &lt;iPad®&gt;, &lt;Galaxy Book®&gt;, &lt;Fire®&gt;) e-book readers (i.e. portable device for reading books on screen, e.g. &lt;Amazon® KindleTM&gt;, &lt;Kobo&gt;) are available for these students for educational purposes?</text>
+            </label>
+            <label key="e4fa1c666a79ee914e632db8fac3152b">
+                <text>Approximately, how many interactive whiteboards are available in the school altogether?</text>
+            </label>
+            <label key="5d8535ddb6e19765344af2f2001f5d32">
+                <text>Approximately, how many data projectors are available in the school altogether?</text>
+            </label>
+            <label key="82123bd099041e9632543b7ba8aa48b3">
+                <text>Approximately, how many desktop or laptop computers with internet connection are available <strong>for teachers</strong> <span class="txt-underline">in your school</span>?</text>
+            </label>
+        </item>
+        <item id="i6362e4684a97341419e18b66205d3711d6">
+            <label key="b48cf294aff16587aa5d09ae0cbc519d">
+                <text>
+                    <em>We are interested in the options parents or guardians have when choosing a school for their children.</em>
+                </text>
+            </label>
+            <label key="0beb36b37d8b48ab5b69e14864159616">
+                <text>
+                    <strong>Which of the following statements best describes the schooling available to students in your location?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="38a9950a7db8208b839ef53420db0e6d">
+                <text>There are two or more other schools in this area that compete for our students.</text>
+            </label>
+            <label key="e33dfa41f5b81a5557c44b972e2b2b6d">
+                <text>There is one other school in this area that competes for our students.</text>
+            </label>
+            <label key="d8346199cb8e67029d35007d5b094d1c">
+                <text>There are no other schools in this area that compete for our students.</text>
+            </label>
+        </item>
+        <item id="i6362e47561ab1412878921e9bb9a8cb07e">
+            <label key="facab0e6c0d8340a451c202283576243">
+                <text>
+                    <strong>In your school, how likely is it that a student in &lt;national modal grade for 15-year-olds&gt; would be transferred to another school for the following reasons?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="2c111cbdda2a3d2ac20a23a0c14f80df">
+                <text>
+                    <em>Not likely</em>
+                </text>
+            </label>
+            <label key="cd63f521315fc390c08be81739b08493">
+                <text>
+                    <em>Likely</em>
+                </text>
+            </label>
+            <label key="18c65478f100b2dc2334034abe176d1d">
+                <text>
+                    <em>Very likely</em>
+                </text>
+            </label>
+            <label key="7b18d50816e9041b0817f1e500b0fe8e">
+                <text>Low academic achievement</text>
+            </label>
+            <label key="6df41398cdd090cc81f07398004542aa">
+                <text>High academic achievement</text>
+            </label>
+            <label key="57c9910c2d0b381cce4e81a76eb86485">
+                <text>Behavioural problems</text>
+            </label>
+            <label key="9920fc92899e0c7c4877c3c849dd0930">
+                <text>Special learning needs</text>
+            </label>
+            <label key="324119f9f2d07edef82f9ecf671420c9">
+                <text>Parents’ or guardians’ request</text>
+            </label>
+        </item>
+        <item id="i6362e4825c45416021bae53c00531a0da8">
+            <label key="0f9c55ca6b1ab997067865d999715205">
+                <text>
+                    <strong>How often are the following factors considered when students are admitted to your school?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="c8966fa2072a886db8725fd4b6a245d8">
+                <text>
+                    <em>Never</em>
+                </text>
+            </label>
+            <label key="d65fc0c7615defd1e0b6238d15a8b96d">
+                <text>
+                    <em>Sometimes</em>
+                </text>
+            </label>
+            <label key="a99fc6160d01ec385e85c31795d78da8">
+                <text>
+                    <em>Always</em>
+                </text>
+            </label>
+            <label key="db6681a71e0eae119034d9aba0ad5f2c">
+                <text>Student’s record of academic performance (including placement tests)</text>
+            </label>
+            <label key="c7016fa6981edb9e38cd72fcb4b0f0d0">
+                <text>Recommendation of feeder schools</text>
+            </label>
+            <label key="a4aab10b5597dbe291e0097c4e93794d">
+                <text>Parents’ or guardians’ endorsement of the instructional or religious philosophy of the school</text>
+            </label>
+            <label key="fb56e2d67271455cc7c22aad8a09f89f">
+                <text>Whether the student requires or is interested in a special programme</text>
+            </label>
+            <label key="29e72b05af3b0b4d0d58647c7ca0b0c2">
+                <text>Preference given to family members of current or former students</text>
+            </label>
+            <label key="4644a249fa57595fdba10aea29138716">
+                <text>Residence in a particular area</text>
+            </label>
+            <label key="da18754b0c0a9a35130f5ecca483e2c9">
+                <text>Student’s disciplinary record in this or another school</text>
+            </label>
+            <label key="5ede5f5d34b26e634e727cee9c4eaf5f">
+                <text>Student’s parental status or pregnancy</text>
+            </label>
+            <label key="48fdd349de4bc7674ed255ae90d46f4c">
+                <text>Student’s working status</text>
+            </label>
+            <label key="b6c766a499a3586318d6040bd7d02ace">
+                <text>Student’s cultural or ethnic background</text>
+            </label>
+            <label key="a540c77366c9a0cb2b3eb975d291fdaf">
+                <text>Whether the student has special learning needs</text>
+            </label>
+        </item>
+        <item id="i6362e81646cb316036758303b048377cdc">
+            <label key="cd2a63db84b00139df6ff2542d60235c">
+                <text>
+                    <strong>Who has the main responsibility for the following at your school?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="359b2a12e2bee32f9601291b434b6cd5">
+                <text>
+                    <em>Principal</em>
+                </text>
+            </label>
+            <label key="c986dca6cd95dca8cf8bf97ea2ff75f9">
+                <text>
+                    <em>Teachers or members of &lt;school management team&gt;</em>
+                </text>
+            </label>
+            <label key="5459dfd28465fa5e521a7be1bb1a7739">
+                <text>
+                    <em>&lt;School governing board&gt;</em>
+                </text>
+            </label>
+            <label key="774854f2d06ecbb4866680750a1e42c2">
+                <text>
+                    <em>&lt;Local or municipal authority&gt;</em>
+                </text>
+            </label>
+            <label key="66f046d2fcf505c664b71591459825fc">
+                <text>
+                    <em>&lt;Regional or state authority&gt;</em>
+                </text>
+            </label>
+            <label key="a9778ee7f54a3042c71ec9c1691b0420">
+                <text>
+                    <em>&lt;National or federal authority&gt;</em>
+                </text>
+            </label>
+            <label key="9af7d5137204f00e4e7de41d4b60f46e">
+                <text>Appointing or hiring teachers</text>
+            </label>
+            <label key="115a14aee523bdac32c3e0d41730ef40">
+                <text>Dismissing or suspending teachers from employment</text>
+            </label>
+            <label key="9019dcabb04ec15dfd5c0515ae8c29e3">
+                <text>Establishing teachers' starting salaries, including setting pay scales</text>
+            </label>
+            <label key="7cd240c7bca2586dda9accb0b8dbffba">
+                <text>Determining teachers’ salary increases</text>
+            </label>
+            <label key="c10301675e4080af1470f09b5ea6f3b5">
+                <text>Formulating the school budget</text>
+            </label>
+            <label key="58f5e93d9069c07d1a1dfa1df65caf4b">
+                <text>Deciding on budget allocations</text>
+            </label>
+            <label key="8d550e39e5a8796eae548ad8439fa8bb">
+                <text>Establishing student disciplinary policies and procedures</text>
+            </label>
+            <label key="3f50dbaa6be9c57d2d8bcf4624401511">
+                <text>Establishing student assessment policies, including &lt;national/regional&gt; assessments</text>
+            </label>
+            <label key="09d5d1d22934971b186ceb08aafa25b7">
+                <text>Approving students for admission to the school</text>
+            </label>
+            <label key="c456d9b21f1bbbc47d26617e748467d1">
+                <text>Choosing which learning materials are used</text>
+            </label>
+            <label key="7fc8ad7d4fa2ca1672944e8a9bc72550">
+                <text>Determining course content, including &lt;national/regional&gt; curricula</text>
+            </label>
+            <label key="132f6cae609e6a58d7ff99e4bdb509a6">
+                <text>Deciding which courses are offered</text>
+            </label>
+        </item>
+        <item id="i6362e823d054116045c0a914892eeb14df">
+            <label key="0f503018d9cb947420510d9eea5b2b7f">
+                <text>
+                    <strong>During the last 12 months, how often did you or other members of the &lt;school management team&gt; engage in the following activities?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="03ca1b65d43aeb6ab911a0f0c848e3b2">
+                <text>
+                    <em>Never or almost never</em>
+                </text>
+            </label>
+            <label key="cec94a77dfe020943c2d79c57b1174c1">
+                <text>
+                    <em>About once or twice a year</em>
+                </text>
+            </label>
+            <label key="4b148f87400cd2308a9e993ccdb9f94f">
+                <text>
+                    <em>About once or twice a month</em>
+                </text>
+            </label>
+            <label key="9194c58472cc2f1fc715ed3cabfd3c3a">
+                <text>
+                    <em>About once or twice a week</em>
+                </text>
+            </label>
+            <label key="222a7414c66b83712fcb34c56bbcedb1">
+                <text>
+                    <em>Every day or almost every day</em>
+                </text>
+            </label>
+            <label key="4aa0f55e98e3bb9a0d11379b567ae449">
+                <text>Collaborating with teachers to solve classroom discipline problems</text>
+            </label>
+            <label key="e5bf457f3cf5510216858d2f1e3c6d13">
+                <text>Observing instruction in the classroom</text>
+            </label>
+            <label key="4f0c54cdeadfb0d8789877715c1fb6d6">
+                <text>Providing feedback to teachers based on observations of instruction in the classroom</text>
+            </label>
+            <label key="adc73d49905ffb0df0c6092f5eb0b509">
+                <text>Taking actions to support co-operation among teachers to develop new teaching practices</text>
+            </label>
+            <label key="306efd9e789663ba3487e0e6449dd6e3">
+                <text>Taking actions to ensure that teachers take responsibility for improving their teaching skills</text>
+            </label>
+            <label key="d9e4cc982e970bb18218485cadcd68f4">
+                <text>Taking actions to ensure that teachers feel responsible for their students' learning outcomes</text>
+            </label>
+            <label key="820a99ebee3cad5265e4e1d4d2fbc6ff">
+                <text>Providing parents or guardians with information on the school and student performance</text>
+            </label>
+            <label key="e8b20d2aee6ba217e5d6d4eee77073d9">
+                <text>Reviewing school administrative procedures and reports</text>
+            </label>
+            <label key="f3c8975b7c8efcb788b12811bc56cf63">
+                <text>Resolving problems with the lesson timetable in this school</text>
+            </label>
+            <label key="2123aca9f4f30eb7db2645fe05282f10">
+                <text>Collaborating with principals from other schools on difficult work tasks</text>
+            </label>
+            <label key="cd2c6947ce720ac4a41363aad7c87ed4">
+                <text>Working on a professional development plan for this school</text>
+            </label>
+        </item>
+        <item id="i6362f1726079816036cd520f19fabf2d1e">
+            <label key="0b3b7557e61dfa5ba81a486f4e41ac76">
+                <text>
+                    <strong>How many minutes, on average, are there in a &lt;class period&gt; for &lt;national modal grade for 15-year-olds&gt; taking the following subjects?</strong>
+                </text>
+            </label>
+            <label key="89403620f36bb6add5d44e112aa8ae2c">
+                <text>
+                    <em>(Please move the slider to the number of minutes per &lt;class period&gt;.)</em>
+                </text>
+            </label>
+            <label key="a865462972051c2fc35241f73782e4d1">
+                <text>&lt;School science&gt;</text>
+            </label>
+            <label key="d43e899f53f30b1c84bff3587b386145">
+                <text>Average minutes in a &lt;class period&gt; across all subjects, including &lt;School Science&gt;</text>
+            </label>
+        </item>
+        <item id="i6362f189b864b417017e716e31073f9118">
+            <label key="8d774efee51b6dac24944b78fa3883e0">
+                <text>
+                    <strong>What is the average size of &lt;test language&gt; classes in &lt;national modal grade for 15-year-olds&gt; in your school?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="9604e3d6e826fe6b732505d78b3e784d">
+                <text>15 students or fewer</text>
+            </label>
+            <label key="1e76e892c6549296d15a25d470c82520">
+                <text>16-20 students</text>
+            </label>
+            <label key="198b2f750999243ca7360698c5df0978">
+                <text>21-25 students</text>
+            </label>
+            <label key="863086d3b9e3072f5d4a4e9dda3952a7">
+                <text>26-30 students</text>
+            </label>
+            <label key="7fc7c076a70d2724ad9cf411d410bc76">
+                <text>31-35 students</text>
+            </label>
+            <label key="ff5c3c430b1bcf0a686a29854db229e1">
+                <text>36-40 students</text>
+            </label>
+            <label key="26dce1c57c73153de04bcacd2d901ed5">
+                <text>41-45 students</text>
+            </label>
+            <label key="e6e98ea5f6bfb8ad2b0bafb22bc053c3">
+                <text>46-50 students</text>
+            </label>
+            <label key="0caa43e84e1af95be0b8ec7b0cd5f806">
+                <text>More than 50 students</text>
+            </label>
+        </item>
+        <item id="i6362f1938087841362ccd78dc1e12b5923">
+            <label key="c182aa6812eca00f273bd0a3eaab7ded">
+                <text>
+                    <strong>What is the average size of &lt;school science&gt; classes in &lt;national modal grade for 15-year-olds&gt; in your school?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="9604e3d6e826fe6b732505d78b3e784d">
+                <text>15 students or fewer</text>
+            </label>
+            <label key="1e76e892c6549296d15a25d470c82520">
+                <text>16-20 students</text>
+            </label>
+            <label key="198b2f750999243ca7360698c5df0978">
+                <text>21-25 students</text>
+            </label>
+            <label key="863086d3b9e3072f5d4a4e9dda3952a7">
+                <text>26-30 students</text>
+            </label>
+            <label key="7fc7c076a70d2724ad9cf411d410bc76">
+                <text>31-35 students</text>
+            </label>
+            <label key="ff5c3c430b1bcf0a686a29854db229e1">
+                <text>36-40 students</text>
+            </label>
+            <label key="26dce1c57c73153de04bcacd2d901ed5">
+                <text>41-45 students</text>
+            </label>
+            <label key="e6e98ea5f6bfb8ad2b0bafb22bc053c3">
+                <text>46-50 students</text>
+            </label>
+            <label key="0caa43e84e1af95be0b8ec7b0cd5f806">
+                <text>More than 50 students</text>
+            </label>
+        </item>
+        <item id="i6362f1a0913bf41287afcc1c64f06dc987">
+            <label key="346a873078ca9c00dd045a3a44874ec2">
+                <text>
+                    <em>Schools sometimes organise instruction differently for students with different abilities and interests in mathematics.</em>
+                </text>
+            </label>
+            <label key="38e592fd79de268fb9371e777cd3250d">
+                <text>
+                    <strong>Which of the following options describe what your school does for &lt;national modal grade for 15-year-olds&gt; students in science classes?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="e8791a99497714b4c1104b8a2f60969b">
+                <text>
+                    <em>For all classes</em>
+                </text>
+            </label>
+            <label key="69361d640c9e02300cd43411d1564d71">
+                <text>
+                    <em>For some classes</em>
+                </text>
+            </label>
+            <label key="a9dd22267b34b426295fbd3c488400e8">
+                <text>
+                    <em>Not for any classes</em>
+                </text>
+            </label>
+            <label key="bc8c55a8d70f7fb854bc5aac5951bd9e">
+                <text>Science classes study similar content, but at different levels of difficulty.</text>
+            </label>
+            <label key="6fd79dfe6adf458af2853faf79d0a1de">
+                <text>Different classes study different content or sets of science topics that have different levels of difficulty (e.g. physics, chemistry or biology).</text>
+            </label>
+            <label key="21d617148d712c2d4271e60dbeb2a3ab">
+                <text>Students are grouped by ability within their science classes.</text>
+            </label>
+            <label key="79eff13af7094b37d3c1a3d4711ad026">
+                <text>In science classes, teachers use pedagogy suitable for students with heterogeneous abilities (i.e. students are not grouped by ability).</text>
+            </label>
+        </item>
+        <item id="i6362f1abdd7894170167e6341a63e23741">
+            <label key="19df7494510a842ca71bc59d72ce7af5">
+                <text>
+                    <strong>Do the following statements apply to your school?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="fc5c2ddb6672ec8cd74aa5612d82886f">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="e13b3541151beb09a64d7c9642ebdafa">
+                <text>The school has a written statement about the general use of digital devices on the school premises.</text>
+            </label>
+            <label key="08287530dcb26847910e2e7b3aa7cd89">
+                <text>The use of &lt;cell phones&gt; is not allowed on the school premises.</text>
+            </label>
+            <label key="3d654618724b2d5eb5d0c47db18faab3">
+                <text>The school has formal guidelines for the use of digital devices for teaching and learning in specific subjects.</text>
+            </label>
+            <label key="b933f27fdac0189b5784db57bea92690">
+                <text>Teachers establish rules for when students may use digital devices during lessons.</text>
+            </label>
+            <label key="0e62acc3159d291a3a1be80e1c7691ac">
+                <text>Teachers establish rules in collaboration with students about their use of &lt;digital resources&gt; at school or in class.</text>
+            </label>
+            <label key="f8435255af155749cad9ccbda272b025">
+                <text>The school has a specific programme to prepare students for responsible internet behaviour.</text>
+            </label>
+            <label key="1cc546af2213e216dcceb60b6d7173dd">
+                <text>The school has a specific policy about using social networks (e.g. &lt;Facebook®&gt;) in teaching and learning.</text>
+            </label>
+            <label key="bfb23e7cf0f7da02a381d0052d924911">
+                <text>The school has a specific programme to promote collaboration on the use of digital devices among teachers.</text>
+            </label>
+            <label key="43ddcb8bcdaa71d6b343e04f204af5bd">
+                <text>The school has a scheduled time for teachers to meet to share, evaluate or develop instructional materials and approaches that employ digital devices.</text>
+            </label>
+        </item>
+        <item id="i6362f1b6e93db47745e2603f5d4be41c31">
+            <label key="8ec9934be05b54704b4a2bcbe40d5027">
+                <text>
+                    <strong>Are the following subjects required or optional for students in &lt;national modal grade for 15-year-olds&gt;?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="e4e23734ad12b625915cd9e0d1701bf0">
+                <text>
+                    <em>Required</em>
+                </text>
+            </label>
+            <label key="dbc5c0e72695209ca03a72048164ad32">
+                <text>
+                    <em>Optional</em>
+                </text>
+            </label>
+            <label key="e38f4def1d2d2abe1888f2890234d216">
+                <text>
+                    <em>Courses in this subject are not available</em>
+                </text>
+            </label>
+            <label key="5e33524e0eddea2ac544cdb60fa23eb1">
+                <text>&lt;School Science&gt;</text>
+            </label>
+            <label key="540b21ecdb276f5087ee585cedd6d5d0">
+                <text>Mathematics</text>
+            </label>
+            <label key="4f13f0a95f027967516a4fc7b2d6452e">
+                <text>&lt;Test language&gt;</text>
+            </label>
+        </item>
+        <item id="i6362f1d1ac34f16021324af433e4882488">
+            <label key="bc52a160ad47c8735c3cf64641ddeacd">
+                <text>
+                    <em>Some schools organise instruction differently for students with different abilities.</em>
+                </text>
+            </label>
+            <label key="c87ef70650146043dfc04199305f918c">
+                <text>
+                    <strong>What is your school’s policy about this for students in &lt;national modal grade for 15-year-olds&gt;?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="34527f23531605a7311e54f603c6832f">
+                <text>
+                    <em>For all subjects</em>
+                </text>
+            </label>
+            <label key="cf8b194b3c5179ec79245bf5b7486d49">
+                <text>
+                    <em>For some subjects</em>
+                </text>
+            </label>
+            <label key="804152ed62d59f3f5091798454247ff5">
+                <text>
+                    <em>Not for any subjects</em>
+                </text>
+            </label>
+            <label key="ee4aded266bf9f9a2d3c9c04e5b2cccb">
+                <text>Students are grouped by ability into different classes.</text>
+            </label>
+            <label key="88bd52591edd5b1ebb55f5de75ed3995">
+                <text>Students are grouped by ability within their classes.</text>
+            </label>
+        </item>
+        <item id="i6362f1dc59b79160294f39aa796e162561">
+            <label key="fee1c1db8f392398783afb7c2bb38370">
+                <text>
+                    <strong>Who has the main responsibility for the following decisions at your school?</strong>
+                </text>
+            </label>
+            <label key="c166671fc7f12bde6e248e17a7ed1709">
+                <text>
+                    <em> (Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="f1833350e4ec2b56a4ba55067d941e8d">
+                <text>
+                    <em>Student</em>
+                </text>
+            </label>
+            <label key="ebd5857ec3356b1855a5519543f0e0d1">
+                <text>
+                    <em>Parent(s) or Guardian(s)</em>
+                </text>
+            </label>
+            <label key="cb3a4f9268761cb706892a4039054329">
+                <text>
+                    <em>School staff</em>
+                </text>
+            </label>
+            <label key="f4052d90570f03b55601769e684a3b27">
+                <text>
+                    <em>Not applicable</em>
+                </text>
+            </label>
+            <label key="3c3e0f1084b7e59d572a44da04f93313">
+                <text>Choosing a student’s science course(s)</text>
+            </label>
+            <label key="197a030d1cba18ae63f7fd67986c109d">
+                <text>Choosing the level of difficulty of a student’s science course(s)</text>
+            </label>
+            <label key="a98ba9b7682407f85b70afbde6e4caf4">
+                <text>Choosing the number of science courses or &lt;class periods&gt; that a student takes</text>
+            </label>
+        </item>
+        <item id="i636301c74cc5a413642cfae8877c248210">
+            <label key="fb36e29534cf742d76be2815ad153c30">
+                <text>
+                    <strong>Which of the following types of in-house professional development exist for staff who teach &lt;school science&gt; at your school?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="0b51d4843849a80d85a82f2f35620d15">
+                <text>Our school invites specialists to conduct in-service training for &lt;school science&gt; teachers.</text>
+            </label>
+            <label key="6955479c05c512664d44726d3f8a96f3">
+                <text>Our school organises in-service workshops, which deal with specific issues that our &lt;school science&gt; teachers face.</text>
+            </label>
+            <label key="8fb9ce5678395a8605b92e4f87e0300a">
+                <text>Our school organises in-service workshops for specific &lt;school science&gt; teachers (e.g. newly appointed teachers).</text>
+            </label>
+        </item>
+        <item id="i636301d3688f5413611b8ce00cc5f5989f">
+            <label key="88297f8bd866b53fc16faf96387c93a7">
+                <text>
+                    <strong>Does your school offer professional development to &lt;school science&gt; teachers in any of the following?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="ff66eac0a842a3c8d09a72d1e5246e32">
+                <text>&lt;School science&gt; content</text>
+            </label>
+            <label key="38f9b1896b4eee3a9c0df597f706ddc2">
+                <text>&lt;School science&gt; pedagogy/instruction</text>
+            </label>
+            <label key="48d2008907c6c7793b94f496925e3708">
+                <text>&lt;School science&gt; curriculum</text>
+            </label>
+            <label key="7a0f0bf373b2036533b5e749d71b73f1">
+                <text>Integrating digital resources into &lt;school science&gt; instruction</text>
+            </label>
+            <label key="44672c1bdb19aa8870a3a4b25514fdbc">
+                <text>&lt;School science&gt; assessment</text>
+            </label>
+            <label key="bdf2078a24bc7897b622fff0496a7043">
+                <text>Addressing individual students' needs (e.g. differentiated learning, differentiated instruction)</text>
+            </label>
+        </item>
+        <item id="i63630200220cd477455cb5156e950efc0b">
+            <label key="52b22bce4be4914dd05c064b8d7d6173">
+                <text>
+                    <strong>Which of the following types of in-house professional development exist at your school?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="4973c4a51dedd591acf7b3d9321dab7d">
+                <text>Our school invites specialists to conduct in-service training for teachers.</text>
+            </label>
+            <label key="15ab2791dbcb2377eab82e0edf1fef5e">
+                <text>Our school organises in-service workshops which deal with specific issues that our school faces.</text>
+            </label>
+            <label key="a4b34a01143b375c4683ba92ff6b7228">
+                <text>Our school organises in-service workshops for specific groups of teachers (e.g. newly appointed teachers).</text>
+            </label>
+        </item>
+        <item id="i6363067d111f0160363414829363ca0f02">
+            <label key="86959db7fffaa429be75d1befa199abe">
+                <text>
+                    <strong>In your school, are &lt;school science&gt; achievement data used in the following ways?</strong>
+                </text>
+            </label>
+            <label key="772b04e9368ba335f06ee9156ea5c934">
+                <text>
+                    <em>Achievement data include aggregated school or grade-level test scores or grades, or graduation rates.</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="493ef8efa0cf1a2a67868e6e17bb7816">
+                <text>&lt;School science&gt; achievement data are posted publicly (e.g. in the media)</text>
+            </label>
+            <label key="484e64162760c46eeb29a62dee386f1c">
+                <text>&lt;School science&gt; achievement data are tracked over time by an administrative authority</text>
+            </label>
+            <label key="0f9db0523266444c7a9d426ca07b23c6">
+                <text>&lt;School science&gt; achievement data are provided directly to parents or guardians</text>
+            </label>
+        </item>
+        <item id="i636306852bc5e4142394faead437254a43">
+            <label key="646d88166f96553029f493bd4f8ac136">
+                <text>
+                    <strong>Do the following arrangements aimed at quality assurance and improvements exist in your school and where do they come from?</strong>
+                </text>
+            </label>
+            <label key="a8dac7d9bff2461f495515a23702e369">
+                <text>
+                    <em>(If you need further explanation of the term “internal school evaluation” or “external school evaluation”, please use the help button.)</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="35ce0eb261b83627a4ee879a5d1de354">
+                <text>
+                    <em>Yes, this is mandatory, e.g. based on district or ministry policies</em>
+                </text>
+            </label>
+            <label key="842be0e8f3579ea7a14534eb77f6abee">
+                <text>
+                    <em>Yes, based on school initiative</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="b23a12c008752f6942087f4cce7b0ad2">
+                <text>Internal evaluation/Self-evaluation</text>
+            </label>
+            <label key="29b9e8467055e5ac5605c1fb702fdc43">
+                <text>External evaluation</text>
+            </label>
+            <label key="2dd08a33abe0782e4a547fb74f110eaa">
+                <text>Written specification of the school’s curricular profile and educational goals</text>
+            </label>
+            <label key="2d931856139475cca9cd690208754779">
+                <text>Written specification of student performance standards</text>
+            </label>
+            <label key="919f9f46a9a91c404494cc3297424677">
+                <text>Systematic recording of data such as teacher or student attendance and professional development</text>
+            </label>
+            <label key="d54fd80f09c0448ddabbfb4a5696ea59">
+                <text>Systematic recording of student test results and graduation rates</text>
+            </label>
+            <label key="9efe092edf2f00d5b41fd4452730bc48">
+                <text>Seeking written feedback from students (e.g. regarding lessons, teachers or resources)</text>
+            </label>
+            <label key="5c2e7272a03e4b5265b013c932871838">
+                <text>Teacher mentoring</text>
+            </label>
+            <label key="9654d895396fe4408d9ec4c0095380ee">
+                <text>Regular consultation aimed at school improvement with one or more experts over a period of at least six months</text>
+            </label>
+            <label key="2d8bc6e0d41ea32a0c201ec5dabc2a7a">
+                <text>Implementation of a standardised policy for mathematics subjects (i.e. school curriculum with shared instructional materials accompanied by staff development and training)</text>
+            </label>
+        </item>
+        <item id="i6363068a47ce1160239c8f5dc69929faa0">
+            <label key="4174efaa1437873d02a957b4965ce54a">
+                <text>
+                    <strong>Thinking about the last external evaluation in your school: Did the following occur?</strong>
+                </text>
+            </label>
+            <label key="3a8e13aa58bcf172c23078c7d6ed48bb">
+                <text>
+                    <em>(If you need further explanation of the term “external evaluation”, please use the help button.)</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="f4052d90570f03b55601769e684a3b27">
+                <text>
+                    <em>Not applicable</em>
+                </text>
+            </label>
+            <label key="27239f32b91a9b84099933bc6f27e38f">
+                <text>The results of external evaluation led to changes in school policies.</text>
+            </label>
+            <label key="e8e8da5c2fd4ed27f7bf1b1a93e9b800">
+                <text>We used the data to plan specific action for school development.</text>
+            </label>
+            <label key="484e07b3652cf16da19a8700b44aaab0">
+                <text>We used the data to plan specific action for the improvement of teaching.</text>
+            </label>
+            <label key="bbdbc14dc2b080b25d754452d92ca5b6">
+                <text>We put measures derived from the results of external evaluations into practice.</text>
+            </label>
+        </item>
+        <item id="i636306932530e16045e37c2f9ff43ef257">
+            <label key="f2f297f0b82f4351d9c80bea78e5ef8f">
+                <text>
+                    <strong>In your school, are results from &lt;social and emotional skills&gt; assessments used in the following ways?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="89aeb3bd8bcdd6a9a7ac5dab3617979b">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="8b5fc7d464bf537bbfe1a40d5f5dc970">
+                <text>Results are posted publicly in aggregate (e.g. in the media)</text>
+            </label>
+            <label key="88ff536f6a75f6d29c665b30008d1a6b">
+                <text>Results are tracked over time by an administrative authority</text>
+            </label>
+            <label key="de0c23af0c1440398092a46911b49418">
+                <text>Results are provided directly to parents or guardians</text>
+            </label>
+            <label key="80504a5d5b5a1d0460ad6b6a640fe331">
+                <text>Results are used to identify aspects of instruction or the curriculum that could be improved</text>
+            </label>
+            <label key="ef2473b4304b71dfca83d362a2ca5d4d">
+                <text>Results are compared to the results of other schools</text>
+            </label>
+            <label key="99fe450dd7bb4116068486d09d5e894d">
+                <text>Results are compared to &lt;district or national&gt; results</text>
+            </label>
+        </item>
+        <item id="i6363069724f1c417013ce550300bc21013">
+            <label key="c200f27358e63522829d6c0801659e83">
+                <text>
+                    <strong>Generally, in your school, how often are students &lt;in national modal grade for 15-year-olds&gt; assessed using the following methods?</strong>
+                </text>
+            </label>
+            <label key="812ab255fb71f33aae157fdab32ab472">
+                <text>
+                    <em>If you need further explanation of the term “&lt;standardised tests&gt;”, please use the help button.</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="c8966fa2072a886db8725fd4b6a245d8">
+                <text>
+                    <em>Never</em>
+                </text>
+            </label>
+            <label key="6857c66d46e6240abff06becdf41c752">
+                <text>
+                    <em>1-2 times a year</em>
+                </text>
+            </label>
+            <label key="3bbcd34df3f7bf4d56b374b555754dd2">
+                <text>
+                    <em>3-5 times a year</em>
+                </text>
+            </label>
+            <label key="9ed065c6a995e281224e54238be2f2b8">
+                <text>
+                    <em>Monthly</em>
+                </text>
+            </label>
+            <label key="caefca53d1ad6a85f8594284dda01c4c">
+                <text>
+                    <em>More than once a month</em>
+                </text>
+            </label>
+            <label key="86e5390abd777c3e1bc5bf5e7cf4532b">
+                <text>Mandatory &lt;standardised tests&gt;, e.g. &lt;country specific example&gt;</text>
+            </label>
+            <label key="79fd78484a6979f54384682e702fac88">
+                <text>Non-mandatory &lt;standardised tests&gt; (e.g. publicly or commercially available standardised test material like &lt;country specific example&gt;)</text>
+            </label>
+            <label key="fbaf79604d9e2804aafc576919e3bdfe">
+                <text>Teacher-developed tests</text>
+            </label>
+            <label key="197915effd537968d336776c90b1581b">
+                <text>Teachers’ judgmental ratings</text>
+            </label>
+        </item>
+        <item id="i6363069c3dda816029e70788fdfc2e422d">
+            <label key="8769790838beb77dee0cef9c328d5c8c">
+                <text>
+                    <strong>In your school, are &lt;standardised tests&gt; and/or teacher-developed tests of students in &lt;national modal grade for 15-year-olds&gt; used for any of the following purposes?</strong>
+                </text>
+            </label>
+            <label key="508bbb6bf582daeeaafb2b62f8b509b6">
+                <text>
+                    <em>If you need further explanation of the term “&lt;standardised tests&gt;”, please use the help button.</em>
+                </text>
+            </label>
+            <label key="016962e1ccf09fb8dda68d7e04286ad7">
+                <text>
+                    <em>(Please select either “yes” or “no” to indicate the use of &lt;standardised tests&gt; and teacher-developed tests for each of the specified purposes.)</em>
+                </text>
+            </label>
+            <label key="a30560ff1cd418338d19dd085800bcdf">
+                <text>
+                    <em>&lt;Standardised tests&gt;</em>
+                </text>
+            </label>
+            <label key="bf8f29bcec4a9a0b72f3e862efe524f5">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="4492feec023352a25b94b380cc5dc6d8">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="8cd2f28ee31ca2a4dd3b72b57c2b3058">
+                <text>To guide students’ learning</text>
+            </label>
+            <label key="01ce7abdd43797be798a2bb46a12c4bd">
+                <text>To inform parents or guardians about their child’s progress</text>
+            </label>
+            <label key="dc63d1d1265c5f7a226fafd59cc50a5a">
+                <text>To make decisions about students’ retention or promotion</text>
+            </label>
+            <label key="2b0e2bf6ff79a1ce5dfed73fc605e822">
+                <text>To group students for instructional purposes</text>
+            </label>
+            <label key="59fa6fc2256954de9c9eefb826adde8d">
+                <text>To compare the school to &lt;district or national&gt; performance</text>
+            </label>
+            <label key="8ffaf9359e951967b1ea1dd763cb57d1">
+                <text>To monitor the school’s progress from year to year</text>
+            </label>
+            <label key="69ebb3fa0bb4722b21c61fd692a43920">
+                <text>To make judgements about teachers’ effectiveness</text>
+            </label>
+            <label key="295d4bc4e5019e0cef5e8dea6d819539">
+                <text>To identify aspects of instruction or the curriculum that could be improved</text>
+            </label>
+            <label key="33be86da45c5747b605ce29fa23fda50">
+                <text>To adapt teaching to the students’ needs</text>
+            </label>
+            <label key="f8596718b98108331de516cefebdfe7a">
+                <text>To compare the school with other schools</text>
+            </label>
+            <label key="382af7950e1590000f6981e69248cf32">
+                <text>To award certificates to students</text>
+            </label>
+            <label key="4017cdffaa020c3a00d20fc91c7f649d">
+                <text>
+                    <em>Teacher-developed tests</em>
+                </text>
+            </label>
+            <label key="fc5c2ddb6672ec8cd74aa5612d82886f">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="89aeb3bd8bcdd6a9a7ac5dab3617979b">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+        </item>
+        <item id="i6363069f294ad413556c53501e5f0a24d5">
+            <label key="25922e1c7b534452d6e2c55409dfe81b">
+                <text>
+                    <strong>During &lt;the last academic year&gt;, have any of the following methods been used to monitor the practice of teachers at your school?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="5e696029ef6e9c317fb6885f316103f5">
+                <text>Tests or assessments of student achievement</text>
+            </label>
+            <label key="a6d48f0b40e62ab3b4bb8559454a5253">
+                <text>Teacher peer review (of lesson plans, assessment instruments, lessons)</text>
+            </label>
+            <label key="5cab5c7c608549dfa053b8d9efbc61a1">
+                <text>Principal or senior staff observations of lessons</text>
+            </label>
+            <label key="dc792cb472f1b14dc8fc8f8275df6004">
+                <text>Observation of classes by inspectors or other persons external to the school</text>
+            </label>
+        </item>
+        <item id="i636306a233d53160122cc83b0ca866e1f4">
+            <label key="51fce4d8909753170e1d981362314f33">
+                <text>
+                    <strong>What impact did appraisals of teachers at your school have on any of the following?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="7ca2cfea606fc6091a7b609d8a5f3160">
+                <text>
+                    <em>No impact</em>
+                </text>
+            </label>
+            <label key="5c13f30e2aedfcf727915873b942948f">
+                <text>
+                    <em>Small impact</em>
+                </text>
+            </label>
+            <label key="e53dd5abaa8a4ae19a0a4668aee3ae4a">
+                <text>
+                    <em>Moderate impact</em>
+                </text>
+            </label>
+            <label key="21ea99250ed88cb517852c9fe1452053">
+                <text>
+                    <em>Large impact</em>
+                </text>
+            </label>
+            <label key="cb5d9540482bca7832b26eaa0861e8a9">
+                <text>A change in salary</text>
+            </label>
+            <label key="7c3f3ebed6e337d8013e1e5dbecc0a90">
+                <text>A financial bonus or another kind of monetary reward</text>
+            </label>
+            <label key="aab4a0aacae26e5f6b62d23ca461291e">
+                <text>Opportunities for professional development activities</text>
+            </label>
+            <label key="df61f1343b9d9ea12d4a183d7aeebc94">
+                <text>A change in the likelihood of career advancement</text>
+            </label>
+            <label key="aa7f5b5928d57f09152d3371095a19ae">
+                <text>Public recognition from you</text>
+            </label>
+            <label key="c116e45628d8d673472335ead42dc374">
+                <text>Changes in work responsibilities that make the job more attractive</text>
+            </label>
+            <label key="4ba458d9c4ef1d6d8c3a48aba4551e91">
+                <text>A role in school development initiatives (e.g. curriculum development group, development of school objectives)</text>
+            </label>
+        </item>
+        <item id="i63630983182bf16054b709458692be1376">
+            <label key="4fd9fad882ce3c42e2571db6dfea5628">
+                <text>
+                    <strong>In your school, are questionnaires or other self-assessments used to measure &lt;social and emotional skills&gt; of students in &lt;national modal grade for 15-year-olds&gt;?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+        </item>
+        <item id="i636315eb6baef24983ed37d96e60689461">
+            <label key="58a3191c93caf47fdd6263b81ae49bb4">
+                <text>
+                    <strong>During &lt;the last academic year&gt;, what proportion of students’ parents or guardians participated in the following school-related activities?</strong>
+                </text>
+            </label>
+            <label key="7a7f38ed10756942e8de6912cd87e5b2">
+                <text>
+                    <em>(Please move the slider to the appropriate position. If no parents participated in the activity, please select “0” (zero). Select “100” (one hundred) if all parents participated in the activity.)</em>
+                </text>
+            </label>
+            <label key="fc14365d9b6eb29da8906c740b767d98">
+                <text>Discussed their child’s behaviour with a teacher on the parents’ or guardians’ own initiative</text>
+            </label>
+            <label key="29e9e69f693d962e0e8cf490ccb1e0f1">
+                <text>Discussed their child’s behaviour on the initiative of one of their child’s teachers</text>
+            </label>
+            <label key="55220164c19c2355325932ca5ae2a148">
+                <text>Discussed their child’s progress with a teacher on the parents’ or guardians’ own initiative</text>
+            </label>
+            <label key="ab95ba1ae8d4ac99917b5488362f700c">
+                <text>Discussed their child’s progress on the initiative of one of their child’s teachers</text>
+            </label>
+            <label key="b613b52a33fc27defbfc007232e78111">
+                <text>Volunteered in physical or extra-curricular activities, (e.g. building maintenance, carpentry, gardening or yard work, school play, sports, field trip)</text>
+            </label>
+            <label key="14593f4dbcd08fb0a00917033a8a4795">
+                <text>Participated in local school government (e.g. parent council or school management committee)</text>
+            </label>
+            <label key="7a92302f2caa22792a8eb839316b8a69">
+                <text>Assisted in fundraising for the school</text>
+            </label>
+        </item>
+        <item id="i636315f4db42616045ad52faef04f2e36e">
+            <label key="a803ad2dcef90cfa3883a49142c2d631">
+                <text>
+                    <strong>During &lt;the last academic year&gt;, how often has the school staff done each of the following?</strong>
+                </text>
+            </label>
+            <label key="5c5ac3bff3a0028488b80d08be839d10">
+                <text>
+                    <em>(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="4f76188f7ed8b86216bd9c03968550c4">
+                <text>
+                    <em>Never or almost never</em>
+                </text>
+            </label>
+            <label key="a20f675e9ccda575e7fa1ac19574815a">
+                <text>
+                    <em>A few times a year</em>
+                </text>
+            </label>
+            <label key="fcebc5bf74de4359425a5ec5ae3c1507">
+                <text>
+                    <em>A few times a month</em>
+                </text>
+            </label>
+            <label key="a3c61dccd04c3b9f44f90ba0bb675741">
+                <text>
+                    <em>Once a week or more</em>
+                </text>
+            </label>
+            <label key="6674292e670fa228d9db382fc826602e">
+                <text>Invited parents or guardians to volunteer for school activities</text>
+            </label>
+            <label key="f780f0ec913b6b8616cd97dea2cbb896">
+                <text>Initiated communications with parents or guardians about school programmes</text>
+            </label>
+            <label key="08d27e68c367498af7e1c15fb1e7c802">
+                <text>Initiated communications with parents or guardians about their child’s progress</text>
+            </label>
+            <label key="454eee2792577a02f31ac12f0829f299">
+                <text>Included parents or guardians in making school decisions</text>
+            </label>
+            <label key="ffcf10f0764b2f7a1caba3c75456dc8f">
+                <text>Provided information to parents or guardians about how to help students with homework and other curriculum-related activities</text>
+            </label>
+            <label key="97ffab95107605edd5df8f64ad77e4a6">
+                <text>Provided information to parents or guardians about how to help students improve their skills in science</text>
+            </label>
+        </item>
+        <item id="i6363201147f8824101c157c03be4241d1d">
+            <label key="d03eb554a2694c947a2aaca0cb494380">
+                <text>Which of the following &lt;school science&gt; courses were available to &lt;national modal grade for 15-year-olds&gt; last year and this year?</text>
+            </label>
+            <label key="0e018d5ee0d58a1114eba66a3b401110">
+                <text>
+                    <em>(Please select all that apply.)</em>
+                </text>
+            </label>
+            <label key="50ae99e9c35446c2580e4b540b0fd104">
+                <text>Physics</text>
+            </label>
+            <label key="84cf6008945c9b558ed7c0869557b70d">
+                <text>Chemistry</text>
+            </label>
+            <label key="9470ddec893781ea65f1a2b71ae5e01c">
+                <text>Biology</text>
+            </label>
+            <label key="5745b22df2ef8e81bba76a755e99c74e">
+                <text>&lt;Earth and space&gt;</text>
+            </label>
+            <label key="119c3239e75883dc23a913a870f5d26f">
+                <text>Earth sciences (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+            <label key="a435f8f4ad1c770186e4cd0b1d905d90">
+                <text>Environmental science (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+            <label key="bf162e6f9b05214cbf844ee601c2ca48">
+                <text>Applied sciences and technology (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+            <label key="3fbda8a4262b9f666dc5b3e355bbbce8">
+                <text>&lt;General, integrated, or comprehensive science&gt; course (e. g. &lt;country-specific example&gt;)</text>
+            </label>
+        </item>
+        <item id="i6363201ad0d74239334a8c68591358dc6">
+            <label key="b667e5cb93b51ca7fa6b5f0696ae488a">
+                <text>
+                    <strong>To what extent can students from the &lt;national modal grade for 15-year-olds&gt; choose the following for their &lt;school science&gt; courses?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="398b7cefb4f924f9a5880300053ef2cb">
+                <text>
+                    <em>No, not at all</em>
+                </text>
+            </label>
+            <label key="929ad858e72a49a64287032644a06d48">
+                <text>
+                    <em>Yes, to a certain degree</em>
+                </text>
+            </label>
+            <label key="ece4a71149b47b080981b0647b4dba7c">
+                <text>
+                    <em>Yes, they can choose freely</em>
+                </text>
+            </label>
+            <label key="014a3e0031d965397548d0a272b6c9bf">
+                <text>Students can choose the &lt;school science&gt; course(s) they study.</text>
+            </label>
+            <label key="9ab5e14330fa25e06182785b4423a591">
+                <text>Students can choose the level of difficulty.</text>
+            </label>
+            <label key="6c981d5a6bb47b370d7fe58cb6e6841e">
+                <text>Students can choose the number of &lt;school science&gt; courses or &lt;class periods&gt;.</text>
+            </label>
+            <label key="2713d8a559a2d28ef72180af6dacb2b6">
+                <text>Students can choose from different teachers teaching the same course(s).</text>
+            </label>
+        </item>
+        <item id="i63633ec94b4cb24623a29830b8a84d649b">
+            <label key="79cf82adf07a0a699d2e72908167aaa4">
+                <text>
+                    <strong>Does your school offer career guidance to students in &lt;national modal grade for 15-year-olds&gt;?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+        </item>
+        <item id="i63633ed18b7f8209986b3a40c5a4c8b98">
+            <label key="2c927da7fb0dd93606dc1f12efa317a3">
+                <text>
+                    <strong>Who has the main responsibility for career guidance of students in &lt;national modal grade for 15-year-olds&gt; at your school?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="b399abf32975c581a8d0faeff541f838">
+                <text>All teachers share the responsibility for career guidance.</text>
+            </label>
+            <label key="00cbf3e5f9967a5a26d22fe3d0a3f989">
+                <text>Specific teachers have the main responsibility for career guidance.</text>
+            </label>
+            <label key="748fdd39e110951c01aeff77e099a4a4">
+                <text>One or more specific career guidance counsellors <strong>employed </strong>at school have the main responsibility for career guidance.</text>
+            </label>
+            <label key="b10370497b724bf943f58a2ec5122c97">
+                <text>One or more specific career guidance counsellors who regularly <strong>visit </strong>the school have the main responsibility for career guidance.</text>
+            </label>
+        </item>
+        <item id="i63633ed81deff246395348e40e5b3958c2">
+            <label key="d18424b688575ae1fe5599177a231d2a">
+                <text>
+                    <strong>Does your school provide the following types of information to students in &lt;national modal grade for 15-year-olds&gt;?</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>(Please select one response in each row.)</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>Yes</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>No</em>
+                </text>
+            </label>
+            <label key="6db76c9917625009e3acda0c7a0ae4fb">
+                <text>Information about internships</text>
+            </label>
+            <label key="852d3c39f4511f9a6444cb0bc0d3ac9f">
+                <text>Information about future careers</text>
+            </label>
+            <label key="6d243f3fce3c620acef79b806df2ea8e">
+                <text>Information about future educational opportunities</text>
+            </label>
+            <label key="2aeb2a17538cb07f27954360e07fa2cd">
+                <text>Information about student financing (e.g. student loans or grants)</text>
+            </label>
+        </item>
+        <item id="i63633eed73ec323947ac7b60c590c31e46">
+            <label key="ed05f3acf000593d5e424007b1b441c6">
+                <text>
+                    <strong>Which of the statements below best describes the situation for students in &lt;national modal grade for 15-year-olds&gt; at your school?</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>(Please select one response.)</em>
+                </text>
+            </label>
+            <label key="2013b97ce1bf9a4a5aab34ce479111a3">
+                <text>Career guidance is sought voluntarily by students.</text>
+            </label>
+            <label key="f57db90038aee271299d07f44e47cec2">
+                <text>Career guidance is formally scheduled into students’ time at school.</text>
+            </label>
+        </item>
+    </items>
+</file>

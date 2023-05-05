@@ -1,0 +1,156 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc633a64b67f46f/passage NEW.xml">
+            <label key="7e64eb055b453276cd98f526e7c5e4dc">
+                <text>Nocturnal Pollination</text>
+            </label>
+            <label key="27e8c0f9668990e5cd92b74ac9cbfdd9">
+                <text>There are many types of insects that pollinate flowers at night. </text>
+            </label>
+            <label key="dbb963fb53c0b1192b3ae20ec2f5f50f">
+                <text>Some flowers are only pollinated by moths. </text>
+            </label>
+            <label key="84ddd50b6360a8d7b66e411fa762c199">
+                <text>Moths are most attracted to light wavelengths from 350 nm to 450 nm.</text>
+            </label>
+            <label key="6924d82d3c03218ecfc262e03862452a">
+                <text>Different sources of light emit light of different wavelengths.</text>
+            </label>
+            <label key="2253fdfd8623c12d416cf397c31ef708">
+                <text>Streetlights often use high-pressure sodium (HPS) systems, which emit light of the wavelengths shown in graph (a). The HPS streetlight emits more yellow light than other wavelengths. For most humans, this streetlight will appear yellow.</text>
+            </label>
+            <label key="360cb6b212ed4a1d1b79f56b85828505">
+                <text>Some countries are replacing HPS with LED lights, which consume less energy.</text>
+            </label>
+            <label key="26c99dd6b34427431f2a3775f4c5b4de">
+                <text>The wavelengths emitted by three different types of LED light are shown in graphs (b), (c) and (d).</text>
+            </label>
+            <label key="2b1d507a6aa25871c36743e4f7af38db">
+                <text>
+                    <strong>Relative emission (%)</strong>
+                </text>
+            </label>
+            <label key="48d6215903dff56238e52e8891380c8f">
+                <text>blue</text>
+            </label>
+            <label key="9f27410725ab8cc8854a2769c7a516b8">
+                <text>green</text>
+            </label>
+            <label key="d487dd0b55dfcacdd920ccbdaeafa351">
+                <text>yellow</text>
+            </label>
+            <label key="bda9643ac6601722a28f238714274da4">
+                <text>red</text>
+            </label>
+            <label key="85967be903d4c2fa0017074e3ca5cb51">
+                <text>
+                    <strong>a) HPS</strong>
+                </text>
+            </label>
+            <label key="2181eb7dacd6276f6435d3a78167c54b">
+                <text>
+                    <strong>b) LED1</strong>
+                </text>
+            </label>
+            <label key="f24491c4223a5bfc9c2d95b1f7aed175">
+                <text>
+                    <strong>c) LED2</strong>
+                </text>
+            </label>
+            <label key="9ce429c3b99e3b5d2ef3d9b9a0fb4a92">
+                <text>
+                    <strong>d) LED3</strong>
+                </text>
+            </label>
+            <label key="ecba3dfa2f0827e6e63ba4677450c669">
+                <text>
+                    <strong>Wavelength (nm)</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633a65259902b1625563538420ca57637">
+            <label key="ed92ddc66fe04558504a0e474d6fc2aa">
+                <text>What colour would LED 1 likely appear to humans?</text>
+            </label>
+            <label key="48d6215903dff56238e52e8891380c8f">
+                <text>blue</text>
+            </label>
+            <label key="d508fe45cecaf653904a0e774084bb5c">
+                <text>white</text>
+            </label>
+            <label key="d487dd0b55dfcacdd920ccbdaeafa351">
+                <text>yellow</text>
+            </label>
+            <label key="1ffd9e753c8054cc61456ac7fac1ac89">
+                <text>black</text>
+            </label>
+        </item>
+        <item id="i633a65bb23b1e188023501ab2d31323e9d">
+            <label key="2798987074f0dfecf909fdcb1d39ab65">
+                <text>Using the information provided in the graphs, which LED light is least likely to affect the behaviour of moths?</text>
+            </label>
+            <label key="41a3d2533026cf9c9307832f97670ea6">
+                <text>Select one of these options.</text>
+            </label>
+            <label key="e96c5a8e0714fb4eb72219db8ea8baba">
+                <text>LED 1</text>
+            </label>
+            <label key="483cd5c47dbff30a5ad4a38fdff3e411">
+                <text>LED 2</text>
+            </label>
+            <label key="cd2dd22e779f978c8af77b0e7fa4825c">
+                <text>LED 3</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i633a6757c41e418797e76e28ceec7810b9">
+            <label key="d031aa399d3c274842daa4270b3c807e">
+                <text>Some flowers have markings that direct insects to the nectar. The markings strongly reflect light with wavelengths between 350 nm and 400 nm.</text>
+            </label>
+            <label key="edf2b12d4e820166a03c45d537e02ae6">
+                <text>Give one reason for why the markings benefit the flowering plant.</text>
+            </label>
+        </item>
+        <item id="i633a679316cc5188188a07a79ab517bf15">
+            <label key="2dc8cf7be1e6e22099090c08059fa68c">
+                <text>Which one of the following changes would reduce the impact of streetlights on moths and remain safe for the pedestrians?</text>
+            </label>
+            <label key="7d44180a458e2f202eb7d169262d780e">
+                <text>removing all streetlights</text>
+            </label>
+            <label key="b01dcb81639fb220983e534b7d6c9499">
+                <text>turning off streetlights during the night</text>
+            </label>
+            <label key="04175f62af299e5796dd3ed615fd031e">
+                <text>using solar panels to supply the electrical energy for the streetlights</text>
+            </label>
+            <label key="7b01f230af5063dd8e9a2578fba6339d">
+                <text>using streetlights emitting light of mostly longer wavelengths</text>
+            </label>
+        </item>
+        <item id="i633a6804d2da618795dd1956d24285393e">
+            <label key="fce1de13269adf6dec6e394a75fd04ce">
+                <text>A student claims that LED lights are always better for the environment than HPS lights. </text>
+            </label>
+            <label key="1b14881382230938c0afdbc245bb29b0">
+                <text>Is this claim true?</text>
+            </label>
+            <label key="33a4910e5c5dc9b5b9b61c8c52e00765">
+                <text>Select ‘Yes’ or ‘No’.</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,160 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6396c5b872315/passage NEW.xml">
+            <label key="671f028142280b556a85ffdd90e0a43d">
+                <text>Mars</text>
+            </label>
+            <label key="79f4c592812b19cbdb98d1f71baf94e3">
+                <text>Some scientists have proposed that a colony could be built on Mars by 2050.</text>
+            </label>
+            <label key="3c864406221b1bdf91939a5a56d2e825">
+                <text>Mars and Venus are the two planets that have orbits similar to Earth’s.</text>
+            </label>
+            <label key="0441cd2229ce790ba1db754df3e558ca">
+                <text>The table below shows some characteristics of Earth, Venus and Mars.</text>
+            </label>
+            <label key="5cdd21c97f86686cc505e02fd32a7523">
+                <text>Earth</text>
+            </label>
+            <label key="0bdc508a17811a3a860d32749ad44e4b">
+                <text>Venus</text>
+            </label>
+            <label key="1556423e332967163439223be033948d">
+                <text>Intensity of gravitational field on surface (gravity)</text>
+            </label>
+            <label key="e1a11363f83df023b1728c3cc33479d8">
+                <text>9.8 N/kg</text>
+            </label>
+            <label key="b3c0f56509a800f5dc81039ccadf8e0b">
+                <text>8.9 N/kg</text>
+            </label>
+            <label key="f55bd399e3778348421b5390b3184000">
+                <text>3.7 N/kg</text>
+            </label>
+            <label key="f8572f3944b8378b08f64f188d521924">
+                <text>Orbital period around Sun (Earth days)</text>
+            </label>
+            <label key="06ca3abd90af37997a68841c7b3b9a3c">
+                <text>365.3 days</text>
+            </label>
+            <label key="4566f66b9c6cb1f4f1c0ccf0f80b0cdb">
+                <text>224.7 days</text>
+            </label>
+            <label key="1618b474b9007a97d2ba55f186133f54">
+                <text>686.9 days</text>
+            </label>
+            <label key="9860292a86000e84bd1ac30c4e2f2ed7">
+                <text>Rotation time around its axis</text>
+            </label>
+            <label key="b73de48da93a73ad30afd4a33dee5df9">
+                <text>23 hr 56 min</text>
+            </label>
+            <label key="35e47a763bd2561e391b51091548250c">
+                <text>5,815 hr 48 min</text>
+            </label>
+            <label key="d208e59a97c23454bcbf0e721f479b40">
+                <text>24 hr 37 min</text>
+            </label>
+            <label key="c56c3726892a4f851626eb0246bea505">
+                <text>Average pressure on surface</text>
+            </label>
+            <label key="468ef0835a18065af5e111ca64a20f54">
+                <text>101,300 N/m<sup>2</sup></text>
+            </label>
+            <label key="b988e375e8ab3bbe1cb284adc42086c9">
+                <text>9,322,000 N/m<sup>2</sup></text>
+            </label>
+            <label key="9b8c2cbdc5466d5bee84602a81a21b0e">
+                <text>700 N/m<sup>2</sup></text>
+            </label>
+            <label key="cf9a41f011a090a794abc8e118788dde">
+                <text>Average temperature on surface</text>
+            </label>
+            <label key="e01339728fc428b5bc185ea6e6008af1">
+                <text>15 °C</text>
+            </label>
+            <label key="2d54b2a0f742472849349e528f61ee56">
+                <text>462 °C</text>
+            </label>
+            <label key="1a6f6613c6f5d28f4498cb45bd8ca5e3">
+                <text>–63 °C</text>
+            </label>
+            <label key="41d776fb79311e7252a15e8dda75a74b">
+                <text>Atmospheric composition</text>
+            </label>
+            <label key="cd03e2fe64ae57ba59ecebc923e7597e">
+                <text>78% nitrogen, 21% oxygen, 1% other gases including carbon dioxide</text>
+            </label>
+            <label key="bfe85ce3926c2c31d46a2a4fc8cadd42">
+                <text>96% carbon dioxide, 3% nitrogen, 1% other gases</text>
+            </label>
+            <label key="397a794a0c1670ce9aadc8fefd786b81">
+                <text>95.3% carbon dioxide, 2.7% nitrogen, 2% other gases including oxygen</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6396c773027bf41886323bc7b00497098">
+            <label key="42ca92dbbdeaead8cbc5f1389e6e9d62">
+                <text>Drag the planet labels to order them by length of day, from shortest to longest.</text>
+            </label>
+            <label key="5cdd21c97f86686cc505e02fd32a7523">
+                <text>Earth</text>
+            </label>
+            <label key="671f028142280b556a85ffdd90e0a43d">
+                <text>Mars</text>
+            </label>
+            <label key="0bdc508a17811a3a860d32749ad44e4b">
+                <text>Venus</text>
+            </label>
+            <label key="69c83c59eab563c2d7949f6f32e62ab8">
+                <text>(Shortest) <gap identifier="gap_1" fixed="false" required="false"/> <gap identifier="gap_2" fixed="false" required="false"/> <gap identifier="gap_3" fixed="false" required="false"/> (Longest)</text>
+            </label>
+        </item>
+        <item id="i6396c78aaa0e12212f6787dd79ed872b0">
+            <label key="962bbb53a8e05ccc45ec5c534cae4d13">
+                <text>If a hammer fell out of an astronaut’s hand on Mars, how long would the hammer take to hit the ground?</text>
+            </label>
+            <label key="2271ba583fc3dbd0f7a7eaa2e7f590f2">
+                <text>the same time as on Earth</text>
+            </label>
+            <label key="820f509a68df4b5c3d5eb7d9a4219381">
+                <text>more time than on Earth</text>
+            </label>
+            <label key="cd679d8e991d7a3df3eeefc9745c399e">
+                <text>less time than on Earth</text>
+            </label>
+            <label key="5e0556ad0aa25f06a1c3f9e0f435fb16">
+                <text>The hammer would not fall; it would float.</text>
+            </label>
+        </item>
+        <item id="i6396c7a134e7a2448137b0eb711498fbd1">
+            <label key="00a68a99f8a95415f816b012cbb16393">
+                <text>Humans choose to set up a colony on Mars rather than on Venus.</text>
+            </label>
+            <label key="ebdb3aefc023c3dda75220b15b461a65">
+                <text>Use information from the table to give two reasons that explain why Venus is less suitable for humans than Mars.</text>
+            </label>
+            <label key="3e95066b0b2446c24198c96815233c3e">
+                <text>Reason 1</text>
+            </label>
+            <label key="ddda06bb66b991b95c3df5e6ed3fe1f0">
+                <text>Reason 2</text>
+            </label>
+        </item>
+        <item id="i6396ca9730c9024481cd66d16323b953e6">
+            <label key="3c853a6d408ac6778115b5d416c5ce98">
+                <text>Could humans live on Mars without breathing apparatus?</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="4ada479a4fc5a081d613291140b9c052">
+                <text>Use information from the table to explain your answer.</text>
+            </label>
+        </item>
+    </items>
+</file>

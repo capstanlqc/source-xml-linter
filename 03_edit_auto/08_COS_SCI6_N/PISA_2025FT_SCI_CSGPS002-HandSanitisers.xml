@@ -1,0 +1,228 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc638ecef00e91d/passage NEW.xml">
+            <label key="74d80f18a4cf4b7deca684fb2fc60f88">
+                <text>Hand Sanitisers</text>
+            </label>
+            <label key="93551e967afbb4af6d821370576db2cf">
+                <text>There are two types of hand sanitisers:</text>
+            </label>
+            <label key="6b28c07e108710871c9c5cf5968037ff">
+                <text>Type 1: Alcohol-free hand sanitisers (AFHS) contain only non-alcoholic antiseptic chemicals. AFHS prevent the growth of microorganisms that cause disease. Some may kill bacterial spores and fungi.</text>
+            </label>
+            <label key="4e3050bbf023e0e4853714cd2b9b598f">
+                <text>Type 2: Alcohol-based hand sanitisers (ABHS) contain one or more types of alcohol. ABHS quickly kill bacteria without the need for water.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae803638ed07a7db71/passage NEW 1.xml">
+            <label key="74d80f18a4cf4b7deca684fb2fc60f88">
+                <text>Hand Sanitisers</text>
+            </label>
+            <label key="3c821116299c276f4fdd998d23eb64f5">
+                <text>The information in this table describes the ingredients of alcohol-based (Type 2) handsanitisers.</text>
+            </label>
+            <label key="ec8564a99e0735fd0f6082ceb21db692">
+                <text>Ingredients in alcohol-based hand sanitiser</text>
+            </label>
+            <label key="a66d62518bf8dcd3236dd9264e292a45">
+                <text>Descriptions of ingredients</text>
+            </label>
+            <label key="bfc9abeb9085bb66c70e431cfff4201d">
+                <text>Alcohols<br/>e.g., ethanol,<br/>isopropanol<br/>(propan-2-ol)</text>
+            </label>
+            <label key="3b759667d5b572598a4f0b7eceb4902b">
+                <text>Main ingredient in alcohol-based hand sanitisers that kills bacteria.<br/>Concentration of 60% to 95% is required.<br/>Flammable: Ignites (catches on fire) easily when exposed to a flame.</text>
+            </label>
+            <label key="9a299a78beed906d500ee1bfa209c57f">
+                <text>Hydrogen peroxide</text>
+            </label>
+            <label key="40cd05d278bf93b4744376b55073242d">
+                <text>Kills organisms such as bacterial spores.<br/>Corrosive: causes damage to human tissue by chemical action.</text>
+            </label>
+            <label key="c9366eea5e94a3714de1cc65a873005d">
+                <text>Glycerol</text>
+            </label>
+            <label key="436386929959a0b18fabf88fa51310f9">
+                <text>Enhances thickness of alcohol-based hand sanitisers.</text>
+            </label>
+            <label key="a2c76d9be67024e26db539c175b78691">
+                <text>Fragrances and<br/>colourants</text>
+            </label>
+            <label key="043fd5b44dd4af441cabb9583a159d10">
+                <text>Enhance the appearance of alcohol-based hand sanitisers.<br/>May cause allergic reactions.</text>
+            </label>
+            <label key="942d3f603930b12668dac3ed89f7b4be">
+                <text>These are the product labels on two brands of alcohol-based (Type 2) hand sanitisers.</text>
+            </label>
+            <label key="944dbd4bb3f0b6155b8d6673ca074474">
+                <text>
+                    <strong>‌Brand A:‌</strong>
+                </text>
+            </label>
+            <label key="4ab10fee0350adb7baaf09aed3b29588">
+                <text>
+                    <strong>‌Ingredients‌</strong>
+                </text>
+            </label>
+            <label key="34b91035a2761364a558fcc39c9fa94b">
+                <text>70% ethanol. Other: water, glycerol and fragrance</text>
+            </label>
+            <label key="5aa81753f008800834819ab3abf5edb4">
+                <text>
+                    <strong>‌Uses‌</strong>
+                </text>
+            </label>
+            <label key="32835ffff2b9da00444b47e8aed4212c">
+                <text>Use hand sanitiser to reduce bacteria on skin</text>
+            </label>
+            <label key="e76161116f94b6beb843898ebf406ddb">
+                <text>
+                    <strong>‌Warning‌</strong>
+                </text>
+            </label>
+            <label key="59a3d32607a4c13b21c2c1102785a062">
+                <text>When using this product, do not use in or near eyes. If swallowed, consult a doctor.</text>
+            </label>
+            <label key="f04e67433b661053e5d1b75de3969a0c">
+                <text>
+                    <strong>‌Instructions for use‌</strong>
+                </text>
+            </label>
+            <label key="f527910c17288dc968f2b0b75415b134">
+                <text>Pour on hands.<br/>Rub for 20 seconds.</text>
+            </label>
+            <label key="e91d6742d7aa313866f58e10565c070b">
+                <text>Mass = 100 g</text>
+            </label>
+            <label key="5f1ada4ec3454cad2a5a668f8e7672e7">
+                <text>
+                    <b>Brand B:</b>
+                </text>
+            </label>
+            <label key="dcf8736c791f0d44c488254c9ebc49b0">
+                <text>70% ethanol. Other: water, hydrogen peroxide and glycerol</text>
+            </label>
+            <label key="9aa884ecca255568315e84f9a46afda4">
+                <text>Use hand sanitiser to reduce bacteria on skin.</text>
+            </label>
+            <label key="e50bb3c8560ff3affed6ae5776e63da5">
+                <text>Pour on hands.<br/>Rub until dry.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638ecf721c44e12826c37ef8d9cd808963">
+            <label key="2c2604983e232c049905663fd0c967f4">
+                <text>Do the statements in the table describe the characteristics of the hand sanitisers?</text>
+            </label>
+            <label key="106c9a1ddb073847ba2d34441344804a">
+                <text>Select ‘Yes’, ‘No’ or ‘Not enough information to decide’ for each statement.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>‌Yes‌</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>‌No‌</strong>
+                </text>
+            </label>
+            <label key="29c799d4dcc999a6ffd7f715afb54d3c">
+                <text>
+                    <strong>‌Not enough information to decide‌</strong>
+                </text>
+            </label>
+            <label key="7b80c2fa15e0473cd63ab7f5ce6adc56">
+                <text>All Type 1 hand sanitisers are not flammable but all Type 2 sanitisers are flammable (ignite easily).</text>
+            </label>
+            <label key="4597f971c50048ca9974bc40ed081325">
+                <text>Some Type 1 and all Type 2 hand sanitisers can kill bacterial spores and fungi.</text>
+            </label>
+            <label key="f0dcc855b3e88ecf8c42eda5ba1fd9b0">
+                <text>Type 1 hand sanitisers are less effective in killing bacteria than Type 2 sanitisers.</text>
+            </label>
+        </item>
+        <item id="i638fdde80ebaf3078296869aed0cccd6fe">
+            <label key="d132b1293f26a6f5b161c9fdd02d176d">
+                <text>Harmful substances can cause damage to living organisms.</text>
+            </label>
+            <label key="22ce2928ba85fd011c74da7ec58a400d">
+                <text>Which hazard labels should be included on the labels of Brand A and Brand B hand sanitisers?</text>
+            </label>
+            <label key="64c31d30aceebb51fe2b8c069bd4d8e5">
+                <text>Select ‘Brand A only’, ‘Brand B only’, ‘Both Brand A and Brand B’ or ‘Neither Brand A nor brand B’ to show the hazard labels for each hand sanitiser.</text>
+            </label>
+            <label key="ba195e2929491c52cfeb071a7e9570e7">
+                <text>
+                    <strong>‌Brand A only‌</strong>
+                </text>
+            </label>
+            <label key="a067b493c96e22065e350b928baac361">
+                <text>
+                    <strong>‌Brand B only‌</strong>
+                </text>
+            </label>
+            <label key="42823296c267c86288eea3fe717db334">
+                <text>
+                    <strong>‌Both Brand A and Brand B‌</strong>
+                </text>
+            </label>
+            <label key="1d4899193b9d96449d5f9590cc21355f">
+                <text>
+                    <b>Neither Brand A nor Brand B</b>
+                </text>
+            </label>
+            <label key="22afd6f30fb89f98965d82fcbcdb4bad">
+                <text>Harmful</text>
+            </label>
+            <label key="092f20920cbb55b8f5679b2b1f99d2ea">
+                <text>Flammable</text>
+            </label>
+            <label key="d1e5c791be8fb959e8d9c893f8b7427e">
+                <text>Corrosive</text>
+            </label>
+        </item>
+        <item id="i638fe1875609344324a5f62fdf29604f5c">
+            <label key="acaf3eb0c47eb5ba86036efb72c2ac8c">
+                <text>An agar plate is a thin layer of nutrient gel in a Petri dish, used to grow microorganisms, including bacteria.</text>
+            </label>
+            <label key="f9256b0067748a7fff1eeb62035e8e37">
+                <text>A group of students uses agar plates to investigate whether Brand A is more effective at killing bacteria than Brand B. To test this, the students carry out the following experiment:</text>
+            </label>
+            <label key="e6641e04966a7740a07c8af148af6968">
+                <text><strong>Step 1</strong>: Each student pours 5 g of Brand A on their hands. They rub their hands together for 20 seconds.</text>
+            </label>
+            <label key="0fe864e4eca0e67f476d4a1d3d1880cd">
+                <text><strong>Step 2</strong>: Each student presses their fingertips gently onto one agar plate. Each student uses a different agar plate.</text>
+            </label>
+            <label key="52dd30662e26263aa3372cd574b0d2b3">
+                <text><strong>Step 3</strong>: They store the agar plates at 37 °C for 3 days.</text>
+            </label>
+            <label key="98101c7405f99724ed399ca9e79d3cd9">
+                <text><strong>Step 4</strong>: They observe the agar plates for bacterial growth.</text>
+            </label>
+            <label key="8d6f380f3bb91ad554e651eb224b4601">
+                <text>Which factors can be kept the same when the experiment is repeated with Brand B?</text>
+            </label>
+            <label key="89b1c1de80f35eb0f385836481797561">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="7a9c7ef14fe8e7ec6e21832763aa85c8">
+                <text>mass of sanitiser each student uses</text>
+            </label>
+            <label key="19b7677b0fbe3e50c331ceed486beda3">
+                <text>number of bacteria on the fingertips of each student before applying sanitiser</text>
+            </label>
+            <label key="0e7c63ef395b83eaa8f337aab322d6c6">
+                <text>number of fingertips each student presses onto the agar plate</text>
+            </label>
+            <label key="640d7829bfd7d18ba71dae52a43b3375">
+                <text>temperature at which the agar plate is stored</text>
+            </label>
+            <label key="d74438976d827313ec67747a4fb5f102">
+                <text>number of days the agar plate is kept before analysis</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,234 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6332833346765/passage NEW.xml">
+            <label key="ceffd00ce96b04a1c590a2b7dbb3fcbc">
+                <text>Magnetic Cleaners</text>
+            </label>
+            <label key="0117aec78d6177811e8fe9a5f0b01a1f">
+                <text>Iron filings are small pieces of iron produced by filing or cutting iron.</text>
+            </label>
+            <label key="e8073df0f7fb145a187a3e05d3384776">
+                <text>A metalworking factory uses four machines with permanent magnets to collect iron filings that are evenly distributed across the factory floor. The machines roam about the factory floor all day. Two of the four machines are shown below.</text>
+            </label>
+            <label key="59cfa26c741d65f06e84a3afb4583677">
+                <text>magnet</text>
+            </label>
+            <label key="402154b4e743ac85fc5c2f60e4f249da">
+                <text>control and power box</text>
+            </label>
+            <label key="8d9c307cb7f3c4a32822a51922d1ceaa">
+                <text>N</text>
+            </label>
+            <label key="5dbc98dcc983a70728bd082d1a47546e">
+                <text>S</text>
+            </label>
+            <label key="f16d11db3d019bbbd42dd8b38a76fa43">
+                <text>The four machines travel at the same speed and have identical magnets, but they have the following design differences:</text>
+            </label>
+            <label key="96301de4b02dde60210952b46da649f9">
+                <text>differently sized wheels (which affects the height of the magnet above the ground)</text>
+            </label>
+            <label key="fde95ad8522dd48231f8bdd1f4585614">
+                <text>the orientation of the magnet’s north pole (upwards or downwards)</text>
+            </label>
+            <label key="eea98054464620e0990012a74f6ec157">
+                <text>the location of the control box.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/83ed01426418d9c036972/passage NEW 9.xml">
+            <label key="1d2f76bcffc20eaf4a6fde32a247115a">
+                <text>Magnetic Cleaners </text>
+            </label>
+            <label key="29a0248cdb96ef74d55c040f125ffe07">
+                <text>You are responsible for improving the removal of metal filing waste from the floor of a metal working factory. </text>
+            </label>
+            <label key="fe5f1e3f5edbace32f78f170840f3b77">
+                <text>The factory works with several different metals, including iron. Removal of metal waste with the current magnetic cleaners is not effective for all types of metal waste. As a result, the floors must be swept frequently with a brush to collect and remove the other metal waste.</text>
+            </label>
+            <label key="9db48ee2b9978245610378a5c30c5a4a">
+                <text>You want to design a method that will improve the removal of all metal waste.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633283acdd85019265dba20d556c142f5">
+            <label key="b647d89a762dc7de580dddd5131bb876">
+                <text>The table below shows the differences between the machines as well as the mass of iron filings collected over five days.</text>
+            </label>
+            <label key="47c954121886a5e5aaca7eece461b56f">
+                <text>Machine</text>
+            </label>
+            <label key="1c53df0212373009e5dc660a1a9d4bb9">
+                <text>Height of magnet above ground (mm)</text>
+            </label>
+            <label key="9766c0db3ec8d99c461788fd9cdf1277">
+                <text>Magnet orientation</text>
+            </label>
+            <label key="63d62f9674526403bf68902d1b46f710">
+                <text>Control box location</text>
+            </label>
+            <label key="def17c110e4b7aeeee8d34fd5ac67945">
+                <text>Total mass collected in five days (kg)</text>
+            </label>
+            <label key="54cafa3a6d69c189cf2df3978fbdd435">
+                <text>1</text>
+            </label>
+            <label key="928a70a354b6465087c783a383df9a15">
+                <text>N upwards</text>
+            </label>
+            <label key="469bba0a564235dfceede42db14f17b0">
+                <text>back</text>
+            </label>
+            <label key="9b35dd1fd8fb2e8ba4a972122aca50b4">
+                <text>2</text>
+            </label>
+            <label key="0c39988ba417d4e0e150e45f69f8619b">
+                <text>S upwards</text>
+            </label>
+            <label key="d64a4d022098892cecf250b5842c2a48">
+                <text>centre</text>
+            </label>
+            <label key="43f339494a81e106b98079ba9c2b0f4d">
+                <text>3</text>
+            </label>
+            <label key="e6ec529ba185279aa0adcf93e645c7cd">
+                <text>front</text>
+            </label>
+            <label key="d8fe2a509fbc20df392b36216bb0b856">
+                <text>4</text>
+            </label>
+            <label key="14cacd46321b9c2005de30affbc54ec8">
+                <text>What difference explains why some machines collect more iron filings than others?</text>
+            </label>
+            <label key="a5bd7841d38094bbf7ce1b96200e2555">
+                <text>the direction of the poles of their magnets</text>
+            </label>
+            <label key="984d959694fe083e719794d8a2836471">
+                <text>the location of their control boxes</text>
+            </label>
+            <label key="e2e449ba299594ad6971bfa267e5b0b7">
+                <text>the height of their magnets above the floor</text>
+            </label>
+            <label key="f6ce9fbc5a60d52b38d27ae8c520efb3">
+                <text>the size of their magnets</text>
+            </label>
+        </item>
+        <item id="i633286158e4a916295e03d5d7030838ae">
+            <label key="726bf3bf088f66ce1ab1853cc4bfbe33">
+                <text>The table below shows the mass of iron filings collected by each machine for five days and the average mass collected over all five days.</text>
+            </label>
+            <label key="6a8c67d854f52b951a5a6bfc0ddd9027">
+                <text>
+                    <strong>‌Mass of filings collected (kg)‌</strong>
+                </text>
+            </label>
+            <label key="faba582bb439d5cd836a674b446052c1">
+                <text>Day 1</text>
+            </label>
+            <label key="5d0d9e50bf708684c2c6e57b56ae9e8c">
+                <text>Day 2</text>
+            </label>
+            <label key="223e2965264ed5a7335008666fb8bf98">
+                <text>Day 3</text>
+            </label>
+            <label key="df06f69911ab808ad1be095f974e0508">
+                <text>Day 4</text>
+            </label>
+            <label key="b37043dfa5cf1c205558e40d1a3efbd7">
+                <text>Day 5</text>
+            </label>
+            <label key="b1897515d548a960afe49ecf66a29021">
+                <text>Average</text>
+            </label>
+            <label key="be1ad82314e638b657dad74166f23c92">
+                <text>Machine 1</text>
+            </label>
+            <label key="e938e260d113bbb9703b612c41b4c2a2">
+                <text>Machine 2</text>
+            </label>
+            <label key="88e974da14f696ecb0ffb1f21acd9ff0">
+                <text>Machine 3</text>
+            </label>
+            <label key="16f5ea9231fe227ec4280e12a3d3a394">
+                <text>Machine 4</text>
+            </label>
+            <label key="5e032042d7b0a953ea1adcbfdeb979a8">
+                <text>Which machine was most consistent in the amount of iron filings collected each day?</text>
+            </label>
+            <label key="e829caabc1d7f246003b9fb7530e2873">
+                <text>Give a reason for your choice.</text>
+            </label>
+        </item>
+        <item id="i633287932eea4155854724547860033fdf">
+            <label key="2d14f0d015b0a28d941c28970f808b1e">
+                <text>Your first step is to search the internet to find information that will help you improve metal filing waste removal.</text>
+            </label>
+            <label key="5893764f9c0f05edf86cb96b9fce8f2b">
+                <text>Which one of these strings of search terms would be most likely to provide information that will help you improve metal filing waste removal?</text>
+            </label>
+            <label key="b0343c9f5b3d150d86628ca584fc7e7f">
+                <text>magnetic waste cleaner</text>
+            </label>
+            <label key="67996c0350bd2db20148968f062c7837">
+                <text>magnetic cleaner metal waste</text>
+            </label>
+            <label key="9f8fbb3b592d1d62aec0f28ba040c513">
+                <text>metal waste removal</text>
+            </label>
+            <label key="88078d931ee540e70824407821afdea7">
+                <text>metal waste removal factory</text>
+            </label>
+        </item>
+        <item id="i6413c7bfddf5a2425e6513424af2270">
+            <label key="7d5aee20aa92fc594d34cba322904ca8">
+                <text>Solving a technological problem goes through several steps. The steps include:</text>
+            </label>
+            <label key="2ad58ffa28fd1d284f223eab1c864adc">
+                <text>identifying the problem to be solved</text>
+            </label>
+            <label key="1fd9516e916cec54a22adc8b5353302d">
+                <text>finding possible solutions to the problem</text>
+            </label>
+            <label key="5918b1e2b35af64fe30bf5ea482bb723">
+                <text>choosing the best solution to the problem.</text>
+            </label>
+            <label key="3b2b782358cea99942a0ffed89201313">
+                <text>Consider the following activities that could be involved in each step of improving the removal of metal filings from your factory floor.</text>
+            </label>
+            <label key="2902222693b679afd2d5cb6e5df6431c">
+                <text>Match each of the five activities with the problem-solving step to which the activity belongs.</text>
+            </label>
+            <label key="6a2d71fd7409606e76e5c321c57029d9">
+                <text>Match boxes by selecting one box in each column. You can remove a match by selecting the line and then selecting ‘x’.</text>
+            </label>
+            <label key="1e4599a0ec08d3e4ec8b858c60d1e63f">
+                <text>
+                    <strong>‌Activity‌</strong>
+                </text>
+            </label>
+            <label key="28cc4119eef18e864150e30a495b00dc">
+                <text>
+                    <strong>‌Problem-solving step‌</strong>
+                </text>
+            </label>
+            <label key="dd24c4f58a016cee61e635f178ae9037">
+                <text>determining the amount and size of filings that must be removed from the factory floor</text>
+            </label>
+            <label key="57a444b7fc2f23a2f91be1105ba0a14b">
+                <text>searching the internet for different equipment that might be used</text>
+            </label>
+            <label key="7d27586fea286f69f3dc07c8d4786eb8">
+                <text>determining why the current magnetic cleaners do not fully remove all metal filings</text>
+            </label>
+            <label key="5ff8691a6d04bf6007e9e74d6327bb90">
+                <text>choosing the best solution to the problem</text>
+            </label>
+            <label key="81923c34aaf393af79248a5ea44afd25">
+                <text>comparing the performance of potentially suitable equipment</text>
+            </label>
+            <label key="807d731430a5e2fb68607c34c7f8ae50">
+                <text>finding articles in industry journals on the different technologies used for removing iron filings</text>
+            </label>
+        </item>
+    </items>
+</file>

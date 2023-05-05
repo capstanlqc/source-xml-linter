@@ -1,0 +1,182 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/1ca606b1640ffc2c2c2e1/passage NEW 7.xml">
+            <label key="e7a98ad17f31c49a225f3fa8aa222e8f">
+                <text>Plant Diversity</text>
+            </label>
+            <label key="ef57725c04b6ceaafd62e01500744fc2">
+                <text>A longleaf pine savanna (a grassland habitat dotted with trees) was cleared and replaced by a dense pine plantation consisting of loblolly pines.</text>
+            </label>
+            <label key="a01ab8d98f86cff56e72346fcebafefc">
+                <text>After twenty years, scientists cleared some areas within the loblolly plantation, which are known as ‘fragments’. They planted longleaf pine seedlings in the fragments.</text>
+            </label>
+            <label key="1fbb34dd935b49e7f5533b2be09a3823">
+                <text>The fragments were laid out in the loblolly pine plantation as shown in the diagram below.</text>
+            </label>
+            <label key="33995d5be2721ccd3fac43d6981bde5b">
+                <text>A middle fragment (M) of 1 hectare was surrounded by four larger fragments of 1.4 hectares each.</text>
+            </label>
+            <label key="98752465db7a3fc6407a6f135a54338b">
+                <text>A cleared corridor connected the middle fragment to fragment (C).</text>
+            </label>
+            <label key="476e88f7e50cda8ec8f0a3c058f0868f">
+                <text>Two fragments (W1 and W2) had cleared ‘wings’ similar to the connecting corridor but not linking to another fragment.</text>
+            </label>
+            <label key="1217cb9b777ed0f33fa01b7600f391e8">
+                <text>The final fragment (R) was a rectangle with no corridor or wings.</text>
+            </label>
+            <label key="87f91175376709cb2f7a4e298484c45b">
+                <text>fragments surrounded by dense loblolly pine plantation forest</text>
+            </label>
+            <label key="1e9944dfac1eac7a602d65620b492a48">
+                <text>W1</text>
+            </label>
+            <label key="a939a4e03271de9ec53532873e362503">
+                <text>unconnected winged fragment</text>
+            </label>
+            <label key="c224b3bbdc710b7588e9c05d3f27316b">
+                <text>connected fragment</text>
+            </label>
+            <label key="0d61f8370cad1d412f80b84d143e1257">
+                <text>C</text>
+            </label>
+            <label key="b254e0ae18029b4e6618b6bfe445dc77">
+                <text>corridor</text>
+            </label>
+            <label key="69691c7bdcc3ce6d5d8a1361f22d04ac">
+                <text>M</text>
+            </label>
+            <label key="6b60a1f67ad094bb406f337ba18995d9">
+                <text>middle fragment</text>
+            </label>
+            <label key="e5e8c28e36c1edd6201c2e733b93ee45">
+                <text>150 m</text>
+            </label>
+            <label key="8d9ab096e96039cdbc98f547f9677632">
+                <text>100 m</text>
+            </label>
+            <label key="e1e1d3d40573127e9ee0480caf1283d6">
+                <text>R</text>
+            </label>
+            <label key="7f2f3133d63fe842f1a69a42b42831cd">
+                <text>unconnected rectangular fragment</text>
+            </label>
+            <label key="6636b1bcdba2ece333b879b21ffb949d">
+                <text>W2</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i636aec09d7efb14157657ed9717a5123cc">
+            <label key="b9f4af74df09a8097e3bb59667b6a615">
+                <text>Once a year, the scientists recorded all the plant species present in each fragment and calculated the percentage of plant species:</text>
+            </label>
+            <label key="3901f1eb93cefeea316c1654e5fd4ee9">
+                <text>gained since the previous year, known as the ‘<strong>colonisation rate</strong>’</text>
+            </label>
+            <label key="3e629e6381da41c33fed49e8886a0482">
+                <text>lost since the previous year, known as the ‘<strong>extinction rate</strong>’.</text>
+            </label>
+            <label key="49eee295250b4d271d3531cd4e097107">
+                <text>They then calculated the <strong>colonisation rate difference</strong> and the <strong>extinction rate difference</strong> as follows:</text>
+            </label>
+            <label key="f41f41ddb83e09bf02210356897463d6">
+                <text>colonisation rate difference = colonisation rate (CF) – colonisation rate (UF)</text>
+            </label>
+            <label key="10306186a52f060dc2f97d4ca82e6603">
+                <text>extinction rate difference = extinction rate (CF) – extinction rate (UF)</text>
+            </label>
+            <label key="467d51d891f589a288e98bcb769e79b6">
+                <text>CF = fragments connected by a corridor</text>
+            </label>
+            <label key="01d831a907808c29251e1d006058f4a8">
+                <text>UF = all fragments not connected by a coridor</text>
+            </label>
+            <label key="d82a02c2ce5abe78640e460b4318d305">
+                <text>The graph below presents the colonisation rate difference and the extinction rate difference over the 16 years of the study.</text>
+            </label>
+            <label key="988f8fe0f2b402656643018885be9b47">
+                <text>Rate difference between connected and unconnected fragments (percentage)</text>
+            </label>
+            <label key="21474d052182966be974161bb2ee107e">
+                <text>colonisation rate difference</text>
+            </label>
+            <label key="1503f65e8630d890c5ba887a175ba684">
+                <text>extinction rate difference</text>
+            </label>
+            <label key="77e26808f90e7b943e721e0b560cb80f">
+                <text>Time (years)</text>
+            </label>
+            <label key="18b5be29d151d1e2f186335e1606faaf">
+                <text><p>Did the number of plant species in connected fragments increase at a greater rate than in unconnected fragments during the experiment?  </p><p></p>Select either ‘Yes’ or ‘No’.</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i636aec7e436821909657881dcc9da07a26">
+            <label key="44c1c12833ca98023de0ed3bf0447178">
+                <text>Can the questions in the table below be answered using the comparisons given in the top row of the table?</text>
+            </label>
+            <label key="c6ef11ec734f75b37d202e710d49b016">
+                <text>Select either ‘Yes’ or ‘No’ for each question.</text>
+            </label>
+            <label key="ad233898a9778d8ae81be6fd3187cae4">
+                <text>compare C, W1, W2 and R to each other</text>
+            </label>
+            <label key="9d8b9ef48756c135edd0a1875cec4f5f">
+                <text>compare C to W1, W2 and R combined</text>
+            </label>
+            <label key="1d5ceb81ccdfb723ee5dd46fd25814a6">
+                <text>Do corridors influence biodiversity in the connected fragments?</text>
+            </label>
+            <label key="a6105c0a611b41b08f1209506350279e">
+                <text>yes</text>
+            </label>
+            <label key="7fa3b767c460b54a2be4d49030b349c7">
+                <text>no</text>
+            </label>
+            <label key="7523d96c1cbb06a8967644b42bcd70c2">
+                <text>Do corridors influence biodiversity by increasing the fragment edge-to-area ratio of the fragments?</text>
+            </label>
+            <label key="20d95d5b1d552a2cdc357ada8c3d50a1">
+                <text>Do corridors influence biodiversity by increasing fragment area?</text>
+            </label>
+        </item>
+        <item id="i636aeca4e2238141470009b83d801a2344">
+            <label key="b9f4af74df09a8097e3bb59667b6a615">
+                <text>Once a year, the scientists recorded all the plant species present in each fragment and calculated the percentage of plant species:</text>
+            </label>
+            <label key="3901f1eb93cefeea316c1654e5fd4ee9">
+                <text>gained since the previous year, known as the ‘<strong>colonisation rate</strong>’</text>
+            </label>
+            <label key="3e629e6381da41c33fed49e8886a0482">
+                <text>lost since the previous year, known as the ‘<strong>extinction rate</strong>’.</text>
+            </label>
+            <label key="4e612ef44a7d0543cab046220fa16922">
+                <text>They then calculated the <strong>colonisation rate difference</strong> and the <strong>extinction rate difference</strong> as follows:</text>
+            </label>
+            <label key="f41f41ddb83e09bf02210356897463d6">
+                <text>colonisation rate difference = colonisation rate (CF) – colonisation rate (UF)</text>
+            </label>
+            <label key="10306186a52f060dc2f97d4ca82e6603">
+                <text>extinction rate difference = extinction rate (CF) – extinction rate (UF)</text>
+            </label>
+            <label key="467d51d891f589a288e98bcb769e79b6">
+                <text>CF = fragments connected by a corridor</text>
+            </label>
+            <label key="01d831a907808c29251e1d006058f4a8">
+                <text>UF = all fragments not connected by a coridor</text>
+            </label>
+            <label key="1c4cb55de86887bf94aff5cfea83f75d">
+                <text>The graph below presents the colonisation rate difference and the extinction rate difference over the 16 years of the study.<div><img src="" alt="CACERS034S1_plant-diversity_2.svg" width="99%" type="image/svg+xml"/>‌‌<div></div><div><table><tbody><tr><td>Rate difference between connected and unconnected fragments (percentage)</td></tr><tr><td>colonisation rate difference</td></tr><tr><td>extinction rate difference</td></tr><tr><td>Time (years)</td></tr></tbody></table><p></p></div></div></text>
+            </label>
+        </item>
+    </items>
+</file>

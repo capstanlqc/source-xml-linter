@@ -1,0 +1,210 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6343a9644b4ef/passage NEW.xml">
+            <label key="e74260acfc6ee65c4160908d9389a26f">
+                <text>Insulation Properties</text>
+            </label>
+            <label key="8fbad54b0e10121f0af1e600573b11ab">
+                <text>Information about the insulating properties of fabric materials can be used to decide which materials are used in clothing.</text>
+            </label>
+            <label key="94befdf75ac5148bdda55dcf9d858408">
+                <text>‘Thermal conductivity’ is a measure of the ability of a material to conduct heat. A low thermal conductivity means the material has a high resistance to heat flow.</text>
+            </label>
+            <label key="fbe9f1eb16401884f7929e27aa465a75">
+                <text>Thermal resistance (R-value) is a measure of a material’s resistance to heat flow:</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae8036343aace56e8f/passage NEW 1.xml">
+            <label key="e74260acfc6ee65c4160908d9389a26f">
+                <text>Insulation Properties</text>
+            </label>
+            <label key="4f845b22662d7be11cff7552945861fc">
+                <text>In extremely cold weather conditions, it is important to wear insulating clothing.</text>
+            </label>
+            <label key="b51b9d27d75da41d2a3d50cfd53689a7">
+                <text>Information about the effectiveness of insulating fabric materials helps clothing manufacturers to make decisions about which to use.</text>
+            </label>
+            <label key="94befdf75ac5148bdda55dcf9d858408">
+                <text>‘Thermal conductivity’ is a measure of the ability of a material to conduct heat. A low thermal conductivity means the material has a high resistance to heat flow.</text>
+            </label>
+            <label key="fbe9f1eb16401884f7929e27aa465a75">
+                <text>Thermal resistance (R-value) is a measure of a material’s resistance to heat flow:</text>
+            </label>
+            <label key="df5e7778740e1642fbf29f6e62af3628">
+                <text>Material Testing</text>
+            </label>
+            <label key="daf27abc6f8f00329d293800aa999db5">
+                <text>Insulating fabrics from five different items of clothing were tested in an experiment. The sample fabrics were made from different materials and had different thicknesses. Each fabric sample was tested in a box as shown in the diagram.</text>
+            </label>
+            <label key="3d8807e8472ff61bdc13fce566a62065">
+                <text>The box had a heat source below the fabric. A solid block of carbon dioxide (dry ice) was suspended above the fabric. Carbon dioxide is a solid at –78 ºC.</text>
+            </label>
+            <label key="e165d1f1cae3586d4d357395adade7c7">
+                <text>The temperatures of both the test plate and the air above the fabric were recorded at 10-minute intervals over one hour. </text>
+            </label>
+            <label key="b6c1de61169e0b7f1ba25b2e49dc8e0e">
+                <text>
+                    <strong>‌simplified drawing of the closed box‌</strong>
+                </text>
+            </label>
+            <label key="0f6cdb621b452ac6fb994d88e674e49f">
+                <text>basket</text>
+            </label>
+            <label key="3c4588116394d2164657875b7430907e">
+                <text>air</text>
+            </label>
+            <label key="6cc30c29c2313987dbcc2a9ae7a3f333">
+                <text>solid carbon dioxide</text>
+            </label>
+            <label key="6319aa1da855da64aaed56842ee9f45a">
+                <text>fabric sample</text>
+            </label>
+            <label key="50322351bef70c78842a70c3b9e7b062">
+                <text>test plate</text>
+            </label>
+            <label key="d9fe093fe4aecbedbc4e80f72709222d">
+                <text>heat source 37°C</text>
+            </label>
+            <label key="19de894e0da15057192a8971e07c127c">
+                <text>10 cm</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd86343abdf737d2/passage NEW 2.xml">
+            <label key="e74260acfc6ee65c4160908d9389a26f">
+                <text>Insulation Properties</text>
+            </label>
+            <label key="31358d216d8791e2403cc21311270d91">
+                <text>When humans sweat while wearing clothes, the water released from the body can have a significant effect on a fabric’s overall thermal conductivity.</text>
+            </label>
+            <label key="a6fa5911b9986f6273b10185c831060c">
+                <text>The thermal conductivity of each of the five fabrics, under simulated sweating conditions, is given in the table below.</text>
+            </label>
+            <label key="ad19a754e2808a72847dde053502d04e">
+                <text>
+                    <strong>‌Fabric‌</strong>
+                </text>
+            </label>
+            <label key="3c1d813f1d343ec8b48c63236a286cb6">
+                <text>
+                    <strong>‌Thermal conductivity at −29ºC‌</strong>
+                </text>
+            </label>
+            <label key="361b3cbf8c97b6ccf066ba63cf650788">
+                <text>Fabric 1</text>
+            </label>
+            <label key="d18d5e5ad865ddf26bf5f2bdb56a09b0">
+                <text>Fabric 2</text>
+            </label>
+            <label key="e9bf6b5062c5cecb6eaec77edacf87af">
+                <text>Fabric 3</text>
+            </label>
+            <label key="303bfa89d74b1d499975bb0e6f8117ef">
+                <text>Fabric 4</text>
+            </label>
+            <label key="d0c9d08e2dd24262c4057a32c3143e85">
+                <text>Fabric 5</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6343acc65fc2420270470591156f909484">
+            <label key="8aacfa503315f49513966c7e09644df5">
+                <text>If two fabric materials used in clothing are the same thickness and have different thermal conductivities, which will be the most effective at reducing heat loss from the wearer’s body?</text>
+            </label>
+            <label key="4d6119d215e3bab5f55027bf4531abf0">
+                <text>the material with the lower thermal conductivity</text>
+            </label>
+            <label key="2e956362e36d7ddbb511b163c625a369">
+                <text>the material with the higher thermal conductivity</text>
+            </label>
+            <label key="654676dac9ab385b07bce8311b2efb7d">
+                <text>The two materials will equally reduce the rate of heat loss.</text>
+            </label>
+        </item>
+        <item id="i6343ad3f1bd35196534cc8f81f4b7a80f">
+            <label key="704aec0767ee9564b25a3f9a6cf9b5b5">
+                <text>Refer to the information about ‘Material Testing’.</text>
+            </label>
+            <label key="fcd15ee4490245f258c08ecb5762961c">
+                <text>What is the function of the solid carbon dioxide block in this experiment?</text>
+            </label>
+        </item>
+        <item id="i6343ad84ca2512027040d3d9a63ba723d9">
+            <label key="05634452f662af6665f0948a73b91af2">
+                <text>
+                    Refer to the information about ‘Material Testing’.
+                </text>
+            </label>
+            <label key="e14502c6cea81e799aef005dac9d7563">
+                <text>
+                    The five fabric samples used in the test were different thicknesses. Their thickness in the test was the same as their thickness in the clothing.
+                </text>
+            </label>
+            <label key="2c39611bd561a1afa3a217aee518bb59">
+                <text>
+                    Why was each sample the same thickness in the test and in the clothing?
+                </text>
+            </label>
+        </item>
+        <item id="i6343adc15f470130370782e43939f477bf">
+            <label key="cc3bf28672501103b9f4d41c1ca41d12">
+                <text>
+                    <p>The recorded thermal conductivities of the five fabrics for different temperatures are shown in the graph below.</p>
+                    <img src="assets/ba47c24e63bf91e24bbe6.svg" alt="CACERS018Q04_insulation-properties.svg" width="100%" type="image/svg+xml"/>‌‌<table>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <strong>Thermal Conductivity of Five Fabrics</strong>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Thermal conductivity</td>
+                            </tr>
+                            <tr>
+                                <td>Temperature (°C)</td>
+                            </tr>
+                            <tr>
+                                <td>Fabric 1</td>
+                            </tr>
+                            <tr>
+                                <td>Fabric 2</td>
+                            </tr>
+                            <tr>
+                                <td>Fabric 3</td>
+                            </tr>
+                            <tr>
+                                <td>Fabric 4</td>
+                            </tr>
+                            <tr>
+                                <td>Fabric 5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <br/>
+                    
+                    Which one of the five fabrics is the best at reducing heat loss?
+                </text>
+            </label>
+            <label key="361b3cbf8c97b6ccf066ba63cf650788">
+                <text>Fabric 1</text>
+            </label>
+            <label key="875bc0bf1f7a244fd4064bcfe8a84e8e">
+                <text>Fabric 2</text>
+            </label>
+            <label key="39462191caa0fdf1c6e71b8cd38b92f6">
+                <text>Fabric 3</text>
+            </label>
+            <label key="34bf9aba5029ba46038ecfb9e7357a64">
+                <text>Fabric 4</text>
+            </label>
+            <label key="d0c9d08e2dd24262c4057a32c3143e85">
+                <text>Fabric 5</text>
+            </label>
+        </item>
+        <item id="i6343b05a98ae01964ca42aec17f656d0e">
+            <label key="e85afe8432a5d0c7d0722e9a7d74c526">
+                <text>Jim predicted that Fabric 5 would have the best insulation properties because it was the thickest. <div>The graph below shows the thermal conductivities for the five fabric samples at different temperatures.<div><img src="assets/ba47c24e634cce512a9d0.svg" alt="CACERS018Q04_insulation-properties.svg" width="96%" type="image/svg+xml"/>‌‌</div><div><table><tbody><tr><td><strong>Thermal conductivity</strong></td></tr><tr><td><strong>Temperature (°C)</strong></td></tr><tr><td>Fabric 1</td></tr><tr><td>Fabric 2</td></tr><tr><td>Fabric 3</td></tr><tr><td>Fabric 4</td></tr><tr><td>Fabric 5</td></tr></tbody></table></div></div></text>
+            </label>
+        </item>
+    </items>
+</file>

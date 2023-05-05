@@ -1,0 +1,98 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc6359f3f4a373d/passage NEW.xml">
+            <label key="fa75ffdeacc23bb4b504cc9091853355">
+                <text>Argan Trees</text>
+            </label>
+            <label key="6465e2bead61b88624e253320c197cc9">
+                <text>Argan trees grow in the arid regions of Morocco and Algeria. They are cultivated for their oil and are an important food source for goats.</text>
+            </label>
+            <label key="5e4b7aebb58b3ec337d0aa466345707f">
+                <text>Root fungi help argan trees develop strong root systems. The filaments (threadlike structures) of the fungi grow into the argan tree roots enabling better transfer of materials into the trees. In return, the fungi obtain carbohydrates made by the trees through photosynthesis.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae8036359fd04ce265/passage NEW 1.xml">
+            <label key="fa75ffdeacc23bb4b504cc9091853355">
+                <text>Argan Trees</text>
+            </label>
+            <label key="376f7c10a240b0d7881cd47c002eab22">
+                <text>Researchers are trying to find ways to improve argan tree growth during drought.</text>
+            </label>
+            <label key="aca1676157a74f96c9d0f20a7c93b760">
+                <text>They studied the effect of two kinds of root fungi, <em>Glomus</em> sp1 and <em>Glomus</em> sp2, on the growth of argan trees during drought.</text>
+            </label>
+            <label key="2c515dd7b69ccd2a63a00f864ec1a3f5">
+                <text>Groups of argan trees were grown in soil containing either <em>Glomus</em> sp1 or <em>Glomus</em> sp2.</text>
+            </label>
+            <label key="ba918b26c6baee4e0b1339948a913909">
+                <text>A control group was grown in soil that did not contain root fungi.</text>
+            </label>
+            <label key="4b502e82835e88e76e412758093fe4cc">
+                <text>For each group of argan trees, the lengths of the main stems were measured and averaged. </text>
+            </label>
+            <label key="1dace36061c5561b1a8f69de14ef55a9">
+                <text>The stem-length data is shown in the graph below.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6359fc158346022938a40d04c4c0f5748">
+            <label key="7f2c4a9bf9de85f7bb2f94a7c78e8bbf">
+                <text>What word describes the relationship between the fungi and the argan trees?</text>
+            </label>
+            <label key="1b75bb583ebea526ccc2a3babab58cc6">
+                <text>predatory</text>
+            </label>
+            <label key="5a8309dedb810d2322b6024d536832ba">
+                <text>symbiotic</text>
+            </label>
+            <label key="409d2542644cb5b9dcf02dc5e35ec7c8">
+                <text>harmful</text>
+            </label>
+            <label key="14f4aeb5bebf370f95ab882c829a5a86">
+                <text>competitive</text>
+            </label>
+        </item>
+        <item id="i6359fc375c37322925cd067292088966c">
+            <label key="f4f91846b254d5bbe1d5b5d36f89c199">
+                <text>Are the statements in the table supported by the information in the graph?</text>
+            </label>
+            <label key="a8c38cd5723dd799a00d4ac84d71561e">
+                <text>Select ‘Yes’ or ‘No’ for each statement.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>Yes</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>No</strong>
+                </text>
+            </label>
+            <label key="246a714efefd062e83f2ba5ba541bf73">
+                <text>After 90 days, the average length of argan main tree stems grown with <em>Glomus</em> sp1 is longer than that of the control group.</text>
+            </label>
+            <label key="823f139b4c131160e18328c2a2a8954b">
+                <text>After 30 days, the average length of argan main tree stems grown with <em>Glomus</em> sp2 is longer than that of the control group.</text>
+            </label>
+            <label key="e3ebf18a816d5ac95372a828f3b76d12">
+                <text>The results show that argan trees grown with <em>Glomus</em> sp1 or <em>Glomus</em> sp2 will grow better in drought conditions than argan trees grown with no fungi.</text>
+            </label>
+            <label key="5c9ba91b71553d23da1a5001bb764105">
+                <text>To improve the growth of argan trees, seedlings should be grown with <em>Glomus</em> sp2 fungi rather than <em>Glomus</em> sp1 fungi.</text>
+            </label>
+        </item>
+        <item id="i6359fc4c0e4d82288d25c90dc267a39f6">
+            <label key="a3429a37102e5d4ac350a2e57f2d5e29">
+                <text>The researchers collected data on the biomass produced by the argan trees in the study. Biomass is the mass of the living tree apart from its water content.</text>
+            </label>
+            <label key="68e1a4f2531b0c8ba0a302969aea2be4">
+                <text>If insufficient nutrients are available to the trees, they will produce limited amounts of biomass.</text>
+            </label>
+            <label key="f08d493473d800bf0707ea06a9e57ce6">
+                <text>Based on the data in the graph above, what is the likely way in which root fungi benefit argan trees?</text>
+            </label>
+        </item>
+    </items>
+</file>

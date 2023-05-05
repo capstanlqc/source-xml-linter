@@ -1,0 +1,338 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63b4f748e9fab/passage NEW.xml">
+            <label key="457ba641340a812b28f949a26fca3e7b">
+                <text>Lightning</text>
+            </label>
+            <label key="3a39dcd0c0a2784eface591a80a477ad">
+                <text>Lightning is a natural electrostatic discharge produced in the Earth’s atmosphere.</text>
+            </label>
+            <label key="5ec1d86d4825a296af8d93930d05dc6e">
+                <text>Thunder is the sound caused by the rapid heating of air that occurs during a lightning strike.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd863b4f8b444c64/passage NEW 2.xml">
+            <label key="457ba641340a812b28f949a26fca3e7b">
+                <text>Lightning</text>
+            </label>
+            <label key="33fffa027aa84ebe5aeda4eca21f4d45">
+                <text>It has been suggested that the energy from lightning strikes could be collected and stored for future use.</text>
+            </label>
+            <label key="37f877cf30b057151542298629f2b9d2">
+                <text>The first step in achieving this would be to find locations where lightning strikes commonly occur.</text>
+            </label>
+            <label key="6a2e97c736d56f4432665b2b15fc8931">
+                <text>The following graphs show the number of lightning strikes each month from May to September in three different areas.</text>
+            </label>
+            <label key="4bf5dadb63d59b9be5ba48be04d3dab2">
+                <text>
+                    <strong>‌Number of lightning strikes per month - Area 1‌</strong>
+                </text>
+            </label>
+            <label key="985ead9be00524f462469d489b613ead">
+                <text>
+                    <strong>‌Number of lightning strikes‌</strong>
+                </text>
+            </label>
+            <label key="195fbb57ffe7449796d23466085ce6d8">
+                <text>May</text>
+            </label>
+            <label key="688937ccaf2a2b0c45a1c9bbba09698d">
+                <text>June</text>
+            </label>
+            <label key="1b539f6f34e8503c97f6d3421346b63c">
+                <text>July</text>
+            </label>
+            <label key="22f1a4667604b8557c9b209c201b4bc6">
+                <text>Aug</text>
+            </label>
+            <label key="ff07559bc06ba6ed552dfc6ad46ef943">
+                <text>Sept</text>
+            </label>
+            <label key="68a331aba311fe5212d5a52688f0813c">
+                <text>
+                    <strong>‌Month‌</strong>
+                </text>
+            </label>
+            <label key="2bab2c573e1a95189dabcb395cc5a60c">
+                <text>
+                    <strong>‌Number of lightning strikes per month - Area 2‌</strong>
+                </text>
+            </label>
+            <label key="3aac850e3accce5ce945b357c9d52d99">
+                <text>
+                    <strong>‌Number of lightning strikes per month - Area 3‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63b4f9a80db2b17356e01d8a91437511f0">
+            <label key="efecec4d2427e2c4cd1bb55a01701609">
+                <text>When lightning strikes, a person observing immediately sees a flash of light. Thunder occurs at the same time, but the person hears it a little later.</text>
+            </label>
+            <label key="3e5b55a933829c30e23581044d14c1e2">
+                <text>The size of the delay depends on the distance between the person and the location of the lightning strike.</text>
+            </label>
+            <label key="3a4b1bb74609ba68f144cd0f121d5118">
+                <text>Which one of the following statements best explains why we see lightning before we hear thunder?</text>
+            </label>
+            <label key="e9a41d2d110a6a711ebe81379a0cebd9">
+                <text>The speed of light through air is faster than the speed of sound through air.</text>
+            </label>
+            <label key="1b7ea97c56929038d076ca31bacf5d0f">
+                <text>Light does not need to travel through the air for us to see it, but sound does need to travel through the air for us to hear it.</text>
+            </label>
+            <label key="cce628e0a9c9b152d3dd17a6e2dff4e3">
+                <text>Particles of light are not as heavy as particles of sound, so they are easier for us to detect.</text>
+            </label>
+            <label key="5adc6e459d788a9c9de19de8fa4e2f71">
+                <text>Our eyes react faster to light than our ears react to sound.</text>
+            </label>
+        </item>
+        <item id="i63b4f9db08e3221160776c34798bc02ed9">
+            <label key="e702b45f1b8341f11a4ee7723e8ea343">
+                <text><div>Run the simulation and collect data to answer the following question.</div><div></div>Does the amount of power released by a lightning strike affect the speed of thunder?</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="33fc7a8d21ba1127463e0c6c60b382d0">
+                <text>Explain your answer using the results of the simulation.</text>
+            </label>
+            <label key="457ba641340a812b28f949a26fca3e7b">
+                <text>Lightning</text>
+            </label>
+            <label key="2138706cac3476cca61d19c036ad8f31">
+                <text>This simulation shows how the time taken for a person to hear thunder depends on:</text>
+            </label>
+            <label key="174d6f022a83f7768b2ae2ee792b9b56">
+                <text>the amount of power produced by the lightning strike and</text>
+            </label>
+            <label key="adec69b4160b1d81d0588905af464644">
+                <text>the distance between the lightning strike and the person.</text>
+            </label>
+            <label key="49cc8e6220245b65cd7d20fc6ccc74f5">
+                <text>Instructions</text>
+            </label>
+            <label key="ecfc8407da5be24cb267eb19aee3e244">
+                <text>Select the ‘Amount of power produced by lightning strike’.</text>
+            </label>
+            <label key="f600e99a0ff876247a90a8d63748c228">
+                <text>Select the ‘Distance between lightning strike and person’.</text>
+            </label>
+            <label key="3f2253ce9383867962692b73ef003eb7">
+                <text>Select ‘Run’.</text>
+            </label>
+            <label key="f1400be050b4743c4c5f1d063765d388">
+                <text>The simulation will allow you to record four sets of data. The data can be removed by selecting the ‘-’ symbol in the last column.</text>
+            </label>
+            <label key="4ca52c969d9fb46f165890dd01191a9a">
+                <text>Amount of power produced by lightning strike</text>
+            </label>
+            <label key="53cced8d281a1a0ace3cb6594daaa4f7">
+                <text>low</text>
+            </label>
+            <label key="075a3e36a0a52dcbc568c05788e8a713">
+                <text>medium</text>
+            </label>
+            <label key="8d966b2253a917086c8604959e152243">
+                <text>high</text>
+            </label>
+            <label key="7fa09683da560f843fe098b2501f745e">
+                <text>Distance between lightning strike and person (km)</text>
+            </label>
+            <label key="312e8871e100927905ef41f52831a16c">
+                <text>
+                    <button id="run-button" class="btn">Run</button>
+                </text>
+            </label>
+            <label key="16184a0f58763fb803ecd46dabb21cd8">
+                <text>Lightning strike power</text>
+            </label>
+            <label key="d3b3fa90825f30b5ee668f7ffbc9d70e">
+                <text>Distance between lightning strike and person (km)</text>
+            </label>
+            <label key="77172c46c260415f09dfe09684a840f1">
+                <text>Time delay between seeing lightning strike and hearing thunder (s)</text>
+            </label>
+            <label key="c8e845ddd4ad996d44acc328866c59c9">
+                <text>Amount of power produced by lightning strike </text>
+            </label>
+            <label key="a53108f7543b75adbb34afc035d4cdf6">
+                <text>run</text>
+            </label>
+        </item>
+        <item id="i63b4fa1d3f6612221856510ece5432917">
+            <label key="499d0ac3fff1153e4e0f11600841b155">
+                <text>How could you use the results of the simulation to calculate the speed of thunder?</text>
+            </label>
+            <label key="457ba641340a812b28f949a26fca3e7b">
+                <text>Lightning</text>
+            </label>
+            <label key="2138706cac3476cca61d19c036ad8f31">
+                <text>This simulation shows how the time taken for a person to hear thunder depends on:</text>
+            </label>
+            <label key="174d6f022a83f7768b2ae2ee792b9b56">
+                <text>the amount of power produced by the lightning strike and</text>
+            </label>
+            <label key="adec69b4160b1d81d0588905af464644">
+                <text>the distance between the lightning strike and the person.</text>
+            </label>
+            <label key="49cc8e6220245b65cd7d20fc6ccc74f5">
+                <text>Instructions</text>
+            </label>
+            <label key="ecfc8407da5be24cb267eb19aee3e244">
+                <text>Select the ‘Amount of power produced by lightning strike’.</text>
+            </label>
+            <label key="f600e99a0ff876247a90a8d63748c228">
+                <text>Select the ‘Distance between lightning strike and person’.</text>
+            </label>
+            <label key="3f2253ce9383867962692b73ef003eb7">
+                <text>Select ‘Run’.</text>
+            </label>
+            <label key="f1400be050b4743c4c5f1d063765d388">
+                <text>The simulation will allow you to record four sets of data. The data can be removed by selecting the ‘-’ symbol in the last column.</text>
+            </label>
+            <label key="4ca52c969d9fb46f165890dd01191a9a">
+                <text>Amount of power produced by lightning strike</text>
+            </label>
+            <label key="53cced8d281a1a0ace3cb6594daaa4f7">
+                <text>low</text>
+            </label>
+            <label key="075a3e36a0a52dcbc568c05788e8a713">
+                <text>medium</text>
+            </label>
+            <label key="8d966b2253a917086c8604959e152243">
+                <text>high</text>
+            </label>
+            <label key="7fa09683da560f843fe098b2501f745e">
+                <text>Distance between lightning strike and person (km)</text>
+            </label>
+            <label key="312e8871e100927905ef41f52831a16c">
+                <text>
+                    <button id="run-button" class="btn">Run</button>
+                </text>
+            </label>
+            <label key="16184a0f58763fb803ecd46dabb21cd8">
+                <text>Lightning strike power</text>
+            </label>
+            <label key="d3b3fa90825f30b5ee668f7ffbc9d70e">
+                <text>Distance between lightning strike and person (km)</text>
+            </label>
+            <label key="77172c46c260415f09dfe09684a840f1">
+                <text>Time delay between seeing lightning strike and hearing thunder (s)</text>
+            </label>
+            <label key="c8e845ddd4ad996d44acc328866c59c9">
+                <text>Amount of power produced by lightning strike </text>
+            </label>
+            <label key="a53108f7543b75adbb34afc035d4cdf6">
+                <text>run</text>
+            </label>
+        </item>
+        <item id="i63b4fab7b46392221228857788213079e">
+            <label key="b01e579e378a5f2d5b85671d4a4baa22">
+                <text>According to the graphs, which area had the most lightning strikes from May to September?</text>
+            </label>
+            <label key="ea17b3f8b0c5cf68f562206861cd30a2">
+                <text>Area 1</text>
+            </label>
+            <label key="d523266c916d082fd76862156d45d692">
+                <text>Area 2</text>
+            </label>
+            <label key="7e659bc91e83f7009e158f8ee19b8383">
+                <text>Area 3</text>
+            </label>
+        </item>
+        <item id="i63b4faeca3ec12220071fc891f0403fc1">
+            <label key="8db066c1659a19c2c36f88f17214dadc">
+                <text>Which one of the following statements is supported by the data in the graphs?</text>
+            </label>
+            <label key="46f28981d480f70e7c23b54af0825aa7">
+                <text>Area 1 had the least variability in the number of lightning strikes each month.</text>
+            </label>
+            <label key="d932a9fd28335250e116fc0ef750fef1">
+                <text>Area 3 had the greatest number of lightning strikes each month.</text>
+            </label>
+            <label key="a1c196df14041873b47e9833f056b7ea">
+                <text>All areas received the greatest number of lightning strikes in July.</text>
+            </label>
+            <label key="fbb8da87492337b9906181b8c8925dae">
+                <text>Each area had an increase in the number of lightning strikes from May to July.</text>
+            </label>
+        </item>
+        <item id="i642ccb82b7efc2225cb208783ff6f9d37">
+            <label key="be8f5ec6b10cd5e935a8268932f65c67">
+                <text>Use the results from the simulation to predict how long it would take a person to hear the thunder from a lightning strike that is 20 kilometres away.</text>
+            </label>
+            <label key="7ba314ae0e87f03d4fae51247119b973">
+                <text><textEntryInteraction responseIdentifier="CCZES100Q04" base="10" expectedLength="12" patternMask="" placeholderText=""/> seconds</text>
+            </label>
+            <label key="457ba641340a812b28f949a26fca3e7b">
+                <text>Lightning</text>
+            </label>
+            <label key="2138706cac3476cca61d19c036ad8f31">
+                <text>This simulation shows how the time taken for a person to hear thunder depends on:</text>
+            </label>
+            <label key="174d6f022a83f7768b2ae2ee792b9b56">
+                <text>the amount of power produced by the lightning strike and</text>
+            </label>
+            <label key="adec69b4160b1d81d0588905af464644">
+                <text>the distance between the lightning strike and the person.</text>
+            </label>
+            <label key="49cc8e6220245b65cd7d20fc6ccc74f5">
+                <text>Instructions</text>
+            </label>
+            <label key="ecfc8407da5be24cb267eb19aee3e244">
+                <text>Select the ‘Amount of power produced by lightning strike’.</text>
+            </label>
+            <label key="f600e99a0ff876247a90a8d63748c228">
+                <text>Select the ‘Distance between lightning strike and person’.</text>
+            </label>
+            <label key="3f2253ce9383867962692b73ef003eb7">
+                <text>Select ‘Run’.</text>
+            </label>
+            <label key="f1400be050b4743c4c5f1d063765d388">
+                <text>The simulation will allow you to record four sets of data. The data can be removed by selecting the ‘-’ symbol in the last column.</text>
+            </label>
+            <label key="4ca52c969d9fb46f165890dd01191a9a">
+                <text>Amount of power produced by lightning strike</text>
+            </label>
+            <label key="53cced8d281a1a0ace3cb6594daaa4f7">
+                <text>low</text>
+            </label>
+            <label key="075a3e36a0a52dcbc568c05788e8a713">
+                <text>medium</text>
+            </label>
+            <label key="8d966b2253a917086c8604959e152243">
+                <text>high</text>
+            </label>
+            <label key="7fa09683da560f843fe098b2501f745e">
+                <text>Distance between lightning strike and person (km)</text>
+            </label>
+            <label key="312e8871e100927905ef41f52831a16c">
+                <text>
+                    <button id="run-button" class="btn">Run</button>
+                </text>
+            </label>
+            <label key="16184a0f58763fb803ecd46dabb21cd8">
+                <text>Lightning strike power</text>
+            </label>
+            <label key="d3b3fa90825f30b5ee668f7ffbc9d70e">
+                <text>Distance between lightning strike and person (km)</text>
+            </label>
+            <label key="77172c46c260415f09dfe09684a840f1">
+                <text>Time delay between seeing lightning strike and hearing thunder (s)</text>
+            </label>
+            <label key="d783460969aefdd2bf4c4bfc57ab23a9">
+                <text>Amount of power produced by lightning strike</text>
+            </label>
+            <label key="a53108f7543b75adbb34afc035d4cdf6">
+                <text>run</text>
+            </label>
+        </item>
+    </items>
+</file>

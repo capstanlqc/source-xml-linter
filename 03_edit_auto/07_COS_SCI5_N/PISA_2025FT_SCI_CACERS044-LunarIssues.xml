@@ -1,0 +1,106 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc63a0dd1fda6d6/passage NEW.xml">
+            <label key="4878fb37582b5bab6b44780db82c4a3e">
+                <text>Lunar Issues</text>
+            </label>
+            <label key="96cd6edc60a4702e2760a1e802dadc76">
+                <text>There is a wide belief among many people today that the full moon affects human health.</text>
+            </label>
+            <label key="a8712bce17aa86ab7e80c835a2bdf0d2">
+                <text>This belief has persisted for hundreds, if not thousands, of years.</text>
+            </label>
+            <label key="6dbc70ac892674b5095ea82580fe90f3">
+                <text>So far, scientific evidence does not support this belief.</text>
+            </label>
+            <label key="4fc7efea5906f4661b06309d17964e61">
+                <text>Full moon and clouds</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/85eae80363a0dd3a44048/passage NEW 1.xml">
+            <label key="4878fb37582b5bab6b44780db82c4a3e">
+                <text>Lunar Issues</text>
+            </label>
+            <label key="70d5120c1072d96386d49b347645af9b">
+                <text>In a scientific journal, a study of 17,966 people treated in hospitals was reported.</text>
+            </label>
+            <label key="3aaedd671bebcfe1b9e043dea0c15dc6">
+                <text>The study identified no connection between human health and the full moon.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd863a0e0e599e5f/passage NEW 2.xml">
+            <label key="4878fb37582b5bab6b44780db82c4a3e">
+                <text>Lunar Issues</text>
+            </label>
+            <label key="186655ad2d987b5275c330ef78cd8ded">
+                <text>Claiming that there is a link between the full moon and human health is an example of pseudoscience. This is because the claim has been shown not to be true using scientific methods.</text>
+            </label>
+            <label key="ad830844ac3c80acc2d133b49d011e38">
+                <text>Pseudoscience claims may arise from research based on a faulty premise, flawed experimental design or poor-quality data.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a0dde90c94d278821ce13b9955f109bc">
+            <label key="33d89401a1831438ff6db01a561e30c9">
+                <text>In which one of these sources would you seek scientific evidence of a link between the full moon and changes in human moods?</text>
+            </label>
+            <label key="5bbe83f67c9d17bf4cfc3ee8500c6ff3">
+                <text>in reports published in the daily newspapers</text>
+            </label>
+            <label key="a80afd94ca401b5f5d33b1e882116f04">
+                <text>in articles written for peer-reviewed medical journals</text>
+            </label>
+            <label key="1bba696e72d06bb1b8b1554034e626bb">
+                <text>in the historical records of medical healers and philosophers</text>
+            </label>
+            <label key="1599e8f6ed5c77972bc44a0578127c23">
+                <text>in the personal observations of people published on the internet</text>
+            </label>
+        </item>
+        <item id="i63a0de1a3e8ed143136762d5cf0a449978">
+            <label key="752818caa2f0127e16af911a194bdb81">
+                <text>There could be many reasons that people still believe the moon affects human health.</text>
+            </label>
+            <label key="cbafb8deac29c3e8135f936deeb4d6fa">
+                <text>One hypothesis is that a person’s beliefs are linked to their level of education.</text>
+            </label>
+            <label key="c458870fb1f1408e43db5c9aa434266b">
+                <text>Suggest two groups of adults that could be surveyed to test this hypothesis.</text>
+            </label>
+        </item>
+        <item id="i63a0de5a71269278753a8a21a00165d67f">
+            <label key="6fbeaa0c895f5bd7d964f01c5beb407e">
+                <text>Are these statements consistent with scientific methods?</text>
+            </label>
+            <label key="a8c38cd5723dd799a00d4ac84d71561e">
+                <text>Select ‘Yes’ or ‘No’ for each statement.</text>
+            </label>
+            <label key="fdc1563a8afc5411a7aba3beeb918bd4">
+                <text>
+                    <strong>‌Yes‌</strong>
+                </text>
+            </label>
+            <label key="758eaa648d8250f58a4ec4251f2ea215">
+                <text>
+                    <strong>‌No‌</strong>
+                </text>
+            </label>
+            <label key="1e1cb53f943348e2baa76059a250a852">
+                <text>Data supporting a claim is presented but data that does not support the claim is ignored.</text>
+            </label>
+            <label key="c669e8718110281d816c975ca20556fb">
+                <text>The predictions of a claim can be checked for errors.</text>
+            </label>
+            <label key="e5a7c444fd5ea4a3ce1d396ed7bc8fa3">
+                <text>Aspects of myths are presented as factual support for a claim.</text>
+            </label>
+            <label key="8149945a7c61717642fa617c8a65910c">
+                <text>A claim is true because it has not been proven false.</text>
+            </label>
+            <label key="ecdc49f26fcfc4d210b9cc0db8bd54da">
+                <text>The results of published data can be reproduced by other scientists.</text>
+            </label>
+        </item>
+    </items>
+</file>

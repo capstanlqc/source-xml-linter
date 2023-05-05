@@ -1,0 +1,199 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/85eae8036392955486aed/passage NEW 1.xml">
+            <label key="a86fcee0221c84098dba862f8efc6621">
+                <text>Wind Farm</text>
+            </label>
+            <label key="41f946946220fe6fa3870783bdef5c8d">
+                <text>The residents of a town are investigating whether they have a suitable site for a wind farm.</text>
+            </label>
+            <label key="5362ae0331520125d4f8204a97c5854d">
+                <text>The table below shows wind conditions at four potential sites around the town.</text>
+            </label>
+            <label key="a7d6475ec8993b7224d6facc8cb0ead6">
+                <text>Site</text>
+            </label>
+            <label key="aabc230ba440519840bb6d11afac5f77">
+                <text>Peak wind speed</text>
+            </label>
+            <label key="5bb9772f5973ea49572c92c314cf6247">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="54cf4cc386e859f963b1539cc9f4b975">
+                <text>Average wind speed</text>
+            </label>
+            <label key="c96a7dea1ff89c91162776c1d45b91c0">
+                <text>Percentage of time with no wind</text>
+            </label>
+            <label key="7fc56270e7a70fa81a5935b72eacbe29">
+                <text>A</text>
+            </label>
+            <label key="42025c145fac9a208f66128d9a1ef198">
+                <text>11.4%</text>
+            </label>
+            <label key="9d5ed678fe57bcca610140957afab571">
+                <text>B</text>
+            </label>
+            <label key="1569f4bca7e6e54589cb3708fb0b6e7b">
+                <text>8.3%</text>
+            </label>
+            <label key="0d61f8370cad1d412f80b84d143e1257">
+                <text>C</text>
+            </label>
+            <label key="59a500c69018f89ec8203cccda7940a1">
+                <text>10.6%</text>
+            </label>
+            <label key="f623e75af30e62bbd73d6df5b50bb7b5">
+                <text>D</text>
+            </label>
+            <label key="00b6742d52a5ed71ad2b4484cec72bc3">
+                <text>9.1%</text>
+            </label>
+            <label key="aa3380ea26df33b9d6e8df4f1c76d9c8">
+                <text>The wind turbines that the town is considering for the wind farm:</text>
+            </label>
+            <label key="64d75b84d89d985bdcfc8871975972b8">
+                <text>produce maximum power at wind speeds of 12 m/s</text>
+            </label>
+            <label key="dc7136d5b77613761b3bad590a314a58">
+                <text>stop generating electricity at wind speeds above 25 m/s.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639296e0e9ad7232877a570778155e5">
+            <label key="6e05b14d1e4ba0513428a9707554a423">
+                <text>The positions of the four sites is shown on the image below.</text>
+            </label>
+            <label key="75694fe83fb7370039946ef08a5dcf53">
+                <text>Which of the four sites is the most suitable for a wind farm?</text>
+            </label>
+            <label key="a3258fb6841d3bedeb3d6caab1435ca0">
+                <text>Select the most suitable site on the image below.</text>
+            </label>
+            <label key="c16dac173aa8377a1c07aed8e0472f7c">
+                <text>Town</text>
+            </label>
+        </item>
+        <item id="i640fc2c091dcc193716fb35659bce991ba">
+            <label key="b3cb9c252572d70bee8d68ff85d650cb">
+                <text>Wind turbines are engineered to operate within certain average wind-speed ranges.</text>
+            </label>
+            <label key="08712491d3aaff347501bae454bbdd5b">
+                <text>It is more expensive to build a wind turbine designed for higher speeds.</text>
+            </label>
+            <label key="f88fdf5e8c767390097f1f43d5b92263">
+                <text>Wind Class 3 turbine: for average wind speeds up to 7.5 m/s</text>
+            </label>
+            <label key="350241a9490174242985c52bf12774fe">
+                <text>Wind Class 2 turbine: for average wind speeds up to 8.5 m/s</text>
+            </label>
+            <label key="dfdc2661663dc5cfa4450716a76a50b0">
+                <text>Wind Class 1 turbine: for average wind speeds above 8.5 m/s</text>
+            </label>
+            <label key="95c77223060d20e3ae6ef3c33f013f9c">
+                <text>Regardless of which location is chosen, which one of the three classes of wind turbine would be suitable for the town?</text>
+            </label>
+            <label key="9b7012ab32d24fc8152eb4561d7549f0">
+                <text>Wind Class 3</text>
+            </label>
+            <label key="70f3162373ca04d04c45afe66d29727c">
+                <text>Wind Class 2</text>
+            </label>
+            <label key="7607e67051d876d767eda7c4aedef2b5">
+                <text>Wind Class 1</text>
+            </label>
+        </item>
+        <item id="i640fc313f0ffa6263870a9cce85a18a6b5">
+            <label key="0af68fd94ca176ff4970b6f16cde20b9">
+                <text>The following questions about the wind farm were raised by people in the town.</text>
+            </label>
+            <label key="82118568af8abc9ef1789e05834628cf">
+                <text>Match each question with the main value the question will address.</text>
+            </label>
+            <label key="f08cb6c29ae253f6043cb5318e29cb25">
+                <text>Match boxes by selecting one box in each column.</text>
+            </label>
+            <label key="4fd6443aa40323c1355b592abc7d5cdc">
+                <text>You can remove a match by selecting the line and then selecting ‘x’.</text>
+            </label>
+            <label key="072db060f55c77e353d29b048989c3e0">
+                <text>
+                    <strong>‌Question‌</strong>
+                </text>
+            </label>
+            <label key="d3baca643d140f296544e210872a962f">
+                <text>
+                    <strong>‌Value‌</strong>
+                </text>
+            </label>
+            <label key="d925d5af9236ad28da2db2c2a9d43613">
+                <text>Will the wind farm create employment opportunities for people in the town?</text>
+            </label>
+            <label key="79516c5f24a4b044babd6267a11c94ea">
+                <text>ecological</text>
+            </label>
+            <label key="735095d194a96aba005e0acedbcadde3">
+                <text>Will the wind farm impact the flight path of migratory birds?</text>
+            </label>
+            <label key="c69d78f9f42df7ae2a88eea21588a579">
+                <text>ethical</text>
+            </label>
+            <label key="091e6a8c6a984964fdec76a7f7dd6230">
+                <text>How much energy will be generated by the wind farm?</text>
+            </label>
+            <label key="d5cc7a8dc301f6269e33a393e01f47b1">
+                <text>economic</text>
+            </label>
+            <label key="e74f5b0267e8d68bf404d5b48986a8e5">
+                <text>Will the supporters of the wind farm benefit financially from its development?</text>
+            </label>
+            <label key="55a95650a66b53ecbb960b53d985b964">
+                <text>scientific</text>
+            </label>
+        </item>
+        <item id="i640fc330873661796231a0fbad3f08f1e6">
+            <label key="e42a30305112bbc84c03679f021d253d">
+                <text>To help manage the town’s energy use, an adviser suggests several actions.</text>
+            </label>
+            <label key="76f5e08e527b2d16cbaf97c8dd2d7370">
+                <text>The residents want to determine whether these actions reduce: </text>
+            </label>
+            <label key="f78ef8c2d340fa7a4e5ebf675f924e82">
+                <text>total energy use in the town </text>
+            </label>
+            <label key="8a5b1f2e1f0d49096810b5b41d12f13e">
+                <text>daily peak energy use in the town</text>
+            </label>
+            <label key="2282c8968d10a6a48faf9a32296bace5">
+                <text>both total and peak energy use in the town.</text>
+            </label>
+            <label key="09888d5300bd0a58f776fa586d676fc3">
+                <text>Select one cell in each row to show the type of energy-use reduction that each of the actions described below would have.</text>
+            </label>
+            <label key="5e9f1043a2de7f0b0998d4bbc7964679">
+                <text>Reduce total energy use</text>
+            </label>
+            <label key="732c9f72244d93a7a2398e89b97b5a75">
+                <text>Reduce peak energy use </text>
+            </label>
+            <label key="07968b3db443f3f5fa7eadb85769e75f">
+                <text>Reduce <strong>both</strong> total and peak energy use</text>
+            </label>
+            <label key="5481ac2418c93f1f9620498b8fd87f3d">
+                <text>Use only cold water in washing machines.</text>
+            </label>
+            <label key="9409c1e6aa04a3de726275dd1967c26e">
+                <text>Use washing machines and dishwashers only when overall energy demand is low.</text>
+            </label>
+            <label key="3acaa3331f09abb9df62dcc5fc148bb9">
+                <text>Replace old domestic appliances with more energy-efficient ones.</text>
+            </label>
+            <label key="f0a4e5c3c9f6bd9750e8ec48e9b4ec07">
+                <text>Unplug devices such as televisions, computers and game consoles at the end of each day.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,1603 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli></sharedstimuli>
+    <items>
+        <item id="i63eb000b40173345790dcf0df205663d15">
+            <label key="32d0c193c11e2b2adcd26e74ab198e00">
+                <text>
+                    <strong>‌Who will complete this questionnaire?‌</strong>
+                </text>
+            </label>
+            <label key="0e018d5ee0d58a1114eba66a3b401110">
+                <text>
+                    <em>‌(Please select all that apply.)‌</em>
+                </text>
+            </label>
+            <label key="d0eb93a0b2a065573a1e43c0fd832fed">
+                <text>Mother or other female guardian</text>
+            </label>
+            <label key="154b16600879e9909299b899088fc1d9">
+                <text>Father or other male guardian</text>
+            </label>
+            <label key="6311ae17c1ee52b36e68aaf4ad066387">
+                <text>Other</text>
+            </label>
+        </item>
+        <item id="i63eb0020501ea34589667e94a29f124af8">
+            <label key="4db82b03cf41bfbc930976551cfc3ffe">
+                <text>
+                    <strong>‌Do you think problems associated with the environmental issues below will improve or get worse over the next 20 years?‌</strong>
+                </text>
+            </label>
+            <label key="4589c922def048378081acc96d9db625">
+                <text>
+                    <em>‌(Please tick only one box in each row.)‌</em>
+                </text>
+            </label>
+            <label key="806f4982180e4b496ea7451a93ab94a5">
+                <text>
+                    <em>‌Improve‌</em>
+                </text>
+            </label>
+            <label key="e7c645d82b039650a32169b9464cb6cc">
+                <text>
+                    <em>‌Stay about the same‌</em>
+                </text>
+            </label>
+            <label key="badec0c3d49d61e3f5731b959a5539ad">
+                <text>
+                    <em>‌Get worse‌</em>
+                </text>
+            </label>
+            <label key="dae775d9ce55050fc7ac8974cee38e66">
+                <text>Air pollution</text>
+            </label>
+            <label key="a1943cbbe678099c7ee0942f0984e7c8">
+                <text>Energy shortages</text>
+            </label>
+            <label key="d344874ea6ae15895796433d60aa78dc">
+                <text>Extinction of plants and animals</text>
+            </label>
+            <label key="e6c8865ad7cdb39e14ee530138bc30de">
+                <text>Clearing of forests for other land use</text>
+            </label>
+            <label key="9781ecc07b80ecdf2f9921fee1cac6cd">
+                <text>Water shortages</text>
+            </label>
+            <label key="d5509addd56b5faa4041ef5004f819e3">
+                <text>Nuclear waste</text>
+            </label>
+            <label key="1e728f42b6276b174367a17c1ae3ef1d">
+                <text>Extreme weather conditions</text>
+            </label>
+            <label key="f6f91f75a2731372f7602b6942876b98">
+                <text>The causes of climate change</text>
+            </label>
+            <label key="7001f33957400eaf01542131b9098564">
+                <text>The effects of climate change</text>
+            </label>
+            <label key="4de357c19d199213e996f2b024b90ca7">
+                <text>Water pollution</text>
+            </label>
+        </item>
+        <item id="i63eb002dca217194914f50224f5d45448">
+            <label key="edd9847553af920bed612084ae471c92">
+                <text>We are interested in the options you had as parents when choosing the school your child is currently attending.</text>
+            </label>
+            <label key="0beb36b37d8b48ab5b69e14864159616">
+                <text>
+                    <strong>‌Which of the following statements best describes the schooling available to students in your location?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="752ac3eee37436b07c748958d628be9c">
+                <text>There are two or more other schools in this area that compete with the school my child is currently attending.</text>
+            </label>
+            <label key="b9514a2dc251165ced68f5a3c7261f95">
+                <text>There is one other school in this area that competes with the school my child is currently attending.</text>
+            </label>
+            <label key="704c96736526e02018c9d46dc27f6634">
+                <text>There are no other schools in this area that compete with the school my child is currently attending.</text>
+            </label>
+        </item>
+        <item id="i63eb0056eab3f23720bd6de2f5cacec141">
+            <label key="553fe9337dc8da4c62de972918ddb134">
+                <text>We are interested in what you think about your child’s school.</text>
+            </label>
+            <label key="d958f5bea4c06f82602512a428545390">
+                <text>
+                    <strong>‌How much do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="36291256331bab3aa16c30c4fe3b0c10">
+                <text>Most of my child’s school teachers seem competent and dedicated.</text>
+            </label>
+            <label key="3d688c22bd43c2c761858ba7b9b39095">
+                <text>Standards of achievement are high in my child’s school.</text>
+            </label>
+            <label key="94d38076c044740c39e48b7c3d0203ac">
+                <text>I am happy with the content taught at my child’s school.</text>
+            </label>
+            <label key="071a11365269f32477a49c16a4aed398">
+                <text>I am happy with the instructional methods used in my child’s school.</text>
+            </label>
+            <label key="8d4495610b244fcb8cf2500f54802005">
+                <text>I am satisfied with the disciplinary atmosphere in my child’s school.</text>
+            </label>
+            <label key="136770d10b14cf188aa090847b6fc5be">
+                <text>My child’s progress is carefully monitored by the school.</text>
+            </label>
+            <label key="31671ba2f5be302e59002eb3e11a159f">
+                <text>My child’s school provides regular and useful information on my child’s progress.</text>
+            </label>
+            <label key="85c1d5d0be5a428b51a57670f2a02c6e">
+                <text>My child’s school does a good job in educating students.</text>
+            </label>
+            <label key="ac3e268b93b284548912f8dba7a2960d">
+                <text>My child’s school provides an inviting atmosphere for parents to get involved.</text>
+            </label>
+            <label key="a828843ca2307616b6a8743697498792">
+                <text>My child’s school provides effective communication between the school and families.</text>
+            </label>
+            <label key="a4025fea2339681004a90d18359c5d7b">
+                <text>My child’s school involves parents in the school’s decision-making process.</text>
+            </label>
+            <label key="0725395bf11bb109aa64300598345433">
+                <text>My child’s school offers parent education (e.g. &lt;courses on family literacy&gt;) or family support programmes (e.g. &lt;to assist with health, nutrition&gt;).</text>
+            </label>
+            <label key="deeb846687ff83c6c4d858253584bbd3">
+                <text>My child’s school informs families about how to help students with homework and other school-related activities.</text>
+            </label>
+            <label key="de25d0746ab5fc2d57bf8dcdc767bcf8">
+                <text>My child’s school cooperates with &lt;community services&gt; to strengthen school programmes and student development.</text>
+            </label>
+            <label key="24e26d5b083f0d42933ed610b8abf788">
+                <text>My child’s school provides &lt;School science&gt; achievement data directly to parents or guardians.</text>
+            </label>
+            <label key="303f56ed132f7955c5071226969790fb">
+                <text>Results from &lt;social and emotional skills&gt; assessments are provided directly to parents or guardians.</text>
+            </label>
+            <label key="dbf38f70a74e31f010db5704fc6dc936">
+                <text>My child’s school uses &lt;standardised tests&gt; to inform parents or guardians about their child’s progress.</text>
+            </label>
+            <label key="52c2415ba3084af06889b1ea88d12878">
+                <text>My child’s school uses teacher-developed tests to inform parents or guardians about their child’s progress.</text>
+            </label>
+            <label key="2a6c9d834616ea8e54f702b8f7c439f1">
+                <text>In my child’s school, digital tools are used well to support the students’ learning.</text>
+            </label>
+            <label key="355c6fd65b7254cc00861bc7970395e6">
+                <text>In my child’s school, digital tools are used well to communicate with parents.</text>
+            </label>
+        </item>
+        <item id="i63eb005c1ff4834579812105d10a016012">
+            <label key="14cf1ec8b9949073da9f2a96aa66deac">
+                <text>
+                    <strong>‌During &lt;the last academic year&gt;, has your participation in activities at your child’s school been hindered by any of the following issues?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="ec5d3d120abb17823bc41dde83dda1a5">
+                <text>The meeting times were inconvenient.</text>
+            </label>
+            <label key="6c8162147c381575bfaf692301a28735">
+                <text>I was not able to get off from work.</text>
+            </label>
+            <label key="0b055b9233e367e3b70be0cdd8c341d7">
+                <text>I had no one to take care of my child/ children.</text>
+            </label>
+            <label key="4aee9b8c23115bb094593a6435dec1be">
+                <text>The way to school is unsafe.</text>
+            </label>
+            <label key="a5aedd19363dd84d3081976f4a96fadc">
+                <text>I had problems with transportation.</text>
+            </label>
+            <label key="8556d14ba2882202d00d86da0bdadf1b">
+                <text>I felt unwelcome at my child’s school.</text>
+            </label>
+            <label key="344277507c7c4d9b2f30d7a0872514db">
+                <text>I feel generally awkward in a school.</text>
+            </label>
+            <label key="ed111ecdcabb07fa8fada4e17ca38eb1">
+                <text>My &lt;language skills&gt; were not sufficient.</text>
+            </label>
+            <label key="8f32bc1541ff562dc5d0913bdb25e333">
+                <text>I think participation is not relevant for my child’s development.</text>
+            </label>
+            <label key="f5340c61bbce706d08e613062ec1d4e0">
+                <text>I do not know how I could participate in school activities.</text>
+            </label>
+            <label key="f70b385c40f660eb3e50e0a6fb244915">
+                <text>My child does not want me to participate.</text>
+            </label>
+            <label key="c293780a92331744c4c98001a15f5e48">
+                <text>I believed the school was unsafe</text>
+            </label>
+            <label key="9a0ec1dcf4a114f5a2e217babc1f2b78">
+                <text>The COVID-19 pandemic</text>
+            </label>
+        </item>
+        <item id="i63eb006018cc11951284ca5219b007295">
+            <label key="7f8e9b7e565911257576a55faf5a2c1f">
+                <text>
+                    <strong>‌During &lt;the last academic year&gt;, have you participated in any of the following school-related activities?‌</strong>
+                </text>
+            </label>
+            <label key="ad8de06b5e2b4dc1778b6579f0be7865">
+                <text>
+                    <em>‌(If you need further explanation of the term “&lt;digital resources&gt;”, please use the help button.) ‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="188d69ca1c753f4da02799cd5882fd2e">
+                <text>
+                    <em>‌Not supported by school‌</em>
+                </text>
+            </label>
+            <label key="8cee5a18bfe971f590021339de645cba">
+                <text>Discussed my child’s behaviour with a teacher on my own initiative</text>
+            </label>
+            <label key="3512d43f10ff0172fb0e9c59356b09de">
+                <text>Discussed my child’s behaviour on the initiative of one of his/her teachers</text>
+            </label>
+            <label key="cc63230e05d1d718d27a520776dfc4b6">
+                <text>Discussed my child’s progress with a teacher on my own initiative</text>
+            </label>
+            <label key="26606084277876779cdb912c065e2cdf">
+                <text>Discussed my child’s progress on the initiative of one of their teachers</text>
+            </label>
+            <label key="a192c98c8ec139c82625d142dcc97277">
+                <text>Participated in local school government, e.g. parent council or school management committee</text>
+            </label>
+            <label key="a7f55287c8d569d42e8129941bec842b">
+                <text>Volunteered in physical or extra-curricular activities (e.g. building maintenance, carpentry, gardening or yard work, school play, sports, field trip)</text>
+            </label>
+            <label key="ce590279477ebfcca00806b674d05d47">
+                <text>Volunteered to support school activities (volunteered in the school library, media centre, or canteen, assisted a teacher, appeared as a guest speaker)</text>
+            </label>
+            <label key="171fcc5800a71d98012f52f479d5d445">
+                <text>Attended a scheduled meeting or conferences for parents</text>
+            </label>
+            <label key="82dd5fe67a287567171b8be620ec7031">
+                <text>Talked about how to support learning at home and homework with my child’s teachers</text>
+            </label>
+            <label key="0f2bb8ab4446cd272e1845f4870c1071">
+                <text>Exchanged ideas on parenting, family support, or the child’s development with my child’s teachers</text>
+            </label>
+            <label key="aa6d7d9311dd62b48647550f8b8487d2">
+                <text>Shared your own knowledge with students and/or teachers</text>
+            </label>
+            <label key="291f8ce226287201200e4b7b6a17b32a">
+                <text>Exchanged information on how to use &lt;digital resources&gt; in school and at home with my child’s teachers.</text>
+            </label>
+        </item>
+        <item id="i63eb00638f35e2363f7e599558b44e1b3">
+            <label key="3de6a365253e42a78d7e2b6721a7cb75">
+                <text>
+                    <strong>‌Do you see the environmental issues below as a serious concern for yourself and/or others?‌</strong>
+                </text>
+            </label>
+            <label key="4589c922def048378081acc96d9db625">
+                <text>
+                    <em>‌(Please tick only one box in each row.)‌</em>
+                </text>
+            </label>
+            <label key="1d985c6afbf5c05768d8fb5aa33ac642">
+                <text>
+                    <em>‌This is a serious concern for me personally as well as others‌</em>
+                </text>
+            </label>
+            <label key="307b5a90774f0f64978f022176d040bc">
+                <text>
+                    <em>‌This is a serious concern for other people in my country but not for me personally‌</em>
+                </text>
+            </label>
+            <label key="9bb6b0a6a39022858b2a3fa0d9ca716e">
+                <text>
+                    <em>‌This is a serious concern only for people in other countries‌</em>
+                </text>
+            </label>
+            <label key="51440109dc49a976513a953dcc234104">
+                <text>
+                    <em>‌This is not a serious concern for anyone‌</em>
+                </text>
+            </label>
+            <label key="dae775d9ce55050fc7ac8974cee38e66">
+                <text>Air pollution</text>
+            </label>
+            <label key="a1943cbbe678099c7ee0942f0984e7c8">
+                <text>Energy shortages</text>
+            </label>
+            <label key="d344874ea6ae15895796433d60aa78dc">
+                <text>Extinction of plants and animals</text>
+            </label>
+            <label key="e6c8865ad7cdb39e14ee530138bc30de">
+                <text>Clearing of forests for other land use</text>
+            </label>
+            <label key="9781ecc07b80ecdf2f9921fee1cac6cd">
+                <text>Water shortages</text>
+            </label>
+            <label key="d5509addd56b5faa4041ef5004f819e3">
+                <text>Nuclear waste</text>
+            </label>
+            <label key="1e728f42b6276b174367a17c1ae3ef1d">
+                <text>Extreme weather conditions</text>
+            </label>
+            <label key="f0e941d174001b02e753141d5bbbb597">
+                <text>Contact with diseases that can pass from other animals to humans</text>
+            </label>
+            <label key="f6f91f75a2731372f7602b6942876b98">
+                <text>The causes of climate change</text>
+            </label>
+            <label key="7001f33957400eaf01542131b9098564">
+                <text>The effects of climate change</text>
+            </label>
+            <label key="4de357c19d199213e996f2b024b90ca7">
+                <text>Water pollution</text>
+            </label>
+        </item>
+        <item id="i63eb0066e1b4c34587873944ab71ab1cce">
+            <label key="00ca15c6e9bc574d47205b59d268f3c2">
+                <text>Science is an important part of the PISA study. We are interested in parents’ opinions on science and on environmental issues.</text>
+            </label>
+            <label key="fe7e5b791b28bc03e38aaabe40b310fe">
+                <text>The following question asks about your views towards science.</text>
+            </label>
+            <label key="a6d90c1516e858c112538e70de14fd64">
+                <text>
+                    <strong>‌How much do you agree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="4589c922def048378081acc96d9db625">
+                <text>
+                    <em>‌(Please tick only one box in each row.)‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="6850138f02acf0173ebb65be41a830cd">
+                <text>Advances in &lt;broad science&gt; usually improve people’s living conditions.</text>
+            </label>
+            <label key="df639c5b8efd6b9f7d31a90c601817c2">
+                <text>&lt;Broad science&gt; is important to help us to understand the natural world.</text>
+            </label>
+            <label key="b155f61b3804ceb29323398a535b8280">
+                <text>Some concepts in &lt;broad science&gt; help me to see how I relate to other people.</text>
+            </label>
+            <label key="0bcc63f09ea5095bf26189f153a7d334">
+                <text>Advances in &lt;broad science &gt; usually help to improve the economy.</text>
+            </label>
+            <label key="e66243a320d93b564677d87bd3bdb2e1">
+                <text>There are many opportunities for me to use &lt;broad science&gt; in my everyday life.</text>
+            </label>
+            <label key="a14a7e5311a83c8736c26233ee00765a">
+                <text>&lt;Broad science&gt; is valuable to society.</text>
+            </label>
+            <label key="bf0f8e60d9f4765feb0f6f81430868d7">
+                <text>&lt;Broad science&gt; is very relevant to me.</text>
+            </label>
+            <label key="52f90978007eaf4d911f8da628d9ce7e">
+                <text>I find that &lt;broad science&gt; helps me to understand the things around me.</text>
+            </label>
+            <label key="c31042d3e3d43e86ff62f094329e61c1">
+                <text>Advances in &lt;broad science&gt; usually bring social benefits.</text>
+            </label>
+            <label key="1fb5a6231c5c86b8a9d1996d1ade1b37">
+                <text>&lt;Broad science&gt; can help solve global environmental crises.</text>
+            </label>
+        </item>
+        <item id="i63eb006a0a01620399566f35a47edc0619">
+            <label key="4858a2ec5525bd2b6e0b687b65748e51">
+                <text>The following questions refer to &lt;science-related careers&gt;. A &lt;science-related career&gt; is one that requires studying a science course at a university level.</text>
+            </label>
+            <label key="9d360ae036fad768f1555d9d06559d05">
+                <text>Examples of &lt;science-related careers&gt; include science teacher, engineer, weather forecaster, optician and medical doctor.</text>
+            </label>
+            <label key="61c89bbafd83b2e0940e72231962562a">
+                <text>
+                    <strong>‌Please answer the questions below.‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="ce27240e536fff21724b5b9a8daf26a2">
+                <text>Does anybody in your family (including you) work in a &lt;science-related career&gt;?</text>
+            </label>
+            <label key="b6becd1de05bd906c3b398ac117e21d2">
+                <text>Does your child show an interest in working in a &lt;science-related career&gt;?</text>
+            </label>
+            <label key="8d1511008b8dea51a3fe7f6a47efa00c">
+                <text>Do you expect your child will go into a &lt;science-related career&gt;?</text>
+            </label>
+            <label key="632d45de20ab1acbffe0d7e071776b97">
+                <text>Has your child shown interest in studying science after completing &lt;secondary school&gt;?</text>
+            </label>
+            <label key="43a48cdf8ab753e12beca9bfde7dab92">
+                <text>Do you expect your child will study science after completing &lt;secondary school&gt;?</text>
+            </label>
+        </item>
+        <item id="i63eb006f5ecab204114a0c8fa42189d045">
+            <label key="95c72da027c76c350392b4830a932e26">
+                <text>We are interested in what you think about the need for scientific skills in the job market today.</text>
+            </label>
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="51c14919fc848a67e928590015207954">
+                <text>Employers generally appreciate strong scientific knowledge and skills among their employees.</text>
+            </label>
+            <label key="5006d9abc67b9eabe85c0a95e3a6a108">
+                <text>It is an advantage in the job market to have good scientific knowledge and skills.</text>
+            </label>
+        </item>
+        <item id="i63eb0072ec9d9233682fcfa97601cbcb4">
+            <label key="b2faa71059c21c1baaae4455f43091fc">
+                <text>
+                    <strong>‌How often do you or someone else in your home do the following things with your child?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="043d8d4dc43b5024f66e15d0059e128a">
+                <text>
+                    <em>‌Never or hardly ever‌</em>
+                </text>
+            </label>
+            <label key="adc62b8179810ee909890ab4771394de">
+                <text>
+                    <em>‌Once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="7a017f8f3a3c5160049ba35367bb3e01">
+                <text>
+                    <em>‌Once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="392d7a0451fc7536a001d58c4456cf64">
+                <text>
+                    <em>‌Once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="2c721e029e123982a3ecdbf962023215">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="fc0a6344b99dabbe7fbc386e4d236f39">
+                <text>Discuss how well my child is doing at school</text>
+            </label>
+            <label key="92952c797d2cd7003579e516036920d8">
+                <text>Eat &lt;the main meal&gt; with my child around a table</text>
+            </label>
+            <label key="a3dc244c5f4ded9eafa729472032a8bc">
+                <text>Spend time just talking to my child</text>
+            </label>
+            <label key="8d0d7a0b7a4ddb95b2f10ca49c3d3163">
+                <text>Discuss political or social issues with my child</text>
+            </label>
+            <label key="82f80668dd5f1f9fc542a65dcbed338b">
+                <text>Help my child with his/her science homework</text>
+            </label>
+            <label key="437d9c7cde7fc9d3f63ff09415bbd74d">
+                <text>Obtain science-related materials (e.g. applications, software, study guides etc.) for my child</text>
+            </label>
+            <label key="43126abccbd672061389e0e94e18aaa1">
+                <text>Discuss with my child how science can be applied in everyday life</text>
+            </label>
+            <label key="98faa57e32ef14366e58b49ec30e16e9">
+                <text>Talk to my child about the importance of &lt;completing ISCED 3&gt;</text>
+            </label>
+            <label key="ea08bbdcc44c6802e1a5ccfcb0d49d3e">
+                <text>Talk to my child about any problems he/she may have at school</text>
+            </label>
+            <label key="3d27524321e88a2efa4e705c99fff910">
+                <text>Ask my child about how he/she is getting along with other students at school</text>
+            </label>
+            <label key="e39812bf0d61675bbb16c4dcb00350db">
+                <text>Encourage my child to get good &lt;marks&gt;</text>
+            </label>
+            <label key="38558e246ddefa1e1e439257664607d5">
+                <text>Take an interest in what my child is learning at school</text>
+            </label>
+            <label key="e6ff8e4e91e1fd8ea8bb40e7589fdc64">
+                <text>Talk to my child about his/her future education</text>
+            </label>
+            <label key="c603869dd4a324346cfca6683822c3f8">
+                <text>Ask my child what he/she did in school that day</text>
+            </label>
+            <label key="880695c1c4445df4aaf49c8eb0a382ef">
+                <text>Discuss &lt;science related career&gt; options with my child</text>
+            </label>
+        </item>
+        <item id="i63eb0075c78262342e875a3d38700040c">
+            <label key="f751c9bec604c68e79f8876e46724c7e">
+                <text>
+                    <em>‌Please answer this question with reference to &lt;the student who brought this questionnaire home&gt;.‌</em>
+                </text>
+            </label>
+            <label key="36e35ddc431ada5fac45a76102addb4b">
+                <text>
+                    <strong>‌Thinking back to when your child was about 10 years old, how often would your child have done these things?‌</strong>
+                </text>
+            </label>
+            <label key="4589c922def048378081acc96d9db625">
+                <text>
+                    <em>‌(Please tick only one box in each row.)‌</em>
+                </text>
+            </label>
+            <label key="4ba67c788bfd28a2adb5ae958c8aefd1">
+                <text>
+                    <em>‌Very often‌</em>
+                </text>
+            </label>
+            <label key="a93137391c1b18ae434da511db369922">
+                <text>
+                    <em>‌Regularly‌</em>
+                </text>
+            </label>
+            <label key="a726352cbcfacc1d4ed109a636246987">
+                <text>
+                    <em>‌Sometimes‌</em>
+                </text>
+            </label>
+            <label key="c8966fa2072a886db8725fd4b6a245d8">
+                <text>
+                    <em>‌Never‌</em>
+                </text>
+            </label>
+            <label key="bedbf01b4f67a15180b03dd1d8cdbef8">
+                <text>Watched TV programmes about science</text>
+            </label>
+            <label key="2a39c76552a34c4bf87f1cb4fbd74d2d">
+                <text>Read books on scientific discoveries</text>
+            </label>
+            <label key="e3c51d938fcc12b096cd6ebc235952b1">
+                <text>Watched, read or listened to science fiction</text>
+            </label>
+            <label key="dd911adca1b02fe878b06288cc78d012">
+                <text>Visited web sites about science topics</text>
+            </label>
+            <label key="63cbbf64a07369aa1c5c84744f61485c">
+                <text>Attended a science club</text>
+            </label>
+            <label key="6f7e99d64303252c5ee05a348134c14f">
+                <text>Construction play, e.g.&lt;Lego bricks&gt;</text>
+            </label>
+            <label key="43d52311728aaea69596df79bf11cc83">
+                <text>Took apart technical devices</text>
+            </label>
+            <label key="8aeb369ea9d65c0b83b3694e40046954">
+                <text>Fixed broken objects or items, e.g. broken electronic toys</text>
+            </label>
+            <label key="4829ab4982128877e2e84da3f1c3a058">
+                <text>Experimented with a science kit, electronics kit, or chemistry set, used a microscope or telescope</text>
+            </label>
+            <label key="f46462c80631938fdfa240217f395e0c">
+                <text>Played computer games with a science content</text>
+            </label>
+            <label key="ffcaaa84130de073df84279e7ba780f2">
+                <text>Observed animal behaviour (e.g. bird watching)</text>
+            </label>
+            <label key="a90b0b9599b32c2f21b92539dabb5e69">
+                <text>Participated in gardening activities</text>
+            </label>
+            <label key="94aeded26dee5cf3bfa58426701f4102">
+                <text>Visited a science museum</text>
+            </label>
+        </item>
+        <item id="i63eb0084f38222619cb24980853e34d68">
+            <label key="c806a2b794b5983bc82e6cef60f3dcbd">
+                <text>
+                    <strong>‌How many &lt;digital devices&gt; with screens are there in your home?‌</strong>
+                </text>
+            </label>
+            <label key="8ebd9acb9385c5d88a099b05bf0ff24c">
+                <text>
+                    <em>‌(Count all the devices including televisions, computers, tablets, e-book readers, and smartphones.)‌</em>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="74126c96e99698700d0eaedfe436cd54">
+                <text>There are no &lt;digital devices&gt; with screens.</text>
+            </label>
+            <label key="06c2cea18679d64399783748fa367bdd">
+                <text>One</text>
+            </label>
+            <label key="aada29daee1d64ed0fe907043855cb7e">
+                <text>Two</text>
+            </label>
+            <label key="ca8a2087e5557e317599344687a57391">
+                <text>Three</text>
+            </label>
+            <label key="981b8fcee42e1e726a67a2b9a98ea6e9">
+                <text>Four</text>
+            </label>
+            <label key="e5d9de39f7ca1ba2637e5640af3ae8aa">
+                <text>Five</text>
+            </label>
+            <label key="3897bb92c6720a31b5d25c2d7ffec2ad">
+                <text>6 to 10</text>
+            </label>
+            <label key="97d085044b0cbe405129de4b7b0ca382">
+                <text>More than 10</text>
+            </label>
+        </item>
+        <item id="i63eb0089620d023720c998e8df2e6d2f9f">
+            <label key="4826c00555b87fedd7c8bc83e0f09d42">
+                <text>
+                    <strong>‌How important are the following reasons for choosing a school for your child?‌</strong>
+                </text>
+            </label>
+            <label key="ad8de06b5e2b4dc1778b6579f0be7865">
+                <text>
+                    <em>‌(If you need further explanation of the term “&lt;digital resources&gt;”, please use the help button.) ‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="9066f1e797bc5107711e9e0f78bfea27">
+                <text>
+                    <em>‌Not important‌</em>
+                </text>
+            </label>
+            <label key="c1ced4aeff92d848ead5a86a0af6a980">
+                <text>
+                    <em>‌Somewhat important‌</em>
+                </text>
+            </label>
+            <label key="e2bf4f7499dd637bc463b097413ad177">
+                <text>
+                    <em>‌Important‌</em>
+                </text>
+            </label>
+            <label key="94e381255e1907f8faaca743ac18cd33">
+                <text>
+                    <em>‌Very important‌</em>
+                </text>
+            </label>
+            <label key="e87d5a616f7ce8849eb1a680dcd0ba45">
+                <text>The school is at a short distance to home.</text>
+            </label>
+            <label key="586c009d1bedf6d72ddc065d214e36ca">
+                <text>The school has a good reputation.</text>
+            </label>
+            <label key="b72edf7f5f9df8b17867941f537f7fb0">
+                <text>The school offers particular courses or school subjects.</text>
+            </label>
+            <label key="dfa0a9eac621732ecab936eaf0713f8b">
+                <text>The school adheres to a particular &lt;religious philosophy&gt;.</text>
+            </label>
+            <label key="25757e7f27ff0f9fa520dc5085a4f252">
+                <text>The school has a particular approach to &lt;pedagogy/didactics, e.g. example&gt;.</text>
+            </label>
+            <label key="ffef758ade79433e90cb01ac66740826">
+                <text>Other family members attended the school.</text>
+            </label>
+            <label key="a5499f34827300109299222c6b497447">
+                <text>The children of friends or other people we trust attended the school.</text>
+            </label>
+            <label key="fde0158545c8757dd9ccf4c5ae865491">
+                <text>Expenses are low (e.g. tuition, books, room and board).</text>
+            </label>
+            <label key="0f4bfb17121e9bca2efd8088e4dd40b1">
+                <text>The school has financial aid available, such as a school loan, scholarship, or grant.</text>
+            </label>
+            <label key="7ce640a58f75ec06596aa0f939c66118">
+                <text>The school has an active and pleasant school climate.</text>
+            </label>
+            <label key="bad805add9d911af1a8f7777623404fd">
+                <text>The academic achievements of students in the school are high.</text>
+            </label>
+            <label key="2791b59deab792f127417490152760e6">
+                <text>There is a safe school environment.</text>
+            </label>
+            <label key="66c7f41109bc31f7bf8f8b5f0d4f4f1b">
+                <text>The school has an international student body.</text>
+            </label>
+            <label key="939ac9f77d2ff59f87c188abcc0571fa">
+                <text>The school offers exchange programmes with schools in other countries.</text>
+            </label>
+            <label key="18cd7c92c82797fc8dc99373263821d9">
+                <text>The school has a focus on foreign language instruction.</text>
+            </label>
+            <label key="e0f7a2383fd9d35d1a7afba1d8ad0722">
+                <text>The school has a focus on digital technologies.</text>
+            </label>
+            <label key="6b77a6b937cd2cff68532362de13b31a">
+                <text>The school has innovative practices using &lt;digital resources&gt;.</text>
+            </label>
+        </item>
+        <item id="i63eb009142d6234677fc1ced1eeb5a31fe">
+            <label key="6f6f3daca21e2ae04b5034f1528e9e2c">
+                <text>
+                    <strong>‌What is your annual household income?‌</strong>
+                </text>
+            </label>
+            <label key="5ee41e017b3ea8974d21983e5314c993">
+                <text>
+                    <em>‌Please add together the total income, before tax, from all members of your household.‌</em>
+                </text>
+            </label>
+            <label key="116ffbfe90b5f8b75ccd02606e25c50c">
+                <text>
+                    <em>Please remember we ask you to answer questions only if you feel comfortable doing so, and that all responses are kept <strong>strictly confidential</strong>.</em>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="8009640a97a5e8abc22a03c6266e3514">
+                <text>Less than &lt;$A&gt;</text>
+            </label>
+            <label key="f1a449ed185677dd6a4c18ff3a69d2c8">
+                <text>&lt;$A&gt; or more but less than &lt;$B&gt;</text>
+            </label>
+            <label key="ff3915341c760d372255792da5dc6d5f">
+                <text>&lt;$B&gt; or more but less than &lt;$C&gt;</text>
+            </label>
+            <label key="08224e2edbd9eda624e5e1e0193ffa2f">
+                <text>&lt;$C&gt; or more but less than &lt;$D&gt;</text>
+            </label>
+            <label key="f204bc1c1c00abdfe89c17da1e28237a">
+                <text>&lt;$D&gt; or more but less than &lt;$E&gt;</text>
+            </label>
+            <label key="b8cb3b6b0c21fc06882d0dce168f65bb">
+                <text>&lt;$E&gt; or more</text>
+            </label>
+        </item>
+        <item id="i63eb00958f650233828ba5c810be51d75">
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="91a5a27e9653470a835c694db42f7e1d">
+                <text>When my child does well I tell them they worked hard.</text>
+            </label>
+            <label key="c481bf1a46e9ea025b4c24af5c0e3ebf">
+                <text>If my child does well, I tell them how smart they are.</text>
+            </label>
+            <label key="c24c29620644a64022fa9bb2128bb0ea">
+                <text>Even if my child does poorly in a subject, I would still believe in and respect my child.</text>
+            </label>
+            <label key="f1bdfdd47a63c07b4be1c0c5b299439f">
+                <text>If my child did well, I would be proud of how hard they tried.</text>
+            </label>
+            <label key="ab90d50a83afa79fafb280c3e1323cf4">
+                <text>If my child did poorly, I would help them understand what they could do differently to succeed.</text>
+            </label>
+            <label key="250743e1dd4981b1b45467cf99e107fa">
+                <text>If my child does poorly, it means they didn’t try enough.</text>
+            </label>
+        </item>
+        <item id="i63eb009b1c68326192b5b90219beb6f99">
+            <label key="456bda7c813b37a885fe8c77b455f85e">
+                <text>
+                    <strong>‌Did your child regularly attend an arrangement with one of the following main purposes prior to &lt;grade 1 in ISCED 1&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="1cd8def9e93d7e44f6792e184a87dee0">
+                <text>Supervision and care (e.g. &lt;national examples&gt;)</text>
+            </label>
+            <label key="96a355ad09ad1cc7f001aa6981e49767">
+                <text>Early childhood educational development (e.g. &lt;national examples&gt;)</text>
+            </label>
+            <label key="08cc1af896c95a732849afa9d2233cae">
+                <text>Pre-primary education (e.g. &lt;national examples&gt;)</text>
+            </label>
+        </item>
+        <item id="i63eb009f370cd20399b1d401340f115b60">
+            <label key="dc8f2bc005f3a4b1a87c1b5618acb524">
+                <text>
+                    <strong>‌Did your child attend the following additional instructions during &lt;ISCED 1&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="6507e5ebe2592c5a36d45d003ec1dec4">
+                <text>&lt;Enrichment lessons&gt; in science</text>
+            </label>
+            <label key="609c6ab82facb7be9c8e261983c4f480">
+                <text>&lt;Remedial lessons&gt; in science</text>
+            </label>
+            <label key="93d3b4fc9e3207571c5f7af542ca5314">
+                <text>&lt;Enrichment lessons&gt; in &lt;test language&gt;</text>
+            </label>
+            <label key="1abc309c5f08df37ed058bbe051f3b57">
+                <text>&lt;Remedial lessons&gt; in &lt;test language&gt;</text>
+            </label>
+            <label key="fef0486b2ca986513b4e0201d12a6461">
+                <text>&lt;Enrichment lessons&gt; in mathematics</text>
+            </label>
+            <label key="34ed66a7a640a2f65e7033bd1ea5b690">
+                <text>&lt;Remedial lessons&gt; in mathematics</text>
+            </label>
+        </item>
+        <item id="i63eb00ad04322233821c3672c0cb7152b">
+            <label key="ae8d82644cf5ec57141bc329b8be56c1">
+                <text>
+                    <strong>‌How many languages, including the language(s) you speak at home, do you speak well enough to converse with others?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="06c2cea18679d64399783748fa367bdd">
+                <text>One</text>
+            </label>
+            <label key="aada29daee1d64ed0fe907043855cb7e">
+                <text>Two</text>
+            </label>
+            <label key="ca8a2087e5557e317599344687a57391">
+                <text>Three</text>
+            </label>
+            <label key="191ab82fec44faa8a2f126aeb2ff1b24">
+                <text>Four or more</text>
+            </label>
+        </item>
+        <item id="i63eb00b2ef90c34585a198592739134a5c">
+            <label key="0f128486e5628785304c749df19a2ea1">
+                <text>Please answer the following question thinking just of expenses related to &lt;the student who brought this questionnaire home&gt;.</text>
+            </label>
+            <label key="911fe1c7f083e4d60680b6ba8b99b5fa">
+                <text>
+                    <strong>In the last twelve months, about how much have you paid to educational providers for <span class="txt-underline">services</span>?</strong>
+                </text>
+            </label>
+            <label key="f28c51b1646ef57ceea8f3851392c250">
+                <text>
+                    <em>‌In determining this, please include any tuition fees you pay to your child’s school, any other fees paid to individual teachers in the school or to other teachers for any tutoring your child receives, as well as any fees for cram school.‌</em>
+                </text>
+            </label>
+            <label key="df1774d03c1497ab3df843089dc519cb">
+                <text>
+                    <em>Do <strong>not</strong> include the costs of <span class="txt-underline">goods </span>like sports equipment, school uniforms, computers or textbooks if they are not included in a general fee (that is, if you have to buy these things separately).</em>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="f80a4ad87fee7c9fdc19b7769495fdb5">
+                <text>Nothing</text>
+            </label>
+            <label key="a5334637f9e23ae12e6ee8462ded52f3">
+                <text>&lt;More than $0 but less than $W&gt;</text>
+            </label>
+            <label key="357d306881baa2b075c051182900caff">
+                <text>&lt;$W or more but less than $X&gt;</text>
+            </label>
+            <label key="b6ff8e2aefe6d454e3d6bb3804f3d192">
+                <text>&lt;$X or more but less than $Y&gt;</text>
+            </label>
+            <label key="6bdd3f1b9dbc64cb57f27bbca2f16266">
+                <text>&lt;$Y or more but less than $Z&gt;</text>
+            </label>
+            <label key="cf95b9dad0712e56bfcd9ef4dc74b754">
+                <text>&lt;$Z&gt; or more</text>
+            </label>
+        </item>
+        <item id="i63eb00bc39da834582a94b231babb54f17">
+            <label key="7557b93f1ecbe33220d5dd39fa274cf2">
+                <text>
+                    <strong>‌Which qualification do you expect your child to complete? ‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="4937dbc5a89f5304410b12edca82bf4b">
+                <text>
+                    <em>‌I am not sure.‌</em>
+                </text>
+            </label>
+            <label key="41226d25f260bc8494bfe55050b14de9">
+                <text>&lt;ISCED level 2&gt;</text>
+            </label>
+            <label key="722b0308e79d13de9dfb41bb9efda077">
+                <text>&lt;ISCED level 3.3&gt;</text>
+            </label>
+            <label key="610d63c729200059ac4955b75ca4dc14">
+                <text>&lt;ISCED level 3.4&gt;</text>
+            </label>
+            <label key="27b1c14d039b18ba78365469f517727e">
+                <text>&lt;ISCED level 4&gt;</text>
+            </label>
+            <label key="80674452771368daac76e0a46bef82e3">
+                <text>&lt;ISCED level 5&gt;</text>
+            </label>
+            <label key="907bef6858a31dcbbb186fa661d68e30">
+                <text>&lt;ISCED level 6&gt;</text>
+            </label>
+            <label key="4992d78753d7a0ea6f7856af4d324fbf">
+                <text>&lt;ISCED level 7&gt;</text>
+            </label>
+            <label key="fe9f61258f4281fc84df3647e3d56244">
+                <text>&lt;ISCED level 8&gt;</text>
+            </label>
+        </item>
+        <item id="i63eb00c13e6e819467b2fae2adcf4d779">
+            <label key="d7505656054819d3b4b606e1643a5bb2">
+                <text>
+                    <strong>‌Including yourself, how many parents or guardians take care of your child and provide money or resources?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="06c2cea18679d64399783748fa367bdd">
+                <text>One</text>
+            </label>
+            <label key="aada29daee1d64ed0fe907043855cb7e">
+                <text>Two</text>
+            </label>
+            <label key="95bc016960b9b0c928fa5d0f56613553">
+                <text>Three or more</text>
+            </label>
+        </item>
+        <item id="i63eb00c619e9234587ed18cb45575fc0b2">
+            <label key="dadb34edfd5d6e2d8a75070d11f35f74">
+                <text>
+                    <strong>‌In what country were the following people in the child’s family born?‌</strong>
+                </text>
+            </label>
+            <label key="aa3fbd944b7e180055f76b27def6cac1">
+                <text>
+                    <em>‌(Please tick only one answer per column.)‌</em>
+                </text>
+            </label>
+            <label key="7f90b6fc80d87a836611a2551fd8795b">
+                <text>
+                    <em>‌Mother‌</em>
+                </text>
+            </label>
+            <label key="34c56ebe37d15586e3748894448ad03e">
+                <text>
+                    <em>‌Father‌</em>
+                </text>
+            </label>
+            <label key="95ac688f1b829a5a890b8c1970373ec9">
+                <text>
+                    <em>‌Maternal Grand-mother‌</em>
+                </text>
+            </label>
+            <label key="ac1802f41370a998046bcabf23285831">
+                <text>
+                    <em>‌Maternal Grand-father‌</em>
+                </text>
+            </label>
+            <label key="c52e6cd7fc1d22c26caa3b4083430206">
+                <text>
+                    <em>‌Paternal Grand-mother‌</em>
+                </text>
+            </label>
+            <label key="e29688a1c2ca9a62c6cff8c991482d31">
+                <text>
+                    <em>‌Paternal Grand-father‌</em>
+                </text>
+            </label>
+            <label key="809f3efbaecca3579b4bb0850def501e">
+                <text>&lt;Country of test&gt;</text>
+            </label>
+            <label key="077cd6068572c4c06bb09241dd14b2ef">
+                <text>&lt;Country A&gt;</text>
+            </label>
+            <label key="429a2a26f452f5ec32889f7520189be0">
+                <text>&lt;Country B&gt;</text>
+            </label>
+            <label key="321b6f5218468fb0728a30cec55fb7fd">
+                <text>&lt;Country C&gt;</text>
+            </label>
+            <label key="3d2abd02c3c61a2e1f21dc19288e8909">
+                <text>&lt;Country D&gt;</text>
+            </label>
+            <label key="c85b45f9be9f9693d17aac6ed9c0dd3d">
+                <text>&lt;Country E&gt;</text>
+            </label>
+            <label key="efbd956cd24d731af063f8a557a9121c">
+                <text>&lt;Country F&gt;</text>
+            </label>
+        </item>
+        <item id="i63eb00e17435d34590ea223595f01b98bb">
+            <label key="749d1d5196de00ac764dfbbd2ed4c417">
+                <text>
+                    <strong>‌How many hours per week did your child attend an &lt;early childhood education and care arrangement&gt; at the age of three years?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="9565b590983b0a1167087c2944bf0e9f">
+                <text>0 hours per week</text>
+            </label>
+            <label key="4df2d790a016ff79e682a1563c4eca8f">
+                <text>Up to 10 hours per week</text>
+            </label>
+            <label key="cef0870a8ab00ca09294e20c85fb23b2">
+                <text>11-20 hours per week</text>
+            </label>
+            <label key="8f1a7c73ea6d71ca5fd03b0d72652370">
+                <text>21-30 hours per week</text>
+            </label>
+            <label key="895c4506b1dd2ea2c7872a3f393957c9">
+                <text>31-40 hours per week</text>
+            </label>
+            <label key="6be7cc573cab9dd825a63beaae8a3cac">
+                <text>41-50 hours per week</text>
+            </label>
+            <label key="62b45cf87398a9909f2fd322eb453f39">
+                <text>51 hours per week or more</text>
+            </label>
+        </item>
+        <item id="i63eb00e52bec234652b6d42346425d3d5e">
+            <label key="f72bd0bf8639bbbf45ae5f1cdf80e7d9">
+                <text>
+                    <strong>‌What was the most important reason why your child attended an &lt;early childhood education and care arrangement&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="cb3e0472151897f39977026ee825f6ee">
+                <text>Attendance was mandatory.</text>
+            </label>
+            <label key="ba0491e1f4299bdac3563b59151f5f1c">
+                <text>We/I could not care for the child (e.g. work, illness).</text>
+            </label>
+            <label key="692111daf8c1fb58526babb4bd1c7e54">
+                <text>We/I wanted additional learning stimulation for the child (e.g. social, academic).</text>
+            </label>
+            <label key="1e8881ac6938ad4cdebb69f50fedf729">
+                <text>Most other children attended an &lt;early childhood education and care arrangement&gt;.</text>
+            </label>
+        </item>
+        <item id="i63eb00e9e5c433458567d377e7f08d2275">
+            <label key="fddc14eba0a26d7a48fe7c8db5067f4a">
+                <text>
+                    <strong>‌At what ages did your child attend an &lt;early childhood education and care arrangement&gt; prior to &lt;grade 1 in ISCED 1&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="0e018d5ee0d58a1114eba66a3b401110">
+                <text>
+                    <em>‌(Please select all that apply.)‌</em>
+                </text>
+            </label>
+            <label key="2af44c46ac3ee2db5ed7ad893b405b85">
+                <text>Up to age 1</text>
+            </label>
+            <label key="75982fe40d8c1ea2b46d1db8ea0fa2ea">
+                <text>Age 1</text>
+            </label>
+            <label key="94768d2c9960536f7112d135668d4613">
+                <text>Age 2</text>
+            </label>
+            <label key="5304d6ed514ea446dac7f958925a420c">
+                <text>Age 3</text>
+            </label>
+            <label key="8f1c8bfade9b30bd629d23889f7f2890">
+                <text>Age 4</text>
+            </label>
+            <label key="b93276a851c6e7ce37a3cbf59111c521">
+                <text>Age 5</text>
+            </label>
+            <label key="27641823acc313de7b44f907fd83ad28">
+                <text>Age 6</text>
+            </label>
+            <label key="97b01a72a931a0402c16698d1eb73823">
+                <text>Age 7</text>
+            </label>
+        </item>
+        <item id="i63eb00ecd95752431c9eabd3e5fcd43bc">
+            <label key="57f882aeaaaf2be12bfa641a340ee619">
+                <text>
+                    <strong>‌In what language did most of the activities in the previous question take place?‌</strong>
+                </text>
+            </label>
+            <label key="795093b60d321f8a3ce2c692010cfa5a">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="4f13f0a95f027967516a4fc7b2d6452e">
+                <text>&lt;Test language&gt;</text>
+            </label>
+            <label key="5e00c763c33fe2ab47dc0aafd7092627">
+                <text>&lt;English&gt;</text>
+            </label>
+            <label key="77603b8a5bda6220af1a8804c9f1a165">
+                <text>Another language</text>
+            </label>
+        </item>
+        <item id="i64053077f3bae114530d96d72f71b204af">
+            <label key="0c61a68b4d3400987d2d39a3f0231563">
+                <text>
+                    <strong>To what extent do you agree or disagree with the following statements about your childs use of digital tools <span class="txt-underline">outside of school</span>?</strong>
+                </text>
+            </label>
+            <label key="0f03c37cbc20f6586b72fab27b0c6aaa">
+                <text>
+                    <em>‌(If you need further explanation of the term “&lt;digital resources&gt;”, please use the help button.)‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="c0b628e89683618f5ebe8b4935979bc1">
+                <text>
+                    <em>‌Does not apply‌</em>
+                </text>
+            </label>
+            <label key="cd9a3964e4d36858102d8854cb761513">
+                <text>My child turns off notifications from social networks and apps on his/her &lt;digital devices&gt; when he/she goes to sleep.</text>
+            </label>
+            <label key="32af9bc931be12825147260744404ec9">
+                <text>My child feels nervous/anxious when he/she doesn’t have his/her &lt;digital device&gt; nearby.</text>
+            </label>
+            <label key="23765f68a9be7d6785bc8ba49168beef">
+                <text>My child uses &lt;digital resources&gt; for learning activities outside of school.</text>
+            </label>
+            <label key="3011083f8ee6fc81fbaecf0f7b194bf1">
+                <text>My child spends too much time playing videogames.</text>
+            </label>
+            <label key="ba7ee37af5839c3527a3032933e3d151">
+                <text>My child spends too much time on social media.</text>
+            </label>
+        </item>
+        <item id="i640530bfc82d0412616cca107532ddedd7">
+            <label key="76b33057312777f16d7b0b25c487512c">
+                <text>
+                    <strong>‌Do the following statements apply to you?‌</strong>
+                </text>
+            </label>
+            <label key="0f03c37cbc20f6586b72fab27b0c6aaa">
+                <text>
+                    <em>‌(If you need further explanation of the term “&lt;digital resources&gt;”, please use the help button.)‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="51e6674c5a2b9bbcd2ebcb26119d17ca">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="568f834c30c3c51b372d03d2377fe864">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="bee22ae0086f191ba17632e88f36a5b2">
+                <text>I define rules about how long or when my child is allowed to use &lt;digital resources&gt;.</text>
+            </label>
+            <label key="a76b8eedbc2d9b3a4991ccbdc99d21a0">
+                <text>I monitor what my child does when using &lt;digital resources&gt;.</text>
+            </label>
+            <label key="81404124d18beae64f5f823d14db98ce">
+                <text>I set up filters to prevent my child from accessing inappropriate content online.</text>
+            </label>
+            <label key="f35f0ae24c562a8e1bd5982c2de342c9">
+                <text>My child can use &lt;digital resources&gt; without any restriction.</text>
+            </label>
+            <label key="9d40a5a2f94b6cbd2fe212bd7f2d2770">
+                <text>I talk to my child about what he/she does on the internet.</text>
+            </label>
+            <label key="8ed1574959a5300f0c2b1a8dcd43a829">
+                <text>I encourage my child to explore and learn things on the Internet.</text>
+            </label>
+        </item>
+        <item id="i640530c333d8c170698edf0931275da1f6">
+            <label key="5223e9c704b7e74a83d6e624f5770fb4">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="0f03c37cbc20f6586b72fab27b0c6aaa">
+                <text>
+                    <em>‌(If you need further explanation of the term “&lt;digital resources&gt;”, please use the help button.)‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="6d39d965c062fa23ba1715ff225e59e9">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="97bf1378887a7005dea770aa67f6ccef">
+                <text>Parents should use &lt;digital resources&gt; to communicate with teachers and school.</text>
+            </label>
+            <label key="a7a2375561e20fa56cf20bcd892ef471">
+                <text>Schools should allow to track the progress of students at school using &lt;digital resources&gt;.</text>
+            </label>
+            <label key="81f23273d6d25f0813f654de2d7b78cb">
+                <text>Schools should put a strong focus on teaching programming and computer science.</text>
+            </label>
+            <label key="5fb537c15ec8bc24f8f69e7e3d41cad7">
+                <text>Schools should put a strong focus on teaching students how to assess the quality of information online.</text>
+            </label>
+            <label key="214aac6b9281f958092da499af2419e7">
+                <text>Schools should put a strong focus on teaching how to use digital resources safely and ethically.</text>
+            </label>
+        </item>
+        <item id="i640530cc365a746819116f4af79705dd04">
+            <label key="cf31d76d52fe11e41130994adb56fd20">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements about your child?‌</strong>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="084e2be7a0732939db6c70c7a66bf06e">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="bf20ef8a8c20fa1122ac54a94fe1e1a6">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="9bd1cc32a010e67f471f0992668129e4">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="38afe4ba2ffcf2d6c9882a70406a7c8d">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="5f483a676af8dd481aa2e3f2e0e48f3c">
+                <text>My child is curious to learn new things on his/her school subjects.</text>
+            </label>
+            <label key="5996399ec85f5bced6081aed376b3072">
+                <text>My child is good at learning new things on his/her own.</text>
+            </label>
+            <label key="fbfdde433a4c9c2f372aff970fb1427f">
+                <text>My child asks questions whenever he/she does not understand something.</text>
+            </label>
+            <label key="3d84f3d070f57848a917951b34511755">
+                <text>My child is good at managing his/her emotions when studying (e.g., frustration, anxiety, boredom).</text>
+            </label>
+            <label key="9918a93050c0976474a54888224ef474">
+                <text>My child should improve his/her approach to studying.</text>
+            </label>
+            <label key="5192a4ec8ae983a681cf5abb3d354d5c">
+                <text>My child should make more efforts to revise his/her work and check his/her understanding.</text>
+            </label>
+            <label key="c69056a3d348c57e1a13b6f0e1017fc9">
+                <text>My child tries to find solutions to school assignments on his/her own before asking for help.</text>
+            </label>
+            <label key="dd937dee0701441e9a53034fa33ba977">
+                <text>My child welcomes comments from me on his/her work.</text>
+            </label>
+            <label key="fe5450597e0102bab44f79f0505e768e">
+                <text>My child is attentive to the feedback he/she receives from teachers.</text>
+            </label>
+        </item>
+        <item id="i640530d74cf2c181481365be43a8d3ca6e">
+            <label key="55d948f2b8f38d6648a27339d5444800">
+                <text>
+                    <strong>‌To what extent are you able to do the following tasks using &lt;digital resources&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="0f03c37cbc20f6586b72fab27b0c6aaa">
+                <text>
+                    <em>‌(If you need further explanation of the term “&lt;digital resources&gt;”, please use the help button.)‌</em>
+                </text>
+            </label>
+            <label key="ad4ef30c6d6302052d7a6dd5f5239426">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="88c724b9089af1527be5653b1b9da0c6">
+                <text>
+                    <em>‌I cannot do this‌</em>
+                </text>
+            </label>
+            <label key="752b57af39e6f77b48e7febaf7223182">
+                <text>
+                    <em>‌I struggle to do this on my own‌</em>
+                </text>
+            </label>
+            <label key="527e67ae6187e4b6a5c9cfe29ce5b79b">
+                <text>
+                    <em>‌I can do with a bit of effort‌</em>
+                </text>
+            </label>
+            <label key="2840ddb60f69c2a074d557a4e9d84fea">
+                <text>
+                    <em>‌I can easily do this‌</em>
+                </text>
+            </label>
+            <label key="187db1a4ababb6ad30c42b7ae3c27ecf">
+                <text>
+                    <em>‌I don’t know what this is‌</em>
+                </text>
+            </label>
+            <label key="20ce67db7bd13205a219b88ba6ee7f22">
+                <text>Search for and find relevant information online</text>
+            </label>
+            <label key="8f68a943a50eb3ac4f6c67925f5455d5">
+                <text>Assess the quality of information you find online</text>
+            </label>
+            <label key="9b70e47bf90d889d0f7037d9a15024e4">
+                <text>Write or edit text for a formal document (e.g. using &lt;Google® Docs™&gt;, &lt;Microsoft® Word&gt;)</text>
+            </label>
+            <label key="d16cd29d9f376c8bddae7dc7dd5e47c6">
+                <text>Create a multi-media presentation (with sound, pictures, or video)</text>
+            </label>
+            <label key="69324ecbf40fa4d0e7aa72a4a01982ee">
+                <text>Create or edit videos (e.g. &lt;iMovie, Final Cut Pro, InShot&gt;)</text>
+            </label>
+            <label key="4e79bb5236cafe2abd195cb5fc6841bf">
+                <text>Produce or edit music (e.g. &lt;Audacity, GarageBand&gt;)</text>
+            </label>
+            <label key="befdfd643297192523b423d77f4e0159">
+                <text>Create a computer program (e.g., in &lt;Scratch&gt;, &lt;Python&gt;, &lt;Java&gt;)</text>
+            </label>
+            <label key="4f724966a71e650cde56d062edb1737e">
+                <text>Collect and record data (e.g., using data loggers, &lt;Google Form&gt;, &lt;Microsoft Excel&gt;, spreadsheets)</text>
+            </label>
+            <label key="b89af88df46b2aa442077c3320c6b7f2">
+                <text>Build or edit a webpage (e.g. using &lt;WordPress&gt;)</text>
+            </label>
+            <label key="618145bb730571ed9df9243ac1482f32">
+                <text>Create shared documents for collaboration with others (e.g. using  &lt;Google® Docs™, Dropbox&gt;)</text>
+            </label>
+            <label key="362f40acb80d42c9113bace91e1a838c">
+                <text>Use drawing or graphic software and applications</text>
+            </label>
+            <label key="16024e3843a7843915fa472d39a8216a">
+                <text>Explain how my personal data are being collected and shared by any particular program or app</text>
+            </label>
+        </item>
+    </items>
+</file>

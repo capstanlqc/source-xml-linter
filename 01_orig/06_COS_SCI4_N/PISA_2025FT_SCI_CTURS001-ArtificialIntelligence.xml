@@ -1,0 +1,152 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/1ca606b16361e4772102c/passage NEW 7.xml">
+            <label key="5b950926797815b20e19db4457c6f655">
+                <text>This is an example of consultation work conducted by software such as MYCIN.</text>
+            </label>
+            <label key="56ebf09c6766ef4cf6dcdebbf6920eb4">
+                <text>
+                    <strong>MYCIN Question number</strong>
+                </text>
+            </label>
+            <label key="a97ea56b0e00b2379736ae60869ff66a">
+                <text>Question</text>
+            </label>
+            <label key="d64ed3e9c10229648e069f56e32f4c8e">
+                <text>Response</text>
+            </label>
+            <label key="a1821a0e752657e5e465b5a23feb2380">
+                <text>Name and surname of patient?</text>
+            </label>
+            <label key="9245b7947c410be4e5c4114b4bbac522">
+                <text>Fred Braun</text>
+            </label>
+            <label key="51d2476de9fcf8d88d953b7921f74e22">
+                <text>Sex?</text>
+            </label>
+            <label key="63889cfb9d3cbe05d1bd2be5cc9953fd">
+                <text>Male</text>
+            </label>
+            <label key="873520d70d559d0b05c12476b75eaeae">
+                <text>Age?</text>
+            </label>
+            <label key="237a230cd7d68f59dd518f03f211d192">
+                <text>Any cultures cultivated in the microbiological laboratory taken from Fred Braun?</text>
+            </label>
+            <label key="bfc6942b14743201fa2ec6df00fed093">
+                <text>Yes, Culture-1.</text>
+            </label>
+            <label key="925bc552a0e21fd5735016dd456c7451">
+                <text>Where is Culture-1 taken from?</text>
+            </label>
+            <label key="747f992097b9e5c9df7585931537150a">
+                <text>Blood</text>
+            </label>
+            <label key="d059afaa103662f8cbf1434d99ad1f56">
+                <text>When was Culture-1 provided? (day/month/year)</text>
+            </label>
+            <label key="019795b1176edf416faa5f6af7b2f6a3">
+                <text>20 June 1970</text>
+            </label>
+            <label key="42cca4bd5ddcfddd79d8f49624ec1dd6">
+                <text>Name of organism taken from Culture-1 is Organism 1. Enter the name of Organism-1 stated in laboratory report.</text>
+            </label>
+            <label key="88183b946cc5f0e8c96b2e66e1c74a7e">
+                <text>Unknown</text>
+            </label>
+            <label key="ca5f94c7c3d52227ff9c23af4139a43b">
+                <text>Is Organism-1 rod or coccus shaped?</text>
+            </label>
+            <label key="8a108f81fb28f503b77d08bbe539ff27">
+                <text>ROD</text>
+            </label>
+            <label key="b08b5b4413aaae3a1d4018bb47af099a">
+                <text>Is Fred Braun a burns patient?</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="3d2643b225a0c6863b7e55c98156c6cd">
+                <text>Does Fred Braun have a fever?</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="5879ab00c2f2fe3dd2f54b2793fdff15">
+                <text><strong>After over 60 questions and answers…</strong><br/>INFECTION-1 BACTEREMIA<br/>[ITEM-1]E.COLI [ORGANISM-1]<br/>[ITEM-2]KLEBSIELLA [ORGANISM-1]<br/>[ITEM-3]ENTEROBACTE [ORGANISM-1]<br/>[ITEM-4] KLEBSIELLA-PNEUMONIA [ORGANISM-1]<br/>MYCIN: Prescription (PRES-1) covers the 4 findings above. Apply GENTAMICIN; dosage: 119 mg (0.6 mL) 10 days one IV once in 8 hours (calculated on 1.7 mg), if kidney failure exists change dose.</text>
+            </label>
+            <label key="71ecbd8feb4ce59a4baadca24d3dbf67">
+                <text>The treatment prescription was produced by over 60 questions in the consultation. During the consultation, the question “Does Fred Braun have a fever?” was answered as “Yes”. </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc635718e973ded/passage NEW.xml">
+            <label key="85837ff413a71ed2663781845ca95070">
+                <text>Artificial Intelligence in Science</text>
+            </label>
+            <label key="02dc075ae8197f7d6187907394f7ac46">
+                <text>Artificial intelligence (AI) is computer software that simulates human intelligence.</text>
+            </label>
+            <label key="a47625235213e6311f955806eb72a7cc">
+                <text>Medical Expert Systems are a type of AI that help doctors diagnose and treat illnesses. The systems identify patterns in large data sets provided by many patients over time. </text>
+            </label>
+            <label key="227a4aec3f6f6f183c67130c30f40808">
+                <text>The systems follow hundreds of rules in the computer program and use a hierarchical approach to generate questions about the patient. The question asked next in a sequence depends on the answer to the previous question. </text>
+            </label>
+            <label key="78bd26b080f589cbd5c3a9e6c8f7f89e">
+                <text>The systems do not replace doctors.</text>
+            </label>
+            <label key="a0318d863030b442c77cad20db33dd31">
+                <text>An example of a Medical Expert System is MYCIN. MYCIN helps to diagnose bacterial infections.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6357199e60860384805ccdce7dea1caa9f">
+            <label key="19357f6b2964c90e72e2e55dfb7d5927">
+                <text>If this question was answered as “No”, would the number of questions asked during the consultation change?</text>
+            </label>
+            <label key="93cba07454f06a4a960172bbd6e2a435">
+                <text>Yes</text>
+            </label>
+            <label key="bafd7322c6e97d25b6299b5d6fe8920b">
+                <text>No</text>
+            </label>
+            <label key="4fd72ad9efa6be34b8ac1f513e76dfb5">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i63571a1095eb4132928d0f6764ac97adb1">
+            <label key="787bb32434ff87ce46ddc14d5753bd9f">
+                <text>Give one advantage and one disadvantage of using AI systems instead of doctors to make a diagnosis.</text>
+            </label>
+            <label key="5083a761fb71c93c469b0e67d3399cdf">
+                <text>Advantage of using AI systems:</text>
+            </label>
+            <label key="c4e3d118f05679e20f51ae69f8cd8bac">
+                <text>Disadvantage of using AI systems:</text>
+            </label>
+        </item>
+        <item id="i63571a321c52a132889f8fae8fb7c93987">
+            <label key="feaf9c30b8ad6fdbdffd52faa1d93364">
+                <text>Which one of the following actions is the main purpose of a Medical Expert System?</text>
+            </label>
+            <label key="2027d0eb55b92a66a09faae5a69c2d2a">
+                <text>reducing the number of doctors </text>
+            </label>
+            <label key="9eda275d675f6ad680b9ed66fcf2f0fb">
+                <text>ensuring there is never a wrong diagnosis</text>
+            </label>
+            <label key="88619dd19ae4d4a7cd73cd12a6389767">
+                <text>providing guidance to doctors</text>
+            </label>
+            <label key="1de0716746efc4018c033a5dad8f5a83">
+                <text>fulfilling preventive medicine requirements</text>
+            </label>
+        </item>
+        <item id="i6368949f364ad21624809888b49f708716">
+            <label key="10362058fdbb965854228437423014e8">
+                <text>Drag each of the steps below into the correct place in the flow chart to show the order of steps MYCIN would take to provide a doctor with data relating to a patient.<div><table><tbody><tr><td>Patient data</td><td></td><td></td></tr><tr><td>Treatment suggestion</td><td>Diagnosis</td><td>Laboratory results</td></tr><tr><td>Issuing prescription</td><td>Symptom questioning</td><td></td></tr></tbody></table><p></p></div></text>
+            </label>
+        </item>
+    </items>
+</file>

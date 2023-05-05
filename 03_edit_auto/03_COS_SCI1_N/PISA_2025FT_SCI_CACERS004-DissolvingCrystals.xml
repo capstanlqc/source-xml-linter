@@ -1,0 +1,153 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <sharedstimuli>
+        <sharedstimulus id="assets/f5faf9006344f1b2a27b3/passage NEW 12.xml">
+            <label key="178babe528b8ed5a9b363099472857ed">
+                <text>Dissolving Crystals</text>
+            </label>
+            <label key="8cc0bf3bc2b33f593e65594cd010844b">
+                <text>Marion grows crystals at home as a hobby.</text>
+            </label>
+            <label key="c7b225961f716ed5312187e6cfe4f3e4">
+                <text>Marion left a glass of seawater on a shelf last month.</text>
+            </label>
+            <label key="5f1a43c2d0dbea84b4e1ad367f04edfa">
+                <text>Now the glass is empty except for some white crystals, as shown below.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/789df44963bb8d5c7bf1b/passage NEW 13.xml">
+            <label key="1161a8781026e99d252ea7a48d57ade5">
+                <text>Dissolving Crystals </text>
+            </label>
+            <label key="d1b92a5bd254ff531d3d75f34a143322">
+                <text>Marion now adds sugar crystals to a glass of plain water.</text>
+            </label>
+            <label key="1839e503a200fbe9a43454542011648b">
+                <text>She stirs the contents of the glass for five minutes, but there is some sugar that will not dissolve.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6cb617b263bb8f0922cc9/passage NEW 14.xml">
+            <label key="178babe528b8ed5a9b363099472857ed">
+                <text>Dissolving Crystals</text>
+            </label>
+            <label key="de8e5fe05706cffd9d29890549465f09">
+                <text>Marion plans to compare how crystals grow in three different locations around her house.</text>
+            </label>
+            <label key="b83b8de60225be0459b98079a72babe7">
+                <text>She prepared a single solution by dissolving some copper (II) sulfate in a bottle. She stirred the solution thoroughly to completely dissolve the copper (II) sulfate.</text>
+            </label>
+            <label key="573726c88ed11164a6f5493b6038df12">
+                <text><br/>Marion then poured this solution into three identical glasses.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6336581e9b89919467e31f40b90f02f628">
+            <label key="cd1261501a25a30b9e60b5678d67ed27">
+                <text>What are the white crystals made of?</text>
+            </label>
+            <label key="2570c919f5ef1d7091f0f66d54dac974">
+                <text>glass</text>
+            </label>
+            <label key="ceb20772e0c9d240c75eb26b0e37abee">
+                <text>salt</text>
+            </label>
+            <label key="3f01a108d7ed607934a2aced227f1c77">
+                <text>plastic</text>
+            </label>
+            <label key="88336b5bb2a1cc21bac7cf33fd451270">
+                <text>sand</text>
+            </label>
+        </item>
+        <item id="i63365981a0d294210094626a87fa6fdd6">
+            <label key="498e4823ea2575c3a27d3a926e302f50">
+                <text>There is no longer any water in Marion’s glass.</text>
+            </label>
+            <label key="a71b658f2b19cfa6859237d742041560">
+                <text>What process is most similar to the way the water was removed?</text>
+            </label>
+            <label key="818b923fe0bcb073743a8f8542b09572">
+                <text>boiling a pot of water on a stovetop</text>
+            </label>
+            <label key="95e3d83e016ed8fa17548881c253ad9d">
+                <text>using a sieve to separate solid food from liquid</text>
+            </label>
+            <label key="7eacb62ccac910e7bee752306b92e3f3">
+                <text>growing a crystal in a solution</text>
+            </label>
+            <label key="21ef2248dca9b8efd2685363056060e0">
+                <text>mixing together two solutions that react together to form a solid</text>
+            </label>
+        </item>
+        <item id="i63365a33712081937f8e69eab564de6a5">
+            <label key="98ce1e47cd860a9131192b9ed7b3da96">
+                <text>What should Marion do to make all the sugar crystals dissolve?</text>
+            </label>
+            <label key="a558da4d3c7abc5510d8123b4fe80863">
+                <text>add more sugar</text>
+            </label>
+            <label key="9491f9d8f3b2fa2d90ec94e9baf30bd6">
+                <text>heat the water</text>
+            </label>
+            <label key="d9b37d363214ce84a00a4b5360b70717">
+                <text>stir the water for longer</text>
+            </label>
+            <label key="a779c111553be30606c2790a28a47cb2">
+                <text>filter the solution</text>
+            </label>
+        </item>
+        <item id="i63365b163a5cf1947722a93d997a3cdf24">
+            <label key="5860116b166302c8185a8c8829c00133">
+                <text>Which factor is exactly the same as a result of making the solution this way?</text>
+            </label>
+            <label key="ecf23be39827b032a5ffb9212e9a96d6">
+                <text>the concentration of solution in each glass</text>
+            </label>
+            <label key="ae01b15a97e581e6dd1bf2352aa8f77c">
+                <text>the volume of solution in each glass</text>
+            </label>
+            <label key="63dee3e647c819b58f57f487ef0319ba">
+                <text>the size of each glass</text>
+            </label>
+            <label key="15b08f422d0422570fbb2bbf9c45370b">
+                <text>the mass of dissolved copper (II) sulfate in each glass</text>
+            </label>
+        </item>
+        <item id="i63365e579b5a9194803f75a53d18a4d20a">
+            <label key="570c8d62f9be94ce266c67c668fcc43e">
+                <text>Which description is true about the number and type of ions found in a unit of magnesium chloride?</text>
+            </label>
+            <label key="879c0acb7bdfbe4b4f2c6fecefecb155">
+                <text>one Mg⁺ ion and two Cl⁻ ions</text>
+            </label>
+            <label key="dec7833ea914d54cc57a497eb6af8405">
+                <text>one Mg²⁺ ion and two Cl⁻ ions</text>
+            </label>
+            <label key="e80319c251f699bd8eae8775da0f052f">
+                <text>two Mg⁺ ions and one Cl²⁻ ion</text>
+            </label>
+            <label key="f6d1714189b0a5a70c9892386ca25e6d">
+                <text>two Mg²⁺ ions and one Cl²⁻ ion</text>
+            </label>
+            <label key="178babe528b8ed5a9b363099472857ed">
+                <text>Dissolving Crystals</text>
+            </label>
+            <label key="100dc492669e1417338d136c167acb3e">
+                <text>Marion has dissolved some magnesium chloride (MgCl₂) crystals in water.</text>
+            </label>
+            <label key="51ab3e9d91f4f73d1791a57304ac324d">
+                <text>MgCl₂ is composed of magnesium and chloride ions.</text>
+            </label>
+        </item>
+        <item id="i6336610c6281c194902c745810f8ee5">
+            <label key="113536ed39805e6183fd419435a9cfdc">
+                <text>Which image best represents the particles that make up the salt after it has been dissolved in water?</text>
+            </label>
+            <label key="178babe528b8ed5a9b363099472857ed">
+                <text>Dissolving Crystals</text>
+            </label>
+            <label key="6865e46da09fa78c24d47607b40c0195">
+                <text>The images below represent sodium chloride (NaCl) crystal and liquid water (H₂O) molecules.</text>
+            </label>
+        </item>
+    </items>
+</file>
