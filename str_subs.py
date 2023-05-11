@@ -89,6 +89,41 @@ def get_backref_values(match, search_pattern, replace_pattern):
     return {}
 
 
+def recursive_convert_backref_style(replace_pattern):
+    """Replaces $<n> style with \<n> for backreferences in replacement patterns."""
+    
+    for match in re.finditer(r"\$(?=\d+)", replace_pattern):
+        replace_pattern = re.sub(fr'\{match.group(0)}', '\\\\', replace_pattern)
+    
+    return replace_pattern
+
+
+def log_changes(search_pattern, replace_pattern, text):
+
+    for match in re.finditer(search_pattern, text):
+    
+        orig_text = text[:] # not used
+        full_match = match.group(0)
+        backreferences = get_backref_values(match, search_pattern, replace_pattern)
+        replace_value = replace_pattern[:]
+
+        for k, v in backreferences.items():
+            replace_value = replace_value.replace(k, v)
+
+        # text = text.replace(full_match, replace_value) # replacing literal strings
+        
+        # logging... 
+        add_to_log(f"{search_pattern=}") # only interesting for debugging
+        add_to_log(f"{full_match=}") # only interesting for debugging
+        add_to_log(f"{replace_pattern=}") # only interesting for debugging
+        add_to_log(f"{backreferences=}") # only interesting for debugging
+        add_to_log(f"{replace_value=}") # only interesting for debugging
+        add_to_log(f"👉 Text matched: '{full_match}'")
+        add_to_log(f"👉 Replace with: '{replace_value}'")          
+        
+        add_to_log("--------------------------------------------------------------------------------")
+
+    
 def run_substitutions(text, patterns, flags=re.DOTALL):
     """Do the substitutions in the text"""
 
@@ -98,30 +133,13 @@ def run_substitutions(text, patterns, flags=re.DOTALL):
             continue
             
         search_pattern = re.compile(k, re.MULTILINE|re.DOTALL)
-        replace_pattern = v
+        replace_pattern = fr"{recursive_convert_backref_style(v)}" # or: r"%s" % v
 
-        for match in re.finditer(search_pattern, text): #, overlapped=True):
-            
-            orig_text = text[:]
-            full_match = match.group(0)
-            backreferences = get_backref_values(match, search_pattern, replace_pattern)
-            replace_value = replace_pattern[:]
+        orig_text = text[:]
+        text = re.sub(search_pattern, replace_pattern, text)
 
-            for k,v in backreferences.items():
-                replace_value = replace_value.replace(k, v)
-
-            text = text.replace(full_match, replace_value) # replacing literal strings
-            
-            # logging... 
-            # add_to_log(f"{search_pattern=}") # only interesting for debugging
-            # add_to_log(f"{full_match=}") # only interesting for debugging
-            # add_to_log(f"{replace_pattern=}") # only interesting for debugging
-            # add_to_log(f"{backreferences=}") # only interesting for debugging
-            # add_to_log(f"{replace_value=}") # only interesting for debugging
-            add_to_log(f"👉 Text matched: '{full_match}'")
-            add_to_log(f"👉 Replace with: '{replace_value}'")          
-            
-            add_to_log("--------------------------------------------------------------------------------")
+        if orig_text != text:
+            log_changes(search_pattern, v, orig_text)
         
     return text
 

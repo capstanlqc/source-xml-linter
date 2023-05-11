@@ -4,3 +4,4 @@ venv/**
 03_edit_auto/**
 PISA_2025FT_SCI_CACERS034-PlantDiversity.xml
 log.txt
+*.patch*
