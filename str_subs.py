@@ -52,7 +52,9 @@ else:
     sys.exit()
 
 parent_dir = os.path.dirname(os.path.realpath(__file__))
-log_file = os.path.join(parent_dir, "logs", "log.txt") # @todo: add timestamp to log file
+log_dpath = os.path.join(parent_dir, "logs")
+os.makedirs(log_dpath, exist_ok=True)
+log_file = os.path.join(log_dpath, "log.txt") # @todo: add timestamp to log file
 
 
 # ############# FUNCTIONS ###########################################
