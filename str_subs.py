@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import sys, os
 from datetime import datetime
 startTime = datetime.now()
