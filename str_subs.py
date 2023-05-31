@@ -196,7 +196,8 @@ if __name__ == "__main__":
              
             ## output
             write_edited_file(output_fpath, text)
+
+            # log
+            add_to_log(f"----\nIt took: {datetime.now() - startTime}")
             with open(log_file, 'w') as f:
                 f.write('\n'.join(log))
-
-            add_to_log(f"----\nIt took: {datetime.now() - startTime}")
