@@ -109,6 +109,7 @@ def log_changes(search_pattern, replace_pattern, text):
         replace_value = replace_pattern[:]
 
         for k, v in backreferences.items():
+            v = v if (v != None) else ""
             replace_value = replace_value.replace(k, v)
 
         # text = text.replace(full_match, replace_value) # replacing literal strings
