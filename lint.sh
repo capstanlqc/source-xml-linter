@@ -1,4 +1,5 @@
-/home/souto/Repos/ACER-PISA-2025-FT/lint-test/lint.sh#!/usr/bin/env bash
+#!/usr/bin/env bash
+# /home/souto/Repos/ACER-PISA-2025-FT/lint-test/lint.sh
 
 srcdir="/home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_common/source"
 cd $srcdir
@@ -40,15 +41,15 @@ linted=$srcdir/linted_2_wrkflw
 # done
 
 # check for updates
-for fpath in $(find {01_COS_SCI-A_N,02_COS_SCI-B_N,03_COS_SCI-C_N,04_QQS_N,05_QQA_N,06_COS_LDW_N,07_COS_XYZ_N} -type f -exec echo {} \; 2>/dev/null)
+for filepath in $(find {01_COS_SCI-A_N,02_COS_SCI-B_N,03_COS_SCI-C_N,04_QQS_N,05_QQA_N,06_COS_LDW_N,07_COS_XYZ_N} -type f -exec echo {} \; 2>/dev/null)
 do
-    filename=${fpath#"$srcdir/"}
-    # old_hash=$(md5sum $fpath | cut -d' ' -f1)
-    new_hash="$(md5sum $fpath | cut -c -32)"
+    filename=${filepath#"$srcdir/"}
+    # old_hash=$(md5sum $filepath | cut -d' ' -f1)
+    new_hash="$(md5sum $filepath | cut -c -32)"
     old_hash="$(cat $srcdir/files.md5 | grep $filename | cut -c -32)"
     if [ "$old_hash" != "$new_hash" ]; then
         updates=1
-        cp $fpath $tolint
+        cp $filepath $tolint
     fi
 done
 
@@ -56,12 +57,12 @@ done
 python source-xml-linter/str_subs.py -i $tolint -o $linted -c source-xml-linter/config.xlsx
 
 # overwrite file with linted version
-for fpath in $(find $linted -type f)
+for filepath in $(find $linted -type f)
 do
-    filename=${fpath#"$linted/"}
-    orig_fpath=$srcdir/$(cat $srcdir/files.md5 | grep $filename | cut -d' ' -f3)
-    mv $fpath $orig_fpath
-    git add $orig_fpath && git commit -m "Linted and signed off updated version of $filename"
+    filename=${filepath#"$linted/"}
+    orig_filepath=$srcdir/$(cat $srcdir/files.md5 | grep $filename | cut -d' ' -f3)
+    mv $filepath $orig_filepath
+    git add $orig_filepath && git commit -m "Linted and signed off updated version of $filename"
 done
 
 # push changes
