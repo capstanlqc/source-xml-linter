@@ -1,4 +1,4 @@
-# String substitution
+# Source XML linting
 
 This script looks for patterns or literal strings in the input files and replaces them with the corresponding text.
 
@@ -20,7 +20,7 @@ For every file, the script will:
 Clone this repo and change directory to it:
 
 ```
-gh repo clone capstanlqc/string-substitution
+gh repo clone capstanlqc/source-xml-linter
 cd source-xml-linter
 ```
 
