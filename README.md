@@ -21,7 +21,7 @@ Clone this repo and change directory to it:
 
 ```
 gh repo clone capstanlqc/string-substitution
-cd string-substitution
+cd source-xml-linter
 ```
 
 Install a virtual environment in the root folder of the repo (only once):
