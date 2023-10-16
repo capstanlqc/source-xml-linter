@@ -3,7 +3,8 @@
 
 srcdir="/home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_common/source"
 cd $srcdir
-mkdir -p 01_COS_SCI-A_N 02_COS_SCI-B_N 03_COS_SCI-C_N 04_QQS_N 05_QQA_N 06_COS_LDW_N 07_COS_XYZ_N
+# mkdir -p 01_COS_SCI-A_N 02_COS_SCI-B_N 03_COS_SCI-C_N 04_QQS_N 05_QQA_N 06_COS_LDW_N 07_COS_XYZ_N
+for dir in $(yq -r 'keys | .[]' files.yaml); do mkdir -p $dir; done
 
 # preparation (once-off)
 # gh repo clone capstanlqc/source-xml-linter

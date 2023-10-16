@@ -6,7 +6,7 @@
 # to run from anywhere, do (requires parsing argument)
 # bash /path/to/decode_entities.sh --config /path/to/entities.json
 
-repo="/home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_common_TESTS"
+repo="/home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_common"
 files="$repo/source/batch1"
 mapping="/home/souto/Repos/ACER-PISA-2025-FT/source-xml-linter/entities.json"
 
