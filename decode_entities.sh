@@ -1,14 +1,26 @@
 #!/usr/bin/env bash
 
-# cd to the folder contianing this script and entities.json, then do
-# bash decode_entities.sh
+# run as:
+# bash /path/to/decode_entities.sh -r /path/to/repo -d relative/path/to/directory -c /path/to/config
+# e.g.
+# bash $app/decode_entities.sh -r /home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_common -d source/tolint_trend -c /home/souto/Repos/ACER-PISA-2025-FT/source-xml-linter/entities.json
 
 # to run from anywhere, do (requires parsing argument)
 # bash /path/to/decode_entities.sh --config /path/to/entities.json
 
-repo="/home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_common"
-files="$repo/source/batch1"
-mapping="/home/souto/Repos/ACER-PISA-2025-FT/source-xml-linter/entities.json"
+while getopts r:d:c: flag
+do
+    case "${flag}" in
+        r) repo=${OPTARG};;
+        d) directory=${OPTARG};;
+		c) config=${OPTARG};;
+    esac
+done
+
+# repo="/home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_common"
+# mapping="/home/souto/Repos/ACER-PISA-2025-FT/source-xml-linter/entities.json"
+files="$repo/$directory"
+mapping="$config"
 
 cd $repo
 # git pull # uncomment for .git
@@ -23,7 +35,7 @@ do
 	unescaped="${entity/"&amp;"/"&"}"
 	echo "Turn into '$unescaped'"
 	# grep -Po --color $entity $files/*.xml
-	echo "Replace named entity '$entity' with character '$unescaped'"
+	echo "1. Replace named entity '$entity' with character '$unescaped'"
 	# perl -i -pe 's/"$entity"/"$unescaped"/g' $files/*.xml
 done
 
@@ -35,7 +47,7 @@ do
 	unescaped="${entity/"&amp;"/"&"}"
 	# grep -Po --color $entity $files/*.xml
 	# char="$(jq --raw-output --arg VAR $unescaped '.[$VAR].characters' $mapping)"
-	echo "Replace named entity '$entity' with character '$unescaped'"
+	echo "2. Replace named entity '$entity' with character '$unescaped'"
 	perl -i -pe "s/$entity/$unescaped/g" $files/*.xml
 done
 
@@ -47,7 +59,7 @@ do
 	grep -Pl $entity $files/*.xml | sort | uniq
 	# grep -Po --color $entity $files/*.xml
 	char="$(jq --raw-output --arg VAR $entity '.[$VAR].characters' $mapping)"
-	echo "Replace named entity '$entity' with character '$char'"
+	echo "3. Replace named entity '$entity' with character '$char'"
 	perl -i -pe "s/$entity/$char/g" $files/*.xml
 done
 
@@ -60,7 +72,7 @@ do
 	unescaped="${entity/"&amp;"/"&"}"	
 	# grep -Po --color $entity $files/*.xml
 	char="$(jq --raw-output --arg VAR $unescaped '.[$VAR].characters' $mapping)"
-	echo "Replace named entity '$entity' with character '$char'"
+	echo "4. Replace named entity '$entity' with character '$char'"
 	perl -i -pe "s/$entity/$char/g" $files/*.xml
 done
 
