@@ -86,7 +86,33 @@ options:
                         specify path to the config file containing patterns etc.
 ```
 
-A log file will be written in logs with an account of what has been done:
+There are three different config files for: 
+
+- new content
+- trend content
+- XYZ batch
+
+In practice, that means running three different commands depending on the files that need to be linted and signed off.
+
+For new content: 
+
+```
+python $app/str_subs.py -i $tolint_new -o $linted_new -c $app/config.xlsx 
+```
+
+For trend content: 
+
+```
+python $app/str_subs.py -i $tolint_trend -o $linted_trend -c $app/config_trend.xlsx 
+```
+
+For XYZ batch: 
+
+```
+python $app/str_subs.py -i $tolint_xyz -o $linted_xyz -c $app/config_xyz.xlsx 
+```
+
+A log file will be written in logs with an account of what was done.
 
 ## Backlog
 
