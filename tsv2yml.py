@@ -37,7 +37,7 @@ if args.input and args.output:
     output_fpath = args.output.rstrip('/')
 else:
     print("Some required argument not found. Run this script with `--help` for details.")
-    sys.exit()d
+    sys.exit()
 
 # ############# BUSINESS LOGIC ###########################################
 

@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# @todo: add format argument. xlf, xml, etc.
+
 # run as:
 # bash /path/to/decode_entities.sh -r /path/to/repo -d relative/path/to/directory -c /path/to/config
 # e.g.

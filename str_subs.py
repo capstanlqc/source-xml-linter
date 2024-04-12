@@ -181,6 +181,9 @@ if __name__ == "__main__":
 
         for fname in files:
 
+            if not fname.endswith(".xml") and not fname.endswith(".html"):
+                break
+
             # paths and names
             add_to_log("")
             add_to_log("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")

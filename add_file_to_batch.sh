@@ -39,16 +39,19 @@ batches="$(yq -r 'keys | .[]' $config)"
 
 for filepath in $(find $origin_parent_dir -maxdepth 1 -type f -name "*.xml")
 do
-	# echo "### $filepath ###"
+	echo "### $filepath ###"
 	filename="$(basename -- $filepath)"
-	basename=$(echo "$filename" | perl -pe 's/_[^_]+\.xml/.xml/')
-	batch=$(FILE=$basename yq '.. | select(. == env(FILE)) | parent | key' $config)
+	echo "filename=$filename"
+	basename=$(echo "$filename" | perl -pe 's/.xml//')
+	echo "basename=$basename"
+	batch=$(FILE=$filename yq '.. | select(. == env(FILE)) | parent | key' $config)
+	echo "batch=$batch"
 	# [[ "$batch" == "04_QQS_N" ]] && echo "$batch: $filename"
 
 	# if [[ "$batches" == *"$batch"* ]] && [[ "$batch" != "" ]]; then
 	if [[ ${batches[@]} =~ $batch ]] && [[ "$batch" != "" ]]; then
 	  # echo "$batch:$filename"
-	  # echo "cp $filepath $destination_parent_dir/$batch/$filename"
+	  echo "cp $filepath $destination_parent_dir/$batch/$filename"
 	  mkdir -p "$destination_parent_dir/$batch/"
 	  cp "$filepath" "$destination_parent_dir/$batch/$filename"
 	  [[ "$action" ==  "move" ]] && rm "$filepath"
