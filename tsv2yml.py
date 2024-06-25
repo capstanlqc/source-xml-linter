@@ -49,7 +49,7 @@ headers = df.columns.values.tolist()
 try:
     assert headers == ['batch', 'unit']
 except AssertionError as e:
-    print("The headers of the input TSV are not 'batch' and 'unit' as expected.")
+    print("The headers of the input TSV are not 'batch' and 'unit' separated by a tabulator as expected.")
     sys.exit()
 
 
