@@ -53,33 +53,59 @@ do
 
     # if [[ "$batches" == *"$batch"* ]] && [[ "$batch" != "" ]]; then
     if [[ ${batches[@]} =~ $batch ]] && [[ "$batch" != "" ]]; then
-      # echo "$batch:$filename"
-      mkdir -p "$destination_parent_dir/$batch/"
-      echo "cp $filepath $destination_parent_dir/$batch/$filename"
-      cp "$filepath" "$destination_parent_dir/$batch/$filename"
-      [[ "$action" ==    "move" ]] && rm "$filepath"
+        # echo "$batch:$filename"
+        mkdir -p "$destination_parent_dir/$batch/"
+        echo "cp $filepath $destination_parent_dir/$batch/$filename"
+        cp "$filepath" "$destination_parent_dir/$batch/$filename"
+        [[ "$action" ==    "move" ]] && rm "$filepath"
     fi
     echo "---"
 done
 
+exit
 log_fname="file_sync_issues.log"
 log_fpath=$destination_parent_dir/$log_fname
+echo "logging to $log_fpath"
 
+# check for batch allocation discrepancies
 for batch in $batches
 do
-		# check if $destination_parent_dir/$batch exists, if not flag it and continue
-		files_in_batch=$(yq eval ".$batch[]" "$config")
+	# check if $destination_parent_dir/$batch exists, if not flag it and continue
+    [[ -d $destination_parent_dir/$batch ]] || echo "ERROR: batch $batch not found in the common repo" && continue
+
+    # get files in batch according to config
+	files_in_batch=$(yq eval ".$batch[]" "$config")
     for filepath in $(find $destination_parent_dir/$batch -maxdepth 1 -type f)
     do
         filename="$(basename -- $filepath)"
         if ! printf "%s\n" "${files_in_batch[@]}" | grep -qx "$filename"; then
-        			batch_in_config=$(grep $filename $destination_parent_dir/files.tsv | cut -d$'\t' -f1)
-              echo "Discrepancy: file '$filename': has batch $batch in repo, but batch '$batch_in_config' in config" >> $log_fpath
+            batch_in_config=$(grep $filename $destination_parent_dir/files.tsv | cut -d$'\t' -f1)
+            echo "Discrepancy: file '$filename': has batch $batch in repo, but batch '$batch_in_config' in config" >> $log_fpath
         fi
     done
 done
 
-sed -i '/gitkeep/d' $log_fpath
-sed -i '/zz.txt/d' $log_fpath
-sed -i '/.html/d' $log_fpath
-cat $log_fpath | sort | uniq > $log_fpath
+# check for dropped files
+for batch in $batches
+do
+    # check if $destination_parent_dir/$batch exists, if not flag it and continue
+    [[ -d $destination_parent_dir/$batch ]] || echo "ERROR: batch $batch not found in the common repo" && continue
+
+    # get files in batch according to config
+    files_in_batch=$(yq eval ".$batch[]" "$config")
+    for filepath in $(find $destination_parent_dir/$batch -maxdepth 1 -type f)
+    do
+        filename="$(basename -- $filepath)"
+        echo "Look for $batch/$filename in the config"
+        if ! grep -q $filename $config
+        then
+            echo "File $filename NOT found."
+            echo "File $filename NOT found." >> $log_fpath
+        fi
+    done
+done
+
+# sed -i '/gitkeep/d' $log_fpath
+# sed -i '/zz.txt/d' $log_fpath
+# sed -i '/.html/d' $log_fpath
+# cat $log_fpath | sort | uniq > $log_fpath
