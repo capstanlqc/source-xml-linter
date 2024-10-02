@@ -110,7 +110,7 @@ In practice, that means running three different commands depending on the files 
 For new content: 
 
 ```
-python $app/str_subs.py -i $tolint_new -o $linted_new -c $app/config.xlsx 
+python $app/str_subs.py -i $tolint_new -o $linted_new -c $app/config_new.xlsx 
 ```
 
 For trend content: 
