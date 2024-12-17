@@ -46,4 +46,14 @@ $venv_python $app_root/tsv2yml.py -i $source/files.tsv -o $source/files.yaml
 dom="new"
 $venv_python $app_root/str_subs.py -i $source/tolint_${dom} -o $source/linted -c $app_root/config_${dom}.xlsx
 
+dom="trend"
+# $venv_python $app_root/str_subs.py -i $source/tolint_${dom} -o $source/linted -c $app_root/config_${dom}.xlsx
+
+dom="xyz"
+# $venv_python $app_root/str_subs.py -i $source/tolint_${dom} -o $source/linted -c $app_root/config_${dom}.xlsx
+
 bash $app_root/add_file_to_batch.sh -a copy -c $source/files.yaml -o $source/linted -d $source
+
+# check sync
+# for file in $(find 23_COSP_MAT-A_T -name "*.xml" | cut -d"/" -f2); do if ! grep -q "$file" files.tsv; then echo "$file not found"; fi; done
+bash check_files_sync.sh -d $source -c $source/files.yaml

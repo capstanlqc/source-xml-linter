@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 # run as:
-# bash /path/to/add_file_to_batch.sh.sh -o /path/to/orig/dir -d /path/to/dest/dir -c /path/to/config
+# bash /path/to/check_files_sync.sh -o /path/to/orig/dir -d /path/to/dest/dir -c /path/to/config.yaml
 # e.g. 
-# bash add_file_to_batch.sh -a move -o /home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_es-CR_prepare-files/target -d /home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_es-CR_prepare-files/target_fixed -c $config_yml
+# bash check_files_sync.sh -a move -o /home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_es-CR_prepare-files/target -d /home/souto/Repos/ACER-PISA-2025-FT/pisa_2025ft_translation_es-CR_prepare-files/target_fixed -c $config_yml
 
 while getopts a:c:o:d: flag
 do
@@ -17,7 +17,7 @@ done
 [[ -z $config ]] || [[ -z $directory ]] && echo "
 ERROR: Some parameters are missing.
 
-usage: add_file_to_batch.sh [-c CONFIG] [-d DIRECTORY]
+usage: check_files_sync.sh [-c CONFIG] [-d DIRECTORY]
 
 Looks for mismatches between the batches-units config file and the folders/files in the common repository.
 
