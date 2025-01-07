@@ -56,4 +56,4 @@ bash $app_root/add_file_to_batch.sh -a copy -c $source/files.yaml -o $source/lin
 
 # check sync
 # for file in $(find 23_COSP_MAT-A_T -name "*.xml" | cut -d"/" -f2); do if ! grep -q "$file" files.tsv; then echo "$file not found"; fi; done
-bash check_files_sync.sh -d $source -c $source/files.yaml
+bash $app_root/check_files_sync.sh -d $source -c $source/files.yaml
